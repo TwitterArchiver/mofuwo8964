@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2078905815067685314",
+    "created_at": "2026-07-19T18:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T19:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078905815067685314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akui1121/statu…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/akui1121/status/2078835720660377888",
+          "start": 66,
+          "url": "https://t.co/3QHI5refXx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078905815067685314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078835720660377888",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁知道这人咋了，，，？？一会儿说自己是调侃一会儿是说反讽，人家受害者的创伤事件能用来玩梗反串真乃神人😅情商和读空气能力无限趋近于零 https://t.co/3QHI5refXx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2078905815067685314",
+        "created_at": "2026-07-19T18:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078905815067685314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akui1121/statu…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/akui1121/status/2078835720660377888",
+              "start": 66,
+              "url": "https://t.co/3QHI5refXx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078905815067685314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078835720660377888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁知道这人咋了，，，？？一会儿说自己是调侃一会儿是说反讽，人家受害者的创伤事件能用来玩梗反串真乃神人😅情商和读空气能力无限趋近于零 https://t.co/3QHI5refXx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828008363273388032",
+        "conversation_id": "2078785081972518976",
+        "created_at": "2026-07-19T13:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078835720660377888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "bp01110526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078835720660377888",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078785081972518976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bp01110526 我要是真想我干嘛说，本来是反讽的，没想到风向歪了全都跟着骂，你开心就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3167,
+          "following_count": 1013,
+          "like_count": 4425,
+          "listed_count": 3,
+          "media_count": 248,
+          "tweet_count": 3491
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "你知道乌托邦吗，是存在的🥰 🚪120不接推广，致歉，你喜欢僵尸嘛？什么？我是男生！？机车！理想？！我会有自己的家🚬纯享推 @jiangshi1121 咪@1965chich ，干妹妹@tammy3763",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "1965chich"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "tammy3763"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "2022155627494265173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078010052154425344/8l9PlYF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28087,
+          "following_count": 1220,
+          "like_count": 21672,
+          "listed_count": 80,
+          "media_count": 1319,
+          "tweet_count": 15973
+        },
+        "url": "",
+        "username": "akui1121",
+        "verified": true
+      }
+    ]
+  }
+}

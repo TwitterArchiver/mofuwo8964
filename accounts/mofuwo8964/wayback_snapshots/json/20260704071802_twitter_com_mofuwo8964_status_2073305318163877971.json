@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2073305318163877971",
+    "created_at": "2026-07-04T07:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T08:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073305318163877971"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073305318163877971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我现在心情很是不好 因为我特别想兜售我的手作低卡料理 因为一次买的食材太多了我又是一个人吃不了这么多，而且我做的饭不保证味道（虽然我和同住人都觉得很好吃）不保证一切但保证低卡安全和营养均衡 膳食纤维蛋白质碳水都有 但是同住人走了之后我还是要思考多出来的食材怎么办 而且我真卖的话这算是无证经营吧 所以可能也就只能跟同学朋友啥的私下流通一下 可是我又上哪找愿意吃这种饭的人啊"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在心情很是不好 因为我特别想兜售我的手作低卡料理 因为一次买的食材太多了我又是一个人吃不了这么多，而且我做的饭不保证味道（虽然我和同住人都觉得很好吃）不保证一切但保证低卡安全和营养均衡 膳食纤维蛋白质碳水都有 但是同住人走了之后我还是要思考多出来的食材怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2073305318163877971",
+        "created_at": "2026-07-04T07:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073305318163877971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073305318163877971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我现在心情很是不好 因为我特别想兜售我的手作低卡料理 因为一次买的食材太多了我又是一个人吃不了这么多，而且我做的饭不保证味道（虽然我和同住人都觉得很好吃）不保证一切但保证低卡安全和营养均衡 膳食纤维蛋白质碳水都有 但是同住人走了之后我还是要思考多出来的食材怎么办 而且我真卖的话这算是无证经营吧 所以可能也就只能跟同学朋友啥的私下流通一下 可是我又上哪找愿意吃这种饭的人啊"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在心情很是不好 因为我特别想兜售我的手作低卡料理 因为一次买的食材太多了我又是一个人吃不了这么多，而且我做的饭不保证味道（虽然我和同住人都觉得很好吃）不保证一切但保证低卡安全和营养均衡 膳食纤维蛋白质碳水都有 但是同住人走了之后我还是要思考多出来的食材怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3166,
+          "following_count": 1014,
+          "like_count": 4350,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 3426
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067293129431302580",
+    "created_at": "2026-06-17T17:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067293129431302580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 124,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2067289351613211050",
+          "start": 101,
+          "url": "https://t.co/uCmyrY4top"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067293129431302580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067289351613211050",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很欢迎私信啊 这个傻逼哪来的脸说我丑 我跟他三四个共友对他的评价全都是一水的“傻逼”“抠搜男”“丑逼”然后这傻逼还特别喜欢造人黄谣 之前给他过生日送了他生日礼物 结果陪他去游乐园还让我自己掏钱 笑死了 https://t.co/uCmyrY4top"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067293129431302580",
+        "created_at": "2026-06-17T17:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067293129431302580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2067289351613211050",
+              "start": 101,
+              "url": "https://t.co/uCmyrY4top"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067293129431302580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067289351613211050",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很欢迎私信啊 这个傻逼哪来的脸说我丑 我跟他三四个共友对他的评价全都是一水的“傻逼”“抠搜男”“丑逼”然后这傻逼还特别喜欢造人黄谣 之前给他过生日送了他生日礼物 结果陪他去游乐园还让我自己掏钱 笑死了 https://t.co/uCmyrY4top"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067289351613211050",
+        "created_at": "2026-06-17T16:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067289351613211050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067289351613211050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝168 65kg的时候前男友老说我肥猪 然后我对他真心挺好的我感觉 分手之后在推特说我丑 但我觉得特别搞笑 想看我跟他原图无p照片的可以私信我 他长这样说我丑真的特别搞笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3110,
+          "following_count": 984,
+          "like_count": 3971,
+          "listed_count": 6,
+          "media_count": 228,
+          "tweet_count": 3156
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

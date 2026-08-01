@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2072253380744090034",
+    "created_at": "2026-07-02T15:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072702140112679391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1170514701496668160",
+          "start": 0,
+          "username": "Hungry_Humble11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072702140112679391",
+    "in_reply_to_user_id": "1170514701496668160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072253380744090034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hungry_Humble11 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2072253380744090034",
+        "created_at": "2026-07-02T15:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072702140112679391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1170514701496668160",
+              "start": 0,
+              "username": "Hungry_Humble11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072702140112679391",
+        "in_reply_to_user_id": "1170514701496668160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072253380744090034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hungry_Humble11 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1170514701496668160",
+        "conversation_id": "2072253380744090034",
+        "created_at": "2026-07-01T09:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072253380744090034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072253380744090034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "铁拳教育好看😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 1013,
+          "like_count": 4329,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 3415
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-08T01:50:34.000Z",
+        "description": "平行线不应该有交点。",
+        "id": "1170514701496668160",
+        "name": "圆",
+        "pinned_tweet_id": "1999486720321130796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831382546233614336/MraiSf68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 379,
+          "like_count": 4314,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1437
+        },
+        "url": "",
+        "username": "Hungry_Humble11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2053371954359611820",
+    "created_at": "2026-05-10T13:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T14:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053463557208146278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1462832025606311938",
+          "start": 0,
+          "username": "StevenGanGan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053463557208146278",
+    "in_reply_to_user_id": "1462832025606311938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053459042979500474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StevenGanGan 哇你发的这个感觉好有意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2053371954359611820",
+        "created_at": "2026-05-10T13:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053463557208146278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1462832025606311938",
+              "start": 0,
+              "username": "StevenGanGan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053463557208146278",
+        "in_reply_to_user_id": "1462832025606311938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053459042979500474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StevenGanGan 哇你发的这个感觉好有意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462832025606311938",
+        "conversation_id": "2053371954359611820",
+        "created_at": "2026-05-10T12:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053459042979500474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/stevengangan/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/stevengangan/status/1495008261845950476",
+              "start": 43,
+              "url": "https://t.co/npyivJHaQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053459042979500474",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1495008261845950476",
+            "type": "quoted"
+          },
+          {
+            "id": "2053371954359611820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 我在日本长途旅游一般是陆续在车上睡，过1天，然后酒店睡1晚。 https://t.co/npyivJHaQ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2814,
+          "following_count": 883,
+          "like_count": 3525,
+          "listed_count": 6,
+          "media_count": 183,
+          "tweet_count": 2663
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-22T17:15:18.000Z",
+        "description": "不能脱离低级趣味的庸俗媚俗低俗的生火腿。",
+        "id": "1462832025606311938",
+        "location": "俗纬空间",
+        "name": "Wǒ Bù Fǎn Sān Sú",
+        "pinned_tweet_id": "1495008261845950476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869207843234357248/X-16_CyS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 275,
+          "like_count": 162390,
+          "listed_count": 5,
+          "media_count": 1159,
+          "tweet_count": 14263
+        },
+        "username": "StevenGanGan",
+        "verified": false
+      }
+    ]
+  }
+}

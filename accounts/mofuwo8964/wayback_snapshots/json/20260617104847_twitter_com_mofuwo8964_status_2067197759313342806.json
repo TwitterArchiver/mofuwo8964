@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067197759313342806",
+    "created_at": "2026-06-17T10:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067197759313342806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2067197033841332636",
+          "start": 22,
+          "url": "https://t.co/ChfZd9Um3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067197759313342806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067197033841332636",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发挥太不稳定了，精神病把我害了。我好可怜 https://t.co/ChfZd9Um3l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067197759313342806",
+        "created_at": "2026-06-17T10:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067197759313342806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2067197033841332636",
+              "start": 22,
+              "url": "https://t.co/ChfZd9Um3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067197759313342806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067197033841332636",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发挥太不稳定了，精神病把我害了。我好可怜 https://t.co/ChfZd9Um3l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067197033841332636",
+        "created_at": "2026-06-17T10:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067197033841332636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067197033841332636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想出同志社但肯定考不上，年底加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3109,
+          "following_count": 984,
+          "like_count": 3972,
+          "listed_count": 6,
+          "media_count": 227,
+          "tweet_count": 3134
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

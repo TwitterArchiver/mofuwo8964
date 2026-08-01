@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2047217028696625256",
+    "created_at": "2026-04-23T15:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047343466712359265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "wkJisbkkk0827"
+        },
+        {
+          "end": 26,
+          "id": "1961425958277373952",
+          "start": 15,
+          "username": "i_make_hat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047343466712359265",
+    "in_reply_to_user_id": "1859117911119720448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047247187164479932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wkJisbkkk0827 @i_make_hat 你伤害到我这个日本出身的山东人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2047217028696625256",
+        "created_at": "2026-04-23T15:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047343466712359265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "wkJisbkkk0827"
+            },
+            {
+              "end": 26,
+              "id": "1961425958277373952",
+              "start": 15,
+              "username": "i_make_hat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047343466712359265",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047247187164479932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wkJisbkkk0827 @i_make_hat 你伤害到我这个日本出身的山东人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859117911119720448",
+        "conversation_id": "2047217028696625256",
+        "created_at": "2026-04-23T09:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047247187164479932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1961425958277373952",
+              "start": 0,
+              "username": "i_make_hat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047247187164479932",
+        "in_reply_to_user_id": "1961425958277373952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047217028696625256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i_make_hat 我觉得都是垃圾行为（无慈悲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2695,
+          "following_count": 866,
+          "like_count": 3155,
+          "listed_count": 6,
+          "media_count": 170,
+          "tweet_count": 2434
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "",
+        "id": "1859117911119720448",
+        "location": "日本 東京",
+        "name": "bp",
+        "pinned_tweet_id": "1860271173894045968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015743113537765376/MIqvsoh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 82,
+          "like_count": 3811,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 2700
+        },
+        "username": "wkJisbkkk0827",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T13:49:33.000Z",
+        "description": "ダメ元でも一度焼き饅頭をケバブ風に調味してみなさい",
+        "id": "1961425958277373952",
+        "location": "埼玉の山奥",
+        "name": "劉喃喃",
+        "pinned_tweet_id": "2009230579519422718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006409337653309443/x4oV5msk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 100,
+          "like_count": 6049,
+          "listed_count": 6,
+          "media_count": 114,
+          "tweet_count": 903
+        },
+        "username": "i_make_hat",
+        "verified": true
+      }
+    ]
+  }
+}

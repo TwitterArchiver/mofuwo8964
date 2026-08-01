@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2073123601059021040",
+    "created_at": "2026-07-03T19:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T20:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073123601059021040"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073123601059021040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "今天发生了一件非常闹麻的事情。\n\n前提是这两天我的精神状态非常差，昨天甚至半夜开始尖叫，且最近作息不规律；今天半夜饿醒了，出门急没戴眼镜。\n到了三点我去便利店买冰棍吃，在我回家的路上忽然碰见一个穿着乱七八糟的人一直向我走来，而且摇摇晃晃的，我快吓死了都攥紧了手机打算防身了，还搜索了一下周围环境的武器。结果细看才发现是家里那位。\n我很懵，我说你出来干嘛？他说他要被吓死了，大半夜起床发现我不在，厕所里也没有人；给我打qq电话也不接（因为我开了勿扰模式➕静音），看了一眼位置发现我人在某个很高的河川旁边（因为便利店就在旁边啊）然后就吓得随便穿了穿衣服就出来了。就这样误会了，然后我就把我的ガリガリ君分给了他一口。\n唉真是自己吓自己。。。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天发生了一件非常闹麻的事情。\n\n前提是这两天我的精神状态非常差，昨天甚至半夜开始尖叫，且最近作息不规律；今天半夜饿醒了，出门急没戴眼镜。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2073123601059021040",
+        "created_at": "2026-07-03T19:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073123601059021040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073123601059021040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天发生了一件非常闹麻的事情。\n\n前提是这两天我的精神状态非常差，昨天甚至半夜开始尖叫，且最近作息不规律；今天半夜饿醒了，出门急没戴眼镜。\n到了三点我去便利店买冰棍吃，在我回家的路上忽然碰见一个穿着乱七八糟的人一直向我走来，而且摇摇晃晃的，我快吓死了都攥紧了手机打算防身了，还搜索了一下周围环境的武器。结果细看才发现是家里那位。\n我很懵，我说你出来干嘛？他说他要被吓死了，大半夜起床发现我不在，厕所里也没有人；给我打qq电话也不接（因为我开了勿扰模式➕静音），看了一眼位置发现我人在某个很高的河川旁边（因为便利店就在旁边啊）然后就吓得随便穿了穿衣服就出来了。就这样误会了，然后我就把我的ガリガリ君分给了他一口。\n唉真是自己吓自己。。。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天发生了一件非常闹麻的事情。\n\n前提是这两天我的精神状态非常差，昨天甚至半夜开始尖叫，且最近作息不规律；今天半夜饿醒了，出门急没戴眼镜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3167,
+          "following_count": 1014,
+          "like_count": 4350,
+          "listed_count": 6,
+          "media_count": 234,
+          "tweet_count": 3425
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

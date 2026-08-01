@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2065748121020465618",
+    "created_at": "2026-06-13T10:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065748121020465618"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065748121020465618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为我的名是日本比较有名的姓氏，所以我现在为了方便日本人喊就直接在各种地方写名字训读的读音了…已经不止一次有人叫我⭕️⭕️⭕️さん了但那个真的是我的名不是我的姓氏啊🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2065748121020465618",
+        "created_at": "2026-06-13T10:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065748121020465618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065748121020465618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为我的名是日本比较有名的姓氏，所以我现在为了方便日本人喊就直接在各种地方写名字训读的读音了…已经不止一次有人叫我⭕️⭕️⭕️さん了但那个真的是我的名不是我的姓氏啊🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと 愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "バツバツつちゃん",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3018,
+          "following_count": 940,
+          "like_count": 3867,
+          "listed_count": 7,
+          "media_count": 213,
+          "tweet_count": 3029
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

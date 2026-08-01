@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044228978005946473",
+    "created_at": "2026-04-15T01:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T02:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044230115434082638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "wkJisbkkk0827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044230115434082638",
+    "in_reply_to_user_id": "1859117911119720448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044229984995479731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wkJisbkkk0827 没人和我去，我听不懂台湾话也看不懂繁体字好害怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044228978005946473",
+        "created_at": "2026-04-15T01:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044230115434082638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "wkJisbkkk0827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044230115434082638",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044229984995479731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wkJisbkkk0827 没人和我去，我听不懂台湾话也看不懂繁体字好害怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859117911119720448",
+        "conversation_id": "2044228978005946473",
+        "created_at": "2026-04-15T01:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044229984995479731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044229984995479731",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044228978005946473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 在留更新后可以申请再去一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2634,
+          "following_count": 851,
+          "like_count": 2951,
+          "listed_count": 5,
+          "media_count": 157,
+          "tweet_count": 2262
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "",
+        "id": "1859117911119720448",
+        "location": "日本 東京",
+        "name": "bp",
+        "pinned_tweet_id": "1860271173894045968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015743113537765376/MIqvsoh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 79,
+          "like_count": 3751,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 2677
+        },
+        "username": "wkJisbkkk0827",
+        "verified": false
+      }
+    ]
+  }
+}

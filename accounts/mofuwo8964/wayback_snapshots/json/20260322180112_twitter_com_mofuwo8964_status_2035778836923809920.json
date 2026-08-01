@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2035778836923809920",
+    "created_at": "2026-03-22T18:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T19:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035778836923809920"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/delaynomore64/…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/delaynomore64/status/2035681135343366184",
+          "start": 53,
+          "url": "https://t.co/yCDjXHUWG5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035778836923809920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035681135343366184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实（中国语）我之前读过相关的资料，日本人点头也大概是说“我了解你的想法了”而不是真的肯定你观点的意思（ https://t.co/yCDjXHUWG5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2035778836923809920",
+        "created_at": "2026-03-22T18:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T19:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035778836923809920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/delaynomore64/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/delaynomore64/status/2035681135343366184",
+              "start": 53,
+              "url": "https://t.co/yCDjXHUWG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035778836923809920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035681135343366184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实（中国语）我之前读过相关的资料，日本人点头也大概是说“我了解你的想法了”而不是真的肯定你观点的意思（ https://t.co/yCDjXHUWG5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426789547954737153",
+        "conversation_id": "2035681135343366184",
+        "created_at": "2026-03-22T11:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035681135343366184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035681135343366184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15100,
+          "like_count": 169,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "如果一个中文使用者说确实，那他确实在认同你的观点\n如果一个日本人说确实，那他下一秒就要否定你的观点了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜价值观扭曲但是那咋了｜需要互fo可以私信有时候不看小铃铛｜我真的有精神障碍饶了我吧！",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2597,
+          "following_count": 826,
+          "like_count": 2696,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 1905
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-15T06:19:30.000Z",
+        "description": "一蕉羞貍貔.Bot  粉红勿扰 | Centrist  视奸者冚家富贵 | TG讨论组/频道/私信 https://t.co/zCJwDqXiJw | 翻墙推荐 迷雾通: https://t.co/RGAYSqXuAW |",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HachimiNeko",
+                "end": 73,
+                "expanded_url": "https://t.me/HachimiNeko",
+                "start": 50,
+                "url": "https://t.co/zCJwDqXiJw"
+              },
+              {
+                "display_url": "geph.io",
+                "end": 109,
+                "expanded_url": "https://geph.io",
+                "start": 86,
+                "url": "https://t.co/RGAYSqXuAW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HachimiCat",
+                "end": 23,
+                "expanded_url": "https://t.me/HachimiCat",
+                "start": 0,
+                "url": "https://t.co/cYGMU1qx8q"
+              }
+            ]
+          }
+        },
+        "id": "1426789547954737153",
+        "location": "Korea",
+        "name": "Bocchi 🇳🇴🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984884818459668480/7dVaqsuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42844,
+          "following_count": 958,
+          "like_count": 33179,
+          "listed_count": 163,
+          "media_count": 2528,
+          "tweet_count": 19193
+        },
+        "url": "https://t.co/cYGMU1qx8q",
+        "username": "DelayNoMore64",
+        "verified": false
+      }
+    ]
+  }
+}

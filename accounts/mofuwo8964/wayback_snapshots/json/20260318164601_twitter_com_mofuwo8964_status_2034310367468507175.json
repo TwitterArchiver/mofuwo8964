@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2034310367468507175",
+    "created_at": "2026-03-18T16:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T17:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034310367468507175"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034310367468507175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不太爱双取别人，特别是经常刷到的互关。个人性格原因不太爱和别人互动但是看到别人发的东西会很开心，我们是因为那么那么多一样的地方才在互联网上认识，我不想因为一点观点不合的地方就此别过了😞\n\n所以看到我不认可的观点/态度我一般会装瞎，对别人宽容一点也是对自己的慈悲吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2034310367468507175",
+        "created_at": "2026-03-18T16:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034310367468507175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034310367468507175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不太爱双取别人，特别是经常刷到的互关。个人性格原因不太爱和别人互动但是看到别人发的东西会很开心，我们是因为那么那么多一样的地方才在互联网上认识，我不想因为一点观点不合的地方就此别过了😞\n\n所以看到我不认可的观点/态度我一般会装瞎，对别人宽容一点也是对自己的慈悲吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033525613815078912/hjH8ZhYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2575,
+          "following_count": 826,
+          "like_count": 2654,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 1829
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

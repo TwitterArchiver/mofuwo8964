@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2068189001471955313",
+    "created_at": "2026-06-20T04:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T05:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068189001471955313"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068189001471955313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还是相当喜欢中文互联网的，墙内互联网其实也相当有意思啊。因为其实我刷到的很多中国人并不蠢，而且由于墙国独特的审核制度催生出了一批善于寻章摘句含沙射影旁敲侧击借古讽今的网友，还制造了独特的花名机制，有时候那种会心一笑之感让我觉得作为中文母语者还是很幸福的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068189001471955313",
+        "created_at": "2026-06-20T04:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068189001471955313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068189001471955313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是相当喜欢中文互联网的，墙内互联网其实也相当有意思啊。因为其实我刷到的很多中国人并不蠢，而且由于墙国独特的审核制度催生出了一批善于寻章摘句含沙射影旁敲侧击借古讽今的网友，还制造了独特的花名机制，有时候那种会心一笑之感让我觉得作为中文母语者还是很幸福的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3117,
+          "following_count": 985,
+          "like_count": 4062,
+          "listed_count": 6,
+          "media_count": 231,
+          "tweet_count": 3250
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

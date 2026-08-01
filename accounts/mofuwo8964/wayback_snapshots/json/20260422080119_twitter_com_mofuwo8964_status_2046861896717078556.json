@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2046726622607446328",
+    "created_at": "2026-04-22T08:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T09:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046861896717078556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1966745903055990786",
+          "start": 0,
+          "username": "eggtartqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046861896717078556",
+    "in_reply_to_user_id": "1966745903055990786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046812448536350779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eggtartqwq 你不是在神户吗！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2046726622607446328",
+        "created_at": "2026-04-22T08:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046861896717078556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1966745903055990786",
+              "start": 0,
+              "username": "eggtartqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046861896717078556",
+        "in_reply_to_user_id": "1966745903055990786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046812448536350779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eggtartqwq 你不是在神户吗！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966745903055990786",
+        "conversation_id": "2046726622607446328",
+        "created_at": "2026-04-22T04:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046812448536350779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046812448536350779",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046726622607446328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 看看我！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2695,
+          "following_count": 865,
+          "like_count": 3136,
+          "listed_count": 6,
+          "media_count": 169,
+          "tweet_count": 2417
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-13T06:09:08.000Z",
+        "description": "老广未开智家里蹲，爱好音乐摄影。",
+        "id": "1966745903055990786",
+        "location": "茶楼",
+        "name": "樱川九十九",
+        "pinned_tweet_id": "2035818956876026057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045054851294638080/Gu0wbHMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 688,
+          "like_count": 8307,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 787
+        },
+        "username": "eggtartqwq",
+        "verified": true
+      }
+    ]
+  }
+}

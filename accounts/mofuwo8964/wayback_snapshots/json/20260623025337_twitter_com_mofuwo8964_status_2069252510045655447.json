@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069252502495932416"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2069252510045655447",
+    "created_at": "2026-06-23T02:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069252510045655447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ftQfCSLA2Z",
+          "end": 29,
+          "expanded_url": "https://x.com/mofuwo8964/status/2069252510045655447/photo/1",
+          "media_key": "3_2069252502495932416",
+          "start": 6,
+          "url": "https://t.co/ftQfCSLA2Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069252510045655447",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日最搞笑 https://t.co/ftQfCSLA2Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 814,
+        "media_key": "3_2069252502495932416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLd2MAnbsAA1lLc.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069252502495932416"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2069252510045655447",
+        "created_at": "2026-06-23T02:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069252510045655447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftQfCSLA2Z",
+              "end": 29,
+              "expanded_url": "https://x.com/mofuwo8964/status/2069252510045655447/photo/1",
+              "media_key": "3_2069252502495932416",
+              "start": 6,
+              "url": "https://t.co/ftQfCSLA2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069252510045655447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日最搞笑 https://t.co/ftQfCSLA2Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3156,
+          "following_count": 993,
+          "like_count": 4148,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 3333
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

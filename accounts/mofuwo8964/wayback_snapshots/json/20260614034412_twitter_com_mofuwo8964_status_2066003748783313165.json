@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065770133432520704"
+      ],
+      "media_source_tweet_id": [
+        "2065770180198982027"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2066003748783313165",
+    "created_at": "2026-06-14T03:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066003748783313165"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 19,
+          "tag": "きたない君がいちばんかわいい"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "きたかわ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1393471785471942656",
+          "start": 3,
+          "username": "Fox_Kikumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RefQdVf68y",
+          "end": 65,
+          "expanded_url": "https://x.com/Fox_Kikumi/status/2065770180198982027/photo/1",
+          "media_key": "3_2065770133432520704",
+          "start": 42,
+          "url": "https://t.co/RefQdVf68y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066003748783313165",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 510
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065770180198982027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fox_Kikumi: 💖 [#きたない君がいちばんかわいい #きたかわ] https://t.co/RefQdVf68y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065770133432520704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsW_c7bUAAAzuT.jpg",
+        "width": 746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065770133432520704"
+          ],
+          "media_source_tweet_id": [
+            "2065770180198982027"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066003748783313165",
+        "created_at": "2026-06-14T03:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066003748783313165"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 19,
+              "tag": "きたない君がいちばんかわいい"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "きたかわ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1393471785471942656",
+              "start": 3,
+              "username": "Fox_Kikumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RefQdVf68y",
+              "end": 65,
+              "expanded_url": "https://x.com/Fox_Kikumi/status/2065770180198982027/photo/1",
+              "media_key": "3_2065770133432520704",
+              "start": 42,
+              "url": "https://t.co/RefQdVf68y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066003748783313165",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 510
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065770180198982027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fox_Kikumi: 💖 [#きたない君がいちばんかわいい #きたかわ] https://t.co/RefQdVf68y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065770133432520704"
+          ]
+        },
+        "author_id": "1393471785471942656",
+        "conversation_id": "2065770180198982027",
+        "created_at": "2026-06-13T12:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065770180198982027"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 3,
+              "tag": "きたない君がいちばんかわいい"
+            },
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "きたかわ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RefQdVf68y",
+              "end": 49,
+              "expanded_url": "https://x.com/Fox_Kikumi/status/2065770180198982027/photo/1",
+              "media_key": "3_2065770133432520704",
+              "start": 26,
+              "url": "https://t.co/RefQdVf68y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065770180198982027",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 20365,
+          "like_count": 2090,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 510
+        },
+        "reply_settings": "everyone",
+        "text": "💖 [#きたない君がいちばんかわいい #きたかわ] https://t.co/RefQdVf68y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと 愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "バツバツつちゃん",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3038,
+          "following_count": 955,
+          "like_count": 3876,
+          "listed_count": 6,
+          "media_count": 214,
+          "tweet_count": 3037
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T07:42:30.000Z",
+        "description": "#苦米 /Kumi￤🎨 Illustration & Animation￤中文￤依赖于翻译器￤联络📩foxkikumi@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "苦米"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/HfKKMSw",
+                "end": 23,
+                "expanded_url": "https://b23.tv/HfKKMSw",
+                "start": 0,
+                "url": "https://t.co/adZh2cyd96"
+              }
+            ]
+          }
+        },
+        "id": "1393471785471942656",
+        "location": "(´,,•ω•,,)  bilibili➡️",
+        "name": "苦米🩵Fox-Kikumi",
+        "pinned_tweet_id": "1829182660385886650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045708311782453248/dWqKOUXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9164,
+          "following_count": 985,
+          "like_count": 20252,
+          "listed_count": 43,
+          "media_count": 494,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/adZh2cyd96",
+        "username": "Fox_Kikumi",
+        "verified": false
+      }
+    ]
+  }
+}

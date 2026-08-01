@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072312956772327424"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2072299365411225809",
+    "created_at": "2026-07-01T13:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072312960853156080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937594393772589058",
+          "start": 0,
+          "username": "Private_plot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DjJ4yInE5Z",
+          "end": 50,
+          "expanded_url": "https://x.com/mofuwo8964/status/2072312960853156080/photo/1",
+          "media_key": "3_2072312956772327424",
+          "start": 27,
+          "url": "https://t.co/DjJ4yInE5Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072312960853156080",
+    "in_reply_to_user_id": "1937594393772589058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072299365411225809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Private_plot 也是某种基本盘😇来自微博 https://t.co/DjJ4yInE5Z"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2072299365411225809].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2072299365411225809",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2072299365411225809"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 983,
+        "media_key": "3_2072312956772327424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJVp5PaoAAsJGh.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072312956772327424"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2072299365411225809",
+        "created_at": "2026-07-01T13:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072312960853156080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937594393772589058",
+              "start": 0,
+              "username": "Private_plot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DjJ4yInE5Z",
+              "end": 50,
+              "expanded_url": "https://x.com/mofuwo8964/status/2072312960853156080/photo/1",
+              "media_key": "3_2072312956772327424",
+              "start": 27,
+              "url": "https://t.co/DjJ4yInE5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072312960853156080",
+        "in_reply_to_user_id": "1937594393772589058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072299365411225809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Private_plot 也是某种基本盘😇来自微博 https://t.co/DjJ4yInE5Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3170,
+          "following_count": 1012,
+          "like_count": 4326,
+          "listed_count": 6,
+          "media_count": 231,
+          "tweet_count": 3404
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-24T19:32:41.000Z",
+        "description": "一切都是个人的，主观的，不媚女的，不媚男的，不厌男的，不厌女的，不崆峒的，不mtf的，不lgbtq的，但一定要born this way的。主人-@N0rthern_Land-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "N0rthern_Land"
+              }
+            ]
+          }
+        },
+        "id": "1937594393772589058",
+        "name": "自留地",
+        "pinned_tweet_id": "2057715048764801135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947580324973875200/oEhjJur4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 424,
+          "like_count": 12627,
+          "listed_count": 10,
+          "media_count": 320,
+          "tweet_count": 4269
+        },
+        "url": "",
+        "username": "Private_plot",
+        "verified": true
+      }
+    ]
+  }
+}

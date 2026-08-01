@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2069037683410911596",
+    "created_at": "2026-06-22T12:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069039357282099333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "wkJisbkkk0827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069039357282099333",
+    "in_reply_to_user_id": "1859117911119720448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069037683410911596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wkJisbkkk0827 喜欢我march下位的大指点吗嗯啊❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2069037683410911596",
+        "created_at": "2026-06-22T12:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069039357282099333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "wkJisbkkk0827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069039357282099333",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069037683410911596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wkJisbkkk0827 喜欢我march下位的大指点吗嗯啊❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859117911119720448",
+        "conversation_id": "2069037683410911596",
+        "created_at": "2026-06-22T12:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069037683410911596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069037683410911596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气笑了 n1 118的人怎么还敢觉得自己很牛啊xdddddd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3148,
+          "following_count": 992,
+          "like_count": 4130,
+          "listed_count": 6,
+          "media_count": 235,
+          "tweet_count": 3301
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "",
+        "id": "1859117911119720448",
+        "location": "日本 東京",
+        "name": "枫糖小豹 全日本🉑✈️",
+        "pinned_tweet_id": "2068055875265405084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 79,
+          "like_count": 4433,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 3080
+        },
+        "url": "",
+        "username": "wkJisbkkk0827",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067916433355596030",
+    "created_at": "2026-06-19T10:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067916696539791571"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067916696539791571",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067916433355596030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "元カレ本人はもう結構です。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067916433355596030",
+        "created_at": "2026-06-19T10:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067916696539791571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067916696539791571",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067916433355596030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "元カレ本人はもう結構です。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067916433355596030",
+        "created_at": "2026-06-19T10:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067916433355596030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2067908667282960829",
+              "start": 46,
+              "url": "https://t.co/O6Kb79iqoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067916433355596030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067908667282960829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "元カレのち〇ぽちゃん...もう一度...帰ってきて...一回だけも、、帰ってくれないか。。 https://t.co/O6Kb79iqoi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3113,
+          "following_count": 984,
+          "like_count": 4055,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 3215
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

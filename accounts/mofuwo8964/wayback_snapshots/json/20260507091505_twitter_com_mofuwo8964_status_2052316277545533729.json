@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2052077415799914767",
+    "created_at": "2026-05-07T09:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052316277545533729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1692188919750856704",
+          "start": 0,
+          "username": "eiruneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052316277545533729",
+    "in_reply_to_user_id": "1692188919750856704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052311218434838932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eiruneko 封直播间才是目的 气死我了！哪里都能遇见老中在那里举着手机直播直播直播拍拍拍烦死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2052077415799914767",
+        "created_at": "2026-05-07T09:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052316277545533729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692188919750856704",
+              "start": 0,
+              "username": "eiruneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052316277545533729",
+        "in_reply_to_user_id": "1692188919750856704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052311218434838932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eiruneko 封直播间才是目的 气死我了！哪里都能遇见老中在那里举着手机直播直播直播拍拍拍烦死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692188919750856704",
+        "conversation_id": "2052077415799914767",
+        "created_at": "2026-05-07T08:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052311218434838932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052311218434838932",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052077415799914767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 直接起手就是くそ外国人帰れ！\n开玩笑的 这种人在新大久保挺多的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2801,
+          "following_count": 876,
+          "like_count": 3452,
+          "listed_count": 6,
+          "media_count": 177,
+          "tweet_count": 2611
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-17T14:57:42.000Z",
+        "description": "",
+        "id": "1692188919750856704",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "ネコネコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046843445600489472/ye6tumAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 57,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 15
+        },
+        "username": "eiruneko",
+        "verified": false
+      }
+    ]
+  }
+}

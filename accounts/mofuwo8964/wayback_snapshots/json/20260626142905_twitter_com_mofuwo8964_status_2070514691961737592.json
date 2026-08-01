@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2070473825511444647",
+    "created_at": "2026-06-26T14:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T15:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070514691961737592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1326496203547181056",
+          "start": 0,
+          "username": "Kevinlove886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070514691961737592",
+    "in_reply_to_user_id": "1326496203547181056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070513330486468791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kevinlove886 黄豆酱得劲儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070473825511444647",
+        "created_at": "2026-06-26T14:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070514691961737592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1326496203547181056",
+              "start": 0,
+              "username": "Kevinlove886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070514691961737592",
+        "in_reply_to_user_id": "1326496203547181056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070513330486468791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kevinlove886 黄豆酱得劲儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1326496203547181056",
+        "conversation_id": "2070473825511444647",
+        "created_at": "2026-06-26T14:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070513330486468791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070513330486468791",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070504659375268113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 那什么得劲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 996,
+          "like_count": 4219,
+          "listed_count": 6,
+          "media_count": 238,
+          "tweet_count": 3375
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-11T12:05:23.000Z",
+        "description": "Longing for freedom 私は長門の意志と精神を受け継ぎ,皆に喜びと笑顔を届けたいと思っています。出来れば,自分を燃やして他の人を照らしたいです。",
+        "id": "1326496203547181056",
+        "location": "JAPAN",
+        "name": "長門🈚️希",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662109403213070336/bGE0nWOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 982,
+          "like_count": 11023,
+          "listed_count": 4,
+          "media_count": 710,
+          "tweet_count": 16059
+        },
+        "url": "",
+        "username": "Kevinlove886",
+        "verified": true
+      }
+    ]
+  }
+}

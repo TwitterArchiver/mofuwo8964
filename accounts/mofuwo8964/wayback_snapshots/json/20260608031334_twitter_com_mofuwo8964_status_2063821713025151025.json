@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2063809534108569896",
+    "created_at": "2026-06-08T03:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063821713025151025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1957422409050636288",
+          "start": 0,
+          "username": "oguto114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063821713025151025",
+    "in_reply_to_user_id": "1957422409050636288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063820245396291933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oguto114514 这特么结果都一样吧！我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2063809534108569896",
+        "created_at": "2026-06-08T03:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063821713025151025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1957422409050636288",
+              "start": 0,
+              "username": "oguto114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063821713025151025",
+        "in_reply_to_user_id": "1957422409050636288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063820245396291933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oguto114514 这特么结果都一样吧！我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957422409050636288",
+        "conversation_id": "2063809534108569896",
+        "created_at": "2026-06-08T03:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063820245396291933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063820245396291933",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063812301489389794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 总比装都不装好点…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2953,
+          "following_count": 918,
+          "like_count": 3740,
+          "listed_count": 7,
+          "media_count": 191,
+          "tweet_count": 2873
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T12:40:57.000Z",
+        "description": "Wandel durch Handel                                                       \n              言い合う前にまずは事実確認してみる",
+        "id": "1957422409050636288",
+        "name": "華北防犯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206549077331968/yI-F-FyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 561,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 772
+        },
+        "username": "oguto114514",
+        "verified": false
+      }
+    ]
+  }
+}

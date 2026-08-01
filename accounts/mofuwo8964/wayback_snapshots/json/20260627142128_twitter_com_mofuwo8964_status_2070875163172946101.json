@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2070875163172946101",
+    "created_at": "2026-06-27T14:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T15:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070875163172946101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hakonootoko/st…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/hakonootoko/status/2070861743333798288",
+          "start": 37,
+          "url": "https://t.co/slbsBI3q4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070875163172946101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070861743333798288",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真不行了我就这样，又想到我跟同坑的朋友拿着两个玩偶去江之岛拍拍拍拍一堆 https://t.co/slbsBI3q4F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070875163172946101",
+        "created_at": "2026-06-27T14:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070875163172946101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hakonootoko/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/hakonootoko/status/2070861743333798288",
+              "start": 37,
+              "url": "https://t.co/slbsBI3q4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070875163172946101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070861743333798288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真不行了我就这样，又想到我跟同坑的朋友拿着两个玩偶去江之岛拍拍拍拍一堆 https://t.co/slbsBI3q4F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942422285044047873",
+        "conversation_id": "2070861743333798288",
+        "created_at": "2026-06-27T13:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070861743333798288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070861743333798288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我大概知道二刺猿现实中是什么样子了。\n今天坐游览船遇见一捞日肥宅，穿着倒不邋遢，带个小眼镜，有点驼背，目光躲闪，说话蚊子声儿。\n想跟他闲聊两句，每次我一开口，他就哆嗦一下，听到赞同的观点就狂点头，不赞同的就慢慢点头，主打一个牺牲自己给他人提供情绪价值。\n好玩的是，这哥们背了个大包，里面不是小公仔就是立牌，而且还全是美少女角色。每到一处小岛，他就会掏出不同的美少女，把她们举起来很小岛合影。\n我推测这二刺猿给每个美少女都起了名字。\n为什么呢？\n因为，最后几个岛，他可能是累了，再加上船转弯，风浪大，一个没拿稳，有个塑料立牌掉海里了。就见这胖子呆了0.5秒，又原地蹦了两下，最后趴在船栏杆上对着海面喊：“XXX酱，狗免捏！狗免那赛！”\n🤦‍♂️\n上岸的时候，我看他还是挺低落，问他“大丈夫？”，结果这人给我来了句：“不知道，但是XX酱一定会幸福的。”\n😅\n我问他有没有事儿，他说那破塑料会幸福，给我整不会了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 865,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我大概知道二刺猿现实中是什么样子了。\n今天坐游览船遇见一捞日肥宅，穿着倒不邋遢，带个小眼镜，有点驼背，目光躲闪，说话蚊子声儿。\n想跟他闲聊两句，每次我一开口，他就哆嗦一下，听到赞同的观点就狂点头，不赞同的就慢慢点头，主打一个牺牲自己给他人提供情绪价值。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070735539935039488/KAKCmd7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 1004,
+          "like_count": 4264,
+          "listed_count": 6,
+          "media_count": 226,
+          "tweet_count": 3378
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-08T03:15:47.000Z",
+        "description": "⚠混 乱 中 立 ⚠ \n☢无视一切道德法规传统习俗人文信仰政治立场的免责发言人。 \n☠️地狱梗・🤬高能脏话过敏者请慎重关注。\n工作日没空刷推，业余时间会分享读书笔记。 \n偶尔写小作文、讲墙内轶事、聊原生家庭，大多时间玩抽象。 \n别问，问就是金与正本人。 \n现流亡日本，组建临时政府中，与独裁国贼金正恩不共戴天。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Sunan00nna",
+                "end": 23,
+                "expanded_url": "https://x.com/Sunan00nna",
+                "start": 0,
+                "url": "https://t.co/mhV5wAjg3x"
+              }
+            ]
+          }
+        },
+        "id": "1942422285044047873",
+        "location": "女权市出生・防失联小号👉",
+        "name": "流亡公主•金與正•김여정（尊習討金）",
+        "pinned_tweet_id": "1999714467232514332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985109816225792/KNlXC_-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4404,
+          "following_count": 1012,
+          "like_count": 49307,
+          "listed_count": 56,
+          "media_count": 511,
+          "tweet_count": 32368
+        },
+        "url": "https://t.co/mhV5wAjg3x",
+        "username": "Hakonootoko",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067400323782812056",
+    "created_at": "2026-06-18T00:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T01:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067400323782812056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2067183434704040439",
+          "start": 34,
+          "url": "https://t.co/Qxseu7AoT2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067400323782812056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067183434704040439",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个小宝宝我很喜欢她是我学校里比较喜欢的同学，我学校里就跟几个人玩 https://t.co/Qxseu7AoT2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_2067183431092690944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAcYM_aYAA39xj.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067400323782812056",
+        "created_at": "2026-06-18T00:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067400323782812056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2067183434704040439",
+              "start": 34,
+              "url": "https://t.co/Qxseu7AoT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067400323782812056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067183434704040439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个小宝宝我很喜欢她是我学校里比较喜欢的同学，我学校里就跟几个人玩 https://t.co/Qxseu7AoT2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067183431092690944"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067183434704040439",
+        "created_at": "2026-06-17T09:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067183434704040439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AxTJerf9nW",
+              "end": 33,
+              "expanded_url": "https://x.com/mofuwo8964/status/2067183434704040439/photo/1",
+              "media_key": "3_2067183431092690944",
+              "start": 10,
+              "url": "https://t.co/AxTJerf9nW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067183434704040439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1526,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三次元同学瑞平一刻 https://t.co/AxTJerf9nW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3111,
+          "following_count": 984,
+          "like_count": 3972,
+          "listed_count": 6,
+          "media_count": 226,
+          "tweet_count": 3154
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

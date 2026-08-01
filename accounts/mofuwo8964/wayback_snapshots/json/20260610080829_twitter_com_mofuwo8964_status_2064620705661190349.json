@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064620698132496384"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2064620705661190349",
+    "created_at": "2026-06-10T08:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064620705661190349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zqEB7CaKFj",
+          "end": 50,
+          "expanded_url": "https://x.com/mofuwo8964/status/2064620705661190349/photo/1",
+          "media_key": "3_2064620698132496384",
+          "start": 27,
+          "url": "https://t.co/zqEB7CaKFj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064620705661190349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "收到梦情裙了。感谢小川川替我收这件，我眼泪要掉下来了 https://t.co/zqEB7CaKFj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064620698132496384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcBlgwbQAAz_yA.jpg",
+        "width": 1910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064620698132496384"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064620705661190349",
+        "created_at": "2026-06-10T08:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064620705661190349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqEB7CaKFj",
+              "end": 50,
+              "expanded_url": "https://x.com/mofuwo8964/status/2064620705661190349/photo/1",
+              "media_key": "3_2064620698132496384",
+              "start": 27,
+              "url": "https://t.co/zqEB7CaKFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064620705661190349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到梦情裙了。感谢小川川替我收这件，我眼泪要掉下来了 https://t.co/zqEB7CaKFj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜精神残疾｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2972,
+          "following_count": 926,
+          "like_count": 3817,
+          "listed_count": 7,
+          "media_count": 202,
+          "tweet_count": 2935
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

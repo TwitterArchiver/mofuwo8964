@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037218433092509848",
+    "created_at": "2026-03-26T23:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T00:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037314033137897578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1324120837427994624",
+          "start": 0,
+          "username": "pingAznable"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037314033137897578",
+    "in_reply_to_user_id": "1324120837427994624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037271245952344567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingAznable 其实我觉得化妆只是在取悦自己也没啥错，毕竟本质上来说确实是为了自己服务…？但我感觉我是为了别人，我已急哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037218433092509848",
+        "created_at": "2026-03-26T23:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T00:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037314033137897578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1324120837427994624",
+              "start": 0,
+              "username": "pingAznable"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037314033137897578",
+        "in_reply_to_user_id": "1324120837427994624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037271245952344567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingAznable 其实我觉得化妆只是在取悦自己也没啥错，毕竟本质上来说确实是为了自己服务…？但我感觉我是为了别人，我已急哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324120837427994624",
+        "conversation_id": "2037218433092509848",
+        "created_at": "2026-03-26T20:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T21:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037271245952344567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037271245952344567",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037218433092509848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 感觉是在另一个场合说化妆只是取悦自己的人？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2672,
+          "following_count": 851,
+          "like_count": 2814,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 2116
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-04T22:46:39.000Z",
+        "description": "04｜男｜服务型sub｜infp｜4i｜运动宅｜按每周一套尝试女装中｜夏亚再世，好像正在思考一千年以后的事情｜为了不被丢掉致力于成为妈系sub｜非常喜欢吃商高和审美好以及灵魂有趣的人",
+        "id": "1324120837427994624",
+        "location": "正在向下坠落的阿克西斯",
+        "name": "柯瓦特罗大尉",
+        "pinned_tweet_id": "2035683456622248162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776717114187777/1ePj2Ias_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 18,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 276
+        },
+        "username": "pingAznable",
+        "verified": false
+      }
+    ]
+  }
+}

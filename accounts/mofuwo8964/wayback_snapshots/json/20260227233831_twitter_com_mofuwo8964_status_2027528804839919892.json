@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2027491119538602440",
+    "created_at": "2026-02-27T23:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T00:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027528804839919892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1961425958277373952",
+          "start": 0,
+          "username": "i_make_hat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027528804839919892",
+    "in_reply_to_user_id": "1961425958277373952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027491119538602440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i_make_hat 咋戒的啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027491110675959808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCMYbE0aUAAEOes.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027491110680203265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCMYbE1bEAEmgvT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027491110680203269",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCMYbE1bEAUDD1x.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2027491119538602440",
+        "created_at": "2026-02-27T23:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T00:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027528804839919892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1961425958277373952",
+              "start": 0,
+              "username": "i_make_hat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027528804839919892",
+        "in_reply_to_user_id": "1961425958277373952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027491119538602440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i_make_hat 咋戒的啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027491110675959808",
+            "3_2027491110680203265",
+            "3_2027491110680203269"
+          ]
+        },
+        "author_id": "1961425958277373952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027491119538602440",
+        "created_at": "2026-02-27T21:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T22:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027491119538602440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2PkmDc2rTF",
+              "end": 95,
+              "expanded_url": "https://x.com/i_make_hat/status/2027491119538602440/photo/1",
+              "media_key": "3_2027491110675959808",
+              "start": 72,
+              "url": "https://t.co/2PkmDc2rTF"
+            },
+            {
+              "display_url": "pic.x.com/2PkmDc2rTF",
+              "end": 95,
+              "expanded_url": "https://x.com/i_make_hat/status/2027491119538602440/photo/1",
+              "media_key": "3_2027491110680203265",
+              "start": 72,
+              "url": "https://t.co/2PkmDc2rTF"
+            },
+            {
+              "display_url": "pic.x.com/2PkmDc2rTF",
+              "end": 95,
+              "expanded_url": "https://x.com/i_make_hat/status/2027491119538602440/photo/1",
+              "media_key": "3_2027491110680203269",
+              "start": 72,
+              "url": "https://t.co/2PkmDc2rTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027491119538602440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻出来中国香烟，有没有推友想要😐\n因本人戒烟成功，免费送一些未开封的香烟，浅草附近面交\n都是放了至少两三年的东西，不嫌馊的来吧，眼熟的推友优先 https://t.co/2PkmDc2rTF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜三个孩子的母亲",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "肩膀胳膊连接处下面那个部位",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024639644768628736/sthKf3FC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2545,
+          "following_count": 814,
+          "like_count": 2496,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1716
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T13:49:33.000Z",
+        "description": "我很羡慕你",
+        "id": "1961425958277373952",
+        "location": "埼玉の山奥",
+        "name": "劉",
+        "pinned_tweet_id": "2009230579519422718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006409337653309443/x4oV5msk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 97,
+          "like_count": 4280,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 91
+        },
+        "username": "i_make_hat",
+        "verified": true
+      }
+    ]
+  }
+}

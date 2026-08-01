@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044128527696703490"
+      ],
+      "media_source_tweet_id": [
+        "2044128538429968621"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2063261506452726088",
+    "created_at": "2026-06-06T14:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063261506452726088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1592719222940962817",
+          "start": 3,
+          "username": "mofuwo8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7iHYQnTmG4",
+          "end": 60,
+          "expanded_url": "https://x.com/mofuwo8964/status/2044128538429968621/photo/1",
+          "media_key": "3_2044128527696703490",
+          "start": 37,
+          "url": "https://t.co/7iHYQnTmG4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063261506452726088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044128538429968621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mofuwo8964: *置顶回来\n解释一下我的行为逻辑以及动机 https://t.co/7iHYQnTmG4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1569,
+        "media_key": "3_2044128527696703490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF40ENCasAIxHHk.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044128527696703490"
+          ],
+          "media_source_tweet_id": [
+            "2044128538429968621"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2063261506452726088",
+        "created_at": "2026-06-06T14:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063261506452726088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1592719222940962817",
+              "start": 3,
+              "username": "mofuwo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7iHYQnTmG4",
+              "end": 60,
+              "expanded_url": "https://x.com/mofuwo8964/status/2044128538429968621/photo/1",
+              "media_key": "3_2044128527696703490",
+              "start": 37,
+              "url": "https://t.co/7iHYQnTmG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063261506452726088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044128538429968621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mofuwo8964: *置顶回来\n解释一下我的行为逻辑以及动机 https://t.co/7iHYQnTmG4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044128527696703490"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044128538429968621",
+        "created_at": "2026-04-14T18:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044128538429968621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7iHYQnTmG4",
+              "end": 44,
+              "expanded_url": "https://x.com/mofuwo8964/status/2044128538429968621/photo/1",
+              "media_key": "3_2044128527696703490",
+              "start": 21,
+              "url": "https://t.co/7iHYQnTmG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044128538429968621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4134,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "*置顶回来\n解释一下我的行为逻辑以及动机 https://t.co/7iHYQnTmG4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜ひとりごと|愚痴",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2921,
+          "following_count": 903,
+          "like_count": 3669,
+          "listed_count": 7,
+          "media_count": 197,
+          "tweet_count": 2829
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

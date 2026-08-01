@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2047358949498978674",
+    "created_at": "2026-04-23T23:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T00:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047461002120487094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1971654494619312128",
+          "start": 0,
+          "username": "nasksilik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047461002120487094",
+    "in_reply_to_user_id": "1971654494619312128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "第一，一个正常的家庭不会天天灌输自己的女儿是个物品，也不会让孩子觉得自己唯一的价值就是外表和性😑\n其次女儿服是个舶来词，意思是女童装。。女童装的寓意是永远可爱永远幼稚吗？那女童该穿什么？看到你在原推文下面的评论了，你既然觉得女儿服是在取悦恋童癖，那本来从早期就喜爱女儿服的亚文化爱好者要怎么办？那些取悦恋童癖的人穿上了牛仔裤，那牛仔裤就变成了“女儿服”取悦新“恋童癖”，然后继续打穿牛仔裤的女人取悦他人，然后大家不穿牛仔裤又穿别的…最后大家都穿上了黑袍。\n你可以骂那些性化女儿服的人，也可以骂恋童癖，女儿服的概念是比“flj穿女儿服取悦恋童癖”的概念要早的，但你非要给女儿服的存在本身扣帽子是何意味？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047419907860803890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nasksilik 第一，一个正常的家庭不会天天灌输自己的女儿是个物品，也不会让孩子觉得自己唯一的价值就是外表和性😑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2047358949498978674",
+        "created_at": "2026-04-23T23:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047461002120487094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1971654494619312128",
+              "start": 0,
+              "username": "nasksilik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047461002120487094",
+        "in_reply_to_user_id": "1971654494619312128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "第一，一个正常的家庭不会天天灌输自己的女儿是个物品，也不会让孩子觉得自己唯一的价值就是外表和性😑\n其次女儿服是个舶来词，意思是女童装。。女童装的寓意是永远可爱永远幼稚吗？那女童该穿什么？看到你在原推文下面的评论了，你既然觉得女儿服是在取悦恋童癖，那本来从早期就喜爱女儿服的亚文化爱好者要怎么办？那些取悦恋童癖的人穿上了牛仔裤，那牛仔裤就变成了“女儿服”取悦新“恋童癖”，然后继续打穿牛仔裤的女人取悦他人，然后大家不穿牛仔裤又穿别的…最后大家都穿上了黑袍。\n你可以骂那些性化女儿服的人，也可以骂恋童癖，女儿服的概念是比“flj穿女儿服取悦恋童癖”的概念要早的，但你非要给女儿服的存在本身扣帽子是何意味？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047419907860803890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nasksilik 第一，一个正常的家庭不会天天灌输自己的女儿是个物品，也不会让孩子觉得自己唯一的价值就是外表和性😑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971654494619312128",
+        "conversation_id": "2047358949498978674",
+        "created_at": "2026-04-23T20:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047419907860803890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047419907860803890",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047358949498978674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 给自己的女儿从小就灌输自己是一个松软可爱的蛋糕的思想，女儿服和其寓意的永远可爱，永远幼稚也是邪恶的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2696,
+          "following_count": 864,
+          "like_count": 3160,
+          "listed_count": 6,
+          "media_count": 171,
+          "tweet_count": 2439
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-26T19:15:32.000Z",
+        "description": "你的无神论者，反伊斯兰政权朋友",
+        "id": "1971654494619312128",
+        "location": "New York, USA",
+        "name": "Rhoxshna🇮🇷⚛️🚫🕎✝️☪️✡️🕉️",
+        "pinned_tweet_id": "2043038066802331873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030046367448715267/RNZNnroH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 819,
+          "like_count": 2662,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1420
+        },
+        "username": "nasksilik",
+        "verified": true
+      }
+    ]
+  }
+}

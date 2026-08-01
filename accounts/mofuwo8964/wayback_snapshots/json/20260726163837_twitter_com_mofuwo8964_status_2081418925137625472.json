@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081418903927013376"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2081418925137625472",
+    "created_at": "2026-07-26T16:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081418925137625472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NEaKE92VmB",
+          "end": 114,
+          "expanded_url": "https://x.com/mofuwo8964/status/2081418925137625472/photo/1",
+          "media_key": "3_2081418903927013376",
+          "start": 91,
+          "url": "https://t.co/NEaKE92VmB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081418925137625472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "家附近的菜市场。不过我很喜欢这个地方！有便宜好吃的水果和说着我熟悉的方言的人，买水果然后散步回家买一个炒酸奶，好幸福呀，虽然脏乱差还一直有人吆喝，但我觉得这样温暖的地方让我好安心。\n我总是说讨厌我出身的小县城，但其实我好像并不讨厌，反而挺喜欢这里的。这里的充气城堡构成了我的童年，这里的路边摊承载了我小小的喜悦，这里绿化很差的公园连带着我和初恋不敢相互靠近的长椅，这里郁郁葱葱的树总让我想起来爷爷骑着自行车回家，我用他的诺基亚玩贪吃蛇的日子。我想我很爱这个地方，也许不是这个地方的优秀而是我产生的羁绊和回忆让我产生了无根据的怀恋吧，我猜的，药效上来了好困"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "家附近的菜市场。不过我很喜欢这个地方！有便宜好吃的水果和说着我熟悉的方言的人，买水果然后散步回家买一个炒酸奶，好幸福呀，虽然脏乱差还一直有人吆喝，但我觉得这样温暖的地方让我好安心。 https://t.co/NEaKE92VmB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2081418903927013376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKvdx1aQAA89Kw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081418903927013376"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081418925137625472",
+        "created_at": "2026-07-26T16:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081418925137625472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NEaKE92VmB",
+              "end": 114,
+              "expanded_url": "https://x.com/mofuwo8964/status/2081418925137625472/photo/1",
+              "media_key": "3_2081418903927013376",
+              "start": 91,
+              "url": "https://t.co/NEaKE92VmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081418925137625472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "家附近的菜市场。不过我很喜欢这个地方！有便宜好吃的水果和说着我熟悉的方言的人，买水果然后散步回家买一个炒酸奶，好幸福呀，虽然脏乱差还一直有人吆喝，但我觉得这样温暖的地方让我好安心。\n我总是说讨厌我出身的小县城，但其实我好像并不讨厌，反而挺喜欢这里的。这里的充气城堡构成了我的童年，这里的路边摊承载了我小小的喜悦，这里绿化很差的公园连带着我和初恋不敢相互靠近的长椅，这里郁郁葱葱的树总让我想起来爷爷骑着自行车回家，我用他的诺基亚玩贪吃蛇的日子。我想我很爱这个地方，也许不是这个地方的优秀而是我产生的羁绊和回忆让我产生了无根据的怀恋吧，我猜的，药效上来了好困"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家附近的菜市场。不过我很喜欢这个地方！有便宜好吃的水果和说着我熟悉的方言的人，买水果然后散步回家买一个炒酸奶，好幸福呀，虽然脏乱差还一直有人吆喝，但我觉得这样温暖的地方让我好安心。 https://t.co/NEaKE92VmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 1014,
+          "like_count": 4422,
+          "listed_count": 3,
+          "media_count": 251,
+          "tweet_count": 3490
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

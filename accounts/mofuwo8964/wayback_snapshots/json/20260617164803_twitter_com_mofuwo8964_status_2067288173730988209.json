@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064931256455073792"
+      ],
+      "media_source_tweet_id": [
+        "2064931261421072510"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067288173730988209",
+    "created_at": "2026-06-17T16:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067288173730988209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1592719222940962817",
+          "start": 3,
+          "username": "mofuwo8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zTBHZS0gw3",
+          "end": 39,
+          "expanded_url": "https://x.com/mofuwo8964/status/2064931261421072510/photo/1",
+          "media_key": "3_2064931256455073792",
+          "start": 16,
+          "url": "https://t.co/zTBHZS0gw3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067288173730988209",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064931261421072510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mofuwo8964: https://t.co/zTBHZS0gw3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064931256455073792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgcCYqbEAAoEGT.jpg",
+        "width": 1147
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064931256455073792"
+          ],
+          "media_source_tweet_id": [
+            "2064931261421072510"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067288173730988209",
+        "created_at": "2026-06-17T16:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067288173730988209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1592719222940962817",
+              "start": 3,
+              "username": "mofuwo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zTBHZS0gw3",
+              "end": 39,
+              "expanded_url": "https://x.com/mofuwo8964/status/2064931261421072510/photo/1",
+              "media_key": "3_2064931256455073792",
+              "start": 16,
+              "url": "https://t.co/zTBHZS0gw3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067288173730988209",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064931261421072510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mofuwo8964: https://t.co/zTBHZS0gw3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064931256455073792"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064931261421072510",
+        "created_at": "2026-06-11T04:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064931261421072510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zTBHZS0gw3",
+              "end": 23,
+              "expanded_url": "https://x.com/mofuwo8964/status/2064931261421072510/photo/1",
+              "media_key": "3_2064931256455073792",
+              "start": 0,
+              "url": "https://t.co/zTBHZS0gw3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064931261421072510",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1032,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zTBHZS0gw3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3110,
+          "following_count": 984,
+          "like_count": 3974,
+          "listed_count": 6,
+          "media_count": 228,
+          "tweet_count": 3154
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

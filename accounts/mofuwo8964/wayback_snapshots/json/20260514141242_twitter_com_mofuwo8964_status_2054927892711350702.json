@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2054927892711350702",
+    "created_at": "2026-05-14T14:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054927892711350702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moonlight_ruri…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/moonlight_ruri/status/2054787066022826310",
+          "start": 10,
+          "url": "https://t.co/IcAMZOqhr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054927892711350702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054787066022826310",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不如亲口问问梶◎貴 https://t.co/IcAMZOqhr7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 987,
+        "media_key": "3_2054787059207065600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQR8ZEbUAAQww0.jpg",
+        "width": 1277
+      },
+      {
+        "height": 867,
+        "media_key": "3_2054787059202871296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQR8ZDbUAAj_SQ.jpg",
+        "width": 650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2054927892711350702",
+        "created_at": "2026-05-14T14:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054927892711350702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moonlight_ruri…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/moonlight_ruri/status/2054787066022826310",
+              "start": 10,
+              "url": "https://t.co/IcAMZOqhr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054927892711350702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054787066022826310",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不如亲口问问梶◎貴 https://t.co/IcAMZOqhr7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054787059207065600",
+            "3_2054787059202871296"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054787066022826310",
+        "created_at": "2026-05-14T04:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054787066022826310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lx3O0Ej6N3",
+              "end": 63,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2054787066022826310/photo/1",
+              "media_key": "3_2054787059207065600",
+              "start": 40,
+              "url": "https://t.co/lx3O0Ej6N3"
+            },
+            {
+              "display_url": "pic.x.com/lx3O0Ej6N3",
+              "end": 63,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2054787066022826310/photo/1",
+              "media_key": "3_2054787059202871296",
+              "start": 40,
+              "url": "https://t.co/lx3O0Ej6N3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054787066022826310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 70484,
+          "like_count": 351,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "10多年前，日本大学生根据声优竹达彩奈的推特计算了她的生理周期，并写成论文发表 https://t.co/lx3O0Ej6N3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2833,
+          "following_count": 889,
+          "like_count": 3558,
+          "listed_count": 6,
+          "media_count": 184,
+          "tweet_count": 2681
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "男娘｜正義的夥伴｜femboy｜not trans｜friendly to trans｜EN CN JP｜An ally of justice and fairness｜love cute things｜168cm50kg｜music、comic、animation、pcgame｜Beauty share｜thanks",
+        "id": "1763034943599607808",
+        "location": "Luna Ruri｜Signal Booster｜碎碎念日常",
+        "name": "月光的琉璃梦🏳️‍⚧️🍥🌸4代目",
+        "pinned_tweet_id": "2051498007452066168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041518071383527424/Ikw4pdSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3446,
+          "following_count": 203,
+          "like_count": 659,
+          "listed_count": 4,
+          "media_count": 93,
+          "tweet_count": 1424
+        },
+        "username": "moonlight_ruri",
+        "verified": false
+      }
+    ]
+  }
+}

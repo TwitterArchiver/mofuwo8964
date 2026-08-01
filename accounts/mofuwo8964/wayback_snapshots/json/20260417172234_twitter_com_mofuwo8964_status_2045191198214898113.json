@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2045191198214898113",
+    "created_at": "2026-04-17T17:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045191198214898113"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045191198214898113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在很苦恼 因为我带回国的安眠药吃完了 也不想去精神科掏钱买…\n不过家里有十几板右美就是那个盐野义 我在想能不能跟人换点思诺思和阿普唑仑 但总感觉这么做太搞笑了而且会被晶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2045191198214898113",
+        "created_at": "2026-04-17T17:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045191198214898113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045191198214898113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在很苦恼 因为我带回国的安眠药吃完了 也不想去精神科掏钱买…\n不过家里有十几板右美就是那个盐野义 我在想能不能跟人换点思诺思和阿普唑仑 但总感觉这么做太搞笑了而且会被晶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 857,
+          "like_count": 3073,
+          "listed_count": 5,
+          "media_count": 164,
+          "tweet_count": 2343
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

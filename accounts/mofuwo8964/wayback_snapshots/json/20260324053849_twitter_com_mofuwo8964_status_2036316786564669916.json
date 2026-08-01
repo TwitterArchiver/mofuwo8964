@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2036279634346844213",
+    "created_at": "2026-03-24T05:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T06:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036316786564669916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035361499200585728",
+          "start": 0,
+          "username": "Bleak_1s1e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036316786564669916",
+    "in_reply_to_user_id": "2035361499200585728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036316480875405518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bleak_1s1e 线条流畅度、人体、透视和结构都进步了很多！！虽然我没学过画画但是我感觉特别厉害了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036279634346844213",
+        "created_at": "2026-03-24T05:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T06:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036316786564669916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035361499200585728",
+              "start": 0,
+              "username": "Bleak_1s1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036316786564669916",
+        "in_reply_to_user_id": "2035361499200585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036316480875405518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bleak_1s1e 线条流畅度、人体、透视和结构都进步了很多！！虽然我没学过画画但是我感觉特别厉害了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035361499200585728",
+        "conversation_id": "2036279634346844213",
+        "created_at": "2026-03-24T05:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T06:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036316480875405518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036316480875405518",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036295137517773110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 🥹谢谢你！我自己看来问题实在是很大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2610,
+          "following_count": 830,
+          "like_count": 2731,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1978
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-21T14:23:37.000Z",
+        "description": "=クメ/Kume｜前世@Kum3kawa1\n20↑｜雜多垢｜現実多忙なので低浮上\noder｜🏳️‍🌈🏳️‍⚧️LGBTQ+全友好｜查成分回fo\n中国語◯ ENG◯ 日本語少し◯\n無言フォロー失礼します🙇🏻‍♂️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Kum3kawa1"
+              }
+            ]
+          }
+        },
+        "id": "2035361499200585728",
+        "location": "無我夢中",
+        "name": "ネメシス",
+        "pinned_tweet_id": "2035364959459442716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035362752978718720/p3Wr0Gb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 107,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 132
+        },
+        "username": "Bleak_1s1e",
+        "verified": false
+      }
+    ]
+  }
+}

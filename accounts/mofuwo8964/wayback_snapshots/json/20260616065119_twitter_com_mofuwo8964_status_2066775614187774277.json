@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2066774857468285328",
+    "created_at": "2026-06-16T06:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066775614187774277"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066775614187774277",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066774857468285328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "比起嫉妒/性压抑我感觉她真的可能是压力过大了，我不喜欢过度分析别人但是急救医确实够累的问就是我打过3次救护车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066774857468285328",
+        "created_at": "2026-06-16T06:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066775614187774277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066775614187774277",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066774857468285328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比起嫉妒/性压抑我感觉她真的可能是压力过大了，我不喜欢过度分析别人但是急救医确实够累的问就是我打过3次救护车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066774857468285328",
+        "created_at": "2026-06-16T06:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066774857468285328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066774857468285328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我本来因为某动物土地id的40代女性的发言很生气，但是后来我想了想，这人差不多和我妈一样大，我妈要是因为认知不够在网上被年轻人喷了我肯定也不舒坦。。出于人道主义关怀我不想喷她了，但我不喜欢一个医护工作者进行这样的发言。不喜欢。但是想想我妈这个年纪都每天跳舞弹琴遛狗快哉快哉去了，哪有空在网上和比自己小个二十来岁的小逼登（特指我）撕逼吵架呢。。我其实觉得医护工作者确实也挺辛苦，压力过大很难精神不失常，唉论迹不论心吧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我本来因为某动物土地id的40代女性的发言很生气，但是后来我想了想，这人差不多和我妈一样大，我妈要是因为认知不够在网上被年轻人喷了我肯定也不舒坦。。出于人道主义关怀我不想喷她了，但我不喜欢一个医护工作者进行这样的发言。不喜欢。但是想想我妈这个年纪都每天跳舞弹琴遛狗快哉快哉去了，哪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3078,
+          "following_count": 975,
+          "like_count": 3936,
+          "listed_count": 6,
+          "media_count": 223,
+          "tweet_count": 3106
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

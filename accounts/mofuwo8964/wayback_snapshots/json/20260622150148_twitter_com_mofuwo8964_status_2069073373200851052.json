@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2069060943137706221",
+    "created_at": "2026-06-22T15:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069073373200851052"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069073373200851052",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069060943137706221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的不想自己洗内裤也不想放到洗衣机里因为分泌物和血迹洗不干净然后很穷也买不起那个专用的洗衣机只能利用一下先进的社会主义制度的低人权优势来达到我的目的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2069060943137706221",
+        "created_at": "2026-06-22T15:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069073373200851052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069073373200851052",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069060943137706221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的不想自己洗内裤也不想放到洗衣机里因为分泌物和血迹洗不干净然后很穷也买不起那个专用的洗衣机只能利用一下先进的社会主义制度的低人权优势来达到我的目的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2069060943137706221",
+        "created_at": "2026-06-22T14:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069060943137706221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069060943137706221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 965,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经血和白带属于阴属性物质，因此必须由身具纯阳之气的男友亲自净化。若女子自行清洗，则阴气叠加，轻则气运不顺，重则风水失衡，影响家庭和谐。故内裤应交由男友处理，以维持阴阳调和、天地秩序，家宅平安。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3153,
+          "following_count": 993,
+          "like_count": 4138,
+          "listed_count": 6,
+          "media_count": 234,
+          "tweet_count": 3314
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

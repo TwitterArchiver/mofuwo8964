@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2069092834578461030",
+    "created_at": "2026-06-23T03:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T04:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069256622653006092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "wkJisbkkk0827"
+        },
+        {
+          "end": 24,
+          "id": "2068831555741728768",
+          "start": 15,
+          "username": "Dfkrsqvc"
+        },
+        {
+          "end": 36,
+          "id": "1462432776",
+          "start": 25,
+          "username": "cmiuicmiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069256622653006092",
+    "in_reply_to_user_id": "1859117911119720448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069256123878895919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wkJisbkkk0827 @Dfkrsqvc @cmiuicmiui 你咋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2069092834578461030",
+        "created_at": "2026-06-23T03:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T04:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069256622653006092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "wkJisbkkk0827"
+            },
+            {
+              "end": 24,
+              "id": "2068831555741728768",
+              "start": 15,
+              "username": "Dfkrsqvc"
+            },
+            {
+              "end": 36,
+              "id": "1462432776",
+              "start": 25,
+              "username": "cmiuicmiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069256622653006092",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069256123878895919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wkJisbkkk0827 @Dfkrsqvc @cmiuicmiui 你咋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859117911119720448",
+        "conversation_id": "2069092834578461030",
+        "created_at": "2026-06-23T03:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T04:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069256123878895919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2068831555741728768",
+              "start": 0,
+              "username": "Dfkrsqvc"
+            },
+            {
+              "end": 21,
+              "id": "1462432776",
+              "start": 10,
+              "username": "cmiuicmiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069256123878895919",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069255301380157505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dfkrsqvc @cmiuicmiui 我这辈子只想上法政、感觉不上法政即便考全日本前一千名都没有活着的意义了。法政简直是我的梦中情校、一想到我能读法政我觉得自己立马就能当日本首相然后重提大东亚共荣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3156,
+          "following_count": 993,
+          "like_count": 4148,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 3337
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "",
+        "id": "1859117911119720448",
+        "location": "日本 東京",
+        "name": "枫糖小豹 全日本🉑✈️",
+        "pinned_tweet_id": "2068055875265405084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 80,
+          "like_count": 4465,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 3088
+        },
+        "url": "",
+        "username": "wkJisbkkk0827",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-21T23:01:34.000Z",
+        "description": "",
+        "id": "2068831555741728768",
+        "name": "Dfkr",
+        "pinned_tweet_id": "2068832688757456947",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "Dfkrsqvc",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-27T15:42:55.000Z",
+        "description": "简单的履历：现在在日本公司当法务。",
+        "id": "1462432776",
+        "location": "東京",
+        "name": "戦刃むくろ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3754713282/869de1f5ca4aab840e75faa2c1cd73b3_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 390,
+          "like_count": 3201,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 5413
+        },
+        "url": "",
+        "username": "cmiuicmiui",
+        "verified": true
+      }
+    ]
+  }
+}

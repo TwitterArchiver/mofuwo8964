@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072689755268243456"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2072689816115069245",
+    "created_at": "2026-07-02T14:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072689816115069245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AouJvomYvw",
+          "end": 32,
+          "expanded_url": "https://x.com/mofuwo8964/status/2072689816115069245/video/1",
+          "media_key": "13_2072689755268243456",
+          "start": 9,
+          "url": "https://t.co/AouJvomYvw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072689816115069245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "几年前画的动画1 https://t.co/AouJvomYvw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3986,
+        "height": 1678,
+        "media_key": "13_2072689755268243456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072689755268243456/img/rLMq2-Ycg40pFr8j.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072689755268243456/pl/9gwIt5UfTZWEQpiA.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072689755268243456/vid/avc1/320x416/e5JG_0mH6Jm1rq_x.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072689755268243456/vid/avc1/1290x1678/hltcn-pqnumG1z5Y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072689755268243456/vid/avc1/480x624/O704zrS5g6MbNUpM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072689755268243456/vid/avc1/720x936/EkRopzAxmecu5kqC.mp4"
+          }
+        ],
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072689755268243456"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2072689816115069245",
+        "created_at": "2026-07-02T14:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072689816115069245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AouJvomYvw",
+              "end": 32,
+              "expanded_url": "https://x.com/mofuwo8964/status/2072689816115069245/video/1",
+              "media_key": "13_2072689755268243456",
+              "start": 9,
+              "url": "https://t.co/AouJvomYvw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072689816115069245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "几年前画的动画1 https://t.co/AouJvomYvw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 1013,
+          "like_count": 4328,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 3413
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

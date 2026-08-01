@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2046726622607446328",
+    "created_at": "2026-04-22T04:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T05:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046810961080959396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675081139684294656",
+          "start": 0,
+          "username": "phil0v0_bot"
+        },
+        {
+          "end": 29,
+          "id": "1170514701496668160",
+          "start": 13,
+          "username": "Hungry_Humble11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046810961080959396",
+    "in_reply_to_user_id": "1675081139684294656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046809554344935829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@phil0v0_bot @Hungry_Humble11 来来来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2046726622607446328",
+        "created_at": "2026-04-22T04:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046810961080959396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675081139684294656",
+              "start": 0,
+              "username": "phil0v0_bot"
+            },
+            {
+              "end": 29,
+              "id": "1170514701496668160",
+              "start": 13,
+              "username": "Hungry_Humble11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046810961080959396",
+        "in_reply_to_user_id": "1675081139684294656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046809554344935829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@phil0v0_bot @Hungry_Humble11 来来来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675081139684294656",
+        "conversation_id": "2046726622607446328",
+        "created_at": "2026-04-22T04:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046809554344935829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            },
+            {
+              "end": 28,
+              "id": "1170514701496668160",
+              "start": 12,
+              "username": "Hungry_Humble11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046809554344935829",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046730437205405990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 @Hungry_Humble11 我大概也差不多 可以来嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2695,
+          "following_count": 865,
+          "like_count": 3133,
+          "listed_count": 6,
+          "media_count": 168,
+          "tweet_count": 2414
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-01T09:57:36.000Z",
+        "description": "私たちの約束(˚ ˃̣̣̥᷄⌓˂̣̣̥᷅ )",
+        "id": "1675081139684294656",
+        "location": "Tokyo-to, Japan",
+        "name": "Philosssss",
+        "pinned_tweet_id": "1995078214373589132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012796514825822209/-XNUyeLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 365,
+          "like_count": 4852,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1648
+        },
+        "username": "phil0v0_bot",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-08T01:50:34.000Z",
+        "description": "闇",
+        "id": "1170514701496668160",
+        "name": "圆",
+        "pinned_tweet_id": "1999486720321130796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831382546233614336/MraiSf68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 274,
+          "like_count": 3223,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1042
+        },
+        "username": "Hungry_Humble11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2059334556860514610",
+    "created_at": "2026-05-27T00:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059439285544329383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1278173196848513024",
+          "start": 0,
+          "username": "LimeZ10040746"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059439285544329383",
+    "in_reply_to_user_id": "1278173196848513024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059438244081905863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LimeZ10040746 我没说日本教育的事情啊😱\n怪我没说清楚，我说的是我的中国人同学，他们的高中和我是两个高中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2059334556860514610",
+        "created_at": "2026-05-27T00:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059439285544329383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1278173196848513024",
+              "start": 0,
+              "username": "LimeZ10040746"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059439285544329383",
+        "in_reply_to_user_id": "1278173196848513024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059438244081905863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LimeZ10040746 我没说日本教育的事情啊😱\n怪我没说清楚，我说的是我的中国人同学，他们的高中和我是两个高中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1278173196848513024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2059334556860514610",
+        "created_at": "2026-05-27T00:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059438244081905863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059438244081905863",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059334556860514610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 那我就要批评你了。人日本没你说的这么好，很多人高中毕业就不读了，考大学组也要天天12点。但是你怎么能对中国教育骂的这么轻描淡写！他妈的整个教育体系就是烂完了！孩子从6岁开始坐整整12年牢！临了了现在读个大学，大学都高中化了！这踏马是人读的书？集中营都留一个小时每天放风！草他妈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2855,
+          "following_count": 901,
+          "like_count": 3578,
+          "listed_count": 7,
+          "media_count": 194,
+          "tweet_count": 2751
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-01T03:46:59.000Z",
+        "description": "日本酒大好きな中国人丨\n日本酒飲まないとシヌ丨\n猫ちゃんの奴隷丨",
+        "id": "1278173196848513024",
+        "name": "Lime Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536907517791305734/RXvP-2Qb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 422,
+          "like_count": 3369,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 831
+        },
+        "username": "LimeZ10040746",
+        "verified": false
+      }
+    ]
+  }
+}

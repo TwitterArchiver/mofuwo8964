@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2073583894675484761",
+    "created_at": "2026-07-05T01:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T02:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073583894675484761"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073583894675484761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "呃 我觉得我从小社会化能力就很差 可能有些事情就是天生的…小学朋友的家长不让我和对方玩 然后幼儿园就开始被孤立 他们叫我怪兽 然后我上初二就不登校了 说不定我真有什么障碍吧但是也没人带我治 我现在也懒得治更没办法治也没钱治 小学的作文写妈妈大家都写得很感人 但我一直在说我不喜欢我的妈妈 我当时还被老师教育了 难道我天生就很坏吗 难道我天生就很白眼狼吗…现在想想可能是从小时候就被父母高压对待导致认知开始偏差了，对父母产生不了抵触的情绪可能才奇怪吧…😱😱😱"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃 我觉得我从小社会化能力就很差 可能有些事情就是天生的…小学朋友的家长不让我和对方玩 然后幼儿园就开始被孤立 他们叫我怪兽 然后我上初二就不登校了 说不定我真有什么障碍吧但是也没人带我治 我现在也懒得治更没办法治也没钱治 小学的作文写妈妈大家都写得很感人 但我一直在说我不喜欢我的妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2073583894675484761",
+        "created_at": "2026-07-05T01:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073583894675484761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073583894675484761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "呃 我觉得我从小社会化能力就很差 可能有些事情就是天生的…小学朋友的家长不让我和对方玩 然后幼儿园就开始被孤立 他们叫我怪兽 然后我上初二就不登校了 说不定我真有什么障碍吧但是也没人带我治 我现在也懒得治更没办法治也没钱治 小学的作文写妈妈大家都写得很感人 但我一直在说我不喜欢我的妈妈 我当时还被老师教育了 难道我天生就很坏吗 难道我天生就很白眼狼吗…现在想想可能是从小时候就被父母高压对待导致认知开始偏差了，对父母产生不了抵触的情绪可能才奇怪吧…😱😱😱"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃 我觉得我从小社会化能力就很差 可能有些事情就是天生的…小学朋友的家长不让我和对方玩 然后幼儿园就开始被孤立 他们叫我怪兽 然后我上初二就不登校了 说不定我真有什么障碍吧但是也没人带我治 我现在也懒得治更没办法治也没钱治 小学的作文写妈妈大家都写得很感人 但我一直在说我不喜欢我的妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 1014,
+          "like_count": 4376,
+          "listed_count": 6,
+          "media_count": 235,
+          "tweet_count": 3445
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

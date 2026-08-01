@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044920213754544473",
+    "created_at": "2026-04-17T08:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T09:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045057647872020957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1808093317894492160",
+          "start": 0,
+          "username": "yijiepiminbale"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045057647872020957",
+    "in_reply_to_user_id": "1808093317894492160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045050615634755959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yijiepiminbale 我是三四年前干的一个月就两千多，，啊啊啊而且我们还不是那种特别大的店"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044920213754544473",
+        "created_at": "2026-04-17T08:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045057647872020957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1808093317894492160",
+              "start": 0,
+              "username": "yijiepiminbale"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045057647872020957",
+        "in_reply_to_user_id": "1808093317894492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045050615634755959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yijiepiminbale 我是三四年前干的一个月就两千多，，啊啊啊而且我们还不是那种特别大的店"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808093317894492160",
+        "conversation_id": "2044920213754544473",
+        "created_at": "2026-04-17T08:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045050615634755959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045050615634755959",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044920213754544473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 这门行业真的蛮辛苦的，一想到蜜雪一杯几块钱又特别忙时薪又很低就真感觉辛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2637,
+          "following_count": 856,
+          "like_count": 3033,
+          "listed_count": 5,
+          "media_count": 162,
+          "tweet_count": 2312
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-02T11:00:32.000Z",
+        "description": "안녕하세요~ 데온（戴昂）입니다! 이제 인생의 새로운 챕터를 시작하려고요. 지금 외로운 바다를 건안녕하세요.중CN/한KR/영어EN 절친：@ameear8964 @konata_1907",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "ameear8964"
+              },
+              {
+                "end": 99,
+                "start": 87,
+                "username": "konata_1907"
+              }
+            ]
+          }
+        },
+        "id": "1808093317894492160",
+        "location": "대한민국",
+        "name": "데온",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012339929746124800/NYIwu6E6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 1584,
+          "like_count": 79779,
+          "listed_count": 5,
+          "media_count": 324,
+          "tweet_count": 10380
+        },
+        "username": "yijiepiminbale",
+        "verified": false
+      }
+    ]
+  }
+}

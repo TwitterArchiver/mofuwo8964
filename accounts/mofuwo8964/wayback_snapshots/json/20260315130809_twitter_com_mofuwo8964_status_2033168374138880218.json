@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2033168374138880218",
+    "created_at": "2026-03-15T13:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T14:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033168374138880218"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033168374138880218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得我可以出一个东京如何用最少的钱穿得最萌的教程了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2033168374138880218",
+        "created_at": "2026-03-15T13:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033168374138880218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033168374138880218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我可以出一个东京如何用最少的钱穿得最萌的教程了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030870356953866240/H3S67KDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2545,
+          "following_count": 815,
+          "like_count": 2582,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 1787
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

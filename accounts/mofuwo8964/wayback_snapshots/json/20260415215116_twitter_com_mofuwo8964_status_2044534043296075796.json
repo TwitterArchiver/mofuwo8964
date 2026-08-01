@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044534043296075796",
+    "created_at": "2026-04-15T21:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T22:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044534043296075796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2044187737750941871",
+          "start": 89,
+          "url": "https://t.co/X09Q7zAzI2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044534043296075796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044187737750941871",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "解答：这是茼蒿丸子汤。丸子是豆腐炸的。其实这不是它的初级形态，初级形态其实是茼蒿汤，中午的时候我已经喝过一碗了。\n这是晚上加入了丸子之后再加工的产物，抱歉农民伯伯抱歉父亲。。。 https://t.co/X09Q7zAzI2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2044187723498758144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF5p52lboAA781n.jpg",
+        "width": 1061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044534043296075796",
+        "created_at": "2026-04-15T21:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T22:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044534043296075796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2044187737750941871",
+              "start": 89,
+              "url": "https://t.co/X09Q7zAzI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044534043296075796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044187737750941871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "解答：这是茼蒿丸子汤。丸子是豆腐炸的。其实这不是它的初级形态，初级形态其实是茼蒿汤，中午的时候我已经喝过一碗了。\n这是晚上加入了丸子之后再加工的产物，抱歉农民伯伯抱歉父亲。。。 https://t.co/X09Q7zAzI2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044187723498758144"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044187737750941871",
+        "created_at": "2026-04-14T22:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T23:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044187737750941871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gs1lrRNB4D",
+              "end": 42,
+              "expanded_url": "https://x.com/mofuwo8964/status/2044187737750941871/photo/1",
+              "media_key": "3_2044187723498758144",
+              "start": 19,
+              "url": "https://t.co/gs1lrRNB4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044187737750941871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3849,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "父亲问我家中有食品为何仍执意呼叫外卖 https://t.co/gs1lrRNB4D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。我正在努力的生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2634,
+          "following_count": 854,
+          "like_count": 2964,
+          "listed_count": 5,
+          "media_count": 159,
+          "tweet_count": 2282
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

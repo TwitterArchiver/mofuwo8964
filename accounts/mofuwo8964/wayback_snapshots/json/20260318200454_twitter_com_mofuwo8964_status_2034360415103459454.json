@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2034277878729519360",
+    "created_at": "2026-03-18T20:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T21:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034360415103459454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1537009225716576257",
+          "start": 0,
+          "username": "JINPINGslutflop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034360415103459454",
+    "in_reply_to_user_id": "1537009225716576257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034277878729519360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JINPINGslutflop 真的很萌啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2034277837356802048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDs06j4aIAAIzwe.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1193,
+        "media_key": "3_2034277838682312704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDs06o0b0AAtkEE.jpg",
+        "width": 1199
+      },
+      {
+        "height": 1214,
+        "media_key": "3_2034277842486546432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDs062_b0AAZVmr.jpg",
+        "width": 1008
+      },
+      {
+        "height": 2260,
+        "media_key": "3_2034277837658791936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDs06lAaIAAIC3C.jpg",
+        "width": 1988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2034277878729519360",
+        "created_at": "2026-03-18T20:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T21:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034360415103459454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1537009225716576257",
+              "start": 0,
+              "username": "JINPINGslutflop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034360415103459454",
+        "in_reply_to_user_id": "1537009225716576257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034277878729519360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JINPINGslutflop 真的很萌啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034277837356802048",
+            "3_2034277838682312704",
+            "3_2034277842486546432",
+            "3_2034277837658791936"
+          ]
+        },
+        "author_id": "1537009225716576257",
+        "conversation_id": "2034277878729519360",
+        "created_at": "2026-03-18T14:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034277878729519360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDFscC7sOA",
+              "end": 55,
+              "expanded_url": "https://x.com/JINPINGslutflop/status/2034277878729519360/photo/1",
+              "media_key": "3_2034277837356802048",
+              "start": 32,
+              "url": "https://t.co/zDFscC7sOA"
+            },
+            {
+              "display_url": "pic.x.com/zDFscC7sOA",
+              "end": 55,
+              "expanded_url": "https://x.com/JINPINGslutflop/status/2034277878729519360/photo/1",
+              "media_key": "3_2034277838682312704",
+              "start": 32,
+              "url": "https://t.co/zDFscC7sOA"
+            },
+            {
+              "display_url": "pic.x.com/zDFscC7sOA",
+              "end": 55,
+              "expanded_url": "https://x.com/JINPINGslutflop/status/2034277878729519360/photo/1",
+              "media_key": "3_2034277842486546432",
+              "start": 32,
+              "url": "https://t.co/zDFscC7sOA"
+            },
+            {
+              "display_url": "pic.x.com/zDFscC7sOA",
+              "end": 55,
+              "expanded_url": "https://x.com/JINPINGslutflop/status/2034277878729519360/photo/1",
+              "media_key": "3_2034277837658791936",
+              "start": 32,
+              "url": "https://t.co/zDFscC7sOA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034277878729519360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦我炒一下冷饭 我觉得这些很萌想给你们看看ヾ(*´∀｀*)ﾉ https://t.co/zDFscC7sOA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者  ｜@heimaozhi8964 这是我的小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "heimaozhi8964"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033525613815078912/hjH8ZhYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2578,
+          "following_count": 828,
+          "like_count": 2661,
+          "listed_count": 4,
+          "media_count": 147,
+          "tweet_count": 1837
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-15T09:49:00.000Z",
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。https://t.co/i3mrRb6Cjh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoxiaoxiaomi…",
+                "end": 82,
+                "expanded_url": "https://ngl.link/xiaoxiaoxiaomie64489",
+                "start": 59,
+                "url": "https://t.co/i3mrRb6Cjh"
+              }
+            ]
+          }
+        },
+        "id": "1537009225716576257",
+        "name": "咩工刀",
+        "pinned_tweet_id": "2034167807227924822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028751493055356928/inRXyw9r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 2299,
+          "like_count": 94125,
+          "listed_count": 3,
+          "media_count": 1368,
+          "tweet_count": 10356
+        },
+        "username": "JINPINGslutflop",
+        "verified": false
+      }
+    ]
+  }
+}

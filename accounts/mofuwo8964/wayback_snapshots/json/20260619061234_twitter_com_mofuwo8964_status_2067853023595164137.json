@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067851329205391449",
+    "created_at": "2026-06-19T06:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067853023595164137"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067853023595164137",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067851329205391449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不是想骂人，如果这个事情这么普遍已经成为一个社会现象的话其实需要反思的不只是个体，我也懒得喷了因为确实很多事情不是个人能够决定的，但我觉得如果一种所有人都心知肚明的不良风气一直在蔓延肯定是有人乐见其成的🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067851329205391449",
+        "created_at": "2026-06-19T06:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067853023595164137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067853023595164137",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067851329205391449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不是想骂人，如果这个事情这么普遍已经成为一个社会现象的话其实需要反思的不只是个体，我也懒得喷了因为确实很多事情不是个人能够决定的，但我觉得如果一种所有人都心知肚明的不良风气一直在蔓延肯定是有人乐见其成的🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067851329205391449",
+        "created_at": "2026-06-19T06:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067851329205391449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067851329205391449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我严重怀疑谴责性骚扰/性侵案件里不够完美的受害者这件事情，这么普遍是因为“受害女性保持基本的礼貌结果自己自作多情后被女性讨厌、拒绝、憎恶”已经成为某部分人的集体伤痛记忆了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3114,
+          "following_count": 985,
+          "like_count": 3999,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 3189
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

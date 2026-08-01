@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2068923865833902376",
+    "created_at": "2026-06-22T06:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T07:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068941089214804362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1491429513779359745",
+          "start": 0,
+          "username": "Laviewcake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068941089214804362",
+    "in_reply_to_user_id": "1491429513779359745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068936893061091735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laviewcake 你说的和我说的也不冲突吧😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068923865833902376",
+        "created_at": "2026-06-22T06:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068941089214804362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1491429513779359745",
+              "start": 0,
+              "username": "Laviewcake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068941089214804362",
+        "in_reply_to_user_id": "1491429513779359745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068936893061091735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laviewcake 你说的和我说的也不冲突吧😳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491429513779359745",
+        "conversation_id": "2068923865833902376",
+        "created_at": "2026-06-22T05:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068936893061091735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068936893061091735",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068923865833902376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 最有問題上的是在推特甚至能給你推封鎖自己的人，既然封鎖了不就代表不想封鎖的人互相刷到嗎，所以這個機制本身就有問題"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3140,
+          "following_count": 990,
+          "like_count": 4102,
+          "listed_count": 6,
+          "media_count": 235,
+          "tweet_count": 3288
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "🍰🐱🚃📸 Railway & Meme | Founder of @Nekonesiagov | 繁中/日本語/EN | sub @Viescake | pfp by @Bashamichi_mm04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "Nekonesiagov"
+              },
+              {
+                "end": 74,
+                "start": 65,
+                "username": "Viescake"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "Bashamichi_mm04"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Laview_img",
+                "end": 23,
+                "expanded_url": "https://t.me/Laview_img",
+                "start": 0,
+                "url": "https://t.co/bCIVrdoDn3"
+              }
+            ]
+          }
+        },
+        "id": "1491429513779359745",
+        "location": "🇯🇵生まれ育つ",
+        "name": "︎︎︎ラビューｹｰｷ🍰",
+        "pinned_tweet_id": "2058080661198754181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062810794123993088/TXCDEUfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2667,
+          "following_count": 1994,
+          "like_count": 93535,
+          "listed_count": 8,
+          "media_count": 2053,
+          "tweet_count": 8553
+        },
+        "url": "https://t.co/bCIVrdoDn3",
+        "username": "Laviewcake",
+        "verified": false
+      }
+    ]
+  }
+}

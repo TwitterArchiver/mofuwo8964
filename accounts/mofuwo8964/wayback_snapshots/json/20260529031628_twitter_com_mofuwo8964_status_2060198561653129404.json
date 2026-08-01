@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2060021978329997394",
+    "created_at": "2026-05-29T03:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060198561653129404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1816741117217710080",
+          "start": 0,
+          "username": "yoloy4319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060198561653129404",
+    "in_reply_to_user_id": "1816741117217710080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060027110056718794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoloy4319 在国内算传播毒品吧😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2060021978329997394",
+        "created_at": "2026-05-29T03:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060198561653129404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816741117217710080",
+              "start": 0,
+              "username": "yoloy4319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060198561653129404",
+        "in_reply_to_user_id": "1816741117217710080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060027110056718794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoloy4319 在国内算传播毒品吧😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816741117217710080",
+        "conversation_id": "2060021978329997394",
+        "created_at": "2026-05-28T15:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060027110056718794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060027110056718794",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060021978329997394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 腋窝，要是有人找你要三唑仑可千万别给，什么自己失眠怎么怎么严重，怎么怎么痛苦，无论那个人说什么都千万别给，尤其是国内！让他们自行就医"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2906,
+          "following_count": 902,
+          "like_count": 3608,
+          "listed_count": 7,
+          "media_count": 195,
+          "tweet_count": 2772
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-26T07:43:37.000Z",
+        "description": "无为而治，顺其自然，所见即真我 。一直的爱推@utashimoshi @Bones1719555 你可以问我任何问题https://t.co/74ZeyTJuoc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "utashimoshi"
+              },
+              {
+                "end": 48,
+                "start": 35,
+                "username": "Bones1719555"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%95%AA%E8%8…",
+                "end": 81,
+                "expanded_url": "https://ngl.link/%E7%95%AA%E8%8C%84%E7%82%92%E8%9B%8B",
+                "start": 58,
+                "url": "https://t.co/74ZeyTJuoc"
+              }
+            ]
+          }
+        },
+        "id": "1816741117217710080",
+        "location": "风妙水",
+        "name": "行不李",
+        "pinned_tweet_id": "1968604354425893075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901323444240977921/QZYKfy09_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 413,
+          "like_count": 19697,
+          "listed_count": 0,
+          "media_count": 636,
+          "tweet_count": 3221
+        },
+        "username": "yoloy4319",
+        "verified": false
+      }
+    ]
+  }
+}

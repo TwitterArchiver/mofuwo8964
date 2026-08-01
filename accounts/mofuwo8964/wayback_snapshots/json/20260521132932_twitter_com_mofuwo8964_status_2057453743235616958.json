@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2057453743235616958",
+    "created_at": "2026-05-21T13:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057453743235616958"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057453743235616958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "啊…我想被爱！\n不是作为孩子和亲人之类的被爱，因为我不想别人只是在爱我的身份。我也不想因为外表被爱，因为我不认为我好看，会让我变得神经兮兮。我也不想因为我的思想被爱，因为我的人格是被塑造的，其实也不属于我。我想要的被爱甚至不需要来源也不需要理由，更不需要一个什么存在作为“爱”的载体，虚空产生的爱也没关系。就算我变成甲虫，就算我无法呼吸，就算我变得愚钝麻木，就算我已经消失了几百年几千年，我也想这种情感能够包裹着我。。\n\n当然也有可能是上述几种反面材料的被爱都没有很好的得到我才如此这般，算了吧"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊…我想被爱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2057453743235616958",
+        "created_at": "2026-05-21T13:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057453743235616958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057453743235616958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "啊…我想被爱！\n不是作为孩子和亲人之类的被爱，因为我不想别人只是在爱我的身份。我也不想因为外表被爱，因为我不认为我好看，会让我变得神经兮兮。我也不想因为我的思想被爱，因为我的人格是被塑造的，其实也不属于我。我想要的被爱甚至不需要来源也不需要理由，更不需要一个什么存在作为“爱”的载体，虚空产生的爱也没关系。就算我变成甲虫，就算我无法呼吸，就算我变得愚钝麻木，就算我已经消失了几百年几千年，我也想这种情感能够包裹着我。。\n\n当然也有可能是上述几种反面材料的被爱都没有很好的得到我才如此这般，算了吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊…我想被爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2838,
+          "following_count": 900,
+          "like_count": 3571,
+          "listed_count": 6,
+          "media_count": 188,
+          "tweet_count": 2722
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

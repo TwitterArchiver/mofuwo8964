@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2029563076799086723",
+    "created_at": "2026-03-06T00:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T01:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029712142719725763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "992961520446377984",
+          "start": 0,
+          "username": "tataqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029712142719725763",
+    "in_reply_to_user_id": "992961520446377984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029707020601823599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tataqwq 原来是这样，我今天看到朋友花了一千块买了一个外套好震惊（外套就是普通的款式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2029563076799086723",
+        "created_at": "2026-03-06T00:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T01:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029712142719725763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "992961520446377984",
+              "start": 0,
+              "username": "tataqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029712142719725763",
+        "in_reply_to_user_id": "992961520446377984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029707020601823599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tataqwq 原来是这样，我今天看到朋友花了一千块买了一个外套好震惊（外套就是普通的款式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "992961520446377984",
+        "conversation_id": "2029563076799086723",
+        "created_at": "2026-03-05T23:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T00:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029707020601823599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029707020601823599",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029563076799086723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 在美国不贵，，你觉得贵是因为人民币购买力低"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜三个孩子的母亲｜看我不爽就受着呗！你是谁呀🥰",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029070470327463937/DjCGJIHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2553,
+          "following_count": 816,
+          "like_count": 2541,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 1752
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-06T02:57:29.000Z",
+        "description": "画师/游戏开发中｜不收门槛不加人｜自恋产物｜互动欢迎｜在美国第十一年｜小号：@tataqwq233｜鹿鹿教｜你正在被注视",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "tataqwq233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/tataqwq",
+                "end": 23,
+                "expanded_url": "http://ko-fi.com/tataqwq",
+                "start": 0,
+                "url": "https://t.co/DhdlGLu1jJ"
+              }
+            ]
+          }
+        },
+        "id": "992961520446377984",
+        "location": "鹿鹿塔",
+        "name": "塔塔鹿🌴",
+        "pinned_tweet_id": "1948561509887668523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546620807350259713/Bbuu5tvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19816,
+          "following_count": 719,
+          "like_count": 5385,
+          "listed_count": 65,
+          "media_count": 2205,
+          "tweet_count": 13021
+        },
+        "url": "https://t.co/DhdlGLu1jJ",
+        "username": "tataqwq",
+        "verified": true
+      }
+    ]
+  }
+}

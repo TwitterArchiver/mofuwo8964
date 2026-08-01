@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037349521399918595",
+    "created_at": "2026-03-27T02:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T03:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037349521399918595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "wkJisbkkk0827"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/kelmand1/statu…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/kelmand1/status/2037109496171123198",
+          "start": 39,
+          "url": "https://t.co/hOe6Q1UAkE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037349521399918595",
+    "in_reply_to_user_id": "1859117911119720448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037109496171123198",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wkJisbkkk0827 你也长这样，以后你需要支付的彩礼变更为188万 https://t.co/hOe6Q1UAkE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1005,
+        "media_key": "3_2037109304810233861",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVEHqHbYAUFhWa.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037349521399918595",
+        "created_at": "2026-03-27T02:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T03:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037349521399918595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "wkJisbkkk0827"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kelmand1/statu…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/kelmand1/status/2037109496171123198",
+              "start": 39,
+              "url": "https://t.co/hOe6Q1UAkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037349521399918595",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037109496171123198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wkJisbkkk0827 你也长这样，以后你需要支付的彩礼变更为188万 https://t.co/hOe6Q1UAkE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037109304810233861"
+          ]
+        },
+        "author_id": "1408728834799673351",
+        "conversation_id": "2037109496171123198",
+        "created_at": "2026-03-26T10:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037109496171123198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WiaD7w6wuS",
+              "end": 32,
+              "expanded_url": "https://x.com/KELMAND1/status/2037109496171123198/photo/1",
+              "media_key": "3_2037109304810233861",
+              "start": 9,
+              "url": "https://t.co/WiaD7w6wuS"
+            },
+            {
+              "display_url": "x.com/KELMAND1/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/KELMAND1/status/2037099005453468036",
+              "start": 33,
+              "url": "https://t.co/HoDQM7D8Eu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037109496171123198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 77255,
+          "like_count": 865,
+          "quote_count": 8,
+          "reply_count": 25,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037099005453468036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有高手🤣🤣🤣🤣 https://t.co/WiaD7w6wuS https://t.co/HoDQM7D8Eu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜社会不适应中",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2685,
+          "following_count": 851,
+          "like_count": 2818,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 2124
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "",
+        "id": "1859117911119720448",
+        "location": "日本 東京",
+        "name": "bp",
+        "pinned_tweet_id": "1860271173894045968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015743113537765376/MIqvsoh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 83,
+          "like_count": 3694,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 2653
+        },
+        "username": "wkJisbkkk0827",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:08:30.000Z",
+        "description": "古今多少事\n都付笑谈中",
+        "id": "1408728834799673351",
+        "location": "Abgrund",
+        "name": "Eason Mao☢",
+        "pinned_tweet_id": "1439835269469859844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015655180155355136/KOuv-jjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110251,
+          "following_count": 4154,
+          "like_count": 202773,
+          "listed_count": 630,
+          "media_count": 28050,
+          "tweet_count": 155862
+        },
+        "username": "KELMAND1",
+        "verified": true
+      }
+    ]
+  }
+}

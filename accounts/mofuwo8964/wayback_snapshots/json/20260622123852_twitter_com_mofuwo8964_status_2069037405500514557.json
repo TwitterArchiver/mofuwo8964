@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2068923865833902376",
+    "created_at": "2026-06-22T12:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069037405500514557"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069037405500514557",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068923865833902376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的意思是让你们要骂就骂马斯克和x别骂那些无辜的推主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068923865833902376",
+        "created_at": "2026-06-22T12:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069037405500514557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069037405500514557",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068923865833902376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的意思是让你们要骂就骂马斯克和x别骂那些无辜的推主"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068923865833902376",
+        "created_at": "2026-06-22T05:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068923865833902376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068923865833902376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6089,
+          "like_count": 212,
+          "quote_count": 4,
+          "reply_count": 27,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "推特的首页推送机制就相当于你在挨家挨户拜访别人的家，你可能会遇到自己喜欢的内容也可能会遇到自己不喜欢的内容，但是这是你自己需要调节的事情，因为没有任何人有满足你的信息摄取需求的义务；不想看到自己不喜欢的内容可以选择屏蔽隐藏或者换个app，把别人家打砸一通歇斯底里很下品很巨婴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3147,
+          "following_count": 992,
+          "like_count": 4129,
+          "listed_count": 6,
+          "media_count": 235,
+          "tweet_count": 3299
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

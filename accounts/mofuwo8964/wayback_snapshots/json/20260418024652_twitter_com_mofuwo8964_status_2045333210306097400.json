@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044907190276989218",
+    "created_at": "2026-04-18T02:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T03:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045333210306097400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "808195978884829184",
+          "start": 0,
+          "username": "TheOneHong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045333210306097400",
+    "in_reply_to_user_id": "808195978884829184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045312635315654883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheOneHong 偉いでしょ😼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044907190276989218",
+        "created_at": "2026-04-18T02:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045333210306097400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "808195978884829184",
+              "start": 0,
+              "username": "TheOneHong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045333210306097400",
+        "in_reply_to_user_id": "808195978884829184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045312635315654883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheOneHong 偉いでしょ😼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "808195978884829184",
+        "conversation_id": "2044907190276989218",
+        "created_at": "2026-04-18T01:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045312635315654883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045312635315654883",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044907190276989218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 自分の言語を作ったね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2646,
+          "following_count": 858,
+          "like_count": 3086,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 2372
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2016-12-12T06:25:11.000Z",
+        "description": "ドラえもんとちびまる子ちゃんが大好き、お兄ちゃんはおしまい、私に天使が舞い降りた、こみっくがーるず、スロースタート、魔法少女にあこがれて、SPY×FAMILY、MC、IT、パソコン、バランスボール\n\n青い空：https://t.co/iaJbhPjT6i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/TheOne…",
+                "end": 127,
+                "expanded_url": "http://bsky.app/profile/TheOneHong.yuen-network.top",
+                "start": 104,
+                "url": "https://t.co/iaJbhPjT6i"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/357613233",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/357613233",
+                "start": 0,
+                "url": "https://t.co/628j5l18Kc"
+              }
+            ]
+          }
+        },
+        "id": "808195978884829184",
+        "location": "Hong Kong",
+        "name": "TheOneHong阿康",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510494139972210688/Lh87aT3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 542,
+          "like_count": 25123,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 3484
+        },
+        "url": "https://t.co/628j5l18Kc",
+        "username": "TheOneHong",
+        "verified": false
+      }
+    ]
+  }
+}

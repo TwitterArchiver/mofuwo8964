@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2070583523166257364",
+    "created_at": "2026-06-26T19:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T20:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070583523166257364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/codyhunk/statu…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/codyhunk/status/2070348147222843755",
+          "start": 31,
+          "url": "https://t.co/WUTDclQYAg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070583523166257364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070348147222843755",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想到一个评论说从老公背上的一个黑头被挤掉才发现小三的🤣🤣🤣 https://t.co/WUTDclQYAg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2070348141736701952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtaqm2bMAAuzKL.jpg",
+        "width": 668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070583523166257364",
+        "created_at": "2026-06-26T19:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T20:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070583523166257364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/codyhunk/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/codyhunk/status/2070348147222843755",
+              "start": 31,
+              "url": "https://t.co/WUTDclQYAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070583523166257364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070348147222843755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想到一个评论说从老公背上的一个黑头被挤掉才发现小三的🤣🤣🤣 https://t.co/WUTDclQYAg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070348141736701952"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "2070348147222843755",
+        "created_at": "2026-06-26T03:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070348147222843755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7dd6qTyE5",
+              "end": 41,
+              "expanded_url": "https://x.com/codyhunk/status/2070348147222843755/photo/1",
+              "media_key": "3_2070348141736701952",
+              "start": 18,
+              "url": "https://t.co/Y7dd6qTyE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070348147222843755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 277616,
+          "like_count": 3047,
+          "quote_count": 2,
+          "reply_count": 553,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "谁能忍住看到一个电子秤不上去踩一下 https://t.co/Y7dd6qTyE5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 997,
+          "like_count": 4227,
+          "listed_count": 6,
+          "media_count": 224,
+          "tweet_count": 3365
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14404,
+          "following_count": 1136,
+          "like_count": 24768,
+          "listed_count": 42,
+          "media_count": 6620,
+          "tweet_count": 9884
+        },
+        "url": "",
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

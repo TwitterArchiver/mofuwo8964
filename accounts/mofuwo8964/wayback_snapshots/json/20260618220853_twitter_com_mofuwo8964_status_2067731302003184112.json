@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067402553311309866",
+    "created_at": "2026-06-18T22:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T23:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067731302003184112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1927719203571920896",
+          "start": 0,
+          "username": "KingOfZhumadian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067731302003184112",
+    "in_reply_to_user_id": "1927719203571920896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067439140648673429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KingOfZhumadian 那也算是世界大同了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067402553311309866",
+        "created_at": "2026-06-18T22:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T23:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067731302003184112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1927719203571920896",
+              "start": 0,
+              "username": "KingOfZhumadian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067731302003184112",
+        "in_reply_to_user_id": "1927719203571920896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067439140648673429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KingOfZhumadian 那也算是世界大同了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927719203571920896",
+        "conversation_id": "2067402553311309866",
+        "created_at": "2026-06-18T02:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067439140648673429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067439140648673429",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067434701288345983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 微妙也正常，因为我是纯社达。\n社达角度的社会正义最终目标还是要没人能占好处，自己赚不到所需生存资源的饿死活该那种。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3114,
+          "following_count": 984,
+          "like_count": 3979,
+          "listed_count": 6,
+          "media_count": 229,
+          "tweet_count": 3165
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-28T13:31:38.000Z",
+        "description": "反貧民社会ダーウィン主義者 反サロ ネオリベ 反支 極端政治ガチ派 JPN/ENG/CHN 好物：百合,NTT,JCB,ソニー,Apple 支持习近平统治🕷️。旧東大(TUSW) BA (Summer Cum Latte) 開智大学",
+        "id": "1927719203571920896",
+        "location": "🔪🕷️店之王",
+        "name": "🔪🕷️店之王",
+        "pinned_tweet_id": "2038245868042920064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927733495167946752/kfpfqEZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 955,
+          "like_count": 36038,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 15280
+        },
+        "url": "",
+        "username": "KingOfZhumadian",
+        "verified": true
+      }
+    ]
+  }
+}

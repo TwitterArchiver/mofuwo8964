@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2063251920857551237",
+    "created_at": "2026-06-06T13:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063251920857551237"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063251920857551237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在生活里我总是很想成为别人，我感觉我的人生过于灰暗了。哪怕是作为背景板和陪衬的身份，画面切到我在的地方，也会瞬间黯淡下来。然后，只有在我的幻想里，我的画里，我的日记里和这个账号里，我才是属于我自己的我，这一切才是围绕着这个我展开的世界。因为除了我自己以外，我什么都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2063251920857551237",
+        "created_at": "2026-06-06T13:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063251920857551237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063251920857551237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在生活里我总是很想成为别人，我感觉我的人生过于灰暗了。哪怕是作为背景板和陪衬的身份，画面切到我在的地方，也会瞬间黯淡下来。然后，只有在我的幻想里，我的画里，我的日记里和这个账号里，我才是属于我自己的我，这一切才是围绕着这个我展开的世界。因为除了我自己以外，我什么都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜ひとりごと|愚痴",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2920,
+          "following_count": 902,
+          "like_count": 3666,
+          "listed_count": 7,
+          "media_count": 198,
+          "tweet_count": 2828
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

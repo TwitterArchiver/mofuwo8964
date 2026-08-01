@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2059240484607078744",
+    "created_at": "2026-05-26T11:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059240484607078744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yizhiya9424460…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/yizhiya94244606/status/2058766676670177395",
+          "start": 31,
+          "url": "https://t.co/jckmNyuWyX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059240484607078744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058766676670177395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我特么不行了21岁生日这天刷到这个推文我要笑死了啊啊啊啊啊啊 https://t.co/jckmNyuWyX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2059240484607078744",
+        "created_at": "2026-05-26T11:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059240484607078744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yizhiya9424460…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/yizhiya94244606/status/2058766676670177395",
+              "start": 31,
+              "url": "https://t.co/jckmNyuWyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059240484607078744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058766676670177395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我特么不行了21岁生日这天刷到这个推文我要笑死了啊啊啊啊啊啊 https://t.co/jckmNyuWyX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533648833673953282",
+        "conversation_id": "2058766676670177395",
+        "created_at": "2026-05-25T04:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058766676670177395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058766676670177395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 20116,
+          "like_count": 319,
+          "quote_count": 6,
+          "reply_count": 54,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "21岁？劳荣枝在这个年纪已经杀过人了，你在干什么呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2840,
+          "following_count": 900,
+          "like_count": 3573,
+          "listed_count": 7,
+          "media_count": 191,
+          "tweet_count": 2744
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-06T03:16:06.000Z",
+        "description": "你想跟我说些什么",
+        "id": "1533648833673953282",
+        "location": "🚪199",
+        "name": "萌且呆",
+        "pinned_tweet_id": "2005208328839049594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058591614071697408/g_GhGpxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9449,
+          "following_count": 76,
+          "like_count": 13912,
+          "listed_count": 30,
+          "media_count": 177,
+          "tweet_count": 2302
+        },
+        "username": "yizhiya94244606",
+        "verified": false
+      }
+    ]
+  }
+}

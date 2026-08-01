@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044132856939851778"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2044132874002280937",
+    "created_at": "2026-04-14T19:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T20:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044132874002280937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cQykvcQEhi",
+          "end": 92,
+          "expanded_url": "https://x.com/mofuwo8964/status/2044132874002280937/photo/1",
+          "media_key": "3_2044132856939851778",
+          "start": 69,
+          "url": "https://t.co/cQykvcQEhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044132874002280937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨日去水果店看到的牌子\n我之前之前咬牙花了699円买的一兜子草莓在国内只要9.9rmb啊，原来日本草莓这么贵都是因为便宜的都出口到中国了 https://t.co/cQykvcQEhi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044132856939851778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF44AMuasAIHEM2.jpg",
+        "width": 1698
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044132856939851778"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044132874002280937",
+        "created_at": "2026-04-14T19:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044132874002280937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cQykvcQEhi",
+              "end": 92,
+              "expanded_url": "https://x.com/mofuwo8964/status/2044132874002280937/photo/1",
+              "media_key": "3_2044132856939851778",
+              "start": 69,
+              "url": "https://t.co/cQykvcQEhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044132874002280937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨日去水果店看到的牌子\n我之前之前咬牙花了699円买的一兜子草莓在国内只要9.9rmb啊，原来日本草莓这么贵都是因为便宜的都出口到中国了 https://t.co/cQykvcQEhi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "名字是咪，种族是咪。不擅长和人打交道，希望能找到动物朋友。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 848,
+          "like_count": 2909,
+          "listed_count": 5,
+          "media_count": 156,
+          "tweet_count": 2242
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

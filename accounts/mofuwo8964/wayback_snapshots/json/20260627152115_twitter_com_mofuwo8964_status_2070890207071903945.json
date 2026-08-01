@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2070890207071903945",
+    "created_at": "2026-06-27T15:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070890207071903945"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070890207071903945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好想死啊我今晚一直一边吐一边哭一边想死，半个月前左右被一个二百斤的身上散发着体臭的男性摸了屁股然后对方倒打一耙断章取义说我勾引他，还有比这更崩溃的事情吗？我真的很难受我觉得这是对我人格的侮辱啊，我以后再也不会相信那些说自己没朋友的人了，他们没朋友是有原因的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070890207071903945",
+        "created_at": "2026-06-27T15:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070890207071903945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070890207071903945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想死啊我今晚一直一边吐一边哭一边想死，半个月前左右被一个二百斤的身上散发着体臭的男性摸了屁股然后对方倒打一耙断章取义说我勾引他，还有比这更崩溃的事情吗？我真的很难受我觉得这是对我人格的侮辱啊，我以后再也不会相信那些说自己没朋友的人了，他们没朋友是有原因的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070735539935039488/KAKCmd7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 1005,
+          "like_count": 4271,
+          "listed_count": 6,
+          "media_count": 226,
+          "tweet_count": 3379
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

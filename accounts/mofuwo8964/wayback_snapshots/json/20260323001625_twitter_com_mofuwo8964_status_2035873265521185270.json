@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2035873265521185270",
+    "created_at": "2026-03-23T00:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T01:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035873265521185270"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035873265521185270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😇其实我在我爸妈身上也看到了某些精神病或者某些精神障碍的症状但是我也不敢说…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2035873265521185270",
+        "created_at": "2026-03-23T00:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T01:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035873265521185270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035873265521185270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😇其实我在我爸妈身上也看到了某些精神病或者某些精神障碍的症状但是我也不敢说…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜价值观扭曲但是那咋了｜需要互fo可以私信有时候不看小铃铛｜我真的有精神障碍饶了我吧！",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2597,
+          "following_count": 826,
+          "like_count": 2695,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 1909
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

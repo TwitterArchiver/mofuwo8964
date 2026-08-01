@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2074775935749067136",
+    "created_at": "2026-07-08T08:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074775935749067136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2074773968423378994",
+          "start": 61,
+          "url": "https://t.co/dZ73ccFacV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074775935749067136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074773968423378994",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "让声优抛头露面当作噱头承受舆论压力难道有额外的工资发吗= =更何况里面不缺私德败坏和业务能力极差的，我是观众不是粉丝，怒 https://t.co/dZ73ccFacV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2074775935749067136",
+        "created_at": "2026-07-08T08:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074775935749067136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2074773968423378994",
+              "start": 61,
+              "url": "https://t.co/dZ73ccFacV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074775935749067136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074773968423378994",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让声优抛头露面当作噱头承受舆论压力难道有额外的工资发吗= =更何况里面不缺私德败坏和业务能力极差的，我是观众不是粉丝，怒 https://t.co/dZ73ccFacV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2074773968423378994",
+        "created_at": "2026-07-08T08:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074773968423378994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074773968423378994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以说偶像是偶像声优是声优啊 不要逼女声优当偶像了啊 能不能把纸片人和声优分开啊 除了2.5次企划完全没有让女声优抛头露面的必要吧？？配音配成这个样子、唱歌唱成这个样子不觉得羞耻吗，声优就把声优的本职工作做好啊……我只是一个观众，一个路人而已啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 1013,
+          "like_count": 4403,
+          "listed_count": 6,
+          "media_count": 244,
+          "tweet_count": 3475
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

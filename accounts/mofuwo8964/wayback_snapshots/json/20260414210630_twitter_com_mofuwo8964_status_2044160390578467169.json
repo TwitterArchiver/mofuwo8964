@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044160390578467169",
+    "created_at": "2026-04-14T21:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T22:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044160390578467169"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044160390578467169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在感觉我很像一个被人丢掉的基因缺陷丑狗，我喜欢人类但是不敢接近人类。希望早日能遇到好心人接我回家。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044160390578467169",
+        "created_at": "2026-04-14T21:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T22:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044160390578467169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044160390578467169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在感觉我很像一个被人丢掉的基因缺陷丑狗，我喜欢人类但是不敢接近人类。希望早日能遇到好心人接我回家。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 848,
+          "like_count": 2924,
+          "listed_count": 5,
+          "media_count": 157,
+          "tweet_count": 2246
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

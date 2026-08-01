@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063533239189504000",
+        "3_2063533239239917568"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2063533260362400035",
+    "created_at": "2026-06-07T08:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063533260362400035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uee1JR85kK",
+          "end": 151,
+          "expanded_url": "https://x.com/mofuwo8964/status/2063533260362400035/photo/1",
+          "media_key": "3_2063533239189504000",
+          "start": 128,
+          "url": "https://t.co/Uee1JR85kK"
+        },
+        {
+          "display_url": "pic.x.com/Uee1JR85kK",
+          "end": 151,
+          "expanded_url": "https://x.com/mofuwo8964/status/2063533260362400035/photo/1",
+          "media_key": "3_2063533239239917568",
+          "start": 128,
+          "url": "https://t.co/Uee1JR85kK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063533260362400035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我今天意外登录上了一个三年前就已经冻结的账号。。\n好感慨，我当时还没成年呢，精神病很严重。总是自残（）每天总在想总在想死去的事情，也许能够幸福的事情。其实我从当时，应该说更小的时候，看了银河铁道之夜之后就在想，真正的幸福到底是什么呢，其实我现在依然不知道 https://t.co/Uee1JR85kK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1259,
+        "media_key": "3_2063533239189504000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMkjEgaAAAURUh.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1665,
+        "media_key": "3_2063533239239917568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMkjEsbQAALqam.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063533239189504000",
+            "3_2063533239239917568"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2063533260362400035",
+        "created_at": "2026-06-07T08:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063533260362400035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uee1JR85kK",
+              "end": 151,
+              "expanded_url": "https://x.com/mofuwo8964/status/2063533260362400035/photo/1",
+              "media_key": "3_2063533239189504000",
+              "start": 128,
+              "url": "https://t.co/Uee1JR85kK"
+            },
+            {
+              "display_url": "pic.x.com/Uee1JR85kK",
+              "end": 151,
+              "expanded_url": "https://x.com/mofuwo8964/status/2063533260362400035/photo/1",
+              "media_key": "3_2063533239239917568",
+              "start": 128,
+              "url": "https://t.co/Uee1JR85kK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063533260362400035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天意外登录上了一个三年前就已经冻结的账号。。\n好感慨，我当时还没成年呢，精神病很严重。总是自残（）每天总在想总在想死去的事情，也许能够幸福的事情。其实我从当时，应该说更小的时候，看了银河铁道之夜之后就在想，真正的幸福到底是什么呢，其实我现在依然不知道 https://t.co/Uee1JR85kK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2921,
+          "following_count": 906,
+          "like_count": 3678,
+          "listed_count": 7,
+          "media_count": 186,
+          "tweet_count": 2827
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2069252510045655447",
+    "created_at": "2026-06-23T10:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069362141677924693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1961425958277373952",
+          "start": 0,
+          "username": "i_make_hat"
+        },
+        {
+          "end": 21,
+          "id": "2068831555741728768",
+          "start": 12,
+          "username": "Dfkrsqvc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069362141677924693",
+    "in_reply_to_user_id": "1961425958277373952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069285046822056418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i_make_hat @Dfkrsqvc 他知道你是⭕️⭕️的又要急哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2069252510045655447",
+        "created_at": "2026-06-23T10:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069362141677924693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1961425958277373952",
+              "start": 0,
+              "username": "i_make_hat"
+            },
+            {
+              "end": 21,
+              "id": "2068831555741728768",
+              "start": 12,
+              "username": "Dfkrsqvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069362141677924693",
+        "in_reply_to_user_id": "1961425958277373952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069285046822056418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i_make_hat @Dfkrsqvc 他知道你是⭕️⭕️的又要急哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961425958277373952",
+        "conversation_id": "2069252510045655447",
+        "created_at": "2026-06-23T05:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069285046822056418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2068831555741728768",
+              "start": 0,
+              "username": "Dfkrsqvc"
+            },
+            {
+              "end": 21,
+              "id": "1592719222940962817",
+              "start": 10,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069285046822056418",
+        "in_reply_to_user_id": "2068831555741728768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069258760577745011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dfkrsqvc @mofuwo8964 スクショに君がクソリプしたあの人は慶應卒w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 997,
+          "like_count": 4155,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 3342
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-29T13:49:33.000Z",
+        "description": "学人说话",
+        "id": "1961425958277373952",
+        "location": "埼玉の山奥",
+        "name": "劉喃喃",
+        "pinned_tweet_id": "2009230579519422718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006409337653309443/x4oV5msk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 177,
+          "like_count": 8243,
+          "listed_count": 6,
+          "media_count": 91,
+          "tweet_count": 822
+        },
+        "url": "",
+        "username": "i_make_hat",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-21T23:01:34.000Z",
+        "description": "",
+        "id": "2068831555741728768",
+        "name": "Dfkr",
+        "pinned_tweet_id": "2068832688757456947",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "Dfkrsqvc",
+        "verified": false
+      }
+    ]
+  }
+}

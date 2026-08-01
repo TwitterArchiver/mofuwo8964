@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2059334556860514610",
+    "created_at": "2026-05-27T00:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059438729731985699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851403302938071040",
+          "start": 0,
+          "username": "UMP91147621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059438729731985699",
+    "in_reply_to_user_id": "1851403302938071040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059423625388957966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UMP91147621 emm 其实我说的是我和我的中国人同学比起来啦 他们也是在国内读的不过是那种国际学校，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2059334556860514610",
+        "created_at": "2026-05-27T00:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059438729731985699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851403302938071040",
+              "start": 0,
+              "username": "UMP91147621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059438729731985699",
+        "in_reply_to_user_id": "1851403302938071040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059423625388957966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UMP91147621 emm 其实我说的是我和我的中国人同学比起来啦 他们也是在国内读的不过是那种国际学校，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851403302938071040",
+        "conversation_id": "2059334556860514610",
+        "created_at": "2026-05-26T23:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059423625388957966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059423625388957966",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 942,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059334556860514610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 日本教育跟欧美比还差的远了，只不过因为中国教育实在太惨不忍睹了，导致日本教育也看起来是这么的好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2855,
+          "following_count": 901,
+          "like_count": 3578,
+          "listed_count": 7,
+          "media_count": 194,
+          "tweet_count": 2750
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-29T23:18:50.000Z",
+        "description": "日本に留学中     社会学部     \n99組/虹ヶ咲     🔖👑/🦒🍅     まゆち/もえぴ         \n歴史/言語/政治/哲学/書道/甲冑/城/戦国",
+        "id": "1851403302938071040",
+        "location": "青森 青森市",
+        "name": "大ばナナ",
+        "pinned_tweet_id": "1949770867963207815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851406388716863488/CrgWRYEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 1975,
+          "like_count": 44018,
+          "listed_count": 13,
+          "media_count": 6679,
+          "tweet_count": 38154
+        },
+        "username": "UMP91147621",
+        "verified": true
+      }
+    ]
+  }
+}

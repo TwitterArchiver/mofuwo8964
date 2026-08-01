@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2028333144240533625",
+    "created_at": "2026-03-02T04:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T05:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028333144240533625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aloevce/status…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/aloevce/status/2028183816544698682",
+          "start": 47,
+          "url": "https://t.co/sftRiFaTks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028333144240533625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028183816544698682",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同感啊老公二十一二的时候几把最硬的时候跟前女友狂做现在只留下了一个老东西理都不理我每天睡大觉 https://t.co/sftRiFaTks"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2028333144240533625",
+        "created_at": "2026-03-02T04:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028333144240533625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aloevce/status…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/aloevce/status/2028183816544698682",
+              "start": 47,
+              "url": "https://t.co/sftRiFaTks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028333144240533625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028183816544698682",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同感啊老公二十一二的时候几把最硬的时候跟前女友狂做现在只留下了一个老东西理都不理我每天睡大觉 https://t.co/sftRiFaTks"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495662254544789506",
+        "conversation_id": "2028183816544698682",
+        "created_at": "2026-03-01T19:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T20:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028183816544698682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aloevce/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Aloevce/status/2028183001599762856",
+              "start": 26,
+              "url": "https://t.co/g8znbvsrlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028183816544698682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 691,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028183001599762856",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一想到对象哥年轻时跟别人桌 现在却不跟我桌就好伤心 https://t.co/g8znbvsrlR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜三个孩子的母亲",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "肩膀胳膊连接处下面那个部位",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024639644768628736/sthKf3FC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2547,
+          "following_count": 814,
+          "like_count": 2507,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 1731
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "曼波",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "刻舟求剑",
+        "pinned_tweet_id": "2027771524984234230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18394,
+          "following_count": 2297,
+          "like_count": 54661,
+          "listed_count": 22,
+          "media_count": 6515,
+          "tweet_count": 22724
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

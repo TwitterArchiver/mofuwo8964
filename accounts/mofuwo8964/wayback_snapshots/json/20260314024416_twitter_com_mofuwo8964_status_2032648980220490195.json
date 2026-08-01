@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2032648980220490195",
+    "created_at": "2026-03-14T02:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T03:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032648980220490195"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032648980220490195",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天跟我的托尼聊天的时候，说起来托尼做的头发很好看（她在ins上本来就有一万多粉丝）\n我说我把我的照片发到了中国的sns上面，有很多点赞并且翻译了回复，托尼很高兴，然后我和她说可以用一下中国的sns（小红书）注册账号，会有很多人来的。账号就会めちゃ人气，\n希望托尼一定要火起来…她很厉害！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2032648980220490195",
+        "created_at": "2026-03-14T02:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T03:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032648980220490195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032648980220490195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天跟我的托尼聊天的时候，说起来托尼做的头发很好看（她在ins上本来就有一万多粉丝）\n我说我把我的照片发到了中国的sns上面，有很多点赞并且翻译了回复，托尼很高兴，然后我和她说可以用一下中国的sns（小红书）注册账号，会有很多人来的。账号就会めちゃ人气，\n希望托尼一定要火起来…她很厉害！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030870356953866240/H3S67KDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2548,
+          "following_count": 816,
+          "like_count": 2571,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 1778
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

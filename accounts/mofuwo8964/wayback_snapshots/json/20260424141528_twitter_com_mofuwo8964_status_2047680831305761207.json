@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2047358949498978674",
+    "created_at": "2026-04-24T14:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047680831305761207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "939338954540703744",
+          "start": 0,
+          "username": "MarshElloyii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047680831305761207",
+    "in_reply_to_user_id": "939338954540703744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047671884225929386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MarshElloyii 我明白你的意思了，你这么说的话确实是这样😔你说得对，日牌女儿服确实就是比较小的尺码…但是现在也有成人的尺码了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2047358949498978674",
+        "created_at": "2026-04-24T14:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047680831305761207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "939338954540703744",
+              "start": 0,
+              "username": "MarshElloyii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047680831305761207",
+        "in_reply_to_user_id": "939338954540703744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047671884225929386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MarshElloyii 我明白你的意思了，你这么说的话确实是这样😔你说得对，日牌女儿服确实就是比较小的尺码…但是现在也有成人的尺码了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "939338954540703744",
+        "conversation_id": "2047358949498978674",
+        "created_at": "2026-04-24T13:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047671884225929386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047671884225929386",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047667515703312491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 诶可能你展示的都比较苗条吧，甚至第一张背心看着紧绷绷。我懂你什么意思，只要人还在为身材焦虑，超小尺码的衣服就永远有市场，不管什么服装都一样。不过呢，不能忽视的就是日本那边女性在身材焦虑方面确实很严重，要是买日牌女儿服会不会就尺码比较小啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。\n追加：粉红健全逼社达激女男权蛆死远点看了好想吐",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2703,
+          "following_count": 864,
+          "like_count": 3176,
+          "listed_count": 6,
+          "media_count": 174,
+          "tweet_count": 2461
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-09T03:40:33.000Z",
+        "description": "中国人🇨🇳/25+/\nEN/日本语苦手/\nKNY（鬼滅之刃）宇左&童右固定, 宇童💎🌈✨杂多//聖闘士星矢，ship in All♍️，Deftmita（デフミタ ）//repost is available",
+        "id": "939338954540703744",
+        "name": "大高加索花园鳗🤧",
+        "pinned_tweet_id": "2014505102372176162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965386097036591105/2Bqvt1Sp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 286,
+          "like_count": 13094,
+          "listed_count": 4,
+          "media_count": 288,
+          "tweet_count": 1781
+        },
+        "username": "MarshElloyii",
+        "verified": true
+      }
+    ]
+  }
+}

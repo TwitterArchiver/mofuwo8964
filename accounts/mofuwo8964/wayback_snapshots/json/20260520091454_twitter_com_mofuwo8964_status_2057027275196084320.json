@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2057027275196084320",
+    "created_at": "2026-05-20T09:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057027275196084320"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057027275196084320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "让我现在重回高中的话呢，我一定要趁着自己还年轻还没把自己的人际关系搞成这个样子的时候呢，先找我初恋撞击因为我初恋几把大，再找我某前任撞击，因为他是个肌肉男而且几把用着舒服，然后再找到当时的老公撞击，那个时候老公是个楚楚可怜的精神病休学小可怜，然后我只要稍加手段呢就能把他调教好，让这个缺爱逼每日与我颠鸾倒凤夜夜笙歌"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "让我现在重回高中的话呢，我一定要趁着自己还年轻还没把自己的人际关系搞成这个样子的时候呢，先找我初恋撞击因为我初恋几把大，再找我某前任撞击，因为他是个肌肉男而且几把用着舒服，然后再找到当时的老公撞击，那个时候老公是个楚楚可怜的精神病休学小可怜，然后我只要稍加手段呢就能把他调教好，让"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2057027275196084320",
+        "created_at": "2026-05-20T09:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057027275196084320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057027275196084320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "让我现在重回高中的话呢，我一定要趁着自己还年轻还没把自己的人际关系搞成这个样子的时候呢，先找我初恋撞击因为我初恋几把大，再找我某前任撞击，因为他是个肌肉男而且几把用着舒服，然后再找到当时的老公撞击，那个时候老公是个楚楚可怜的精神病休学小可怜，然后我只要稍加手段呢就能把他调教好，让这个缺爱逼每日与我颠鸾倒凤夜夜笙歌"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让我现在重回高中的话呢，我一定要趁着自己还年轻还没把自己的人际关系搞成这个样子的时候呢，先找我初恋撞击因为我初恋几把大，再找我某前任撞击，因为他是个肌肉男而且几把用着舒服，然后再找到当时的老公撞击，那个时候老公是个楚楚可怜的精神病休学小可怜，然后我只要稍加手段呢就能把他调教好，让"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2836,
+          "following_count": 899,
+          "like_count": 3569,
+          "listed_count": 6,
+          "media_count": 186,
+          "tweet_count": 2716
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

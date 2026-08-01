@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037028025523699883",
+    "created_at": "2026-03-26T04:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T05:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037028025523699883"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037028025523699883",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在唯一的梦想就是买到メモリアルケーキ然后拍张遗照（并且需要经过我的手精修）最后去随便某个禁止进入的山野里吊死，我不想给别人添麻烦！而且死前我要把我的所有社交账号销毁，如果死后还被人讨论被人记住，那就相当于没死，我追求的死亡非常绝对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037028025523699883",
+        "created_at": "2026-03-26T04:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037028025523699883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037028025523699883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在唯一的梦想就是买到メモリアルケーキ然后拍张遗照（并且需要经过我的手精修）最后去随便某个禁止进入的山野里吊死，我不想给别人添麻烦！而且死前我要把我的所有社交账号销毁，如果死后还被人讨论被人记住，那就相当于没死，我追求的死亡非常绝对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2624,
+          "following_count": 846,
+          "like_count": 2798,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 2077
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

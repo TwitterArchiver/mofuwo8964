@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2033326812869366065",
+    "created_at": "2026-03-16T07:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T08:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033439022669046137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1358768275845386245",
+          "start": 0,
+          "username": "ricky_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033439022669046137",
+    "in_reply_to_user_id": "1358768275845386245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033394333987311789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ricky_awa 这种生活态度其实还挺好的，也许吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2033326812869366065",
+        "created_at": "2026-03-16T07:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T08:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033439022669046137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1358768275845386245",
+              "start": 0,
+              "username": "ricky_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033439022669046137",
+        "in_reply_to_user_id": "1358768275845386245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033394333987311789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ricky_awa 这种生活态度其实还挺好的，也许吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358768275845386245",
+        "conversation_id": "2033326812869366065",
+        "created_at": "2026-03-16T04:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033394333987311789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033394333987311789",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1779,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033326812869366065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 所以高纸国男一辈子都不在乎别人看法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030870356953866240/H3S67KDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 817,
+          "like_count": 2596,
+          "listed_count": 4,
+          "media_count": 149,
+          "tweet_count": 1795
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-08T13:23:05.000Z",
+        "description": "I only would like to see cute animals and gory art here.",
+        "id": "1358768275845386245",
+        "name": "Yukio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029948686596460544/jtTZma3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 141,
+          "like_count": 1276,
+          "listed_count": 6,
+          "media_count": 56,
+          "tweet_count": 599
+        },
+        "username": "ricky_awa",
+        "verified": false
+      }
+    ]
+  }
+}

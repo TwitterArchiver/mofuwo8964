@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2036023622494761179",
+    "created_at": "2026-03-23T10:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T11:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036023622494761179"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/taffylovedj/st…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/taffylovedj/status/2036022319597162690",
+          "start": 91,
+          "url": "https://t.co/Hs6WMHlfT4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036023622494761179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036022319597162690",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要闹了行不行，我说了一句恶心千早爱音就开始给我扣瞎骂蛆的帽子，然后又开始攻击我现生，自始至终我都在自己的推特发表自己的碎碎念来了一个人莫名其妙喷我然后说我贴脸？？我惊了，何逻辑… https://t.co/Hs6WMHlfT4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036023622494761179",
+        "created_at": "2026-03-23T10:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036023622494761179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/taffylovedj/st…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/taffylovedj/status/2036022319597162690",
+              "start": 91,
+              "url": "https://t.co/Hs6WMHlfT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036023622494761179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036022319597162690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要闹了行不行，我说了一句恶心千早爱音就开始给我扣瞎骂蛆的帽子，然后又开始攻击我现生，自始至终我都在自己的推特发表自己的碎碎念来了一个人莫名其妙喷我然后说我贴脸？？我惊了，何逻辑… https://t.co/Hs6WMHlfT4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604745986747899905",
+        "conversation_id": "2035960971387351430",
+        "created_at": "2026-03-23T10:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036022319597162690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036022319597162690",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036021820240064926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 何逻辑？我怎么就理亏了，而且是你先贴脸的吧🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2605,
+          "following_count": 829,
+          "like_count": 2706,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 1942
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-19T07:50:47.000Z",
+        "description": "",
+        "id": "1604745986747899905",
+        "name": "雪豹",
+        "pinned_tweet_id": "1953027169791426746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814626902369603584/rXtJEriZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 186,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 241
+        },
+        "username": "taffylovedj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2064720383123878267",
+    "created_at": "2026-06-10T14:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064720383123878267"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064720383123878267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎我很不想说这个，但是我曾经确实被我父母进行过长达三年的虐待。他们现在对我很好，但是之前的事情确实让我cptsd了= =\n加上我本身好像有一些神经方面发育或者是脑部问题，加上确确实实有相当严重的精神病，我不想说之前的一些很晦暗的过去，我现在，表现的很不正常跟这些有不可割舍的关系。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064720383123878267",
+        "created_at": "2026-06-10T14:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064720383123878267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064720383123878267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我很不想说这个，但是我曾经确实被我父母进行过长达三年的虐待。他们现在对我很好，但是之前的事情确实让我cptsd了= =\n加上我本身好像有一些神经方面发育或者是脑部问题，加上确确实实有相当严重的精神病，我不想说之前的一些很晦暗的过去，我现在，表现的很不正常跟这些有不可割舍的关系。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜精神残疾｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2978,
+          "following_count": 931,
+          "like_count": 3820,
+          "listed_count": 7,
+          "media_count": 205,
+          "tweet_count": 2950
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

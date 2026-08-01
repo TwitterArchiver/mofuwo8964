@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2033115818989617152"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2033115874601979951",
+    "created_at": "2026-03-15T09:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T10:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033115874601979951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kon369f3sI",
+          "end": 37,
+          "expanded_url": "https://x.com/mofuwo8964/status/2033115874601979951/video/1",
+          "media_key": "13_2033115818989617152",
+          "start": 14,
+          "url": "https://t.co/Kon369f3sI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033115874601979951",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ootd之今天也是粉彩小咪 https://t.co/Kon369f3sI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8700,
+        "height": 936,
+        "media_key": "13_2033115818989617152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033115818989617152/img/RLFN6SaFqCWZBNjn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033115818989617152/vid/avc1/320x416/TXCG91MrRbrV6EjE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033115818989617152/vid/avc1/480x624/pxm4r_yCups9Urun.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033115818989617152/vid/avc1/720x936/-tsueyZ4hFh3bboa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033115818989617152/pl/XSJGrsz8rbNqg2fT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033115818989617152"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2033115874601979951",
+        "created_at": "2026-03-15T09:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033115874601979951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kon369f3sI",
+              "end": 37,
+              "expanded_url": "https://x.com/mofuwo8964/status/2033115874601979951/video/1",
+              "media_key": "13_2033115818989617152",
+              "start": 14,
+              "url": "https://t.co/Kon369f3sI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033115874601979951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ootd之今天也是粉彩小咪 https://t.co/Kon369f3sI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030870356953866240/H3S67KDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2546,
+          "following_count": 815,
+          "like_count": 2574,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 1780
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044753663751848069",
+    "created_at": "2026-04-16T12:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T13:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044753663751848069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hakonootoko/st…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/hakonootoko/status/2044731473207693425",
+          "start": 107,
+          "url": "https://t.co/brRMZBcHaM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044753663751848069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "所以我都会写一个xxx様専用，而且砍价的时候也会问对方能不能写（我的名字）専用，但这招只能防君子不防小人。\n因为就算我写了，某次还有一个不知好歹的乐一番给我东西买了。随后我在闲鱼看到了直接把我的图拿过去高价倒的😁\nメルカリ官方管你这那的你要是キャンセル你的帐号就记一笔，但我实在不想卖给这个贱人，于是拖着不发货最后乐一番取消订单我秒通过😝"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044731473207693425",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以我都会写一个xxx様専用，而且砍价的时候也会问对方能不能写（我的名字）専用，但这招只能防君子不防小人。\n因为就算我写了，某次还有一个不知好歹的乐一番给我东西买了。随后我在闲鱼看到了直接把我的图拿过去高价倒的😁 https://t.co/brRMZBcHaM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044753663751848069",
+        "created_at": "2026-04-16T12:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044753663751848069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hakonootoko/st…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/hakonootoko/status/2044731473207693425",
+              "start": 107,
+              "url": "https://t.co/brRMZBcHaM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044753663751848069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "所以我都会写一个xxx様専用，而且砍价的时候也会问对方能不能写（我的名字）専用，但这招只能防君子不防小人。\n因为就算我写了，某次还有一个不知好歹的乐一番给我东西买了。随后我在闲鱼看到了直接把我的图拿过去高价倒的😁\nメルカリ官方管你这那的你要是キャンセル你的帐号就记一笔，但我实在不想卖给这个贱人，于是拖着不发货最后乐一番取消订单我秒通过😝"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044731473207693425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我都会写一个xxx様専用，而且砍价的时候也会问对方能不能写（我的名字）専用，但这招只能防君子不防小人。\n因为就算我写了，某次还有一个不知好歹的乐一番给我东西买了。随后我在闲鱼看到了直接把我的图拿过去高价倒的😁 https://t.co/brRMZBcHaM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942422285044047873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Mercari (メルカリ)",
+              "id": "1038130137156308992",
+              "name": "Mercari"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mercari (メルカリ)",
+              "id": "1038130137156308992",
+              "name": "Mercari"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "2044731473207693425",
+        "created_at": "2026-04-16T10:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044731473207693425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044731473207693425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1413,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟一个捞日在メルカリ上讨价还价，我刚把商品价格降下来，就被另一个捞日秒拍抢走了。\n看了一下个人主页，秒拍的捞日应该是贩子，砍价的是正常人。\n悲。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2635,
+          "following_count": 855,
+          "like_count": 2980,
+          "listed_count": 5,
+          "media_count": 163,
+          "tweet_count": 2290
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-08T03:15:47.000Z",
+        "description": "⚠混 乱 中 立 ⚠ \n☢无视一切道德法规传统习俗人文信仰政治立场的免责发言人。 \n☠️地狱梗・🤬高能脏话过敏者请慎重关注。\n工作日没空刷推，业余时间会分享读书笔记。 \n偶尔写小作文、讲墙内轶事、聊原生家庭，大多时间玩抽象。 \n别问，问就是金与正本人。 \n现流亡日本，组建临时政府中，与独裁国贼金正恩不共戴天。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Sunan00nna",
+                "end": 23,
+                "expanded_url": "https://x.com/Sunan00nna",
+                "start": 0,
+                "url": "https://t.co/mhV5wAjg3x"
+              }
+            ]
+          }
+        },
+        "id": "1942422285044047873",
+        "location": "女权市出生・防失联小号👉",
+        "name": "流亡公主•金與正•김여정（尊習討金）",
+        "pinned_tweet_id": "1999714467232514332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985109816225792/KNlXC_-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4079,
+          "following_count": 943,
+          "like_count": 41625,
+          "listed_count": 48,
+          "media_count": 421,
+          "tweet_count": 26988
+        },
+        "url": "https://t.co/mhV5wAjg3x",
+        "username": "Hakonootoko",
+        "verified": true
+      }
+    ]
+  }
+}

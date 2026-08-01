@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067402553311309866",
+    "created_at": "2026-06-18T22:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T23:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067731463710404772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1994036262513332224",
+          "start": 0,
+          "username": "Dooi_24en"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067731463710404772",
+    "in_reply_to_user_id": "1994036262513332224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067684411429282186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dooi_24en 哎我去这个真的好啊 希望能推广吧 但是棉条确实害怕卫生质量不过关😭🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067402553311309866",
+        "created_at": "2026-06-18T22:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T23:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067731463710404772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1994036262513332224",
+              "start": 0,
+              "username": "Dooi_24en"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067731463710404772",
+        "in_reply_to_user_id": "1994036262513332224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067684411429282186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dooi_24en 哎我去这个真的好啊 希望能推广吧 但是棉条确实害怕卫生质量不过关😭🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994036262513332224",
+        "conversation_id": "2067402553311309866",
+        "created_at": "2026-06-18T19:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067684411429282186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067684411429282186",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067402553311309866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 我大学就有免费提供卫生用具的 棉条一直都有，卫生巾那一栏总是空的不行，除非我上早九但是八点就在学校上厕所了能凑巧看到这么一次卫生巾补货，刚好来例假了赶紧用一片免费的（放的好像就是护舒宝的？还挺好用的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3114,
+          "following_count": 984,
+          "like_count": 3979,
+          "listed_count": 6,
+          "media_count": 229,
+          "tweet_count": 3166
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-27T13:31:17.000Z",
+        "description": "01直女/164/减肥中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pome.vip/9d8b86332a",
+                "end": 23,
+                "expanded_url": "https://www.pome.vip/9d8b86332a",
+                "start": 0,
+                "url": "https://t.co/Cr3R8wzjuc"
+              }
+            ]
+          }
+        },
+        "id": "1994036262513332224",
+        "location": "🟢🚪188/288",
+        "name": "疯狂爱丽丝•_•",
+        "pinned_tweet_id": "2049965157489524951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994037383042621440/RLbAZeHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 72,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 635
+        },
+        "url": "https://t.co/Cr3R8wzjuc",
+        "username": "Dooi_24en",
+        "verified": false
+      }
+    ]
+  }
+}

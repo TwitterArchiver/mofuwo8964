@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2066182024982036978",
+    "created_at": "2026-06-14T15:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066182024982036978"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066182024982036978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "迷雾很快乐。迷雾和周围的人比起来，成绩好；迷雾的eju日语最高的时候能考差不多320。迷雾考得上一般的学校。迷雾也很勤快，总是在忙碌。迷雾虽然很穷，但能自己投机倒把赚小钱补贴家用，迷雾很不体面，但迷雾在努力。迷雾也丑；迷雾还总是生病，但迷雾再活着，而且迷雾有迷雾呀！这就够了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066182024982036978",
+        "created_at": "2026-06-14T15:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066182024982036978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066182024982036978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迷雾很快乐。迷雾和周围的人比起来，成绩好；迷雾的eju日语最高的时候能考差不多320。迷雾考得上一般的学校。迷雾也很勤快，总是在忙碌。迷雾虽然很穷，但能自己投机倒把赚小钱补贴家用，迷雾很不体面，但迷雾在努力。迷雾也丑；迷雾还总是生病，但迷雾再活着，而且迷雾有迷雾呀！这就够了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "バツバツつちゃん",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3047,
+          "following_count": 964,
+          "like_count": 3881,
+          "listed_count": 6,
+          "media_count": 216,
+          "tweet_count": 3051
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

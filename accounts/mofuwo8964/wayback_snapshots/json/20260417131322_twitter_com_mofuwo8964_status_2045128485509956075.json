@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2045078155220959494",
+    "created_at": "2026-04-17T13:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045128485509956075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1833844728997244928",
+          "start": 0,
+          "username": "wohenhaosebale"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045128485509956075",
+    "in_reply_to_user_id": "1833844728997244928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045088669875540219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wohenhaosebale 对啊！尤其是穿日本入衣服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2045078155220959494",
+        "created_at": "2026-04-17T13:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045128485509956075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1833844728997244928",
+              "start": 0,
+              "username": "wohenhaosebale"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045128485509956075",
+        "in_reply_to_user_id": "1833844728997244928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045088669875540219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohenhaosebale 对啊！尤其是穿日本入衣服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833844728997244928",
+        "conversation_id": "2045078155220959494",
+        "created_at": "2026-04-17T10:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045088669875540219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045088669875540219",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045078155220959494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 斜肩设计感觉会比较友好，我也是肩宽，感觉肩宽的穿啥都显得好强壮…（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2638,
+          "following_count": 856,
+          "like_count": 3055,
+          "listed_count": 5,
+          "media_count": 163,
+          "tweet_count": 2325
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-11T12:27:36.000Z",
+        "description": "🚪50纯绿\n我喜欢画画..认识我你将看到我各种消肿诡异创作和莫名其妙的日常…",
+        "id": "1833844728997244928",
+        "location": "利物浦",
+        "name": "悲伤青少女",
+        "pinned_tweet_id": "2043372426248036759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962011260305989633/DZUTG-Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2935,
+          "following_count": 185,
+          "like_count": 1510,
+          "listed_count": 4,
+          "media_count": 391,
+          "tweet_count": 1396
+        },
+        "username": "wohenhaosebale",
+        "verified": false
+      }
+    ]
+  }
+}

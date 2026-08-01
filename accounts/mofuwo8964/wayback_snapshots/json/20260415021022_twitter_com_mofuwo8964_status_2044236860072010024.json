@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044236860072010024",
+    "created_at": "2026-04-15T02:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T03:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044236860072010024"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044236860072010024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坏了我真感觉我是一条狗，我现在希望有一对夫妻能够领养我并且视如己出。能把我立体人丈夫未来的学费和生活费一并结清就更好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044236860072010024",
+        "created_at": "2026-04-15T02:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044236860072010024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044236860072010024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏了我真感觉我是一条狗，我现在希望有一对夫妻能够领养我并且视如己出。能把我立体人丈夫未来的学费和生活费一并结清就更好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2634,
+          "following_count": 851,
+          "like_count": 2952,
+          "listed_count": 5,
+          "media_count": 157,
+          "tweet_count": 2268
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

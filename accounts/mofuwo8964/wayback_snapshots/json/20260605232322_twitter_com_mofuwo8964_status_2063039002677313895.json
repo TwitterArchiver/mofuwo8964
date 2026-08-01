@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063038997799268352"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2063039002677313895",
+    "created_at": "2026-06-05T23:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T00:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063039002677313895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/skDFcwLJ19",
+          "end": 53,
+          "expanded_url": "https://x.com/mofuwo8964/status/2063039002677313895/photo/1",
+          "media_key": "3_2063038997799268352",
+          "start": 30,
+          "url": "https://t.co/skDFcwLJ19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063039002677313895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "裙子本体是我拍的，背景是ai的。我太幸福了，我比谁都要幸福 https://t.co/skDFcwLJ19"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2063038997799268352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFjCb2acAAJUpD.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063038997799268352"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2063039002677313895",
+        "created_at": "2026-06-05T23:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063039002677313895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/skDFcwLJ19",
+              "end": 53,
+              "expanded_url": "https://x.com/mofuwo8964/status/2063039002677313895/photo/1",
+              "media_key": "3_2063038997799268352",
+              "start": 30,
+              "url": "https://t.co/skDFcwLJ19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063039002677313895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "裙子本体是我拍的，背景是ai的。我太幸福了，我比谁都要幸福 https://t.co/skDFcwLJ19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2912,
+          "following_count": 897,
+          "like_count": 3661,
+          "listed_count": 7,
+          "media_count": 200,
+          "tweet_count": 2814
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2063809534108569896",
+    "created_at": "2026-06-08T03:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063823171309162998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1957422409050636288",
+          "start": 0,
+          "username": "oguto114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063823171309162998",
+    "in_reply_to_user_id": "1957422409050636288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063822631934312614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oguto114514 确实不适合做朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2063809534108569896",
+        "created_at": "2026-06-08T03:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063823171309162998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1957422409050636288",
+              "start": 0,
+              "username": "oguto114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063823171309162998",
+        "in_reply_to_user_id": "1957422409050636288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063822631934312614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oguto114514 确实不适合做朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957422409050636288",
+        "conversation_id": "2063809534108569896",
+        "created_at": "2026-06-08T03:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063822631934312614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063822631934312614",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063821713025151025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 就像我上面说的一样、不要把和他们交朋友当成目标。只当成熟悉的陌生人或者人生旅途中一段暂时的同路人这样相处下来就很舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜精神残疾｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2954,
+          "following_count": 918,
+          "like_count": 3740,
+          "listed_count": 7,
+          "media_count": 192,
+          "tweet_count": 2873
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T12:40:57.000Z",
+        "description": "Wandel durch Handel                                                       \n              言い合う前にまずは事実確認してみる",
+        "id": "1957422409050636288",
+        "name": "華北防犯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206549077331968/yI-F-FyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 561,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 773
+        },
+        "username": "oguto114514",
+        "verified": false
+      }
+    ]
+  }
+}

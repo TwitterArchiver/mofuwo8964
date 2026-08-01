@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2070320962810290413",
+    "created_at": "2026-06-26T02:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070339495619342454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493495448208035847",
+          "start": 0,
+          "username": "RikuRiku1021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070339495619342454",
+    "in_reply_to_user_id": "1493495448208035847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070334382049812938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RikuRiku1021 好哦，那我将进行一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070320962810290413",
+        "created_at": "2026-06-26T02:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070339495619342454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493495448208035847",
+              "start": 0,
+              "username": "RikuRiku1021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070339495619342454",
+        "in_reply_to_user_id": "1493495448208035847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070334382049812938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RikuRiku1021 好哦，那我将进行一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493495448208035847",
+        "conversation_id": "2070320962810290413",
+        "created_at": "2026-06-26T02:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070334382049812938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070334382049812938",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070320962810290413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 最好还是湘南，医疗脱毛，价格比起三四年前的动辄几十万已经是断崖式下跌，推荐这家这个主要是因为日本脱毛店签约后捐钱跑路的特别多，湘南不是只做脱毛，所以不存在跑路行为。😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 996,
+          "like_count": 4190,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 3360
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-15T08:00:49.000Z",
+        "description": "社畜发泄分享欲版",
+        "id": "1493495448208035847",
+        "name": "麦麦麦当当",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051511660918272000/tyH5gTpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 512,
+          "like_count": 1951,
+          "listed_count": 6,
+          "media_count": 500,
+          "tweet_count": 2539
+        },
+        "url": "",
+        "username": "RikuRiku1021",
+        "verified": true
+      }
+    ]
+  }
+}

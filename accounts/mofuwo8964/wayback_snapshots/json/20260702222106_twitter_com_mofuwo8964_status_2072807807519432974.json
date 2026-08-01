@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2072804052367544451",
+    "created_at": "2026-07-02T22:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T23:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072807807519432974"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072807807519432974",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072804052367544451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "并不是说传统的坐月子文化而是泛指产后恢复，恁国这方面做得不好才会出来月子中心，而且月子中心还没有韩国完善；所以没钱就自己在家坐月子呗。你日好歹还有政府提供的産後ケア，唉不说了操逼去了，生个孩子一年能拿3600呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2072804052367544451",
+        "created_at": "2026-07-02T22:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T23:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072807807519432974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072807807519432974",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072804052367544451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并不是说传统的坐月子文化而是泛指产后恢复，恁国这方面做得不好才会出来月子中心，而且月子中心还没有韩国完善；所以没钱就自己在家坐月子呗。你日好歹还有政府提供的産後ケア，唉不说了操逼去了，生个孩子一年能拿3600呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2072804052367544451",
+        "created_at": "2026-07-02T22:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T23:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072804052367544451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chenpapro/stat…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/chenpapro/status/2072568932784013463",
+              "start": 107,
+              "url": "https://t.co/50EJaogPWX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072804052367544451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072568932784013463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了评论区一堆没生过孩子的人对坐月子这件事重拳出击，谁当plq的妈和老婆谁倒霉，他们真的知道生孩子是个什么事情吗？产后恢复非常非常重要🙏\n看了这个只觉得国女咋恁坏啊，在线收留20-25的斩杀线以下的美国大妞😭 https://t.co/50EJaogPWX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3172,
+          "following_count": 1013,
+          "like_count": 4333,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 3418
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

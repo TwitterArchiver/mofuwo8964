@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2080164050017869975",
+    "created_at": "2026-07-23T05:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080164050017869975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1722395249572757504",
+          "start": 3,
+          "username": "1_2_Django"
+        },
+        {
+          "end": 26,
+          "id": "1206553431860637697",
+          "start": 16,
+          "username": "luxqczvr8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080164050017869975",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 234
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080044833855684733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1_2_Django: @luxqczvr8 前世はベルトコンベア \n決まった地点での移動しか与えられなかったが、今世ではランダム地点へ運ぶ、これほどの喜びが他にあろうか"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2080164050017869975",
+        "created_at": "2026-07-23T05:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080164050017869975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1722395249572757504",
+              "start": 3,
+              "username": "1_2_Django"
+            },
+            {
+              "end": 26,
+              "id": "1206553431860637697",
+              "start": 16,
+              "username": "luxqczvr8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080164050017869975",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 234
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080044833855684733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1_2_Django: @luxqczvr8 前世はベルトコンベア \n決まった地点での移動しか与えられなかったが、今世ではランダム地点へ運ぶ、これほどの喜びが他にあろうか"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722395249572757504",
+        "conversation_id": "2079931288346354134",
+        "created_at": "2026-07-22T21:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T22:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080044833855684733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1206553431860637697",
+              "start": 0,
+              "username": "luxqczvr8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080044833855684733",
+        "in_reply_to_user_id": "1206553431860637697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 533400,
+          "like_count": 9003,
+          "quote_count": 17,
+          "reply_count": 10,
+          "retweet_count": 234
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079931288346354134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luxqczvr8 前世はベルトコンベア \n決まった地点での移動しか与えられなかったが、今世ではランダム地点へ運ぶ、これほどの喜びが他にあろうか"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3161,
+          "following_count": 1014,
+          "like_count": 4417,
+          "listed_count": 3,
+          "media_count": 249,
+          "tweet_count": 3493
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-08T23:27:39.000Z",
+        "description": "Hi Shingo. Even if everyone else forgets, I will never forget your word Namaka",
+        "id": "1722395249572757504",
+        "location": "cubewano",
+        "name": "マケマケ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723829061582233600/pfZLeUYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 272,
+          "like_count": 5539,
+          "listed_count": 1,
+          "media_count": 855,
+          "tweet_count": 4275
+        },
+        "url": "",
+        "username": "1_2_Django",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-16T12:36:12.000Z",
+        "description": "女性と向き合い続けて12年。極度の対人恐怖症から経🟢人数600人超。阿修羅流モテ講習 累計300名以上受講。 “再現性あるモテ”を体系化。※女性はフォロー非推奨@ShinjukuAshura @mote_ren_ai7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "ShinjukuAshura"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "mote_ren_ai7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "…ing.line-open-landing-app.workers.dev",
+                "end": 23,
+                "expanded_url": "https://line-open-landing.line-open-landing-app.workers.dev",
+                "start": 0,
+                "url": "https://t.co/aj5ClObzAe"
+              }
+            ]
+          }
+        },
+        "id": "1206553431860637697",
+        "location": "今だけ特大無料プレゼント投稿中👇",
+        "name": "危険なアシュラ@フォロバ100%",
+        "pinned_tweet_id": "2080071481946735080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077221317812867072/4H14BxK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 4056,
+          "like_count": 1867,
+          "listed_count": 15,
+          "media_count": 94,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/aj5ClObzAe",
+        "username": "luxqczvr8",
+        "verified": false
+      }
+    ]
+  }
+}

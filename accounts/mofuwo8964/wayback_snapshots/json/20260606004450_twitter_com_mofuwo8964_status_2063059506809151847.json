@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063059502874963968"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2063059506809151847",
+    "created_at": "2026-06-06T00:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T01:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063059506809151847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sh7Xn2dgqd",
+          "end": 36,
+          "expanded_url": "https://x.com/mofuwo8964/status/2063059506809151847/photo/1",
+          "media_key": "3_2063059502874963968",
+          "start": 13,
+          "url": "https://t.co/sh7Xn2dgqd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063059506809151847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我平生最恨的就是作弊行为 https://t.co/sh7Xn2dgqd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 431,
+        "media_key": "3_2063059502874963968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKF1r_NbMAALhXZ.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063059502874963968"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2063059506809151847",
+        "created_at": "2026-06-06T00:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063059506809151847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sh7Xn2dgqd",
+              "end": 36,
+              "expanded_url": "https://x.com/mofuwo8964/status/2063059506809151847/photo/1",
+              "media_key": "3_2063059502874963968",
+              "start": 13,
+              "url": "https://t.co/sh7Xn2dgqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063059506809151847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我平生最恨的就是作弊行为 https://t.co/sh7Xn2dgqd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜ひとりごと|愚痴",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2912,
+          "following_count": 901,
+          "like_count": 3661,
+          "listed_count": 7,
+          "media_count": 197,
+          "tweet_count": 2817
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

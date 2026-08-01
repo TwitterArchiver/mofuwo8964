@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037135587107627081",
+    "created_at": "2026-03-26T12:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037144977042805037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832136784354144259",
+          "start": 0,
+          "username": "kashihara28612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037144977042805037",
+    "in_reply_to_user_id": "1832136784354144259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037135587107627081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kashihara28612 教练我已私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037135587107627081",
+        "created_at": "2026-03-26T12:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037144977042805037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1832136784354144259",
+              "start": 0,
+              "username": "kashihara28612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037144977042805037",
+        "in_reply_to_user_id": "1832136784354144259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037135587107627081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kashihara28612 教练我已私信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832136784354144259",
+        "conversation_id": "2037135587107627081",
+        "created_at": "2026-03-26T11:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037135587107627081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037135587107627081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "接EJU日语文综、JLPT N1/N2一对一辅导，大概带3个人左右。\n\nEJU日语文综线下5000日元/h，线上4500日元/h，JLPT仅线上，3000日元/h，互关熟人优惠500（作为参考，塾的一对一价格普遍12000以上）\n\n主包来日第一年EJU日语文综双满分，19年开始在李嘉学园授课，有7年教学经验，一对一带过的学生日语最低分310+，文综170+，吊打各大小塾的讲师（比我强的都不在一线教学了）；JLPT N1不慎只考了174，由于教学经验较少所以价格较低。\n\n授课时间以周末为主，周一到周五的晚上7点之后可以线上课。\n\n另外提供志望理由书和面试的辅导和志望理由书纯手工代写，有需要的可以私信咨询"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 506,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "接EJU日语文综、JLPT N1/N2一对一辅导，大概带3个人左右。\n\nEJU日语文综线下5000日元/h，线上4500日元/h，JLPT仅线上，3000日元/h，互关熟人优惠500（作为参考，塾的一对一价格普遍12000以上）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 847,
+          "like_count": 2813,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 2098
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-06T19:20:49.000Z",
+        "description": "东京外资职场不分享｜东雪莲单推人｜交友文学、前女友文学｜发发做的饭和威士忌｜消費税増税支持、所得税・社会保険料を無くせ",
+        "id": "1832136784354144259",
+        "location": "东雪莲家",
+        "name": "後醍醐天豚（建武新政中）",
+        "pinned_tweet_id": "2037135587107627081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866136311071158272/pa5qc8-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 859,
+          "like_count": 96710,
+          "listed_count": 9,
+          "media_count": 372,
+          "tweet_count": 8124
+        },
+        "username": "kashihara28612",
+        "verified": true
+      }
+    ]
+  }
+}

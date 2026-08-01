@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2070504336946532471",
+    "created_at": "2026-06-27T03:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070715752886476805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2011701864161820674",
+          "start": 0,
+          "username": "manke1114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070715752886476805",
+    "in_reply_to_user_id": "2011701864161820674",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070688652007805265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manke1114 hhhhhhhhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070504336946532471",
+        "created_at": "2026-06-27T03:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070715752886476805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2011701864161820674",
+              "start": 0,
+              "username": "manke1114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070715752886476805",
+        "in_reply_to_user_id": "2011701864161820674",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070688652007805265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manke1114 hhhhhhhhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011701864161820674",
+        "conversation_id": "2070504336946532471",
+        "created_at": "2026-06-27T02:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070688652007805265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070688652007805265",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070504336946532471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 k师互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 997,
+          "like_count": 4232,
+          "listed_count": 6,
+          "media_count": 225,
+          "tweet_count": 3370
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-15T07:28:02.000Z",
+        "description": "情報学を勉強してる｜大阪に在住",
+        "id": "2011701864161820674",
+        "location": "Osaka-shi Nishi, Osaka",
+        "name": "下推自动机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047370155685212161/yIptcaKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 57,
+          "like_count": 47,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "manke1114",
+        "verified": true
+      }
+    ]
+  }
+}

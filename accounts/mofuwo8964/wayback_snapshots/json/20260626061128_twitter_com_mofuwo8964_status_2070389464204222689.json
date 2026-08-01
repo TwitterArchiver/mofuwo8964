@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2070389464204222689",
+    "created_at": "2026-06-26T06:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070389464204222689"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070389464204222689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我觉得我能鼓起勇气去脱毛实属不易因为我上次去美容院之类的地方脱毛还是在13岁14岁的时候被迷雾之母拖着去美容院（还是那句话我当时对个人护理和打理外表根本没有兴趣而且美容院的香味我很不喜欢因为我对气味很敏感然后还会被工作人员问身上的疤是怎么回事而且会处于一个我妈一直看着的状态自从我上了高中之后就再也没管过自己的体毛任其自由生长了但是我最近突然因为体毛而感到烦躁也不是因为好看就是单纯的看着就很烦也有可能是我被潜移默化影响了但总之我就是想把我身上的毛弄掉"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得我能鼓起勇气去脱毛实属不易因为我上次去美容院之类的地方脱毛还是在13岁14岁的时候被迷雾之母拖着去美容院（还是那句话我当时对个人护理和打理外表根本没有兴趣而且美容院的香味我很不喜欢因为我对气味很敏感然后还会被工作人员问身上的疤是怎么回事而且会处于一个我妈一直看着的状态自从我上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070389464204222689",
+        "created_at": "2026-06-26T06:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070389464204222689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070389464204222689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得我能鼓起勇气去脱毛实属不易因为我上次去美容院之类的地方脱毛还是在13岁14岁的时候被迷雾之母拖着去美容院（还是那句话我当时对个人护理和打理外表根本没有兴趣而且美容院的香味我很不喜欢因为我对气味很敏感然后还会被工作人员问身上的疤是怎么回事而且会处于一个我妈一直看着的状态自从我上了高中之后就再也没管过自己的体毛任其自由生长了但是我最近突然因为体毛而感到烦躁也不是因为好看就是单纯的看着就很烦也有可能是我被潜移默化影响了但总之我就是想把我身上的毛弄掉"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我能鼓起勇气去脱毛实属不易因为我上次去美容院之类的地方脱毛还是在13岁14岁的时候被迷雾之母拖着去美容院（还是那句话我当时对个人护理和打理外表根本没有兴趣而且美容院的香味我很不喜欢因为我对气味很敏感然后还会被工作人员问身上的疤是怎么回事而且会处于一个我妈一直看着的状态自从我上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3162,
+          "following_count": 996,
+          "like_count": 4192,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 3363
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

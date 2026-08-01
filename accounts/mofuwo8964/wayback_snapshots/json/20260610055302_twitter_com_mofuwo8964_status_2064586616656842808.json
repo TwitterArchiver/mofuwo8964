@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064586610893811712"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2064566185413526003",
+    "created_at": "2026-06-10T05:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064586616656842808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2064420415787638784",
+          "start": 0,
+          "username": "cHeNtivu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uuNh9GfBt4",
+          "end": 45,
+          "expanded_url": "https://x.com/mofuwo8964/status/2064586616656842808/photo/1",
+          "media_key": "3_2064586610893811712",
+          "start": 22,
+          "url": "https://t.co/uuNh9GfBt4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064586616656842808",
+    "in_reply_to_user_id": "2064420415787638784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064580998335975464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cHeNtivu 怪不得没人和你互关hh https://t.co/uuNh9GfBt4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064586610893811712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbilX5acAAkxZ8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064586610893811712"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064566185413526003",
+        "created_at": "2026-06-10T05:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064586616656842808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2064420415787638784",
+              "start": 0,
+              "username": "cHeNtivu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uuNh9GfBt4",
+              "end": 45,
+              "expanded_url": "https://x.com/mofuwo8964/status/2064586616656842808/photo/1",
+              "media_key": "3_2064586610893811712",
+              "start": 22,
+              "url": "https://t.co/uuNh9GfBt4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064586616656842808",
+        "in_reply_to_user_id": "2064420415787638784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064580998335975464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cHeNtivu 怪不得没人和你互关hh https://t.co/uuNh9GfBt4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064420415787638784",
+        "conversation_id": "2064566185413526003",
+        "created_at": "2026-06-10T05:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064580998335975464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064580998335975464",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064566185413526003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 其实你没那么有用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜精神残疾｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 926,
+          "like_count": 3809,
+          "listed_count": 7,
+          "media_count": 201,
+          "tweet_count": 2926
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-09T18:53:59.000Z",
+        "description": "ovo",
+        "id": "2064420415787638784",
+        "name": "cHeN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064431056225243136/_UQo53a1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "cHeNtivu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2071943680659755157",
+    "created_at": "2026-06-30T13:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071943680659755157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "腋窝’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1yGBe…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1yGBeeyyLazKN",
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 思诺思🎵药效中👁️开心～～～o(^▽^)o",
+          "unwound_url": "https://twitter.com/i/spaces/1yGBeeyyLazKN/peek",
+          "url": "https://t.co/L6NTH9P1H4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071943680659755157",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/L6NTH9P1H4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2071943680659755157",
+        "created_at": "2026-06-30T13:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071943680659755157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "腋窝’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1yGBe…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1yGBeeyyLazKN",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 思诺思🎵药效中👁️开心～～～o(^▽^)o",
+              "unwound_url": "https://twitter.com/i/spaces/1yGBeeyyLazKN/peek",
+              "url": "https://t.co/L6NTH9P1H4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071943680659755157",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/L6NTH9P1H4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3172,
+          "following_count": 1010,
+          "like_count": 4317,
+          "listed_count": 6,
+          "media_count": 229,
+          "tweet_count": 3402
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

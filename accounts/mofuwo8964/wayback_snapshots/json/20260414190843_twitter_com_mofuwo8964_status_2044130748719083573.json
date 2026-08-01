@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044105127783739893",
+    "created_at": "2026-04-14T19:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T20:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044130748719083573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805961850971992064",
+          "start": 0,
+          "username": "_taromeme_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044130748719083573",
+    "in_reply_to_user_id": "1805961850971992064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044113417427136672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_taromeme_ 拥抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044105127783739893",
+        "created_at": "2026-04-14T19:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044130748719083573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805961850971992064",
+              "start": 0,
+              "username": "_taromeme_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044130748719083573",
+        "in_reply_to_user_id": "1805961850971992064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044113417427136672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_taromeme_ 拥抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805961850971992064",
+        "conversation_id": "2044105127783739893",
+        "created_at": "2026-04-14T17:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044113417427136672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044113417427136672",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044105127783739893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 呃啊 祝腋窝早日康复……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "名字是咪，种族是咪。不擅长和人打交道，希望能找到动物朋友。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 848,
+          "like_count": 2904,
+          "listed_count": 5,
+          "media_count": 155,
+          "tweet_count": 2241
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-26T13:50:45.000Z",
+        "description": "タロミムです 何でもポストするで、フォローする方はご注意を あなたの絵好きです 日常垢：@taromeme0529",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "taromeme0529"
+              }
+            ]
+          }
+        },
+        "id": "1805961850971992064",
+        "location": "？",
+        "name": "taromeme",
+        "pinned_tweet_id": "1970776984470110683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020574135781625856/MvatFbDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 1192,
+          "like_count": 12394,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 2087
+        },
+        "username": "_taromeme_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2060022566329442405",
+    "created_at": "2026-05-28T15:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060022566329442405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sumire_panda87…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/sumire_panda87/status/2059927158563520903",
+          "start": 44,
+          "url": "https://t.co/AW3kbNpWst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060022566329442405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059927158563520903",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "事实是无论在哪个国家这三种发型的女生都随处可见（讲真相对来说东亚女生的审美还是很一致的 https://t.co/AW3kbNpWst"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059927151219236864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZU1H-a4AAoznB.jpg",
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2060022566329442405",
+        "created_at": "2026-05-28T15:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060022566329442405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sumire_panda87…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/sumire_panda87/status/2059927158563520903",
+              "start": 44,
+              "url": "https://t.co/AW3kbNpWst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060022566329442405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059927158563520903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事实是无论在哪个国家这三种发型的女生都随处可见（讲真相对来说东亚女生的审美还是很一致的 https://t.co/AW3kbNpWst"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059927151219236864"
+          ]
+        },
+        "author_id": "1693551429376720896",
+        "conversation_id": "2059927158563520903",
+        "created_at": "2026-05-28T09:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059927158563520903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SE2gF1hu0t",
+              "end": 23,
+              "expanded_url": "https://x.com/sumire_panda87/status/2059927158563520903/photo/1",
+              "media_key": "3_2059927151219236864",
+              "start": 0,
+              "url": "https://t.co/SE2gF1hu0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059927158563520903",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 609,
+          "impression_count": 112685,
+          "like_count": 11232,
+          "quote_count": 68,
+          "reply_count": 1,
+          "retweet_count": 300
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SE2gF1hu0t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2910,
+          "following_count": 902,
+          "like_count": 3609,
+          "listed_count": 7,
+          "media_count": 195,
+          "tweet_count": 2768
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-21T09:11:49.000Z",
+        "description": "illustration┊︎fashion┊︎大人可愛い女の子とお洋服が大好きです*.+ﾟ┊︎",
+        "id": "1693551429376720896",
+        "location": "無断転載、AI学習× Do not repost.",
+        "name": "スミレ / sumire",
+        "pinned_tweet_id": "2048350374202139074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046959964925935616/9PfWOzBu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 31,
+          "like_count": 4403,
+          "listed_count": 18,
+          "media_count": 17,
+          "tweet_count": 3226
+        },
+        "username": "sumire_panda87",
+        "verified": false
+      }
+    ]
+  }
+}

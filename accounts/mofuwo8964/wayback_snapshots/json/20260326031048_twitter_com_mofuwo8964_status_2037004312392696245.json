@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037004312392696245",
+    "created_at": "2026-03-26T03:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T04:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037004312392696245"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037004312392696245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨晚有一件事情使我特别难受，倒也不是什么大事情，虽然性质完全不是那样但是如果我敢说出来绝对会被某些互联网群体骂厌女辱女，我觉得这样肆意审判别人厌女辱女是对我被女性傻逼冒犯之后的反击权的剥夺，我感到很不爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037004312392696245",
+        "created_at": "2026-03-26T03:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T04:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037004312392696245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037004312392696245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚有一件事情使我特别难受，倒也不是什么大事情，虽然性质完全不是那样但是如果我敢说出来绝对会被某些互联网群体骂厌女辱女，我觉得这样肆意审判别人厌女辱女是对我被女性傻逼冒犯之后的反击权的剥夺，我感到很不爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2624,
+          "following_count": 846,
+          "like_count": 2781,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 2064
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

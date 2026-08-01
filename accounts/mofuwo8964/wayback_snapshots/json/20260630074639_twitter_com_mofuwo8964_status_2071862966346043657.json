@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2071812481799094660",
+    "created_at": "2026-06-30T07:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071862966346043657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1885180248838594563",
+          "start": 0,
+          "username": "piggyningning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071862966346043657",
+    "in_reply_to_user_id": "1885180248838594563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071812481799094660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@piggyningning 我不行了他回复好急，怎么这么急哈哈哈哈感觉是那种爱扰民的低素质人群"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2071812481799094660",
+        "created_at": "2026-06-30T07:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071862966346043657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1885180248838594563",
+              "start": 0,
+              "username": "piggyningning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071862966346043657",
+        "in_reply_to_user_id": "1885180248838594563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071812481799094660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@piggyningning 我不行了他回复好急，怎么这么急哈哈哈哈感觉是那种爱扰民的低素质人群"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885180248838594563",
+        "conversation_id": "2071812481799094660",
+        "created_at": "2026-06-30T04:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071812481799094660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arschampion202…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/arschampion2026/status/2071763780086698146",
+              "start": 21,
+              "url": "https://t.co/kTsE5i1y0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071812481799094660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 232,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071763780086698146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "低素质球迷这不就来了吗😂自己都写脑门上了 https://t.co/kTsE5i1y0i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3172,
+          "following_count": 1009,
+          "like_count": 4316,
+          "listed_count": 6,
+          "media_count": 229,
+          "tweet_count": 3398
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-31T04:16:32.000Z",
+        "description": "🇯🇵政治経済学部一年生｜地球Online的初心者，所有内容仅代表个人的生活 兴趣 学习与思考。｜欢迎友好交流 不说教不建议 性取向女 请勿骚扰\n“认知提升就是不断自我毁灭”——夏河",
+        "id": "1885180248838594563",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "クラゲ🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968963851346747392/ikD1C-XK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 72,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "piggyningning",
+        "verified": true
+      }
+    ]
+  }
+}

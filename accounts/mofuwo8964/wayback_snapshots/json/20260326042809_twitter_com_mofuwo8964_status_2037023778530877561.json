@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037020885811626013",
+    "created_at": "2026-03-26T04:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T05:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037023778530877561"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037023778530877561",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037020885811626013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当然我现在可以正常在互联网发表弱智言论已经是治疗后的结果了，感谢医生，我真该送个锦旗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1135,
+        "media_key": "3_2037020872763203588",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HETzsPEbYAQlIEi.jpg",
+        "width": 1301
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037020872759009281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HETzsPDbYAEp-uG.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037020885811626013",
+        "created_at": "2026-03-26T04:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037023778530877561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037023778530877561",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037020885811626013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当然我现在可以正常在互联网发表弱智言论已经是治疗后的结果了，感谢医生，我真该送个锦旗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037020872763203588",
+            "3_2037020872759009281"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037020885811626013",
+        "created_at": "2026-03-26T04:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037020885811626013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZNSh27JM6l",
+              "end": 118,
+              "expanded_url": "https://x.com/mofuwo8964/status/2037020885811626013/photo/1",
+              "media_key": "3_2037020872763203588",
+              "start": 95,
+              "url": "https://t.co/ZNSh27JM6l"
+            },
+            {
+              "display_url": "pic.x.com/ZNSh27JM6l",
+              "end": 118,
+              "expanded_url": "https://x.com/mofuwo8964/status/2037020885811626013/photo/1",
+              "media_key": "3_2037020872759009281",
+              "start": 95,
+              "url": "https://t.co/ZNSh27JM6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037020885811626013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我一开始不是这样，我一开始只是一个有点抑郁的小女孩，然后自杀好几次未果还被父母压力终于精神失常了，我坚信自己只是一个生活在人类躯体中的动物，每天门也不出天天就在家里画画、跟虚拟生物对话\n🔽这是那个虚拟生物，但也算是我的自我认知，都是我初中画的了，这个神秘毛绒生物大部分时间对我很好，少部分时间有点刻薄，我的名字小咪也来自于这个神秘毛绒生物的第一个字的发音"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我一开始不是这样，我一开始只是一个有点抑郁的小女孩，然后自杀好几次未果还被父母压力终于精神失常了，我坚信自己只是一个生活在人类躯体中的动物，每天门也不出天天就在家里画画、跟虚拟生物对话 https://t.co/ZNSh27JM6l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2624,
+          "following_count": 846,
+          "like_count": 2798,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 2076
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

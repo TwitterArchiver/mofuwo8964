@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2045317417602318452",
+    "created_at": "2026-04-18T01:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T02:43:21.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045317224177770675",
+      "2045317417602318452"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045317417602318452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "过年其他俩人都回国了 死妈舍友直接宿舍群下通知说她老母没定酒店即将入住我们宿舍\n\n其实我当天就委婉提出反对 舍友已读不回 晚上十点客厅出现陌生旅行箱一个，入住了我寻思也不好赶…于是大年初一就被这一对东北亲子贴脸上演母慈子孝戏码，现在呼吁情侣不要把网友当套用能不能也呼吁一下母子不要把舍友当脐带用？？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "过年其他俩人都回国了 死妈舍友直接宿舍群下通知说她老母没定酒店即将入住我们宿舍\n\n其实我当天就委婉提出反对 舍友已读不回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2045317224177770675",
+        "created_at": "2026-04-18T01:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:43:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045317224177770675",
+          "2045317417602318452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045317224177770675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "过年其他俩人都回国了 死妈舍友直接宿舍群下通知说她老母没定机票即将入住我们宿舍\n\n其实我当天就委婉提出反对 舍友已读不回 晚上十点客厅出现陌生旅行箱一个，入住了我寻思也不好赶…于是大年初一就被这一对东北亲子贴脸上演母慈子孝戏码，现在呼吁情侣不要把网友当套用能不能也呼吁一下母子不要把舍友当脐带用？？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过年其他俩人都回国了 死妈舍友直接宿舍群下通知说她老母没定机票即将入住我们宿舍\n\n其实我当天就委婉提出反对 舍友已读不回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2045317417602318452",
+        "created_at": "2026-04-18T01:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:43:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045317224177770675",
+          "2045317417602318452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045317417602318452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "过年其他俩人都回国了 死妈舍友直接宿舍群下通知说她老母没定酒店即将入住我们宿舍\n\n其实我当天就委婉提出反对 舍友已读不回 晚上十点客厅出现陌生旅行箱一个，入住了我寻思也不好赶…于是大年初一就被这一对东北亲子贴脸上演母慈子孝戏码，现在呼吁情侣不要把网友当套用能不能也呼吁一下母子不要把舍友当脐带用？？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过年其他俩人都回国了 死妈舍友直接宿舍群下通知说她老母没定酒店即将入住我们宿舍\n\n其实我当天就委婉提出反对 舍友已读不回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2645,
+          "following_count": 858,
+          "like_count": 3082,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 2364
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

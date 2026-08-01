@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2049443051257598060",
+    "created_at": "2026-04-30T07:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T08:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049754327527587958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002941421763059712",
+          "start": 0,
+          "username": "Lynn_Ambrosius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049754327527587958",
+    "in_reply_to_user_id": "2002941421763059712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049457757137567838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lynn_Ambrosius 我要笑死了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2049457757137567838].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2049457757137567838",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2049457757137567838"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2049443051257598060",
+        "created_at": "2026-04-30T07:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049754327527587958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002941421763059712",
+              "start": 0,
+              "username": "Lynn_Ambrosius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049754327527587958",
+        "in_reply_to_user_id": "2002941421763059712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049457757137567838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lynn_Ambrosius 我要笑死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。\n追加：粉红健全逼社达激女男权蛆死远点看了好想吐",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2751,
+          "following_count": 868,
+          "like_count": 3274,
+          "listed_count": 6,
+          "media_count": 181,
+          "tweet_count": 2517
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-22T03:17:23.000Z",
+        "description": "互联网老人，搞笑女，暖妈，哥特女，小众游戏考古学家，AAA万事屋金牌🥇探员，战斗爽，随地大小声滑动变阻电音蝌蚪女王👸🏻",
+        "id": "2002941421763059712",
+        "location": "Rusty Lake",
+        "name": "Lynn_Ambrosius",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047253630852743168/ls9SC6Sa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 381,
+          "like_count": 28901,
+          "listed_count": 0,
+          "media_count": 533,
+          "tweet_count": 3869
+        },
+        "username": "Lynn_Ambrosius",
+        "verified": false
+      }
+    ]
+  }
+}

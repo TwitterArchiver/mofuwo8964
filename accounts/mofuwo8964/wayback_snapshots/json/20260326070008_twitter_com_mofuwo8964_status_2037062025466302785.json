@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037062025466302785",
+    "created_at": "2026-03-26T07:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T08:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037062025466302785"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037062025466302785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我觉得虽然老公伤害了我，但至少没有犯什么出轨之类的错误，虽然此人表达爱的方式常常让我有些负担，但是老公也在努力改正，我应当给老公一些机会，我应该对他宽容一些，老公自己生活得也很难过，我应该帮助他，应该修复我们的关系，我应该少想起那些创伤和压力，否则这样也会折磨我自己，我需要和老公一起慢慢向前走…我也不知道，也有可能我又在给自己洗脑"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得虽然老公伤害了我，但至少没有犯什么出轨之类的错误，虽然此人表达爱的方式常常让我有些负担，但是老公也在努力改正，我应当给老公一些机会，我应该对他宽容一些，老公自己生活得也很难过，我应该帮助他，应该修复我们的关系，我应该少想起那些创伤和压力，否则这样也会折磨我自己，我需要和老公"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037062025466302785",
+        "created_at": "2026-03-26T07:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037062025466302785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037062025466302785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得虽然老公伤害了我，但至少没有犯什么出轨之类的错误，虽然此人表达爱的方式常常让我有些负担，但是老公也在努力改正，我应当给老公一些机会，我应该对他宽容一些，老公自己生活得也很难过，我应该帮助他，应该修复我们的关系，我应该少想起那些创伤和压力，否则这样也会折磨我自己，我需要和老公一起慢慢向前走…我也不知道，也有可能我又在给自己洗脑"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得虽然老公伤害了我，但至少没有犯什么出轨之类的错误，虽然此人表达爱的方式常常让我有些负担，但是老公也在努力改正，我应当给老公一些机会，我应该对他宽容一些，老公自己生活得也很难过，我应该帮助他，应该修复我们的关系，我应该少想起那些创伤和压力，否则这样也会折磨我自己，我需要和老公"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2625,
+          "following_count": 846,
+          "like_count": 2802,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 2080
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

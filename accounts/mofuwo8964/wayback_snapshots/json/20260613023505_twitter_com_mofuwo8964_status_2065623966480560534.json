@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2065623966480560534",
+    "created_at": "2026-06-13T02:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065623966480560534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2065603700085940723",
+          "start": 39,
+          "url": "https://t.co/wJsdkfhqwb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065623966480560534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065603700085940723",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我当时还在扣扣空间写了一千字为什么韩国要攻打中国，现在早不知所踪了。太诡异了 https://t.co/wJsdkfhqwb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2065623966480560534",
+        "created_at": "2026-06-13T02:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065623966480560534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2065603700085940723",
+              "start": 39,
+              "url": "https://t.co/wJsdkfhqwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065623966480560534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065603700085940723",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我当时还在扣扣空间写了一千字为什么韩国要攻打中国，现在早不知所踪了。太诡异了 https://t.co/wJsdkfhqwb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2065603700085940723",
+        "created_at": "2026-06-13T01:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T02:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065603700085940723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065603700085940723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我两年前有段时间精神失常了特别坚定的认为韩国要来攻打中国然后每天都跟我爹妈灌输这样的理念，他们就把我送精神病院了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと 愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "バツバツつちゃん",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3018,
+          "following_count": 941,
+          "like_count": 3859,
+          "listed_count": 7,
+          "media_count": 209,
+          "tweet_count": 3005
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

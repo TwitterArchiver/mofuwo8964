@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2047028349005172929",
+    "created_at": "2026-04-22T19:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T20:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047029897894482037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1593905954575171584",
+          "start": 0,
+          "username": "wbsdsf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047029897894482037",
+    "in_reply_to_user_id": "1593905954575171584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047028349005172929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbsdsf 我肚子你也太刻薄了啊啊啊啊笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2047028349005172929",
+        "created_at": "2026-04-22T19:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T20:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047029897894482037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1593905954575171584",
+              "start": 0,
+              "username": "wbsdsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047029897894482037",
+        "in_reply_to_user_id": "1593905954575171584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047028349005172929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbsdsf 我肚子你也太刻薄了啊啊啊啊笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593905954575171584",
+        "conversation_id": "2047028349005172929",
+        "created_at": "2026-04-22T19:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T20:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047028349005172929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xmeaomaox/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/xmeaomaox/status/2046848521454911741",
+              "start": 13,
+              "url": "https://t.co/btRAkwd0Zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047028349005172929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046848521454911741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "四字怎么跟大果嚼多了一样 https://t.co/btRAkwd0Zi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 865,
+          "like_count": 3148,
+          "listed_count": 6,
+          "media_count": 169,
+          "tweet_count": 2427
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T09:56:15.000Z",
+        "description": "一个纯粹的性压抑郭楠\n仇男仇女仇异性恋仇同性恋仇顺直仇多元仇年上仇年下仇左仇友仇s仇m仇猫仇狗仇小孩仇老人\n埋胸爱好者\n再也不叫妈了因为没人愿意当\n@shbwbclmg 碎碎念小号只过熟人\nhttps://t.co/kFn7X34Ikl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "shbwbclmg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/198964dsfws",
+                "end": 118,
+                "expanded_url": "https://ngl.link/198964dsfws",
+                "start": 95,
+                "url": "https://t.co/kFn7X34Ikl"
+              }
+            ]
+          }
+        },
+        "id": "1593905954575171584",
+        "location": "马斯克妈妈的坟墓里",
+        "name": "也许没人认识我",
+        "pinned_tweet_id": "2044437568314560589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978164101701611520/lJ5SMSpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13747,
+          "following_count": 2230,
+          "like_count": 58520,
+          "listed_count": 19,
+          "media_count": 2723,
+          "tweet_count": 26381
+        },
+        "username": "wbsdsf",
+        "verified": false
+      }
+    ]
+  }
+}

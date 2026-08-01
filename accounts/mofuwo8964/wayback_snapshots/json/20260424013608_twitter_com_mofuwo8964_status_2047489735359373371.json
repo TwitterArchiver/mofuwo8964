@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047489725251104768"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2047358949498978674",
+    "created_at": "2026-04-24T01:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T02:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047489735359373371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1971654494619312128",
+          "start": 0,
+          "username": "nasksilik"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sn4tMnwTUX",
+          "end": 51,
+          "expanded_url": "https://x.com/mofuwo8964/status/2047489735359373371/photo/1",
+          "media_key": "3_2047489725251104768",
+          "start": 28,
+          "url": "https://t.co/Sn4tMnwTUX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047489735359373371",
+    "in_reply_to_user_id": "1971654494619312128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "女儿服取悦恋童癖是你自己说的啊。\n不过你要这么说那我就更不理解了啊，你为什么要把别人的审美偏好硬上升高度呢？把审美这种东西用正确不正确来评判你不觉得很荒谬吗，用穿搭来给别人扣帽子也真够离谱的，你反对别人伪装成幼儿请随意，但是这关女儿服什么事情？这只是一件衣服，哪怕没有女儿服这个概念，也会有松软高饱和蓬松的公主裙出现，因为有人就是会喜欢这样的衣服。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047485821918548266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nasksilik 女儿服取悦恋童癖是你自己说的啊。 https://t.co/Sn4tMnwTUX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 459,
+        "media_key": "3_2047489725251104768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGolDprasAA4q2e.jpg",
+        "width": 1047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047489725251104768"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2047358949498978674",
+        "created_at": "2026-04-24T01:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T02:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047489735359373371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1971654494619312128",
+              "start": 0,
+              "username": "nasksilik"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sn4tMnwTUX",
+              "end": 51,
+              "expanded_url": "https://x.com/mofuwo8964/status/2047489735359373371/photo/1",
+              "media_key": "3_2047489725251104768",
+              "start": 28,
+              "url": "https://t.co/Sn4tMnwTUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047489735359373371",
+        "in_reply_to_user_id": "1971654494619312128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "女儿服取悦恋童癖是你自己说的啊。\n不过你要这么说那我就更不理解了啊，你为什么要把别人的审美偏好硬上升高度呢？把审美这种东西用正确不正确来评判你不觉得很荒谬吗，用穿搭来给别人扣帽子也真够离谱的，你反对别人伪装成幼儿请随意，但是这关女儿服什么事情？这只是一件衣服，哪怕没有女儿服这个概念，也会有松软高饱和蓬松的公主裙出现，因为有人就是会喜欢这样的衣服。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047485821918548266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nasksilik 女儿服取悦恋童癖是你自己说的啊。 https://t.co/Sn4tMnwTUX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971654494619312128",
+        "conversation_id": "2047358949498978674",
+        "created_at": "2026-04-24T01:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T02:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047485821918548266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047485821918548266",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "跟取悦别人有啥关系？🤣男的可能对其他服装的女人也起性欲，但我不支持反对所有服装啊。女儿服自我取悦的就是自己可爱，松软，高饱和服+蓬松公主裙，配合的是公主传统文化里被保护被宠爱的形象，成人伪装成幼儿，希望永远被凝固在幼儿甜美形象，就是要被反对啊，正常家庭这种东西自己骗自己吧，正常家庭对于性别角色就是拥护的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047461002120487094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 跟取悦别人有啥关系？🤣男的可能对其他服装的女人也起性欲，但我不支持反对所有服装啊。女儿服自我取悦的就是自己可爱，松软，高饱和服+蓬松公主裙，配合的是公主传统文化里被保护被宠爱的形象，成人伪装成幼儿，希望永远被凝固在幼儿甜美形象，就是要被反对啊，正常家庭这种东西自己骗自己吧，正常家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 864,
+          "like_count": 3162,
+          "listed_count": 6,
+          "media_count": 175,
+          "tweet_count": 2444
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-26T19:15:32.000Z",
+        "description": "你的无神论者，反伊斯兰政权朋友",
+        "id": "1971654494619312128",
+        "location": "New York, USA",
+        "name": "Rhoxshna🇮🇷⚛️🚫🕎✝️☪️✡️🕉️",
+        "pinned_tweet_id": "2043038066802331873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030046367448715267/RNZNnroH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 819,
+          "like_count": 2664,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1423
+        },
+        "username": "nasksilik",
+        "verified": true
+      }
+    ]
+  }
+}

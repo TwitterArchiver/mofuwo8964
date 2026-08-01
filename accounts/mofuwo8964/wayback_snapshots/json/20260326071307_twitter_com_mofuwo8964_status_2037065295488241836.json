@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037030262828392661",
+    "created_at": "2026-03-26T07:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T08:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037065295488241836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1648402059526569988",
+          "start": 0,
+          "username": "Avxxxxyyyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037065295488241836",
+    "in_reply_to_user_id": "1648402059526569988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037041061445722330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Avxxxxyyyyyy 改花刀的时候脖子会吃醋哟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037030262828392661",
+        "created_at": "2026-03-26T07:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037065295488241836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1648402059526569988",
+              "start": 0,
+              "username": "Avxxxxyyyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037065295488241836",
+        "in_reply_to_user_id": "1648402059526569988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037041061445722330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Avxxxxyyyyyy 改花刀的时候脖子会吃醋哟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648402059526569988",
+        "conversation_id": "2037030262828392661",
+        "created_at": "2026-03-26T05:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037041061445722330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037041061445722330",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037030262828392661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 精神障碍者之间的恋爱就是药物过量。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2625,
+          "following_count": 846,
+          "like_count": 2802,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 2082
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-18T19:04:21.000Z",
+        "description": "互动大欢迎！DM大歓迎！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/avxy95252",
+                "end": 23,
+                "expanded_url": "https://ngl.link/avxy95252",
+                "start": 0,
+                "url": "https://t.co/UhVsTs9oO3"
+              }
+            ]
+          }
+        },
+        "id": "1648402059526569988",
+        "name": "Avxy",
+        "pinned_tweet_id": "2003534936700256303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979856921201897472/Hb-qWbfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 332,
+          "like_count": 4721,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 2804
+        },
+        "url": "https://t.co/UhVsTs9oO3",
+        "username": "Avxxxxyyyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

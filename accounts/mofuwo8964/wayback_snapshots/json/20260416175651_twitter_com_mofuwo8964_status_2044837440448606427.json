@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044596168978792955",
+    "created_at": "2026-04-16T17:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T18:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044837440448606427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2000969028073086976",
+          "start": 0,
+          "username": "mimi493761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044837440448606427",
+    "in_reply_to_user_id": "2000969028073086976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044821155933262314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimi493761 一个审美体系 你说出来自己笑了没…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044596168978792955",
+        "created_at": "2026-04-16T17:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044837440448606427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2000969028073086976",
+              "start": 0,
+              "username": "mimi493761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044837440448606427",
+        "in_reply_to_user_id": "2000969028073086976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044821155933262314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimi493761 一个审美体系 你说出来自己笑了没…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000969028073086976",
+        "conversation_id": "2044596168978792955",
+        "created_at": "2026-04-16T16:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044821155933262314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044821155933262314",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044596168978792955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 其实是因为胖的太多了，但又不想自律控制，想要歪曲一个审美体系来证明自己在社会客观评价体系里也很美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2633,
+          "following_count": 854,
+          "like_count": 3007,
+          "listed_count": 5,
+          "media_count": 164,
+          "tweet_count": 2299
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-16T16:39:55.000Z",
+        "description": "",
+        "id": "2000969028073086976",
+        "name": "mimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000969273020440580/n6I5Kshw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 361,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 169
+        },
+        "username": "mimi493761",
+        "verified": false
+      }
+    ]
+  }
+}

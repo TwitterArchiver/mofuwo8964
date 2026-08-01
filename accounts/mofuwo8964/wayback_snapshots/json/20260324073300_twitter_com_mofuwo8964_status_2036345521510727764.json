@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2036324599491862988",
+    "created_at": "2026-03-24T07:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T08:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036345521510727764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1130676080858165248",
+          "start": 0,
+          "username": "yuzu_sicyumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036345521510727764",
+    "in_reply_to_user_id": "1130676080858165248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036341925389967362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzu_sicyumi 我之前有去过那种口语练习的教室，就是大家一起聊天什么的，感觉障碍甚至没有我做题大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036324599491862988",
+        "created_at": "2026-03-24T07:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036345521510727764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1130676080858165248",
+              "start": 0,
+              "username": "yuzu_sicyumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036345521510727764",
+        "in_reply_to_user_id": "1130676080858165248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036341925389967362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzu_sicyumi 我之前有去过那种口语练习的教室，就是大家一起聊天什么的，感觉障碍甚至没有我做题大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130676080858165248",
+        "conversation_id": "2036324599491862988",
+        "created_at": "2026-03-24T07:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036341925389967362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036341925389967362",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036324599491862988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 多多和日本人对话交流，分数啥的过线了就行了，语言的本质是传达信息，口语最重要，别太执着试卷的分数"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2616,
+          "following_count": 830,
+          "like_count": 2733,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1992
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-21T03:25:59.000Z",
+        "description": "🇯🇵东京社畜｜想玩肉蒲团子的花园鳗",
+        "id": "1130676080858165248",
+        "location": "Tokyo-to, Japan",
+        "name": "のびのび",
+        "pinned_tweet_id": "1938026074568593552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642962265587712/XolfSqpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 145,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 336
+        },
+        "username": "yuzu_sicyumi",
+        "verified": false
+      }
+    ]
+  }
+}

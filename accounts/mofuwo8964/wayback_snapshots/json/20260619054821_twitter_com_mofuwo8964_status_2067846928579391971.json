@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067765591428252006",
+    "created_at": "2026-06-19T05:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067846928579391971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "3319577076",
+          "start": 0,
+          "username": "oh_qb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067846928579391971",
+    "in_reply_to_user_id": "3319577076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067846159599808596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oh_qb 我感觉每个人赚钱的过程都是在给别人打工呀，，我想要稳定没风险但是可以利润不那么高的工作所以我可能理解不太了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067765591428252006",
+        "created_at": "2026-06-19T05:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067846928579391971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3319577076",
+              "start": 0,
+              "username": "oh_qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067846928579391971",
+        "in_reply_to_user_id": "3319577076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067846159599808596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oh_qb 我感觉每个人赚钱的过程都是在给别人打工呀，，我想要稳定没风险但是可以利润不那么高的工作所以我可能理解不太了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3319577076",
+        "conversation_id": "2067765591428252006",
+        "created_at": "2026-06-19T05:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067846159599808596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067846159599808596",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067842032878719134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 完全没风险的可能没有，怕的话买点标普和日经，至少风险可控啊。逆天改命应该是很难，但多少能改善点生活吧。\n\n重要的是，大家都买就你不参与，不就等于你干啥都是在给别人打工么🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3114,
+          "following_count": 985,
+          "like_count": 3999,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 3186
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-19T04:51:03.000Z",
+        "description": "简称：社畜\n\n在日本长期生活的技术宅/社畜，靠投资缓慢积累资产。\n\n本职工作：SLAM / AI / 自动化相关，努力废物化人类。\n\n每天通勤单程1.5小时，所以碎碎念比较多——哪天不念叨了，基本就是我在宅 or FIRE了。\n\n游戏感觉地投资中，FX含み損中，我不卖就不算我亏。\n\n日常观察这个草台班子的世界",
+        "id": "3319577076",
+        "name": "職場の動物たち",
+        "pinned_tweet_id": "2066459134002958341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058689351320784896/mKznVI4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 36,
+          "like_count": 334,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 2505
+        },
+        "url": "",
+        "username": "oh_qb",
+        "verified": false
+      }
+    ]
+  }
+}

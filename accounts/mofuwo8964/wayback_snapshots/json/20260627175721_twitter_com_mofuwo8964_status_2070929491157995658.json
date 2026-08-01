@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2070929491157995658",
+    "created_at": "2026-06-27T17:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T18:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070929491157995658"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2070732749615546437",
+          "start": 124,
+          "url": "https://t.co/rml4Ya1GAV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070929491157995658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070732749615546437",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "論理とか言わないでください、私論理なんて分かんないだから、もしどうしても論理を語りたいなら私が受けてきた虐待の論理も一緒に説明してよ。だから論理なんて考えないことこそ、私の生き方なんだよね。誰かに指摘されるくらいなら、もう黙っててお願いいたします https://t.co/rml4Ya1GAV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070929491157995658",
+        "created_at": "2026-06-27T17:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070929491157995658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2070732749615546437",
+              "start": 124,
+              "url": "https://t.co/rml4Ya1GAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070929491157995658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070732749615546437",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "論理とか言わないでください、私論理なんて分かんないだから、もしどうしても論理を語りたいなら私が受けてきた虐待の論理も一緒に説明してよ。だから論理なんて考えないことこそ、私の生き方なんだよね。誰かに指摘されるくらいなら、もう黙っててお願いいたします https://t.co/rml4Ya1GAV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070732749615546437",
+        "created_at": "2026-06-27T04:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070732749615546437"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070732749615546437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 427,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "論理とか言わないでください私論理なんて分かんないだからもしどうしても論理を語りたいなら私が受けてきた虐待の論理も一緒に説明してよだから論理なんて考えないことこそ私の生き方なんだよね誰かに指摘されるくらいならもう黙っててお願いいたします"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070735539935039488/KAKCmd7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 1006,
+          "like_count": 4275,
+          "listed_count": 6,
+          "media_count": 226,
+          "tweet_count": 3380
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

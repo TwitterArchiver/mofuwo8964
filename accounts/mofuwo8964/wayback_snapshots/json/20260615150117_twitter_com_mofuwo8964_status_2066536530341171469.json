@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2066536530341171469",
+    "created_at": "2026-06-15T15:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066536530341171469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xa7co/status/2…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/xa7co/status/2066535094626713888",
+          "start": 33,
+          "url": "https://t.co/PE5nvo7IAv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066536530341171469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066535094626713888",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你又转生来了是吧？之前一直骚扰我，你长的很丑，很恶心我觉得你很贱 https://t.co/PE5nvo7IAv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066536530341171469",
+        "created_at": "2026-06-15T15:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066536530341171469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xa7co/status/2…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/xa7co/status/2066535094626713888",
+              "start": 33,
+              "url": "https://t.co/PE5nvo7IAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066536530341171469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066535094626713888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你又转生来了是吧？之前一直骚扰我，你长的很丑，很恶心我觉得你很贱 https://t.co/PE5nvo7IAv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063012698993086464",
+        "conversation_id": "2066532738342212072",
+        "created_at": "2026-06-15T14:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066535094626713888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066535094626713888",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066532738342212072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 赶快找个日本老头结婚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3065,
+          "following_count": 973,
+          "like_count": 3921,
+          "listed_count": 6,
+          "media_count": 222,
+          "tweet_count": 3075
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-05T21:39:41.000Z",
+        "description": "",
+        "id": "2063012698993086464",
+        "name": "ちょちょ",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 37,
+          "like_count": 626,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 52
+        },
+        "username": "xa7co",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2050595411694653650",
+    "created_at": "2026-05-03T06:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T07:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050832238825324862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751232930507063299",
+          "start": 0,
+          "username": "XuHar31002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050832238825324862",
+    "in_reply_to_user_id": "1751232930507063299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050600589961429369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuHar31002 主人快来领我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2050595411694653650",
+        "created_at": "2026-05-03T06:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050832238825324862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751232930507063299",
+              "start": 0,
+              "username": "XuHar31002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050832238825324862",
+        "in_reply_to_user_id": "1751232930507063299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050600589961429369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuHar31002 主人快来领我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751232930507063299",
+        "conversation_id": "2050595411694653650",
+        "created_at": "2026-05-02T15:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050600589961429369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050600589961429369",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050595411694653650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 会いたい🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。\n追加：粉红健全逼社达激女男权蛆死远点看了好想吐",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2765,
+          "following_count": 873,
+          "like_count": 3361,
+          "listed_count": 6,
+          "media_count": 184,
+          "tweet_count": 2563
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-27T13:17:32.000Z",
+        "description": "紫蘑菇/社恐全开⚠️/リア充はみんな爆発だ💥‼️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%B4%AB%E3%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%B4%AB%E3%81%97%E3%82%81%E3%81%98",
+                "start": 0,
+                "url": "https://t.co/AioVlyeODT"
+              }
+            ]
+          }
+        },
+        "id": "1751232930507063299",
+        "name": "紫色无毒香菇开锁师傅",
+        "pinned_tweet_id": "1986079645306179611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043754973318811648/lu3CbDfo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 64,
+          "like_count": 4274,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 853
+        },
+        "url": "https://t.co/AioVlyeODT",
+        "username": "XuHar31002",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2045138107344081213",
+    "created_at": "2026-04-17T13:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045138107344081213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1858023201588260865",
+          "start": 3,
+          "username": "VonLinne2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045138107344081213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045130935801352320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VonLinne2003: 嚇死我了，我得想想我以後遇到這種情況怎麽辦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2045138107344081213",
+        "created_at": "2026-04-17T13:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045138107344081213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1858023201588260865",
+              "start": 3,
+              "username": "VonLinne2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045138107344081213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045130935801352320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VonLinne2003: 嚇死我了，我得想想我以後遇到這種情況怎麽辦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858023201588260865",
+        "conversation_id": "2045130935801352320",
+        "created_at": "2026-04-17T13:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045130935801352320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amaodemao/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/amaodemao/status/2044950858765603212",
+              "start": 23,
+              "url": "https://t.co/OHkwy0pPK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045130935801352320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044950858765603212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嚇死我了，我得想想我以後遇到這種情況怎麽辦。 https://t.co/OHkwy0pPK7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2638,
+          "following_count": 856,
+          "like_count": 3064,
+          "listed_count": 5,
+          "media_count": 163,
+          "tweet_count": 2331
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-17T05:43:58.000Z",
+        "description": "安徽老鄉雞餐飲有限公司深池全資子公司 | Anhui Lao Xiang Ji Catering Co., Ltd. (Dubhlinn Branch)\n以正宗肥西老母雞湯溫暖每一位塔拉人的心。\nAuthentic Chicken Soup for the Taran Soul.\n\n【廣告位招租】",
+        "id": "1858023201588260865",
+        "location": "Dubhlinn",
+        "name": "深池老鄉雞 Laoxiangji (Dubhlinn)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008057272644288512/E90rWU75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 379,
+          "like_count": 22298,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 10097
+        },
+        "username": "VonLinne2003",
+        "verified": false
+      }
+    ]
+  }
+}

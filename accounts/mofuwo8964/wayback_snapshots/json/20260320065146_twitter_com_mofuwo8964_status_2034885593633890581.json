@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2034885593633890581",
+    "created_at": "2026-03-20T06:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T07:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034885593633890581"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034885593633890581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "说到妇科检查上，我没有做內检我是做的阴超…所以应该还稍微好一点…医生护士态度很好也很温和但是我还是有种轻微的不安感（我对入体检查很恐惧，同理抽血也是）\n\n其实看妇科之前我做了很久心理斗争🏳️但是在日本其实真的挺人性化，椅子可以自动上升打开你的腿，还会有一个帘子挡住你和医生啥也看不见，一定程度上减少了尴尬，但我还是很心累（我对耦合剂过敏，做完之后我的b很痒………）\n\n室友因为不来月经也去做过妇科检查，然后医生把她喊过去的时候上一个人还没做完…就这样上一个人的下体映入眼帘😇\n很多时候看妇科别人就看你约等于觉得你不“自爱”。。因为这个不去看病自己忍耐的人也很多…我只是做了阴超而已，我都不敢想象做內检有多恐怖😇😇😇"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说到妇科检查上，我没有做內检我是做的阴超…所以应该还稍微好一点…医生护士态度很好也很温和但是我还是有种轻微的不安感（我对入体检查很恐惧，同理抽血也是）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2034885593633890581",
+        "created_at": "2026-03-20T06:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T07:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034885593633890581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034885593633890581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说到妇科检查上，我没有做內检我是做的阴超…所以应该还稍微好一点…医生护士态度很好也很温和但是我还是有种轻微的不安感（我对入体检查很恐惧，同理抽血也是）\n\n其实看妇科之前我做了很久心理斗争🏳️但是在日本其实真的挺人性化，椅子可以自动上升打开你的腿，还会有一个帘子挡住你和医生啥也看不见，一定程度上减少了尴尬，但我还是很心累（我对耦合剂过敏，做完之后我的b很痒………）\n\n室友因为不来月经也去做过妇科检查，然后医生把她喊过去的时候上一个人还没做完…就这样上一个人的下体映入眼帘😇\n很多时候看妇科别人就看你约等于觉得你不“自爱”。。因为这个不去看病自己忍耐的人也很多…我只是做了阴超而已，我都不敢想象做內检有多恐怖😇😇😇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说到妇科检查上，我没有做內检我是做的阴超…所以应该还稍微好一点…医生护士态度很好也很温和但是我还是有种轻微的不安感（我对入体检查很恐惧，同理抽血也是）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者  ｜@heimaozhi8964 这是我的小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "heimaozhi8964"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033525613815078912/hjH8ZhYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2587,
+          "following_count": 828,
+          "like_count": 2667,
+          "listed_count": 4,
+          "media_count": 148,
+          "tweet_count": 1851
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

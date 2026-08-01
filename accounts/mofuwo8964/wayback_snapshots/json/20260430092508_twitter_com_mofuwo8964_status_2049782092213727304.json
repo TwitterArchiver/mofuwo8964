@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049076193153146880",
+        "3_2049076193438367744"
+      ],
+      "media_source_tweet_id": [
+        "2049076203299188889",
+        "2049076203299188889"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2049782092213727304",
+    "created_at": "2026-04-30T09:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T10:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049782092213727304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "835783962341486593",
+          "start": 3,
+          "username": "supennsa_er"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/svX6Gt0shQ",
+          "end": 54,
+          "expanded_url": "https://x.com/supennsa_er/status/2049076203299188889/photo/1",
+          "media_key": "3_2049076193153146880",
+          "start": 31,
+          "url": "https://t.co/svX6Gt0shQ"
+        },
+        {
+          "display_url": "pic.x.com/svX6Gt0shQ",
+          "end": 54,
+          "expanded_url": "https://x.com/supennsa_er/status/2049076203299188889/photo/1",
+          "media_key": "3_2049076193438367744",
+          "start": 31,
+          "url": "https://t.co/svX6Gt0shQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049782092213727304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6250
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049076203299188889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @supennsa_er: なんだこの天ぷら\n古新聞？ https://t.co/svX6Gt0shQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049076193153146880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_H8PKaYAAZcL1.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049076193438367744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_H8QOagAAaV_x.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049076193153146880",
+            "3_2049076193438367744"
+          ],
+          "media_source_tweet_id": [
+            "2049076203299188889",
+            "2049076203299188889"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049782092213727304",
+        "created_at": "2026-04-30T09:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049782092213727304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "835783962341486593",
+              "start": 3,
+              "username": "supennsa_er"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/svX6Gt0shQ",
+              "end": 54,
+              "expanded_url": "https://x.com/supennsa_er/status/2049076203299188889/photo/1",
+              "media_key": "3_2049076193153146880",
+              "start": 31,
+              "url": "https://t.co/svX6Gt0shQ"
+            },
+            {
+              "display_url": "pic.x.com/svX6Gt0shQ",
+              "end": 54,
+              "expanded_url": "https://x.com/supennsa_er/status/2049076203299188889/photo/1",
+              "media_key": "3_2049076193438367744",
+              "start": 31,
+              "url": "https://t.co/svX6Gt0shQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049782092213727304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6250
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049076203299188889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @supennsa_er: なんだこの天ぷら\n古新聞？ https://t.co/svX6Gt0shQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049076193153146880",
+            "3_2049076193438367744"
+          ]
+        },
+        "author_id": "835783962341486593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049076203299188889",
+        "created_at": "2026-04-28T10:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049076203299188889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/svX6Gt0shQ",
+              "end": 37,
+              "expanded_url": "https://x.com/supennsa_er/status/2049076203299188889/photo/1",
+              "media_key": "3_2049076193153146880",
+              "start": 14,
+              "url": "https://t.co/svX6Gt0shQ"
+            },
+            {
+              "display_url": "pic.x.com/svX6Gt0shQ",
+              "end": 37,
+              "expanded_url": "https://x.com/supennsa_er/status/2049076203299188889/photo/1",
+              "media_key": "3_2049076193438367744",
+              "start": 14,
+              "url": "https://t.co/svX6Gt0shQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049076203299188889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6809,
+          "impression_count": 21035572,
+          "like_count": 130646,
+          "quote_count": 664,
+          "reply_count": 944,
+          "retweet_count": 6250
+        },
+        "reply_settings": "everyone",
+        "text": "なんだこの天ぷら\n古新聞？ https://t.co/svX6Gt0shQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。\n追加：粉红健全逼社达激女男权蛆死远点看了好想吐",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2751,
+          "following_count": 870,
+          "like_count": 3311,
+          "listed_count": 6,
+          "media_count": 181,
+          "tweet_count": 2527
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-26T09:29:59.000Z",
+        "description": "",
+        "id": "835783962341486593",
+        "location": "埼玉県",
+        "name": "せいウチ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1091400224273096704/G13IxqlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 365,
+          "like_count": 7139,
+          "listed_count": 6,
+          "media_count": 458,
+          "tweet_count": 1890
+        },
+        "username": "supennsa_er",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2066027499465887970",
+    "created_at": "2026-06-14T05:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066027499465887970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "バツバツつちゃん’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1PKqr…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1PKqrrRrlDnGb",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2066027500883656704/snM_HoQ4?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2066027500883656704/snM_HoQ4?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: バツバツつちゃん’s Space",
+          "unwound_url": "https://twitter.com/i/spaces/1PKqrrRrlDnGb/peek",
+          "url": "https://t.co/dV4ZAYSwl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066027499465887970",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/dV4ZAYSwl3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066027499465887970",
+        "created_at": "2026-06-14T05:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066027499465887970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "バツバツつちゃん’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1PKqr…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1PKqrrRrlDnGb",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2066027500883656704/snM_HoQ4?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066027500883656704/snM_HoQ4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: バツバツつちゃん’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1PKqrrRrlDnGb/peek",
+              "url": "https://t.co/dV4ZAYSwl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066027499465887970",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dV4ZAYSwl3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと 愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "バツバツつちゃん",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3040,
+          "following_count": 955,
+          "like_count": 3876,
+          "listed_count": 6,
+          "media_count": 215,
+          "tweet_count": 3041
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

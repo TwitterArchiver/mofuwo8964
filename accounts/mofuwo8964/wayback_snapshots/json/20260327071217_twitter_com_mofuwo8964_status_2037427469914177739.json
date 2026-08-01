@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037414877804007574",
+    "created_at": "2026-03-27T07:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T08:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037427469914177739"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037427469914177739",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037414877804007574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哪个锁推的深柜一直在转我帖子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1711,
+        "media_key": "3_2037414859483291648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZaBR-aoAAHGCC.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1213,
+        "media_key": "3_2037414859495878657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZaBSBasAE4FjN.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037414877804007574",
+        "created_at": "2026-03-27T07:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037427469914177739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037427469914177739",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037414877804007574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪个锁推的深柜一直在转我帖子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037414859483291648",
+            "3_2037414859495878657"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037414877804007574",
+        "created_at": "2026-03-27T06:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037414877804007574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K9WLgsUcPy",
+              "end": 166,
+              "expanded_url": "https://x.com/mofuwo8964/status/2037414877804007574/photo/1",
+              "media_key": "3_2037414859483291648",
+              "start": 143,
+              "url": "https://t.co/K9WLgsUcPy"
+            },
+            {
+              "display_url": "pic.x.com/K9WLgsUcPy",
+              "end": 166,
+              "expanded_url": "https://x.com/mofuwo8964/status/2037414877804007574/photo/1",
+              "media_key": "3_2037414859495878657",
+              "start": 143,
+              "url": "https://t.co/K9WLgsUcPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037414877804007574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说到这个我就想起来我之前心血来潮给他化了个妆，然后戴美瞳的时候老公戴了好久，画眼妆的时候也一直觉得痒痒，夹头发也觉得好麻烦好不耐烦。但是那天我没带假睫毛啥的他已经算逃过一劫了。这人一直在哀嚎最支持⭕️⭕️的一集，他说他不要服美役，太痛苦了，可毕竟爱美是男人的天性，而且不爱美的男人怎么会被女人喜欢呢？\n题外话：老公化完妆和一个女的别无二致，所以我们做了一些舒服的事情。体验感很好。\n附美照两张，想过他门槛的可以联系我了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1767,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说到这个我就想起来我之前心血来潮给他化了个妆，然后戴美瞳的时候老公戴了好久，画眼妆的时候也一直觉得痒痒，夹头发也觉得好麻烦好不耐烦。但是那天我没带假睫毛啥的他已经算逃过一劫了。这人一直在哀嚎最支持⭕️⭕️的一集，他说他不要服美役，太痛苦了，可毕竟爱美是男人的天性，而且不爱美的男人怎么 https://t.co/K9WLgsUcPy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜社会不适应中",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 854,
+          "like_count": 2820,
+          "listed_count": 6,
+          "media_count": 156,
+          "tweet_count": 2145
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

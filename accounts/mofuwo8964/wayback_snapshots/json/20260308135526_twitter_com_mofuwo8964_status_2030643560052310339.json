@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2030643560052310339",
+    "created_at": "2026-03-08T13:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T14:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030643560052310339"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030643560052310339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实性别叙事只适合做研究或者是在网上开地图炮骂人的时候用，一个有社会经验的人肯定是明白把这个带入三次元然后给人分类这件事很愚蠢，我说真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2030643560052310339",
+        "created_at": "2026-03-08T13:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030643560052310339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030643560052310339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实性别叙事只适合做研究或者是在网上开地图炮骂人的时候用，一个有社会经验的人肯定是明白把这个带入三次元然后给人分类这件事很愚蠢，我说真的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029070470327463937/DjCGJIHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2557,
+          "following_count": 817,
+          "like_count": 2561,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 1755
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

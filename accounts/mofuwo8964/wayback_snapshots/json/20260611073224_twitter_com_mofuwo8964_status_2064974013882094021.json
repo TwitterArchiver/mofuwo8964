@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2064974013882094021",
+    "created_at": "2026-06-11T07:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064974013882094021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042934083471446016",
+          "start": 3,
+          "username": "Yami2222x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064974013882094021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064934429941022761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yami2222x: 听听力好难受啊，前面巴拉巴拉一堆没用的东西我都听懂了，一到要讲关键词的时候这些话就像尿一样流走了，我想抓都抓不住只留下我一手尿骚味，好烦啊这个eju听力。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064974013882094021",
+        "created_at": "2026-06-11T07:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064974013882094021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042934083471446016",
+              "start": 3,
+              "username": "Yami2222x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064974013882094021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064934429941022761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yami2222x: 听听力好难受啊，前面巴拉巴拉一堆没用的东西我都听懂了，一到要讲关键词的时候这些话就像尿一样流走了，我想抓都抓不住只留下我一手尿骚味，好烦啊这个eju听力。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042934083471446016",
+        "conversation_id": "2064934429941022761",
+        "created_at": "2026-06-11T04:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064934429941022761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064934429941022761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 558,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "听听力好难受啊，前面巴拉巴拉一堆没用的东西我都听懂了，一到要讲关键词的时候这些话就像尿一样流走了，我想抓都抓不住只留下我一手尿骚味，好烦啊这个eju听力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "精神残疾｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "バツバツつちゃん",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2986,
+          "following_count": 935,
+          "like_count": 3832,
+          "listed_count": 7,
+          "media_count": 206,
+          "tweet_count": 2972
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T11:54:34.000Z",
+        "description": "专心经营自己的屌丝生活。",
+        "id": "2042934083471446016",
+        "name": "Yami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042934435839201280/rL2p3NMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 13,
+          "like_count": 4036,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 328
+        },
+        "username": "Yami2222x",
+        "verified": false
+      }
+    ]
+  }
+}

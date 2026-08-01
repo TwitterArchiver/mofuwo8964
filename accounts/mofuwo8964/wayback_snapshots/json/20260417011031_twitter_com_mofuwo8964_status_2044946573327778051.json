@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2044361098011545600"
+      ],
+      "media_source_tweet_id": [
+        "2044361172514963744"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044946573327778051",
+    "created_at": "2026-04-17T01:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T02:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044946573327778051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "931894441278767105",
+          "start": 3,
+          "username": "artbyeori"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Play in your browser",
+          "display_url": "byeorisim.itch.io/brush-jjaemu",
+          "end": 45,
+          "expanded_url": "https://byeorisim.itch.io/brush-jjaemu",
+          "start": 22,
+          "status": 200,
+          "title": "Brush Jjaemu by byeorisim",
+          "unwound_url": "https://byeorisim.itch.io/brush-jjaemu",
+          "url": "https://t.co/n2D67rBdxI"
+        },
+        {
+          "display_url": "pic.x.com/ym9THI1RtJ",
+          "end": 69,
+          "expanded_url": "https://x.com/artbyeori/status/2044361172514963744/video/1",
+          "media_key": "13_2044361098011545600",
+          "start": 46,
+          "url": "https://t.co/ym9THI1RtJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044946573327778051",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55266
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044361172514963744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @artbyeori: 빗질해주세요\nhttps://t.co/n2D67rBdxI https://t.co/ym9THI1RtJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13966,
+        "height": 986,
+        "media_key": "13_2044361098011545600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044361098011545600/img/b4Ur1aG3akpva7TA.jpg",
+        "public_metrics": {
+          "view_count": 2663753
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044361098011545600/vid/avc1/320x438/XzOUZo9lM4is57p0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044361098011545600/vid/avc1/480x656/7OPvIzBEWah9xSKJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044361098011545600/vid/avc1/720x986/t7YHrjzVIaHbj7oU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044361098011545600/pl/_4Qfe5kz9zbZcDyr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044361098011545600"
+          ],
+          "media_source_tweet_id": [
+            "2044361172514963744"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044946573327778051",
+        "created_at": "2026-04-17T01:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T02:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044946573327778051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "931894441278767105",
+              "start": 3,
+              "username": "artbyeori"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Play in your browser",
+              "display_url": "byeorisim.itch.io/brush-jjaemu",
+              "end": 45,
+              "expanded_url": "https://byeorisim.itch.io/brush-jjaemu",
+              "start": 22,
+              "status": 200,
+              "title": "Brush Jjaemu by byeorisim",
+              "unwound_url": "https://byeorisim.itch.io/brush-jjaemu",
+              "url": "https://t.co/n2D67rBdxI"
+            },
+            {
+              "display_url": "pic.x.com/ym9THI1RtJ",
+              "end": 69,
+              "expanded_url": "https://x.com/artbyeori/status/2044361172514963744/video/1",
+              "media_key": "13_2044361098011545600",
+              "start": 46,
+              "url": "https://t.co/ym9THI1RtJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044946573327778051",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55266
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044361172514963744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @artbyeori: 빗질해주세요\nhttps://t.co/n2D67rBdxI https://t.co/ym9THI1RtJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044361098011545600"
+          ]
+        },
+        "author_id": "931894441278767105",
+        "conversation_id": "2044361172514963744",
+        "created_at": "2026-04-15T10:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044361172514963744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Play in your browser",
+              "display_url": "byeorisim.itch.io/brush-jjaemu",
+              "end": 30,
+              "expanded_url": "https://byeorisim.itch.io/brush-jjaemu",
+              "start": 7,
+              "status": 200,
+              "title": "Brush Jjaemu by byeorisim",
+              "unwound_url": "https://byeorisim.itch.io/brush-jjaemu",
+              "url": "https://t.co/n2D67rBdxI"
+            },
+            {
+              "display_url": "pic.x.com/ym9THI1RtJ",
+              "end": 54,
+              "expanded_url": "https://x.com/artbyeori/status/2044361172514963744/video/1",
+              "media_key": "13_2044361098011545600",
+              "start": 31,
+              "url": "https://t.co/ym9THI1RtJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044361172514963744",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57457,
+          "impression_count": 17380795,
+          "like_count": 226002,
+          "quote_count": 8570,
+          "reply_count": 625,
+          "retweet_count": 55266
+        },
+        "reply_settings": "everyone",
+        "text": "빗질해주세요\nhttps://t.co/n2D67rBdxI https://t.co/ym9THI1RtJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 854,
+          "like_count": 3027,
+          "listed_count": 5,
+          "media_count": 162,
+          "tweet_count": 2309
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-18T14:38:43.000Z",
+        "description": "",
+        "id": "931894441278767105",
+        "name": "벼리",
+        "pinned_tweet_id": "1862449116967837799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762439535173263360/ih1MTHZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6252,
+          "following_count": 245,
+          "like_count": 9470,
+          "listed_count": 21,
+          "media_count": 193,
+          "tweet_count": 2098
+        },
+        "username": "artbyeori",
+        "verified": false
+      }
+    ]
+  }
+}

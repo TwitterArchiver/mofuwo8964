@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2066696703861051745",
+    "created_at": "2026-06-16T01:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T02:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066701586664214869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1712754288777379840",
+          "start": 0,
+          "username": "sugishita_japan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066701586664214869",
+    "in_reply_to_user_id": "1712754288777379840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066700861871693949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugishita_japan 我也是，因为我觉得性交易这本质上是一种把自己逼租赁出去的行为，是可以定损的。既然内射得加钱，那么丑逼嫖娼也得割增。因为会给人造成一定的精神伤害，何况退租是要扣押金的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066696703861051745",
+        "created_at": "2026-06-16T01:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066701586664214869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712754288777379840",
+              "start": 0,
+              "username": "sugishita_japan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066701586664214869",
+        "in_reply_to_user_id": "1712754288777379840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066700861871693949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugishita_japan 我也是，因为我觉得性交易这本质上是一种把自己逼租赁出去的行为，是可以定损的。既然内射得加钱，那么丑逼嫖娼也得割增。因为会给人造成一定的精神伤害，何况退租是要扣押金的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712754288777379840",
+        "conversation_id": "2066696703861051745",
+        "created_at": "2026-06-16T01:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066700861871693949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066700861871693949",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066700529586278902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 我觉得应该收"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3072,
+          "following_count": 976,
+          "like_count": 3923,
+          "listed_count": 6,
+          "media_count": 223,
+          "tweet_count": 3097
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-13T08:57:07.000Z",
+        "description": "チャイナ語がわかる日本人。某先生の政策顧問。サナ活。自衛隊の皆さんありがとう！日本列島を強く豊かに！ サブ@sugishita123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "sugishita123"
+              }
+            ]
+          }
+        },
+        "id": "1712754288777379840",
+        "location": "東京 千代田区",
+        "name": "杉下右京",
+        "pinned_tweet_id": "1993331935180210498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881357980274413568/Osk3otel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5188,
+          "following_count": 638,
+          "like_count": 20822,
+          "listed_count": 50,
+          "media_count": 2190,
+          "tweet_count": 14295
+        },
+        "username": "sugishita_japan",
+        "verified": false
+      }
+    ]
+  }
+}

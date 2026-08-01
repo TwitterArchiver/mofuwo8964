@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067016160584122832",
+    "created_at": "2026-06-17T08:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067158895521681653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1675778875912232966",
+          "start": 0,
+          "username": "nonentity086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067158895521681653",
+    "in_reply_to_user_id": "1675778875912232966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067157114708259254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nonentity086 多喝日本人说话绝对n1没问题，出门避免一切和华人相关的东东"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067016160584122832",
+        "created_at": "2026-06-17T08:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067158895521681653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1675778875912232966",
+              "start": 0,
+              "username": "nonentity086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067158895521681653",
+        "in_reply_to_user_id": "1675778875912232966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067157114708259254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonentity086 多喝日本人说话绝对n1没问题，出门避免一切和华人相关的东东"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675778875912232966",
+        "conversation_id": "2067016160584122832",
+        "created_at": "2026-06-17T08:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067157114708259254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067157114708259254",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067134347757674666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 汗流浃背了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3101,
+          "following_count": 982,
+          "like_count": 3957,
+          "listed_count": 6,
+          "media_count": 224,
+          "tweet_count": 3123
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-03T08:10:02.000Z",
+        "description": "当时只道是寻常",
+        "id": "1675778875912232966",
+        "name": "nonentity",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680373323841306624/9iOF1D7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 424,
+          "like_count": 166,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "nonentity086",
+        "verified": false
+      }
+    ]
+  }
+}

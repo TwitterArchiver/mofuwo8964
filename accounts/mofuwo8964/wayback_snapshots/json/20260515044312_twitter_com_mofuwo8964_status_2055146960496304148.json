@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2055146960496304148",
+    "created_at": "2026-05-15T04:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055146960496304148"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055146960496304148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天sps里一个推u问我是不是小咪之家，大惊…没想到这么久还有人记得我的前世，小咪之家那个号被我卖掉了因为我没有钱，当时很缺钱。我很穷，然后呢就是对于互联网上的关注有点恐惧，像这样就刚刚好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2055146960496304148",
+        "created_at": "2026-05-15T04:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055146960496304148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055146960496304148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天sps里一个推u问我是不是小咪之家，大惊…没想到这么久还有人记得我的前世，小咪之家那个号被我卖掉了因为我没有钱，当时很缺钱。我很穷，然后呢就是对于互联网上的关注有点恐惧，像这样就刚刚好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2834,
+          "following_count": 893,
+          "like_count": 3562,
+          "listed_count": 6,
+          "media_count": 184,
+          "tweet_count": 2690
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

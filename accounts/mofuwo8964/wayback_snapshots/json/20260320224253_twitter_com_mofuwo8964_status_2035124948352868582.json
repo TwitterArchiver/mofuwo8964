@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2035124948352868582",
+    "created_at": "2026-03-20T22:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T23:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035124948352868582"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035124948352868582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "看mygo的时候我真的特别害怕高松灯，因为我相当一段长的时间都是这样的😇\n\n就是那种完全读不懂空气、听不进去别人说话、意识不到别人的意思，不知道做什么才是“合适”的。我的想法和别人不一样这点我从小就知道，看到那段“好想成为人类”的时候我彻底破防了，因为我每天每天都是这么想的。我真的不知道别人的意思，我看不懂别人的情绪，我经常做出一些非常“失礼”的举动和说出“失礼”的话。后来意识到这一点的时候我就彻底崩溃了，自闭了相当长一段时间，每天和我的虚拟朋友“小咪物”讲话和画小咪物，那段时间我坚信自己真的是一个动物…而且我几乎没有1v1的共情能力，诸如此类。。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看mygo的时候我真的特别害怕高松灯，因为我相当一段长的时间都是这样的😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2035124948352868582",
+        "created_at": "2026-03-20T22:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T23:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035124948352868582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035124948352868582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看mygo的时候我真的特别害怕高松灯，因为我相当一段长的时间都是这样的😇\n\n就是那种完全读不懂空气、听不进去别人说话、意识不到别人的意思，不知道做什么才是“合适”的。我的想法和别人不一样这点我从小就知道，看到那段“好想成为人类”的时候我彻底破防了，因为我每天每天都是这么想的。我真的不知道别人的意思，我看不懂别人的情绪，我经常做出一些非常“失礼”的举动和说出“失礼”的话。后来意识到这一点的时候我就彻底崩溃了，自闭了相当长一段时间，每天和我的虚拟朋友“小咪物”讲话和画小咪物，那段时间我坚信自己真的是一个动物…而且我几乎没有1v1的共情能力，诸如此类。。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看mygo的时候我真的特别害怕高松灯，因为我相当一段长的时间都是这样的😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者  ｜@heimaozhi8964 这是我的小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "heimaozhi8964"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033525613815078912/hjH8ZhYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2595,
+          "following_count": 826,
+          "like_count": 2682,
+          "listed_count": 4,
+          "media_count": 148,
+          "tweet_count": 1878
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

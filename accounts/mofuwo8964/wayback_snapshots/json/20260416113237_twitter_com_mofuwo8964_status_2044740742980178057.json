@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044556901879582814",
+    "created_at": "2026-04-16T11:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044740742980178057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1591414718651985920",
+          "start": 0,
+          "username": "eog_oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044740742980178057",
+    "in_reply_to_user_id": "1591414718651985920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044578767113502928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eog_oo 甜lo崛起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044556901879582814",
+        "created_at": "2026-04-16T11:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044740742980178057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1591414718651985920",
+              "start": 0,
+              "username": "eog_oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044740742980178057",
+        "in_reply_to_user_id": "1591414718651985920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044578767113502928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eog_oo 甜lo崛起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591414718651985920",
+        "conversation_id": "2044556901879582814",
+        "created_at": "2026-04-16T00:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T01:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044578767113502928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044578767113502928",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044556901879582814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 经典甜娘风！！！好喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2635,
+          "following_count": 855,
+          "like_count": 2979,
+          "listed_count": 5,
+          "media_count": 163,
+          "tweet_count": 2289
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-12T12:57:08.000Z",
+        "description": "コスプレ✦日常 | Cosplay & Daily Life\n撮影・編集勉強中📸雑多多め・日中英ミックス✨撮影依頼DM💕 いいねRTいつもありがとう",
+        "id": "1591414718651985920",
+        "location": "Japan",
+        "name": "ゲンジ",
+        "pinned_tweet_id": "2043898904119538033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043319547969912832/0gN2cbda_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 386,
+          "like_count": 9150,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 2614
+        },
+        "username": "eog_oo",
+        "verified": false
+      }
+    ]
+  }
+}

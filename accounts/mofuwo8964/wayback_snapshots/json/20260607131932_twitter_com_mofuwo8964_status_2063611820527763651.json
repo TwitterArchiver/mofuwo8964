@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2063566067394552092",
+    "created_at": "2026-06-07T13:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063611820527763651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1574350078772269056",
+          "start": 0,
+          "username": "evanescen_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063611820527763651",
+    "in_reply_to_user_id": "1574350078772269056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063597996454146496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@evanescen_chan 来！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2063566067394552092",
+        "created_at": "2026-06-07T13:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063611820527763651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1574350078772269056",
+              "start": 0,
+              "username": "evanescen_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063611820527763651",
+        "in_reply_to_user_id": "1574350078772269056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063597996454146496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@evanescen_chan 来！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574350078772269056",
+        "conversation_id": "2063566067394552092",
+        "created_at": "2026-06-07T12:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063597996454146496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063597996454146496",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063566067394552092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 在关东地区不定期去东京玩的可以吗，，想来😢😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2931,
+          "following_count": 910,
+          "like_count": 3718,
+          "listed_count": 7,
+          "media_count": 189,
+          "tweet_count": 2851
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T10:48:13.000Z",
+        "description": "軍服が好きな一般人です。成人済み。",
+        "id": "1574350078772269056",
+        "name": "真不理",
+        "pinned_tweet_id": "1945495220558192829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030472495455936512/se-YNkIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 223,
+          "like_count": 6264,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 139
+        },
+        "username": "evanescen_chan",
+        "verified": false
+      }
+    ]
+  }
+}

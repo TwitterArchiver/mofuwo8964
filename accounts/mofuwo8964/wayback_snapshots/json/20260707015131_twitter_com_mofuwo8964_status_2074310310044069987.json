@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2074310310044069987",
+    "created_at": "2026-07-07T01:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T02:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074310310044069987"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074310310044069987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得相当程度上的一段创伤都是人际关系（其实并不是）造成的所以我现在要立下铁律了不和顺直男玩不和进步逼玩不和农逼玩不和现充玩不和健全人玩不和吸毒的人玩不和学习不认真的人玩不和没有滥用药物史的人玩不和刻薄逼玩不和厕妹玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2074310310044069987",
+        "created_at": "2026-07-07T01:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074310310044069987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074310310044069987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得相当程度上的一段创伤都是人际关系（其实并不是）造成的所以我现在要立下铁律了不和顺直男玩不和进步逼玩不和农逼玩不和现充玩不和健全人玩不和吸毒的人玩不和学习不认真的人玩不和没有滥用药物史的人玩不和刻薄逼玩不和厕妹玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3161,
+          "following_count": 1013,
+          "like_count": 4389,
+          "listed_count": 6,
+          "media_count": 238,
+          "tweet_count": 3461
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067402553311309866",
+    "created_at": "2026-06-18T00:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T01:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067402553311309866"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067402553311309866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对于卫生巾这个的看法比较激进哈哈哈我觉得该降消费税，更甚就不该付钱，从老害们的高额退休金里抽一点不就得了吗🥵不管是从伦理还是道德什么来说女的就是不该为卫生巾付那么多钱啊，哦对还有卫生巾的神必质量hhh但女厕所要是真有随处可见的免费卫生巾老害们又要拿走了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067402553311309866",
+        "created_at": "2026-06-18T00:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067402553311309866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067402553311309866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对于卫生巾这个的看法比较激进哈哈哈我觉得该降消费税，更甚就不该付钱，从老害们的高额退休金里抽一点不就得了吗🥵不管是从伦理还是道德什么来说女的就是不该为卫生巾付那么多钱啊，哦对还有卫生巾的神必质量hhh但女厕所要是真有随处可见的免费卫生巾老害们又要拿走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3111,
+          "following_count": 984,
+          "like_count": 3974,
+          "listed_count": 6,
+          "media_count": 226,
+          "tweet_count": 3156
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

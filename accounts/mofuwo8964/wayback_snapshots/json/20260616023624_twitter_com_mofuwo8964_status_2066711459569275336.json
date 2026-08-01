@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2066682166327582818",
+    "created_at": "2026-06-16T02:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T03:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066711459569275336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2000212238209294336",
+          "start": 0,
+          "username": "rag11171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066711459569275336",
+    "in_reply_to_user_id": "2000212238209294336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066682166327582818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rag11171 我也在做，加油加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066682166327582818",
+        "created_at": "2026-06-16T02:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066711459569275336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2000212238209294336",
+              "start": 0,
+              "username": "rag11171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066711459569275336",
+        "in_reply_to_user_id": "2000212238209294336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066682166327582818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rag11171 我也在做，加油加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000212238209294336",
+        "conversation_id": "2066682166327582818",
+        "created_at": "2026-06-16T00:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066682166327582818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066682166327582818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "限时解锁\n本人打算运营墙内账号引流贩卖手工制品，x上的流量对我来说毫无意义。\n想和我说话请在今天下午之前关注我，谢谢您。\n以后不会解开了，因为不想被莫名其妙的人认出墙内账号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3072,
+          "following_count": 976,
+          "like_count": 3929,
+          "listed_count": 6,
+          "media_count": 223,
+          "tweet_count": 3102
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-14T14:32:26.000Z",
+        "description": "我的生活很无聊   不用礼貌回关   可单取  没有裸照 不收门槛  不聊黄   不开私信 有稳定恋爱关系 不喜欢请屏蔽",
+        "id": "2000212238209294336",
+        "name": "😼Asuka",
+        "pinned_tweet_id": "2066682166327582818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000212484628865024/bKYDsKZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 176,
+          "like_count": 12731,
+          "listed_count": 4,
+          "media_count": 409,
+          "tweet_count": 2378
+        },
+        "username": "rag11171",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045181373766574080"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2045181387293216878",
+    "created_at": "2026-04-17T16:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045181387293216878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c0278Ov9bT",
+          "end": 74,
+          "expanded_url": "https://x.com/mofuwo8964/status/2045181387293216878/photo/1",
+          "media_key": "3_2045181373766574080",
+          "start": 51,
+          "url": "https://t.co/c0278Ov9bT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045181387293216878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "防犯カメラ作動中\n道理我都懂 我也理解日本人容易不安 可是这个标是贴在试衣间里面的 真的闪了我一下子 https://t.co/c0278Ov9bT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2045181373766574080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHxn6SaIAAPPqJ.jpg",
+        "width": 567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045181373766574080"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2045181387293216878",
+        "created_at": "2026-04-17T16:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045181387293216878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0278Ov9bT",
+              "end": 74,
+              "expanded_url": "https://x.com/mofuwo8964/status/2045181387293216878/photo/1",
+              "media_key": "3_2045181373766574080",
+              "start": 51,
+              "url": "https://t.co/c0278Ov9bT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045181387293216878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "防犯カメラ作動中\n道理我都懂 我也理解日本人容易不安 可是这个标是贴在试衣间里面的 真的闪了我一下子 https://t.co/c0278Ov9bT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2640,
+          "following_count": 856,
+          "like_count": 3072,
+          "listed_count": 5,
+          "media_count": 164,
+          "tweet_count": 2340
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

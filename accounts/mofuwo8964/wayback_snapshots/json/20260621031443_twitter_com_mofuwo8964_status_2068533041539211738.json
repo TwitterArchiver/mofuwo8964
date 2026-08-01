@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2068189001471955313",
+    "created_at": "2026-06-21T03:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T04:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068533041539211738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1880216177663938560",
+          "start": 0,
+          "username": "Kellybelly0329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068533041539211738",
+    "in_reply_to_user_id": "1880216177663938560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068499787322994887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kellybelly0329 特指中文互联网"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068189001471955313",
+        "created_at": "2026-06-21T03:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068533041539211738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1880216177663938560",
+              "start": 0,
+              "username": "Kellybelly0329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068533041539211738",
+        "in_reply_to_user_id": "1880216177663938560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068499787322994887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kellybelly0329 特指中文互联网"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880216177663938560",
+        "conversation_id": "2068189001471955313",
+        "created_at": "2026-06-21T01:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068499787322994887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068499787322994887",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068189001471955313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 我以前一直以为墙内网友很蠢，自从X自带翻译了之后发现墙外网友简直蠢出新高度啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3134,
+          "following_count": 988,
+          "like_count": 4090,
+          "listed_count": 6,
+          "media_count": 231,
+          "tweet_count": 3276
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T11:31:06.000Z",
+        "description": "",
+        "id": "1880216177663938560",
+        "name": "Kelly Huo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880216273193521152/c6ZjtvMq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "Kellybelly0329",
+        "verified": false
+      }
+    ]
+  }
+}

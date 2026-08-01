@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2066690497381605452",
+    "created_at": "2026-06-16T01:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T02:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066696298091471038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "930950455147905025",
+          "start": 0,
+          "username": "heianshalvzhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066696298091471038",
+    "in_reply_to_user_id": "930950455147905025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066695105692758524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heianshalvzhe 没事反正我明年考，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066690497381605452",
+        "created_at": "2026-06-16T01:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066696298091471038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "930950455147905025",
+              "start": 0,
+              "username": "heianshalvzhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066696298091471038",
+        "in_reply_to_user_id": "930950455147905025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066695105692758524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heianshalvzhe 没事反正我明年考，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "930950455147905025",
+        "conversation_id": "2066690497381605452",
+        "created_at": "2026-06-16T01:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066695105692758524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066695105692758524",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066694731506274421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 没到最后一刻不要松懈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3071,
+          "following_count": 975,
+          "like_count": 3921,
+          "listed_count": 6,
+          "media_count": 222,
+          "tweet_count": 3089
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-16T00:07:39.000Z",
+        "description": "日本にいる社畜、趣味、ゲーム、アニメ。中国人，有时候会在推上发发疯的男生。对后门开发有兴趣的女生请私信我。",
+        "id": "930950455147905025",
+        "name": "りん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716023084745134080/zGQVMRuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 6818,
+          "like_count": 8260,
+          "listed_count": 7,
+          "media_count": 10,
+          "tweet_count": 9112
+        },
+        "username": "heianshalvzhe",
+        "verified": false
+      }
+    ]
+  }
+}

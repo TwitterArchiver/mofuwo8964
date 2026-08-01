@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2047358949498978674",
+    "created_at": "2026-04-24T02:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T03:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047508211767595297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1971654494619312128",
+          "start": 0,
+          "username": "nasksilik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047508211767595297",
+    "in_reply_to_user_id": "1971654494619312128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你是真不明白还是揣着明白装糊涂？穿搭风格🟰弱化自己是你用脚指甲盖想出来的吗？你自己歧视就歧视想怎么定义就怎么定义，反正幼女的概念不会消失，弱势群体也不会消失，承认你就是想找个机会打和自己不一样的人要求这一切都符合你的“正确”很难吗？\n有问题的从来都不是穿搭风格，而是那些借着这种穿搭风格而开始弱化自己的人，但你就是要把这些人联想到风格再转而攻击这种风格，对吧"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047503504848375930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nasksilik 你是真不明白还是揣着明白装糊涂？穿搭风格🟰弱化自己是你用脚指甲盖想出来的吗？你自己歧视就歧视想怎么定义就怎么定义，反正幼女的概念不会消失，弱势群体也不会消失，承认你就是想找个机会打和自己不一样的人要求这一切都符合你的“正确”很难吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2047358949498978674",
+        "created_at": "2026-04-24T02:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047508211767595297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1971654494619312128",
+              "start": 0,
+              "username": "nasksilik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047508211767595297",
+        "in_reply_to_user_id": "1971654494619312128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你是真不明白还是揣着明白装糊涂？穿搭风格🟰弱化自己是你用脚指甲盖想出来的吗？你自己歧视就歧视想怎么定义就怎么定义，反正幼女的概念不会消失，弱势群体也不会消失，承认你就是想找个机会打和自己不一样的人要求这一切都符合你的“正确”很难吗？\n有问题的从来都不是穿搭风格，而是那些借着这种穿搭风格而开始弱化自己的人，但你就是要把这些人联想到风格再转而攻击这种风格，对吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047503504848375930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nasksilik 你是真不明白还是揣着明白装糊涂？穿搭风格🟰弱化自己是你用脚指甲盖想出来的吗？你自己歧视就歧视想怎么定义就怎么定义，反正幼女的概念不会消失，弱势群体也不会消失，承认你就是想找个机会打和自己不一样的人要求这一切都符合你的“正确”很难吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971654494619312128",
+        "conversation_id": "2047358949498978674",
+        "created_at": "2026-04-24T02:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047503504848375930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047503504848375930",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047495908716413329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 我只是反对幼女弱化女性，不要连带上哥特朋克为你增加“队友”，并且把洛丽塔和甜美巨婴分解成多个队友，你曲解反叛所带来的自由和进取意味，而把弱化也当作自由，实际是践踏了自由，而且社会上支持越来越公主风弱化的是主流，你不用抓住一个呼声就好像自己很反叛了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。\n追加：健全逼社达激女男权死远点看了好想吐",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 864,
+          "like_count": 3166,
+          "listed_count": 6,
+          "media_count": 174,
+          "tweet_count": 2454
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-26T19:15:32.000Z",
+        "description": "你的无神论者，反伊斯兰政权朋友",
+        "id": "1971654494619312128",
+        "location": "New York, USA",
+        "name": "Rhoxshna🇮🇷⚛️🚫🕎✝️☪️✡️🕉️",
+        "pinned_tweet_id": "2043038066802331873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030046367448715267/RNZNnroH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 819,
+          "like_count": 2665,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1428
+        },
+        "username": "nasksilik",
+        "verified": true
+      }
+    ]
+  }
+}

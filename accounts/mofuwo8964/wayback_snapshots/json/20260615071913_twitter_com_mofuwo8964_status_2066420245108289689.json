@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2066420241241129415",
+    "created_at": "2026-06-15T07:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066420245108289689"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066420245108289689",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066420241241129415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "貌似这俩有私人恩怨，那你们随便塔塔开啊？？在疑似是性骚扰事件里根据意淫出来的受害者的身份，然后发散这件事吐槽到底是啥意思？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1772,
+        "media_key": "3_2066420236770037761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1mQclbUAEvAYE.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066420241241129415",
+        "created_at": "2026-06-15T07:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066420245108289689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066420245108289689",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066420241241129415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "貌似这俩有私人恩怨，那你们随便塔塔开啊？？在疑似是性骚扰事件里根据意淫出来的受害者的身份，然后发散这件事吐槽到底是啥意思？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066420236770037761"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066420241241129415",
+        "created_at": "2026-06-15T07:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066420241241129415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EvshqI6hgF",
+              "end": 163,
+              "expanded_url": "https://x.com/mofuwo8964/status/2066420241241129415/photo/1",
+              "media_key": "3_2066420236770037761",
+              "start": 140,
+              "url": "https://t.co/EvshqI6hgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066420241241129415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那此刻出现的“饥不择食”是何意为捏？我很难想象面对一个奔四老男人性骚扰不到20的小姑娘的第一反应居然是“饥不择食选择了妆前妆后容貌不同的「地雷妹」被炸了”而不是“卧槽这个男的好恶心”\n你想骂地雷妹随便骂，在这件事下评价性骚扰受害者是泪袋妖怪说k“饥不择食”是不是有点太恶心了？？ https://t.co/EvshqI6hgF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3055,
+          "following_count": 968,
+          "like_count": 3897,
+          "listed_count": 6,
+          "media_count": 220,
+          "tweet_count": 3064
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

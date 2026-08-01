@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2053319346412552612",
+    "created_at": "2026-05-10T03:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053319346412552612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2052726821679247426",
+          "start": 72,
+          "url": "https://t.co/dgUhiLnp4p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053319346412552612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这条推文是我的初衷。我之前看过一个本子就是中学时期一不良少女被虐待然后ptsd，高中就退行严重，恋哥然后无法走出家门。\n⬆️哇塞太牛逼了好香甜\n但是我oc不行啊，我越脑越诡异，加上我的知识储备不足结果把我可爱的饱经风霜的年少的oc塑造成了呆萌de小受受or小蛋糕少萝宝宝，不过我在六年前就有草家1的习惯，想想这么恶俗也可以理解了(^o^)"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052726821679247426",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这条推文是我的初衷。我之前看过一个本子就是中学时期一不良少女被虐待然后ptsd，高中就退行严重，恋哥然后无法走出家门。\n⬆️哇塞太牛逼了好香甜 https://t.co/dgUhiLnp4p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2053319346412552612",
+        "created_at": "2026-05-10T03:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053319346412552612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2052726821679247426",
+              "start": 72,
+              "url": "https://t.co/dgUhiLnp4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053319346412552612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这条推文是我的初衷。我之前看过一个本子就是中学时期一不良少女被虐待然后ptsd，高中就退行严重，恋哥然后无法走出家门。\n⬆️哇塞太牛逼了好香甜\n但是我oc不行啊，我越脑越诡异，加上我的知识储备不足结果把我可爱的饱经风霜的年少的oc塑造成了呆萌de小受受or小蛋糕少萝宝宝，不过我在六年前就有草家1的习惯，想想这么恶俗也可以理解了(^o^)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052726821679247426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这条推文是我的初衷。我之前看过一个本子就是中学时期一不良少女被虐待然后ptsd，高中就退行严重，恋哥然后无法走出家门。\n⬆️哇塞太牛逼了好香甜 https://t.co/dgUhiLnp4p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2052726821679247426",
+        "created_at": "2026-05-08T12:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052726821679247426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052726821679247426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 555,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幼少期和青春期早熟的代价就是退行，成长阶段随机分布然后展现独一无二的“性魅力的受众是 猎奇心理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2805,
+          "following_count": 881,
+          "like_count": 3494,
+          "listed_count": 6,
+          "media_count": 180,
+          "tweet_count": 2637
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

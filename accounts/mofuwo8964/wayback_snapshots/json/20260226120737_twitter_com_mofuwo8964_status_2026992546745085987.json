@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2026992546745085987",
+    "created_at": "2026-02-26T12:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T13:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026992546745085987"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026992546745085987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然我自称是顺直女但我其实是害怕被猎杀的双…吗？因为我对于我的性取向也处于一个不解的状态，但我确实爱上过男的也爱上过女的，跟男的做过也和女的做过。。虽然我不太想吃批，但是让我吃我也能吃。但我也不喜欢吃几把啊！我都没怎么吃过几把啊？！不过被几把插和跟女人磨批我都能接受。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2026992546745085987",
+        "created_at": "2026-02-26T12:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T13:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026992546745085987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026992546745085987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我自称是顺直女但我其实是害怕被猎杀的双…吗？因为我对于我的性取向也处于一个不解的状态，但我确实爱上过男的也爱上过女的，跟男的做过也和女的做过。。虽然我不太想吃批，但是让我吃我也能吃。但我也不喜欢吃几把啊！我都没怎么吃过几把啊？！不过被几把插和跟女人磨批我都能接受。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜三个孩子的母亲",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "肩膀胳膊连接处下面那个部位",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024639644768628736/sthKf3FC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2537,
+          "following_count": 812,
+          "like_count": 2480,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1706
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2045200865200570798",
+    "created_at": "2026-04-18T07:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045410899012563444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1707428789318488064",
+          "start": 0,
+          "username": "Ansssnix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045410899012563444",
+    "in_reply_to_user_id": "1707428789318488064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045407538322276849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ansssnix 看不懂人话吗宝子，人生是只有高中才可能出现室友？\n不过你说的对，马加爵和林森浩也很认同男生宿舍关系好👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2045200865200570798",
+        "created_at": "2026-04-18T07:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045410899012563444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1707428789318488064",
+              "start": 0,
+              "username": "Ansssnix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045410899012563444",
+        "in_reply_to_user_id": "1707428789318488064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045407538322276849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ansssnix 看不懂人话吗宝子，人生是只有高中才可能出现室友？\n不过你说的对，马加爵和林森浩也很认同男生宿舍关系好👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707428789318488064",
+        "conversation_id": "2045200865200570798",
+        "created_at": "2026-04-18T07:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045407538322276849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045407538322276849",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045381996789264553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 刚刚不是还说挺团结的吗🤣怎么又承认背地里蛐蛐室友了🤣和女的比起来，男生宿舍关系当然要好得多。校园频道人数过万，完全可以作为样本。里面女生骂舍友的帖子要比男的多出数倍😆😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 858,
+          "like_count": 3093,
+          "listed_count": 5,
+          "media_count": 166,
+          "tweet_count": 2379
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-28T16:15:38.000Z",
+        "description": "我的窦呀 招娣\n猜你是：穷比丑比低学历大龄母单窦妞",
+        "id": "1707428789318488064",
+        "name": "H.K.T.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996252531270541312/geGaN7iI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 0,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 484
+        },
+        "username": "Ansssnix",
+        "verified": false
+      }
+    ]
+  }
+}

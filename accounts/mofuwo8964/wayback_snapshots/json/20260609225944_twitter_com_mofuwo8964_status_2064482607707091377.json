@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064482603387015168"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2064482607707091377",
+    "created_at": "2026-06-09T22:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T23:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064482607707091377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LbEpSWAEcd",
+          "end": 86,
+          "expanded_url": "https://x.com/mofuwo8964/status/2064482607707091377/photo/1",
+          "media_key": "3_2064482603387015168",
+          "start": 63,
+          "url": "https://t.co/LbEpSWAEcd"
+        },
+        {
+          "display_url": "x.com/kgunydi131693/…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/kgunydi131693/status/2064428118886994011",
+          "start": 87,
+          "url": "https://t.co/OF6gTcRZe8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064482607707091377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064428118886994011",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这他吗是白幼瘦哥特系？换句话说白幼瘦哥特系又咋了？你国的穿衣自由没有穿得丑和穿得奇怪的自由吗？我爱穿啥穿啥管得着吗你？臭傻逼 https://t.co/LbEpSWAEcd https://t.co/OF6gTcRZe8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064482603387015168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKaD_VvbUAApfyl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064482603387015168"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064482607707091377",
+        "created_at": "2026-06-09T22:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064482607707091377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbEpSWAEcd",
+              "end": 86,
+              "expanded_url": "https://x.com/mofuwo8964/status/2064482607707091377/photo/1",
+              "media_key": "3_2064482603387015168",
+              "start": 63,
+              "url": "https://t.co/LbEpSWAEcd"
+            },
+            {
+              "display_url": "x.com/kgunydi131693/…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/kgunydi131693/status/2064428118886994011",
+              "start": 87,
+              "url": "https://t.co/OF6gTcRZe8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064482607707091377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064428118886994011",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这他吗是白幼瘦哥特系？换句话说白幼瘦哥特系又咋了？你国的穿衣自由没有穿得丑和穿得奇怪的自由吗？我爱穿啥穿啥管得着吗你？臭傻逼 https://t.co/LbEpSWAEcd https://t.co/OF6gTcRZe8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690118087167938561",
+        "conversation_id": "2063568420097122569",
+        "created_at": "2026-06-09T19:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064428118886994011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064428118886994011",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 138,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063568420097122569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 改革开放你随便找张70 80s后的老照片谁的父母不人均西装烫发波浪卷，更别提千禧后的非主流，当你的父母或者周边人群攻击规训你穿搭的时候，那你大概率可能不是追崇时尚，而是你的建模和穿搭攻击了别人的眼球 不要低估人类对于基本美学的追求  你都说唇钉穿刺了那大概率是 白瘦幼死人花刀哥特地雷女了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜精神残疾｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2972,
+          "following_count": 920,
+          "like_count": 3788,
+          "listed_count": 7,
+          "media_count": 198,
+          "tweet_count": 2906
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-11T21:48:58.000Z",
+        "description": "",
+        "id": "1690118087167938561",
+        "name": "KiLLA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821554744504016896/QYkY0tY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 143,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 52
+        },
+        "username": "kgunydi131693",
+        "verified": false
+      }
+    ]
+  }
+}

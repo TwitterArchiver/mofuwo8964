@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062039689381687296",
+        "3_2062039689373335552"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2062039697241825512",
+    "created_at": "2026-06-03T05:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062039697241825512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gFizS9pQZ8",
+          "end": 23,
+          "expanded_url": "https://x.com/mofuwo8964/status/2062039697241825512/photo/1",
+          "media_key": "3_2062039689381687296",
+          "start": 0,
+          "url": "https://t.co/gFizS9pQZ8"
+        },
+        {
+          "display_url": "pic.x.com/gFizS9pQZ8",
+          "end": 23,
+          "expanded_url": "https://x.com/mofuwo8964/status/2062039697241825512/photo/1",
+          "media_key": "3_2062039689373335552",
+          "start": 0,
+          "url": "https://t.co/gFizS9pQZ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062039697241825512",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/gFizS9pQZ8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2062039689381687296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3WLB5aMAAMWIk.jpg",
+        "width": 667
+      },
+      {
+        "height": 815,
+        "media_key": "3_2062039689373335552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3WLB3awAAR6O9.jpg",
+        "width": 701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062039689381687296",
+            "3_2062039689373335552"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2062039697241825512",
+        "created_at": "2026-06-03T05:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062039697241825512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gFizS9pQZ8",
+              "end": 23,
+              "expanded_url": "https://x.com/mofuwo8964/status/2062039697241825512/photo/1",
+              "media_key": "3_2062039689381687296",
+              "start": 0,
+              "url": "https://t.co/gFizS9pQZ8"
+            },
+            {
+              "display_url": "pic.x.com/gFizS9pQZ8",
+              "end": 23,
+              "expanded_url": "https://x.com/mofuwo8964/status/2062039697241825512/photo/1",
+              "media_key": "3_2062039689373335552",
+              "start": 0,
+              "url": "https://t.co/gFizS9pQZ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062039697241825512",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gFizS9pQZ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2908,
+          "following_count": 898,
+          "like_count": 3655,
+          "listed_count": 7,
+          "media_count": 198,
+          "tweet_count": 2798
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

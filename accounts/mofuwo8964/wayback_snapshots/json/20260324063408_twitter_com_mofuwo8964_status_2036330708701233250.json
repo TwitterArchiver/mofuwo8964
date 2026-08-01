@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2035956380121936046",
+    "created_at": "2026-03-24T06:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T07:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036330708701233250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1247452588674387969",
+          "start": 0,
+          "username": "m9m7m6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036330708701233250",
+    "in_reply_to_user_id": "1247452588674387969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036182809770074403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m9m7m6 我的一个朋友就是阿斯伯格，她过的比高松灯惨多了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2035956380121936046",
+        "created_at": "2026-03-24T06:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T07:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036330708701233250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1247452588674387969",
+              "start": 0,
+              "username": "m9m7m6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036330708701233250",
+        "in_reply_to_user_id": "1247452588674387969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036182809770074403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m9m7m6 我的一个朋友就是阿斯伯格，她过的比高松灯惨多了😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247452588674387969",
+        "conversation_id": "2035956380121936046",
+        "created_at": "2026-03-23T20:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T21:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036182809770074403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036182809770074403",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035956380121936046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 高功能自闭症儿童吧这种，按道理应该上特殊学校，不过看高松灯读书似乎没有问题，被送去普通学校很难不变成这样。。。还是二次元看看得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 830,
+          "like_count": 2732,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1985
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-07T09:14:17.000Z",
+        "description": "라선 킬 리더입니다 👑 N서조선                                                            Mandarin閱讀可以😼\n일상 계정\n뭐든지 다 이야기할 수 있는 곳\n가끔씩 인형 사진 올려요",
+        "id": "1247452588674387969",
+        "name": "미로 사키코🫧",
+        "pinned_tweet_id": "2011135346436948199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034736895754907648/rpiqZq-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 3473,
+          "like_count": 12656,
+          "listed_count": 6,
+          "media_count": 229,
+          "tweet_count": 2212
+        },
+        "username": "m9m7m6",
+        "verified": false
+      }
+    ]
+  }
+}

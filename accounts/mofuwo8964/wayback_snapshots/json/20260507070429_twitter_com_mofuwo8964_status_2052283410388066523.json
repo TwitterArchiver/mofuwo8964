@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2052203262523445684",
+    "created_at": "2026-05-07T07:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052283410388066523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1503409133399150596",
+          "start": 0,
+          "username": "dengdengmiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052283410388066523",
+    "in_reply_to_user_id": "1503409133399150596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052281245267296635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dengdengmiu 要是每个人都能和你一样有素质就好了我哭瞎了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2052203262523445684",
+        "created_at": "2026-05-07T07:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052283410388066523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1503409133399150596",
+              "start": 0,
+              "username": "dengdengmiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052283410388066523",
+        "in_reply_to_user_id": "1503409133399150596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052281245267296635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dengdengmiu 要是每个人都能和你一样有素质就好了我哭瞎了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503409133399150596",
+        "conversation_id": "2052203262523445684",
+        "created_at": "2026-05-07T06:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052281245267296635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052281245267296635",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052203262523445684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 小的时候练钢琴还住在楼里 那时候都是每天晚饭吃完大概六点钟练一个小时 在无法避免打扰别人的情况下我觉得时间的安排真的很重要👉👈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 876,
+          "like_count": 3447,
+          "listed_count": 6,
+          "media_count": 178,
+          "tweet_count": 2608
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-14T16:34:13.000Z",
+        "description": "这个世界是开放地图游戏，请你享受其中",
+        "id": "1503409133399150596",
+        "location": "I am because you are",
+        "name": "灯灯（remake版）",
+        "pinned_tweet_id": "2047688963427811434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503411107028824068/hnk4rqha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4977,
+          "following_count": 492,
+          "like_count": 39562,
+          "listed_count": 14,
+          "media_count": 925,
+          "tweet_count": 7651
+        },
+        "url": "",
+        "username": "dengdengmiu",
+        "verified": false
+      }
+    ]
+  }
+}

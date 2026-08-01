@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2045200865200570798",
+    "created_at": "2026-04-18T06:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T07:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045381996789264553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1707428789318488064",
+          "start": 0,
+          "username": "Ansssnix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045381996789264553",
+    "in_reply_to_user_id": "1707428789318488064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045371768865685938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ansssnix 检索到关键词自动输出了？我只是想说女生宿舍没那么离谱因为正常人也很多…并不会出现宫斗…\n况且我也骂室友啊 男的就不骂室友了？你想骂女的不妨直接骂，在这里拐弯抹角是何苦啊，不会你就是那个身上很臭的人吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2045200865200570798",
+        "created_at": "2026-04-18T06:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045381996789264553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1707428789318488064",
+              "start": 0,
+              "username": "Ansssnix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045381996789264553",
+        "in_reply_to_user_id": "1707428789318488064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045371768865685938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ansssnix 检索到关键词自动输出了？我只是想说女生宿舍没那么离谱因为正常人也很多…并不会出现宫斗…\n况且我也骂室友啊 男的就不骂室友了？你想骂女的不妨直接骂，在这里拐弯抹角是何苦啊，不会你就是那个身上很臭的人吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707428789318488064",
+        "conversation_id": "2045200865200570798",
+        "created_at": "2026-04-18T05:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045371768865685938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045371768865685938",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 392,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045200865200570798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 要不是我每天刷校园频道我就信了。每天都有女的发帖骂室友🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2658,
+          "following_count": 858,
+          "like_count": 3088,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 2374
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-28T16:15:38.000Z",
+        "description": "我的窦呀 招娣\n猜你是：穷比丑比低学历大龄母单窦妞",
+        "id": "1707428789318488064",
+        "name": "H.K.T.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996252531270541312/geGaN7iI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 0,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 482
+        },
+        "username": "Ansssnix",
+        "verified": false
+      }
+    ]
+  }
+}

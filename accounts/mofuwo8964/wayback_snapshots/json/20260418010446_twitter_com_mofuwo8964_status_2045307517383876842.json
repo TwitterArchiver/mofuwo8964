@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044907190276989218",
+    "created_at": "2026-04-18T01:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T02:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045307517383876842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1063651929127972864",
+          "start": 0,
+          "username": "xuwu2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045307517383876842",
+    "in_reply_to_user_id": "1063651929127972864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045292085037977703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuwu2026 确实…学了很多不好的词（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044907190276989218",
+        "created_at": "2026-04-18T01:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045307517383876842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1063651929127972864",
+              "start": 0,
+              "username": "xuwu2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045307517383876842",
+        "in_reply_to_user_id": "1063651929127972864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045292085037977703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuwu2026 确实…学了很多不好的词（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1063651929127972864",
+        "conversation_id": "2044907190276989218",
+        "created_at": "2026-04-18T00:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045292085037977703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045292085037977703",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044907190276989218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 那也比不写要提高不少吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2645,
+          "following_count": 858,
+          "like_count": 3080,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 2356
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-17T04:35:56.000Z",
+        "description": "喜欢美食，喜欢发呆，祈祷所有的人都平平安安 “Into good eats, fond of daydreaming, and truly wish everyone well and safe.”。",
+        "id": "1063651929127972864",
+        "location": "Kantō, Tochigi",
+        "name": "青鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033069678470508548/vFbajXT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 3005,
+          "like_count": 4490,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 962
+        },
+        "username": "xuwu2026",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2059334556860514610",
+    "created_at": "2026-05-27T01:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T02:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059439514129756380"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059439514129756380",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059334556860514610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没说日本人和日本教育的事情，，！我是跟我的那些中国人同学对比的，他们的学校和我的学校完全就是天差地别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2059334556860514610",
+        "created_at": "2026-05-27T01:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059439514129756380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059439514129756380",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059334556860514610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没说日本人和日本教育的事情，，！我是跟我的那些中国人同学对比的，他们的学校和我的学校完全就是天差地别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2059334556860514610",
+        "created_at": "2026-05-26T18:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059334556860514610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059334556860514610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我现在真的切实体会到了什么叫做人生的分水岭是羊水。。\n…在日本认识的几乎所有人都没有经历过早六晚十。大家根据自己喜欢的事情选择的路、早早就被父母铺好了。\n接受更优质的教育，接触更广阔的世界，同学在sns上发的高中时期念国际学校的照片，我真的无以言表。我也想知道举办这些活动是什么感觉，我也想知道在最美好的年纪里过得这么幸福是什么感觉，我也想知道能够在该自由的年纪里恣意生活是什么感觉。。。。\n然后我就突然想起我高中的时候，中午想要洗澡就只能不吃饭，因为最后一节课下课，到午休查寝只有20分钟时间。而且每顿饭实际上吃饭的时间只有十分钟不到；晚自习到熄灯也只有20分钟。那个时候下了晚自习，嘈杂的人群都在涌向宿舍楼的时候我在想自己好像被豢养的一头什么动物，三周出去看外面的世界两天。然后看着黑漆漆的天空，从早上到教室和晚上离开教室的路上，都是这样黑漆漆的天空；我不知道我在悲伤什么，我在忧郁什么，可是当时的我只是感到很悲伤很悲伤。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 10278,
+          "like_count": 162,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我现在真的切实体会到了什么叫做人生的分水岭是羊水。。\n…在日本认识的几乎所有人都没有经历过早六晚十。大家根据自己喜欢的事情选择的路、早早就被父母铺好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2855,
+          "following_count": 901,
+          "like_count": 3578,
+          "listed_count": 7,
+          "media_count": 194,
+          "tweet_count": 2752
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

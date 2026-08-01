@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2066779725297807707",
+    "created_at": "2026-06-16T07:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066779725297807707"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2066558826967638291",
+          "start": 131,
+          "url": "https://t.co/AeQlImeMDC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066779725297807707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066558826967638291",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "仅代表我个人，我基本上不使用“唐”这种话来做形容，说实话我也希望大家可以尽可能的不要用这种词…。唐氏综合症患者是非常痛苦的，但是相对于健全人/一般人来说他们是没有表达和深度思考的能力，但是对于痛苦的感知就能更直接了。他们每时每刻都在忍受苦痛，甚至都无法说出来。 https://t.co/AeQlImeMDC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066779725297807707",
+        "created_at": "2026-06-16T07:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066779725297807707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2066558826967638291",
+              "start": 131,
+              "url": "https://t.co/AeQlImeMDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066779725297807707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066558826967638291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "仅代表我个人，我基本上不使用“唐”这种话来做形容，说实话我也希望大家可以尽可能的不要用这种词…。唐氏综合症患者是非常痛苦的，但是相对于健全人/一般人来说他们是没有表达和深度思考的能力，但是对于痛苦的感知就能更直接了。他们每时每刻都在忍受苦痛，甚至都无法说出来。 https://t.co/AeQlImeMDC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066558826967638291",
+        "created_at": "2026-06-15T16:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066558826967638291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066558826967638291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 937,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得没有人会和人意见冲突查主页发现对方是个肢体残疾的人就恶语相向的，但是看到精神残疾的人就会瞬间来劲儿去想方设法释放自己的恶意，我对于这个已经很疲倦了，其实别人倒也就算了，连我家人也这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3078,
+          "following_count": 975,
+          "like_count": 3936,
+          "listed_count": 6,
+          "media_count": 223,
+          "tweet_count": 3108
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

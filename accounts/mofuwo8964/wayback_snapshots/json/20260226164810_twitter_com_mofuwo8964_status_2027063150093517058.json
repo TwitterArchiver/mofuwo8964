@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2027063150093517058",
+    "created_at": "2026-02-26T16:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T17:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027063150093517058"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027063150093517058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然很不好但我跟前任和现任都是刚确认关系/还没确认关系的时候就做了（不过认识了都半年以上了已经确保知根知底吧大概）但是我其实是觉得，，我个人是没办法接受几把故障的男人的，比起投入这么多成本还不如一开始就验货（。）拥有不了和谐的性生活不如让我去死！我可真是一个爱做爱的小女孩口牙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2027063150093517058",
+        "created_at": "2026-02-26T16:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027063150093517058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027063150093517058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然很不好但我跟前任和现任都是刚确认关系/还没确认关系的时候就做了（不过认识了都半年以上了已经确保知根知底吧大概）但是我其实是觉得，，我个人是没办法接受几把故障的男人的，比起投入这么多成本还不如一开始就验货（。）拥有不了和谐的性生活不如让我去死！我可真是一个爱做爱的小女孩口牙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜三个孩子的母亲",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "肩膀胳膊连接处下面那个部位",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024639644768628736/sthKf3FC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 814,
+          "like_count": 2490,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1712
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

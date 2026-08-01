@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037220988774232064"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037220997745856542",
+    "created_at": "2026-03-26T17:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037220997745856542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/302BwsRCcL",
+          "end": 35,
+          "expanded_url": "https://x.com/mofuwo8964/status/2037220997745856542/photo/1",
+          "media_key": "3_2037220988774232064",
+          "start": 12,
+          "url": "https://t.co/302BwsRCcL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037220997745856542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种没礼貌的赶紧死绝吧 https://t.co/302BwsRCcL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1859,
+        "media_key": "3_2037220988774232064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWpshTbsAAr4TJ.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037220988774232064"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037220997745856542",
+        "created_at": "2026-03-26T17:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037220997745856542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/302BwsRCcL",
+              "end": 35,
+              "expanded_url": "https://x.com/mofuwo8964/status/2037220997745856542/photo/1",
+              "media_key": "3_2037220988774232064",
+              "start": 12,
+              "url": "https://t.co/302BwsRCcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037220997745856542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种没礼貌的赶紧死绝吧 https://t.co/302BwsRCcL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 849,
+          "like_count": 2821,
+          "listed_count": 4,
+          "media_count": 154,
+          "tweet_count": 2107
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

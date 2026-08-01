@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2070896576588095786",
+    "created_at": "2026-06-27T15:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070896576588095786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "腋窝’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1YxNr…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1YxNrrqMdyLxw",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2070896578102210560/xtbMXtqR?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2070896578102210560/xtbMXtqR?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 关于生活方面的求助，紧急求助。（因为状态差说话可能顺序和方式都很混乱",
+          "unwound_url": "https://twitter.com/i/spaces/1YxNrrqMdyLxw/peek",
+          "url": "https://t.co/qCQTxAHuZp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070896576588095786",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/qCQTxAHuZp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070896576588095786",
+        "created_at": "2026-06-27T15:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070896576588095786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "腋窝’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1YxNr…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1YxNrrqMdyLxw",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2070896578102210560/xtbMXtqR?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070896578102210560/xtbMXtqR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 关于生活方面的求助，紧急求助。（因为状态差说话可能顺序和方式都很混乱",
+              "unwound_url": "https://twitter.com/i/spaces/1YxNrrqMdyLxw/peek",
+              "url": "https://t.co/qCQTxAHuZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070896576588095786",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qCQTxAHuZp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070735539935039488/KAKCmd7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 1005,
+          "like_count": 4271,
+          "listed_count": 6,
+          "media_count": 226,
+          "tweet_count": 3381
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

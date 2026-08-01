@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2036021906928021990",
+    "created_at": "2026-03-25T03:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T04:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036653961579753712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2034699389042925571",
+          "start": 0,
+          "username": "kaelisforone"
+        },
+        {
+          "end": 28,
+          "id": "1916824571128287232",
+          "start": 14,
+          "username": "fayoubaike666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036653961579753712",
+    "in_reply_to_user_id": "2034699389042925571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036272569008136220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaelisforone @fayoubaike666 性瘾不是自己选的。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036021906928021990",
+        "created_at": "2026-03-25T03:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036653961579753712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2034699389042925571",
+              "start": 0,
+              "username": "kaelisforone"
+            },
+            {
+              "end": 28,
+              "id": "1916824571128287232",
+              "start": 14,
+              "username": "fayoubaike666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036653961579753712",
+        "in_reply_to_user_id": "2034699389042925571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036272569008136220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaelisforone @fayoubaike666 性瘾不是自己选的。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034699389042925571",
+        "conversation_id": "2036021906928021990",
+        "created_at": "2026-03-24T02:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T03:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036272569008136220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916824571128287232",
+              "start": 0,
+              "username": "fayoubaike666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036272569008136220",
+        "in_reply_to_user_id": "1916824571128287232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 338,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036021906928021990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike666 精神病先不说。药物滥用和性瘾有什么好同情的，纯自己选择做了个烂人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2616,
+          "following_count": 835,
+          "like_count": 2771,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 2038
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-19T18:34:57.000Z",
+        "description": "人。istp。宅太久了我要交朋友！！",
+        "id": "2034699389042925571",
+        "name": "灵魂漏电中...",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035152730646618112/E43t91PN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 32
+        },
+        "username": "kaelisforone",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "由法友百科Sakura与Meng运营\n博客：https://t.co/N5OWFEYlEo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 45,
+                "expanded_url": "https://pr80.bid/",
+                "start": 22,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fayou.fyi",
+                "end": 23,
+                "expanded_url": "https://fayou.fyi",
+                "start": 0,
+                "url": "https://t.co/vtS1w2QdPH"
+              }
+            ]
+          }
+        },
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "法友百科",
+        "pinned_tweet_id": "2036263457822253160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031290772440641536/QNkKbty9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 643,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 624
+        },
+        "url": "https://t.co/vtS1w2QdPH",
+        "username": "fayoubaike666",
+        "verified": false
+      }
+    ]
+  }
+}

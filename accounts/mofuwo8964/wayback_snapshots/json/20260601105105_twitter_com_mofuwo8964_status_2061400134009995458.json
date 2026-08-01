@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2061297772956205431",
+    "created_at": "2026-06-01T10:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061400134009995458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741063508102627328",
+          "start": 0,
+          "username": "kitty068_ly"
+        },
+        {
+          "end": 29,
+          "id": "1978615444664922114",
+          "start": 13,
+          "username": "QinChe_SgrDaddy"
+        },
+        {
+          "end": 43,
+          "id": "1781974567701102592",
+          "start": 30,
+          "username": "getthefkoff_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061400134009995458",
+    "in_reply_to_user_id": "1741063508102627328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061323184138518888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitty068_ly @QinChe_SgrDaddy @getthefkoff_ 我特么肚子笑炸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2061297772956205431",
+        "created_at": "2026-06-01T10:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061400134009995458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            },
+            {
+              "end": 29,
+              "id": "1978615444664922114",
+              "start": 13,
+              "username": "QinChe_SgrDaddy"
+            },
+            {
+              "end": 43,
+              "id": "1781974567701102592",
+              "start": 30,
+              "username": "getthefkoff_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061400134009995458",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061323184138518888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly @QinChe_SgrDaddy @getthefkoff_ 我特么肚子笑炸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741063508102627328",
+        "conversation_id": "2061297772956205431",
+        "created_at": "2026-06-01T05:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061323184138518888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1978615444664922114",
+              "start": 0,
+              "username": "QinChe_SgrDaddy"
+            },
+            {
+              "end": 30,
+              "id": "1781974567701102592",
+              "start": 17,
+              "username": "getthefkoff_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061323184138518888",
+        "in_reply_to_user_id": "1978615444664922114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061322001629987101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QinChe_SgrDaddy @getthefkoff_ 沈星回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2904,
+          "following_count": 902,
+          "like_count": 3635,
+          "listed_count": 7,
+          "media_count": 196,
+          "tweet_count": 2779
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "本账号不适合看不懂人话的人交流 和我想法不一样的人可以不说话 你是谁啊你的想法重要吗这是我的个人账户\n一个queer\n任何求偶意愿的私信和评论@dngyng169770781都会看/https://t.co/RoA8dVrPtp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "dngyng169770781"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A4%A9%E4%B…",
+                "end": 114,
+                "expanded_url": "https://ngl.link/%E5%A4%A9%E4%BD%BF%E9%93%83",
+                "start": 91,
+                "url": "https://t.co/RoA8dVrPtp"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 541,
+          "like_count": 8304,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 4768
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-16T00:14:20.000Z",
+        "description": "我们才是真正的同类",
+        "id": "1978615444664922114",
+        "location": "N109禁猎区",
+        "name": "暗点首领归来！看临空政府土崩瓦解，流浪体横行的时代已经到来！",
+        "pinned_tweet_id": "1981385214640476275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981353644847960064/XKLaarYA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 131,
+          "like_count": 6562,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1238
+        },
+        "username": "QinChe_SgrDaddy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T09:15:03.000Z",
+        "description": "XD",
+        "id": "1781974567701102592",
+        "location": "0.1km",
+        "name": "雨季不再來",
+        "pinned_tweet_id": "2038823977037287923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042459174538526720/d915gp7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 91,
+          "like_count": 9186,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2379
+        },
+        "username": "getthefkoff_",
+        "verified": false
+      }
+    ]
+  }
+}

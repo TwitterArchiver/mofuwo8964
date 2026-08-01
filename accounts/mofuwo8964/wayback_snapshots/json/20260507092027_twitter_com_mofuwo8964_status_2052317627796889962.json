@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052317624252702720"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2052315881615900800",
+    "created_at": "2026-05-07T09:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052317627796889962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "wkJisbkkk0827"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rxv8xsEirl",
+          "end": 38,
+          "expanded_url": "https://x.com/mofuwo8964/status/2052317627796889962/photo/1",
+          "media_key": "3_2052317624252702720",
+          "start": 15,
+          "url": "https://t.co/rxv8xsEirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052317627796889962",
+    "in_reply_to_user_id": "1859117911119720448",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052315881615900800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wkJisbkkk0827 https://t.co/rxv8xsEirl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 435,
+        "media_key": "3_2052317624252702720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtMAW_bIAAhAd3.jpg",
+        "width": 825
+      },
+      {
+        "height": 1368,
+        "media_key": "3_2052315874099658752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtKafKbAAAXxVn.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052317624252702720"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2052315881615900800",
+        "created_at": "2026-05-07T09:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052317627796889962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "wkJisbkkk0827"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxv8xsEirl",
+              "end": 38,
+              "expanded_url": "https://x.com/mofuwo8964/status/2052317627796889962/photo/1",
+              "media_key": "3_2052317624252702720",
+              "start": 15,
+              "url": "https://t.co/rxv8xsEirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052317627796889962",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052315881615900800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wkJisbkkk0827 https://t.co/rxv8xsEirl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052315874099658752"
+          ]
+        },
+        "author_id": "1859117911119720448",
+        "conversation_id": "2052315881615900800",
+        "created_at": "2026-05-07T09:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052315881615900800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTsTs3GgAV",
+              "end": 33,
+              "expanded_url": "https://x.com/wkJisbkkk0827/status/2052315881615900800/photo/1",
+              "media_key": "3_2052315874099658752",
+              "start": 10,
+              "url": "https://t.co/fTsTs3GgAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052315881615900800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "与其解释不如指责🫵 https://t.co/fTsTs3GgAV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2801,
+          "following_count": 880,
+          "like_count": 3452,
+          "listed_count": 6,
+          "media_count": 178,
+          "tweet_count": 2612
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "",
+        "id": "1859117911119720448",
+        "location": "日本 東京",
+        "name": "bp",
+        "pinned_tweet_id": "1860271173894045968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015743113537765376/MIqvsoh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 83,
+          "like_count": 3945,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 2776
+        },
+        "username": "wkJisbkkk0827",
+        "verified": false
+      }
+    ]
+  }
+}

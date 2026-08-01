@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067370936198910021",
+    "created_at": "2026-06-17T22:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T23:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067370936198910021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055818247661072384",
+          "start": 3,
+          "username": "AWAWOLFF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067370936198910021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 307
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067195319658688985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AWAWOLFF: 敢在百合中间夹个男的我就杀了你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067370936198910021",
+        "created_at": "2026-06-17T22:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T23:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067370936198910021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055818247661072384",
+              "start": 3,
+              "username": "AWAWOLFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067370936198910021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067195319658688985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AWAWOLFF: 敢在百合中间夹个男的我就杀了你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055818247661072384",
+        "conversation_id": "2067195319658688985",
+        "created_at": "2026-06-17T10:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067195319658688985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067195319658688985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 34465,
+          "like_count": 2115,
+          "quote_count": 5,
+          "reply_count": 29,
+          "retweet_count": 307
+        },
+        "reply_settings": "everyone",
+        "text": "敢在百合中间夹个男的我就杀了你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3111,
+          "following_count": 984,
+          "like_count": 3972,
+          "listed_count": 6,
+          "media_count": 228,
+          "tweet_count": 3155
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T01:12:09.000Z",
+        "description": "太性压抑了所以什么都说，不要见怪\n因为曾经是避难用账号所以什么都说\n\n20↑而且一天到晚只想看色情的成年人",
+        "id": "2055818247661072384",
+        "name": "AW",
+        "pinned_tweet_id": "2067201922277499166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055819595110559744/MwCux30c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 177,
+          "like_count": 6481,
+          "listed_count": 5,
+          "media_count": 91,
+          "tweet_count": 3332
+        },
+        "username": "AWAWOLFF",
+        "verified": false
+      }
+    ]
+  }
+}

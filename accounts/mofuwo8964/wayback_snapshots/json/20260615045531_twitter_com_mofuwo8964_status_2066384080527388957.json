@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2066384080527388957",
+    "created_at": "2026-06-15T04:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066384080527388957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aspirinum01/st…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/aspirinum01/status/2066367321976025473",
+          "start": 130,
+          "url": "https://t.co/wOCy6uO2Xf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066384080527388957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066367321976025473",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今日看到最恶心的推文之一。不管怎么说这件事上她是个绝对受害者，请问这样的发言到底跟评价被强奸女性的容貌有什么区别？把加害人排除然后把目光聚焦向受害者：完美的受害者大家共情加害者，不完美的受害者大家进行二次加害。\n这样下去没人会重视性骚扰本身的恶劣程度不是吗？ https://t.co/wOCy6uO2Xf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066384080527388957",
+        "created_at": "2026-06-15T04:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066384080527388957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aspirinum01/st…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/aspirinum01/status/2066367321976025473",
+              "start": 130,
+              "url": "https://t.co/wOCy6uO2Xf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066384080527388957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066367321976025473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今日看到最恶心的推文之一。不管怎么说这件事上她是个绝对受害者，请问这样的发言到底跟评价被强奸女性的容貌有什么区别？把加害人排除然后把目光聚焦向受害者：完美的受害者大家共情加害者，不完美的受害者大家进行二次加害。\n这样下去没人会重视性骚扰本身的恶劣程度不是吗？ https://t.co/wOCy6uO2Xf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1405658630783868933",
+        "conversation_id": "2066367321976025473",
+        "created_at": "2026-06-15T03:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066367321976025473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066367321976025473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 435,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是不知道ki师为什么要去惹习惯性OD的泪袋妖怪，是不是真的饥不择食了。就我仅仅6月上半就收住院10个OD 妹的经验来讲，除了远离没有别的方法，你不是精神科的你搞不定她们。我只能洗胃灌活性炭然后送精神科。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3051,
+          "following_count": 967,
+          "like_count": 3890,
+          "listed_count": 6,
+          "media_count": 217,
+          "tweet_count": 3058
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-17T22:48:36.000Z",
+        "description": "文科省から貰った1300万は税金で返済すみ。INTP。Diver。イクラ垢:猫柳　@aspirinum　\nbsky垢も猫田殿https://t.co/ZWpuoamsh3\n参政党は腐ったみかん🤡保守党は永遠のハゲ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "aspirinum"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "aspirinum.bsky.social",
+                "end": 85,
+                "expanded_url": "http://aspirinum.bsky.social",
+                "start": 62,
+                "url": "https://t.co/ZWpuoamsh3"
+              }
+            ]
+          }
+        },
+        "id": "1405658630783868933",
+        "location": "大阪",
+        "name": "猫田殿",
+        "pinned_tweet_id": "1961242555947110416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1541282634122162176/wUAg53_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 862,
+          "like_count": 46035,
+          "listed_count": 9,
+          "media_count": 1804,
+          "tweet_count": 16907
+        },
+        "username": "aspirinum01",
+        "verified": false
+      }
+    ]
+  }
+}

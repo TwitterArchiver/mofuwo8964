@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2050508838974160957",
+    "created_at": "2026-05-02T09:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T10:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050508838974160957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2050168647902195742",
+          "start": 96,
+          "url": "https://t.co/5yX69gKzme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050508838974160957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050168647902195742",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是骂人，是真的觉得是一种本事。。因为我九十多斤的时候穿lolita无痛增肥三十斤，身上几乎0露肤度。但是他们哪怕穿了lolita还能额露锁骨露乳沟露大腿展示自己曼妙的身材yysy确实很牛逼 https://t.co/5yX69gKzme"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2050508838974160957",
+        "created_at": "2026-05-02T09:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050508838974160957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2050168647902195742",
+              "start": 96,
+              "url": "https://t.co/5yX69gKzme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050508838974160957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050168647902195742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是骂人，是真的觉得是一种本事。。因为我九十多斤的时候穿lolita无痛增肥三十斤，身上几乎0露肤度。但是他们哪怕穿了lolita还能额露锁骨露乳沟露大腿展示自己曼妙的身材yysy确实很牛逼 https://t.co/5yX69gKzme"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2050168647902195742",
+        "created_at": "2026-05-01T11:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050168647902195742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050168647902195742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 62697,
+          "like_count": 492,
+          "quote_count": 2,
+          "reply_count": 338,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "少萝能把lolita穿得像情趣内衣也是一种本事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。\n追加：粉红健全逼社达激女男权蛆死远点看了好想吐",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 871,
+          "like_count": 3355,
+          "listed_count": 6,
+          "media_count": 183,
+          "tweet_count": 2557
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

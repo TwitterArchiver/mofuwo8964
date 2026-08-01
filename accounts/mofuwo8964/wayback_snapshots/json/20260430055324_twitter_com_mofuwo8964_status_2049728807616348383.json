@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2049728807616348383",
+    "created_at": "2026-04-30T05:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T06:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049728807616348383"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049728807616348383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我现在在思考一个事情😔\n我在思考到底要不要上大学 还是干脆上专门…一方面是现在的学习内容让我很想跳而且没有即时反馈 一方面是我很想做自己喜欢的事情 但要说我喜欢学习吗…？其实是喜欢的 但我不喜欢考试…额啊啊 上大学的话可以接触更多新鲜的好玩的 上专门能做自己喜欢做的…而且我也考不上特别好的大学啊！还不如跑路"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在在思考一个事情😔\n我在思考到底要不要上大学 还是干脆上专门…一方面是现在的学习内容让我很想跳而且没有即时反馈 一方面是我很想做自己喜欢的事情 但要说我喜欢学习吗…？其实是喜欢的 但我不喜欢考试…额啊啊 上大学的话可以接触更多新鲜的好玩的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2049728807616348383",
+        "created_at": "2026-04-30T05:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049728807616348383"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049728807616348383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我现在在思考一个事情😔\n我在思考到底要不要上大学 还是干脆上专门…一方面是现在的学习内容让我很想跳而且没有即时反馈 一方面是我很想做自己喜欢的事情 但要说我喜欢学习吗…？其实是喜欢的 但我不喜欢考试…额啊啊 上大学的话可以接触更多新鲜的好玩的 上专门能做自己喜欢做的…而且我也考不上特别好的大学啊！还不如跑路"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在在思考一个事情😔\n我在思考到底要不要上大学 还是干脆上专门…一方面是现在的学习内容让我很想跳而且没有即时反馈 一方面是我很想做自己喜欢的事情 但要说我喜欢学习吗…？其实是喜欢的 但我不喜欢考试…额啊啊 上大学的话可以接触更多新鲜的好玩的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。\n追加：粉红健全逼社达激女男权蛆死远点看了好想吐",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2749,
+          "following_count": 868,
+          "like_count": 3266,
+          "listed_count": 6,
+          "media_count": 180,
+          "tweet_count": 2511
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

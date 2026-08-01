@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2035960971387351430",
+    "created_at": "2026-03-23T11:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T12:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036036719481659827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1529382104538050560",
+          "start": 0,
+          "username": "Choumodujiang_"
+        },
+        {
+          "end": 28,
+          "id": "1604745986747899905",
+          "start": 16,
+          "username": "taffylovedj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036036719481659827",
+    "in_reply_to_user_id": "1529382104538050560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "拜托不要胡搅蛮缠了…我是因为你和我共同互关多才一直回复你的…我不只是因为她zng粉丝多才讨厌她，但是她zng粉丝多也是我讨厌她的一个原因，这两者真的不一样。\n其次我真的没有时间和精力在互联网上和人具体说明我为什么讨厌一个纸片人，你喜欢丰川祥子就会有人讨厌丰川祥子，就像有人爱吃香菜有人不爱吃香菜一样…为什么不允许别人有和你不同的观点呢。。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036035123767132591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Choumodujiang_ @taffylovedj 拜托不要胡搅蛮缠了…我是因为你和我共同互关多才一直回复你的…我不只是因为她zng粉丝多才讨厌她，但是她zng粉丝多也是我讨厌她的一个原因，这两者真的不一样。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2036035111335108608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFzJXlaIAAqTtg.jpg",
+        "width": 1721
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2035960971387351430",
+        "created_at": "2026-03-23T11:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036036719481659827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1529382104538050560",
+              "start": 0,
+              "username": "Choumodujiang_"
+            },
+            {
+              "end": 28,
+              "id": "1604745986747899905",
+              "start": 16,
+              "username": "taffylovedj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036036719481659827",
+        "in_reply_to_user_id": "1529382104538050560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "拜托不要胡搅蛮缠了…我是因为你和我共同互关多才一直回复你的…我不只是因为她zng粉丝多才讨厌她，但是她zng粉丝多也是我讨厌她的一个原因，这两者真的不一样。\n其次我真的没有时间和精力在互联网上和人具体说明我为什么讨厌一个纸片人，你喜欢丰川祥子就会有人讨厌丰川祥子，就像有人爱吃香菜有人不爱吃香菜一样…为什么不允许别人有和你不同的观点呢。。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036035123767132591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Choumodujiang_ @taffylovedj 拜托不要胡搅蛮缠了…我是因为你和我共同互关多才一直回复你的…我不只是因为她zng粉丝多才讨厌她，但是她zng粉丝多也是我讨厌她的一个原因，这两者真的不一样。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036035111335108608"
+          ]
+        },
+        "author_id": "1529382104538050560",
+        "conversation_id": "2035960971387351430",
+        "created_at": "2026-03-23T10:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036035123767132591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            },
+            {
+              "end": 24,
+              "id": "1604745986747899905",
+              "start": 12,
+              "username": "taffylovedj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W83zV1TmNC",
+              "end": 113,
+              "expanded_url": "https://x.com/Choumodujiang_/status/2036035123767132591/photo/1",
+              "media_key": "3_2036035111335108608",
+              "start": 90,
+              "url": "https://t.co/W83zV1TmNC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036035123767132591",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036033472943579518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 @taffylovedj 那我可以理解为你也讨厌祥子，素世，高松灯等角色吗，毕竟你说你taoyanzng多的角色，千早爱音粉丝zng占比比他们少多了啊我看 https://t.co/W83zV1TmNC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2606,
+          "following_count": 830,
+          "like_count": 2711,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 1949
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-25T08:41:36.000Z",
+        "description": "锚",
+        "id": "1529382104538050560",
+        "location": "干你亲爹",
+        "name": "单纯爱祥子",
+        "pinned_tweet_id": "1758464496312750570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755984297188790273/-jriNp3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 422,
+          "like_count": 4984,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 3689
+        },
+        "username": "Choumodujiang_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T07:50:47.000Z",
+        "description": "",
+        "id": "1604745986747899905",
+        "name": "雪豹",
+        "pinned_tweet_id": "1953027169791426746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814626902369603584/rXtJEriZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 186,
+          "like_count": 853,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 233
+        },
+        "username": "taffylovedj",
+        "verified": false
+      }
+    ]
+  }
+}

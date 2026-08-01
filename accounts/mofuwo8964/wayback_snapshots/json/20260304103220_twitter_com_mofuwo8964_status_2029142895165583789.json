@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2029142895165583789",
+    "created_at": "2026-03-04T10:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T11:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029142895165583789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1581478431274983424",
+          "start": 3,
+          "username": "yoyobewild"
+        },
+        {
+          "end": 22,
+          "id": "1592172867189293057",
+          "start": 16,
+          "username": "cxszb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029142895165583789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028778150533210368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoyobewild: @cxszb 他们真的相信大逼用大卫生巾，小逼用小卫生巾。他们脑子难道不会思考，大卫生巾是因为躺下会侧漏，所以要大面积去垫吗……在他们眼里，好女人就是“哥哥，我用小小的一张护垫就好啦（挑眉）（我的逼很小）（脸红）。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2029142895165583789",
+        "created_at": "2026-03-04T10:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T11:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029142895165583789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1581478431274983424",
+              "start": 3,
+              "username": "yoyobewild"
+            },
+            {
+              "end": 22,
+              "id": "1592172867189293057",
+              "start": 16,
+              "username": "cxszb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029142895165583789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028778150533210368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoyobewild: @cxszb 他们真的相信大逼用大卫生巾，小逼用小卫生巾。他们脑子难道不会思考，大卫生巾是因为躺下会侧漏，所以要大面积去垫吗……在他们眼里，好女人就是“哥哥，我用小小的一张护垫就好啦（挑眉）（我的逼很小）（脸红）。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2028775051785564235",
+        "created_at": "2026-03-03T10:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028778150533210368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1592172867189293057",
+              "start": 0,
+              "username": "cxszb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028778150533210368",
+        "in_reply_to_user_id": "1592172867189293057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 31254,
+          "like_count": 1160,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028776980301443540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxszb 他们真的相信大逼用大卫生巾，小逼用小卫生巾。他们脑子难道不会思考，大卫生巾是因为躺下会侧漏，所以要大面积去垫吗……在他们眼里，好女人就是“哥哥，我用小小的一张护垫就好啦（挑眉）（我的逼很小）（脸红）。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜三个孩子的母亲",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029070470327463937/DjCGJIHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2543,
+          "following_count": 814,
+          "like_count": 2526,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 1739
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4750,
+          "following_count": 196,
+          "like_count": 34524,
+          "listed_count": 18,
+          "media_count": 374,
+          "tweet_count": 7722
+        },
+        "username": "yoyobewild",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T15:09:37.000Z",
+        "description": "03/非二元/无性吸引/抖s/收ATM/水仙/反出生主义/负能警告/现居北京/",
+        "id": "1592172867189293057",
+        "location": "🚪好友位88",
+        "name": "直花今天不嘴臭",
+        "pinned_tweet_id": "1836806921233617051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914757234996994056/9DnzxE3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5889,
+          "following_count": 304,
+          "like_count": 15151,
+          "listed_count": 18,
+          "media_count": 173,
+          "tweet_count": 18400
+        },
+        "username": "cxszb",
+        "verified": false
+      }
+    ]
+  }
+}

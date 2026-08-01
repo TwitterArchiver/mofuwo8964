@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2045200865200570798",
+    "created_at": "2026-04-18T07:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045411352269951120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1934931089803591680",
+          "start": 0,
+          "username": "DYftgk74694"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045411352269951120",
+    "in_reply_to_user_id": "1934931089803591680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045409337821077863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DYftgk74694 我高中选的历生地按理说也应该偏文科吧😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2045200865200570798",
+        "created_at": "2026-04-18T07:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045411352269951120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1934931089803591680",
+              "start": 0,
+              "username": "DYftgk74694"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045411352269951120",
+        "in_reply_to_user_id": "1934931089803591680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045409337821077863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DYftgk74694 我高中选的历生地按理说也应该偏文科吧😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934931089803591680",
+        "conversation_id": "2045200865200570798",
+        "created_at": "2026-04-18T07:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045409337821077863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045409337821077863",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045385957730562163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 文科生班就是另一回事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 858,
+          "like_count": 3096,
+          "listed_count": 5,
+          "media_count": 166,
+          "tweet_count": 2380
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-17T11:09:35.000Z",
+        "description": "Nothing to Say.",
+        "id": "1934931089803591680",
+        "name": "D yftgk",
+        "pinned_tweet_id": "2004797513497448637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004796993198301184/7wqGyQrj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 143,
+          "like_count": 1384,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 115
+        },
+        "username": "DYftgk74694",
+        "verified": false
+      }
+    ]
+  }
+}

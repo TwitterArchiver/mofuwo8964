@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2030827244562915699",
+    "created_at": "2026-03-09T02:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T03:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030827244562915699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902234624153284610",
+          "start": 3,
+          "username": "mustikka1007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030827244562915699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030539280452624406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mustikka1007: 长发男这个群体是不是有什么先天缺陷啊，要么自我意识过剩要么脑子就是有问题。。。我朋友圈的电子宠物基本全是长发男，经常被他们的雷霆发言创到😓😓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2030827244562915699",
+        "created_at": "2026-03-09T02:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T03:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030827244562915699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902234624153284610",
+              "start": 3,
+              "username": "mustikka1007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030827244562915699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030539280452624406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mustikka1007: 长发男这个群体是不是有什么先天缺陷啊，要么自我意识过剩要么脑子就是有问题。。。我朋友圈的电子宠物基本全是长发男，经常被他们的雷霆发言创到😓😓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902234624153284610",
+        "conversation_id": "2030539280452624406",
+        "created_at": "2026-03-08T07:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T08:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030539280452624406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030539280452624406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 20686,
+          "like_count": 281,
+          "quote_count": 5,
+          "reply_count": 28,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "长发男这个群体是不是有什么先天缺陷啊，要么自我意识过剩要么脑子就是有问题。。。我朋友圈的电子宠物基本全是长发男，经常被他们的雷霆发言创到😓😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029070470327463937/DjCGJIHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2556,
+          "following_count": 817,
+          "like_count": 2562,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 1757
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T05:44:41.000Z",
+        "description": "不闲聊不闲聊不闲聊，不加联系方式不加联系方式不加联系方式",
+        "id": "1902234624153284610",
+        "name": "死眠少女",
+        "pinned_tweet_id": "1962771125295030532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012000843101585410/iYFGBMZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 127,
+          "like_count": 11504,
+          "listed_count": 7,
+          "media_count": 615,
+          "tweet_count": 5871
+        },
+        "username": "mustikka1007",
+        "verified": false
+      }
+    ]
+  }
+}

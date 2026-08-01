@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2064612652400480633",
+    "created_at": "2026-06-10T07:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064612652400480633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2064563152617087107",
+          "start": 23,
+          "url": "https://t.co/b4ZU84yxwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064612652400480633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064563152617087107",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "沟槽的破案了 睡衣扣子压到了………不要趴着睡 https://t.co/b4ZU84yxwo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1308,
+        "media_key": "3_2064563147835682816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbNPpMbsAACX4K.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064612652400480633",
+        "created_at": "2026-06-10T07:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064612652400480633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2064563152617087107",
+              "start": 23,
+              "url": "https://t.co/b4ZU84yxwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064612652400480633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064563152617087107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沟槽的破案了 睡衣扣子压到了………不要趴着睡 https://t.co/b4ZU84yxwo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064563147835682816"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064563152617087107",
+        "created_at": "2026-06-10T04:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064563152617087107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6VVTrwO2q8",
+              "end": 69,
+              "expanded_url": "https://x.com/mofuwo8964/status/2064563152617087107/photo/1",
+              "media_key": "3_2064563147835682816",
+              "start": 46,
+              "url": "https://t.co/6VVTrwO2q8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064563152617087107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 366,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我今天早上起床发现胸上多了一个这个不明痕迹😱😱一上午了回家发现这个痕迹还在😱这是咋回事 https://t.co/6VVTrwO2q8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜精神残疾｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2972,
+          "following_count": 926,
+          "like_count": 3812,
+          "listed_count": 7,
+          "media_count": 201,
+          "tweet_count": 2934
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

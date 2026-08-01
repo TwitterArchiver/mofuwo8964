@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037230768003703044",
+    "created_at": "2026-03-26T18:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T19:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037230768003703044"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037230768003703044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然很那个但是我确实对所有人有极强的防备心理，我几乎从不主动靠近他人并且回避他人和我建立关系，虽然会间歇性社交但后来也会疏远别人继续自闭。呵呵，，，我觉得我真的只适合在推特自说自话，其实我三次元也有几个关系不错的朋友，但是我觉得人和人还是有点界限感吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037230768003703044",
+        "created_at": "2026-03-26T18:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037230768003703044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037230768003703044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然很那个但是我确实对所有人有极强的防备心理，我几乎从不主动靠近他人并且回避他人和我建立关系，虽然会间歇性社交但后来也会疏远别人继续自闭。呵呵，，，我觉得我真的只适合在推特自说自话，其实我三次元也有几个关系不错的朋友，但是我觉得人和人还是有点界限感吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 849,
+          "like_count": 2821,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 2110
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

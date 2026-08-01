@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2071199746849657038",
+    "created_at": "2026-06-28T16:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071266885140656492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "909189799",
+          "start": 0,
+          "username": "bigfamily999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071266885140656492",
+    "in_reply_to_user_id": "909189799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071199746849657038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigfamily999 爸爸妈妈我出生了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2071199746849657038",
+        "created_at": "2026-06-28T16:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071266885140656492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "909189799",
+              "start": 0,
+              "username": "bigfamily999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071266885140656492",
+        "in_reply_to_user_id": "909189799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071199746849657038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigfamily999 爸爸妈妈我出生了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909189799",
+        "conversation_id": "2071199746849657038",
+        "created_at": "2026-06-28T11:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071199746849657038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071199746849657038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "劳工忙起工作来我就和寡妇一样……谁来应聘二房……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071042734262288384/8yC7wNfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3170,
+          "following_count": 1009,
+          "like_count": 4288,
+          "listed_count": 6,
+          "media_count": 227,
+          "tweet_count": 3385
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2012-10-28T00:16:31.000Z",
+        "description": "一位每天都在训诫循环“闭嘴”命令的严厉的母亲",
+        "id": "909189799",
+        "name": "抱抱豹豹(･∞･ﾐэ )Э",
+        "pinned_tweet_id": "2013922180640514188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067524615430393856/kJ2vaQdr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 743,
+          "like_count": 31553,
+          "listed_count": 1,
+          "media_count": 943,
+          "tweet_count": 12025
+        },
+        "url": "",
+        "username": "bigfamily999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2064566185413526003",
+    "created_at": "2026-06-10T06:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064591457772859873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1720819011057840128",
+          "start": 0,
+          "username": "Pissenlit_AH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064591457772859873",
+    "in_reply_to_user_id": "1720819011057840128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064570780684603599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pissenlit_AH 哮喘服弱役了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064566185413526003",
+        "created_at": "2026-06-10T06:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064591457772859873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720819011057840128",
+              "start": 0,
+              "username": "Pissenlit_AH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064591457772859873",
+        "in_reply_to_user_id": "1720819011057840128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064570780684603599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pissenlit_AH 哮喘服弱役了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720819011057840128",
+        "conversation_id": "2064566185413526003",
+        "created_at": "2026-06-10T04:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064570780684603599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064570780684603599",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064566185413526003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 你没练成肌肉猛女，服弱役了👿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜精神残疾｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2974,
+          "following_count": 926,
+          "like_count": 3811,
+          "listed_count": 7,
+          "media_count": 201,
+          "tweet_count": 2929
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T15:03:25.000Z",
+        "description": "祂、她、他、它🐀",
+        "id": "1720819011057840128",
+        "location": "？",
+        "name": "真左要乐奈",
+        "pinned_tweet_id": "1949385212015571222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954443949109907456/feDj3qKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 365,
+          "like_count": 34205,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 3829
+        },
+        "username": "Pissenlit_AH",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2070566149050556659",
+    "created_at": "2026-06-27T03:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070706080108396668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1712754288777379840",
+          "start": 0,
+          "username": "sugishita_japan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070706080108396668",
+    "in_reply_to_user_id": "1712754288777379840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070704121762791923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugishita_japan 我不活了吧我家附近的超市全都没有，好难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070566149050556659",
+        "created_at": "2026-06-27T03:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070706080108396668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712754288777379840",
+              "start": 0,
+              "username": "sugishita_japan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070706080108396668",
+        "in_reply_to_user_id": "1712754288777379840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070704121762791923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugishita_japan 我不活了吧我家附近的超市全都没有，好难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712754288777379840",
+        "conversation_id": "2070566149050556659",
+        "created_at": "2026-06-27T03:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070704121762791923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070704121762791923",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070566149050556659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 任何超市都有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 997,
+          "like_count": 4230,
+          "listed_count": 6,
+          "media_count": 224,
+          "tweet_count": 3368
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-13T08:57:07.000Z",
+        "description": "チャイナ語がわかる日本人。某先生の政策顧問。サナ活。自衛隊の皆さんありがとう！日本列島を強く豊かに！ サブ@sugishita123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "sugishita123"
+              }
+            ]
+          }
+        },
+        "id": "1712754288777379840",
+        "location": "東京 千代田区",
+        "name": "杉下右京",
+        "pinned_tweet_id": "1993331935180210498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881357980274413568/Osk3otel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5223,
+          "following_count": 654,
+          "like_count": 22093,
+          "listed_count": 51,
+          "media_count": 2229,
+          "tweet_count": 14629
+        },
+        "url": "",
+        "username": "sugishita_japan",
+        "verified": false
+      }
+    ]
+  }
+}

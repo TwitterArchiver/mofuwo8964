@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2068202536407044389",
+    "created_at": "2026-06-20T05:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068202536407044389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2068201553857847687",
+          "start": 80,
+          "url": "https://t.co/yEijtZfTC3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068202536407044389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068201553857847687",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我感觉龟责别人挺爽的 如果以后有机会真想穿得粉粉萌萌的拿鞭子抽人啊 而且妎还要被窝踹 被窝踩唧唧 而且如果不听我话就必须要被扇耳光 哦对还要接受我坐到对方脸上 https://t.co/yEijtZfTC3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068202536407044389",
+        "created_at": "2026-06-20T05:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068202536407044389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2068201553857847687",
+              "start": 80,
+              "url": "https://t.co/yEijtZfTC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068202536407044389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068201553857847687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉龟责别人挺爽的 如果以后有机会真想穿得粉粉萌萌的拿鞭子抽人啊 而且妎还要被窝踹 被窝踩唧唧 而且如果不听我话就必须要被扇耳光 哦对还要接受我坐到对方脸上 https://t.co/yEijtZfTC3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068201553857847687",
+        "created_at": "2026-06-20T05:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068201553857847687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068201553857847687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天试着龟责了别人看对方的反应貌似还挺舒服的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3117,
+          "following_count": 985,
+          "like_count": 4066,
+          "listed_count": 6,
+          "media_count": 231,
+          "tweet_count": 3254
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

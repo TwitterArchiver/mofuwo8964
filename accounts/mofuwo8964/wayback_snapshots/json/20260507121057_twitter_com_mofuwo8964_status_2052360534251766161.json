@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2052203262523445684",
+    "created_at": "2026-05-07T12:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052360534251766161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493495448208035847",
+          "start": 0,
+          "username": "RikuRiku1021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052360534251766161",
+    "in_reply_to_user_id": "1493495448208035847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052255574486884844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RikuRiku1021 我也是，我从高中开始邻居就在弹化蝶，我上个月回国发现居然还在弹化蝶…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2052203262523445684",
+        "created_at": "2026-05-07T12:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052360534251766161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493495448208035847",
+              "start": 0,
+              "username": "RikuRiku1021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052360534251766161",
+        "in_reply_to_user_id": "1493495448208035847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052255574486884844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RikuRiku1021 我也是，我从高中开始邻居就在弹化蝶，我上个月回国发现居然还在弹化蝶…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493495448208035847",
+        "conversation_id": "2052203262523445684",
+        "created_at": "2026-05-07T05:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052255574486884844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052255574486884844",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 426,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052203262523445684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 我邻居一直在练爱丽丝，我见证了ta从一开始的稀巴烂到目前能串起来了，周末九点就开练😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 880,
+          "like_count": 3458,
+          "listed_count": 6,
+          "media_count": 178,
+          "tweet_count": 2616
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-15T08:00:49.000Z",
+        "description": "每天来这里发泄分享欲折磨网友，想到什么就发什么，私信不开，不喜可Ban。",
+        "id": "1493495448208035847",
+        "name": "麦麦麦当当",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051511660918272000/tyH5gTpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 487,
+          "like_count": 1668,
+          "listed_count": 5,
+          "media_count": 432,
+          "tweet_count": 2196
+        },
+        "username": "RikuRiku1021",
+        "verified": true
+      }
+    ]
+  }
+}

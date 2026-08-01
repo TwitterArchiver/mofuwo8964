@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2064560746344964394",
+    "created_at": "2026-06-10T04:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064560746344964394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "854250925480845312",
+          "start": 3,
+          "username": "liulingyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064560746344964394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064180515159334942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liulingyue: 其实我认为大陆14岁性同意这个条款最大的问题在于，一个几乎所有场景都将14岁视为需要严密监护、限制、规训的未成年人的规则体系内；唯独到了性关系方面，却突然要求这个人能作出高度复杂、后果极重的有效同意。\n所以它不像是给未成年人开放了身体自主权，而更…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064560746344964394",
+        "created_at": "2026-06-10T04:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064560746344964394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "854250925480845312",
+              "start": 3,
+              "username": "liulingyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064560746344964394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064180515159334942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liulingyue: 其实我认为大陆14岁性同意这个条款最大的问题在于，一个几乎所有场景都将14岁视为需要严密监护、限制、规训的未成年人的规则体系内；唯独到了性关系方面，却突然要求这个人能作出高度复杂、后果极重的有效同意。\n所以它不像是给未成年人开放了身体自主权，而更…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "854250925480845312",
+        "conversation_id": "2064180515159334942",
+        "created_at": "2026-06-09T02:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064180515159334942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064180515159334942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 19950,
+          "like_count": 917,
+          "quote_count": 8,
+          "reply_count": 55,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "其实我认为大陆14岁性同意这个条款最大的问题在于，一个几乎所有场景都将14岁视为需要严密监护、限制、规训的未成年人的规则体系内；唯独到了性关系方面，却突然要求这个人能作出高度复杂、后果极重的有效同意。\n所以它不像是给未成年人开放了身体自主权，而更像是给成年人责任规制上的豁口。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜精神残疾｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 925,
+          "like_count": 3802,
+          "listed_count": 7,
+          "media_count": 198,
+          "tweet_count": 2913
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-18T08:31:06.000Z",
+        "description": "速来接我回火星",
+        "id": "854250925480845312",
+        "name": "panchiao🚩🏴🏴‍☠️🏳️‍⚧️🏳‍🌈",
+        "pinned_tweet_id": "2022906791865258241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907841751840337924/31LJRKV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3884,
+          "following_count": 1444,
+          "like_count": 18951,
+          "listed_count": 15,
+          "media_count": 1018,
+          "tweet_count": 9072
+        },
+        "username": "liulingyue",
+        "verified": false
+      }
+    ]
+  }
+}

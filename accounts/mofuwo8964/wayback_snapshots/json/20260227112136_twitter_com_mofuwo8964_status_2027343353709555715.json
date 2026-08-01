@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2027039848700530928",
+    "created_at": "2026-02-27T11:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027343353709555715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3177196842",
+          "start": 0,
+          "username": "tC8VBRSlaNaWIRZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027343353709555715",
+    "in_reply_to_user_id": "3177196842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027117489096929716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tC8VBRSlaNaWIRZ 死装，虚伪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2027039848700530928",
+        "created_at": "2026-02-27T11:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027343353709555715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3177196842",
+              "start": 0,
+              "username": "tC8VBRSlaNaWIRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027343353709555715",
+        "in_reply_to_user_id": "3177196842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027117489096929716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tC8VBRSlaNaWIRZ 死装，虚伪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3177196842",
+        "conversation_id": "2027039848700530928",
+        "created_at": "2026-02-26T20:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T21:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027117489096929716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027117489096929716",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027039848700530928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 东京人有什么特质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜三个孩子的母亲",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "肩膀胳膊连接处下面那个部位",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024639644768628736/sthKf3FC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 814,
+          "like_count": 2494,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1714
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-27T01:27:09.000Z",
+        "description": "蟹になりたい🦀",
+        "id": "3177196842",
+        "location": "Vancouver, British Columbia",
+        "name": "北公爵小三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/592501171589238784/hgphfiN5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 503,
+          "like_count": 44670,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 10009
+        },
+        "username": "tC8VBRSlaNaWIRZ",
+        "verified": false
+      }
+    ]
+  }
+}

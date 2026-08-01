@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037218433092509848",
+    "created_at": "2026-03-26T23:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T00:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037314177950466211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1380806163898376193",
+          "start": 0,
+          "username": "CatPululu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037314177950466211",
+    "in_reply_to_user_id": "1380806163898376193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037312007284850718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CatPululu 没有没有我开玩笑呢，我家里比我小的就只有一条狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037218433092509848",
+        "created_at": "2026-03-26T23:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T00:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037314177950466211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1380806163898376193",
+              "start": 0,
+              "username": "CatPululu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037314177950466211",
+        "in_reply_to_user_id": "1380806163898376193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037312007284850718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatPululu 没有没有我开玩笑呢，我家里比我小的就只有一条狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1380806163898376193",
+        "conversation_id": "2037218433092509848",
+        "created_at": "2026-03-26T23:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T00:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037312007284850718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037312007284850718",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037218433092509848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 🤔\n不管怎樣你都有好處x \n不管怎樣你弟都有好處o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2672,
+          "following_count": 851,
+          "like_count": 2814,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 2117
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-10T08:53:51.000Z",
+        "description": "雜多垢/不喜歡就繞道走 別理我/出沒時間不固定,只要看到可愛美麗帥氣的東西就會亂嚎w我就DD",
+        "id": "1380806163898376193",
+        "location": "Ado星",
+        "name": "噗嚕嚕(很少上線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620052676666069000/s8xgQGxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 511,
+          "like_count": 13336,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1410
+        },
+        "username": "CatPululu",
+        "verified": false
+      }
+    ]
+  }
+}

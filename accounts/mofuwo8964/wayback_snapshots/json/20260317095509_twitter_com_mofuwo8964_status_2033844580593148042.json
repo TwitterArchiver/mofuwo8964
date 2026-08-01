@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2033844580593148042",
+    "created_at": "2026-03-17T09:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T10:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033844580593148042"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033844580593148042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "体感是日本人比起说有素质，更像是害怕表现得没素质所带来的トラブル\n好像只是比较在乎别人看法和尽量保持体面而已，不过他们闯红灯有人开团就会秒跟，有人开始往路上丢垃圾那个地方垃圾就会越来越多…而且不知何时在小巷子随地大小便和抽烟的人真的很多啊？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2033844580593148042",
+        "created_at": "2026-03-17T09:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T10:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033844580593148042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033844580593148042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "体感是日本人比起说有素质，更像是害怕表现得没素质所带来的トラブル\n好像只是比较在乎别人看法和尽量保持体面而已，不过他们闯红灯有人开团就会秒跟，有人开始往路上丢垃圾那个地方垃圾就会越来越多…而且不知何时在小巷子随地大小便和抽烟的人真的很多啊？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033525613815078912/hjH8ZhYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2570,
+          "following_count": 816,
+          "like_count": 2621,
+          "listed_count": 4,
+          "media_count": 144,
+          "tweet_count": 1805
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

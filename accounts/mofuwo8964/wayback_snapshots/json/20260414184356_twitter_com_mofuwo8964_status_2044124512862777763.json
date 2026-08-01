@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044124512862777763",
+    "created_at": "2026-04-14T18:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T19:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044124512862777763"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044124512862777763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特别害怕男的（并非指生理性别而更偏向一种群体常见的思维模式/刻板印象）\n所以那种特别男的 的 （无论什么性别的入）接近我我会瞬间吓死跑路躲藏到无人角落蜗居进行心理建设活动再重新整理仪容仪表，虽然在三次元的表面上表现不出任何，但我较少的大脑沟回和脆弱的精神世界已经被革命了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044124512862777763",
+        "created_at": "2026-04-14T18:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044124512862777763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044124512862777763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别害怕男的（并非指生理性别而更偏向一种群体常见的思维模式/刻板印象）\n所以那种特别男的 的 （无论什么性别的入）接近我我会瞬间吓死跑路躲藏到无人角落蜗居进行心理建设活动再重新整理仪容仪表，虽然在三次元的表面上表现不出任何，但我较少的大脑沟回和脆弱的精神世界已经被革命了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "咪物",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 848,
+          "like_count": 2900,
+          "listed_count": 5,
+          "media_count": 154,
+          "tweet_count": 2238
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

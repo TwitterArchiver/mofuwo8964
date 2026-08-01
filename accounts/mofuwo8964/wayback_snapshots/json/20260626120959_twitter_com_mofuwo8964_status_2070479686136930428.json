@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070479682118791168"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2070479686136930428",
+    "created_at": "2026-06-26T12:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070479686136930428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e1whQHQsqh",
+          "end": 28,
+          "expanded_url": "https://x.com/mofuwo8964/status/2070479686136930428/photo/1",
+          "media_key": "3_2070479682118791168",
+          "start": 5,
+          "url": "https://t.co/e1whQHQsqh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070479686136930428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买了这条 https://t.co/e1whQHQsqh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 380,
+        "media_key": "3_2070479682118791168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvSTQ9asAASXLN.jpg",
+        "width": 285
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070479682118791168"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070479686136930428",
+        "created_at": "2026-06-26T12:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070479686136930428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1whQHQsqh",
+              "end": 28,
+              "expanded_url": "https://x.com/mofuwo8964/status/2070479686136930428/photo/1",
+              "media_key": "3_2070479682118791168",
+              "start": 5,
+              "url": "https://t.co/e1whQHQsqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070479686136930428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了这条 https://t.co/e1whQHQsqh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 996,
+          "like_count": 4202,
+          "listed_count": 6,
+          "media_count": 238,
+          "tweet_count": 3368
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

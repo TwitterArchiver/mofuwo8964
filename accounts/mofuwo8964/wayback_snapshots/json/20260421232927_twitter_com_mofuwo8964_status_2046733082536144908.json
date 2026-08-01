@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2046726622607446328",
+    "created_at": "2026-04-21T23:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T00:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046733082536144908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1679794956876251136",
+          "start": 0,
+          "username": "Tankwukwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046733082536144908",
+    "in_reply_to_user_id": "1679794956876251136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046732532335640581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tankwukwu ✋😭🤚求放过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2046726622607446328",
+        "created_at": "2026-04-21T23:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T00:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046733082536144908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1679794956876251136",
+              "start": 0,
+              "username": "Tankwukwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046733082536144908",
+        "in_reply_to_user_id": "1679794956876251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046732532335640581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tankwukwu ✋😭🤚求放过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679794956876251136",
+        "conversation_id": "2046726622607446328",
+        "created_at": "2026-04-21T23:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T00:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046732532335640581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "5cf616c8f739cb2b"
+        },
+        "id": "2046732532335640581",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046726622607446328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 不想大早上出门去卡拉OK睡会又回家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2684,
+          "following_count": 862,
+          "like_count": 3122,
+          "listed_count": 6,
+          "media_count": 168,
+          "tweet_count": 2410
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-14T10:08:42.000Z",
+        "description": "ココという日本留学生っす、よろしく",
+        "id": "1679794956876251136",
+        "location": "Hino-shi, Tokyo",
+        "name": "一般通过可可",
+        "pinned_tweet_id": "1909535035432353836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867397012855152641/0OCjco4-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 430,
+          "like_count": 6781,
+          "listed_count": 4,
+          "media_count": 1063,
+          "tweet_count": 4505
+        },
+        "username": "Tankwukwu",
+        "verified": true
+      }
+    ]
+  }
+}

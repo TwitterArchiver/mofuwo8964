@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2063623842371903703",
+    "created_at": "2026-06-08T01:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T02:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063800599494471815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "976926144300748800",
+          "start": 0,
+          "username": "makino676767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063800599494471815",
+    "in_reply_to_user_id": "976926144300748800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063623842371903703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makino676767 比起讨厌更多是害怕，规矩多心眼小什么的。。反正完全不想交流但也说不上讨厌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2063623842371903703",
+        "created_at": "2026-06-08T01:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063800599494471815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "976926144300748800",
+              "start": 0,
+              "username": "makino676767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063800599494471815",
+        "in_reply_to_user_id": "976926144300748800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063623842371903703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makino676767 比起讨厌更多是害怕，规矩多心眼小什么的。。反正完全不想交流但也说不上讨厌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "976926144300748800",
+        "conversation_id": "2063623842371903703",
+        "created_at": "2026-06-07T14:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063623842371903703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063623842371903703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1181,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我周围三观正常的中国女生里，10个有8个讨厌樱花妹。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2950,
+          "following_count": 914,
+          "like_count": 3726,
+          "listed_count": 7,
+          "media_count": 190,
+          "tweet_count": 2861
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-22T20:58:38.000Z",
+        "description": "CompetitiveProgrammer / Googler / Algorithm / DigitalArt / GoGame / RhythmGame / JapaneseLearner",
+        "id": "976926144300748800",
+        "location": "Tokyo, Japan",
+        "name": "makino67",
+        "pinned_tweet_id": "1283950976643153920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1492563186188386304/7Rh7qCKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 327,
+          "like_count": 104827,
+          "listed_count": 8,
+          "media_count": 226,
+          "tweet_count": 6426
+        },
+        "username": "makino676767",
+        "verified": false
+      }
+    ]
+  }
+}

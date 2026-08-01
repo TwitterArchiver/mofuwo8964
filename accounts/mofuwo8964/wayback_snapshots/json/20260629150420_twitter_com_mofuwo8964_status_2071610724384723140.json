@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2071610724384723140",
+    "created_at": "2026-06-29T15:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071610724384723140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1323216034396999681",
+          "start": 3,
+          "username": "ZZSSNNi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071610724384723140",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5712
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071544339608600831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZZSSNNi: 하앀ㅋㅋㅋㅋ도우인에서 도파민 터지는썰봄ㅋㅋㅋㅋ어떤 여자가 글올린건데\n\n[남들에게 말못하는 비밀이있나요?]\n\n네 저는 있어요\n남편이 바람을 피운다는 사실을 알게되었을때 당시에는 딱히 별 생각이 안들었어요\n어쩌다 상간녀의 사진을…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2071610724384723140",
+        "created_at": "2026-06-29T15:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071610724384723140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1323216034396999681",
+              "start": 3,
+              "username": "ZZSSNNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071610724384723140",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5712
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071544339608600831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZZSSNNi: 하앀ㅋㅋㅋㅋ도우인에서 도파민 터지는썰봄ㅋㅋㅋㅋ어떤 여자가 글올린건데\n\n[남들에게 말못하는 비밀이있나요?]\n\n네 저는 있어요\n남편이 바람을 피운다는 사실을 알게되었을때 당시에는 딱히 별 생각이 안들었어요\n어쩌다 상간녀의 사진을…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1323216034396999681",
+        "conversation_id": "2071544339608600831",
+        "created_at": "2026-06-29T10:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071544339608600831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071544339608600831",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "하앀ㅋㅋㅋㅋ도우인에서 도파민 터지는썰봄ㅋㅋㅋㅋ어떤 여자가 글올린건데\n\n[남들에게 말못하는 비밀이있나요?]\n\n네 저는 있어요\n남편이 바람을 피운다는 사실을 알게되었을때 당시에는 딱히 별 생각이 안들었어요\n어쩌다 상간녀의 사진을 본 순간\n와…..진짜…한눈에 반한다는게 어떤건지 이해하게 되더라구요\n삼십여년을 사는동안 이렇게 예쁜여자는 본적이 없었어요\n밤새 그 여자 사진을 보느라 잠도 설쳤을전도에요\n몇날며칠을 고민하다가 세컨계정을 파서 그 여자 메신저 친구추가를 했어요\n그렇게 이야기를 주고받은지 일년째\n\n이젠 제 여친이 되었어요"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5474,
+          "impression_count": 1183451,
+          "like_count": 17687,
+          "quote_count": 1530,
+          "reply_count": 60,
+          "retweet_count": 5712
+        },
+        "reply_settings": "everyone",
+        "text": "하앀ㅋㅋㅋㅋ도우인에서 도파민 터지는썰봄ㅋㅋㅋㅋ어떤 여자가 글올린건데\n\n[남들에게 말못하는 비밀이있나요?]\n\n네 저는 있어요\n남편이 바람을 피운다는 사실을 알게되었을때 당시에는 딱히 별 생각이 안들었어요\n어쩌다 상간녀의 사진을 본 순간\n와…..진짜…한눈에 반한다는게 어떤건지 이해하게"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 1009,
+          "like_count": 4314,
+          "listed_count": 6,
+          "media_count": 229,
+          "tweet_count": 3391
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-02T10:51:10.000Z",
+        "description": "역마살 버섯팔이피플🍄‍🟫중국에서 자영업(백수)🦢제태크 초보📈3n살 한국인여성🇰🇷\n좋아하는거 위주로 아무거나 올립니다\n유튭: https://t.co/iavVtNg9et",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mogoomogoo0508",
+                "end": 92,
+                "expanded_url": "https://youtube.com/@mogoomogoo0508",
+                "start": 69,
+                "url": "https://t.co/iavVtNg9et"
+              }
+            ]
+          }
+        },
+        "id": "1323216034396999681",
+        "location": "중국 어딘가",
+        "name": "모구모구🍄",
+        "pinned_tweet_id": "2071544339608600831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642158239705092096/toqgIa3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6172,
+          "following_count": 1370,
+          "like_count": 51481,
+          "listed_count": 23,
+          "media_count": 4792,
+          "tweet_count": 15029
+        },
+        "url": "",
+        "username": "ZZSSNNi",
+        "verified": true
+      }
+    ]
+  }
+}

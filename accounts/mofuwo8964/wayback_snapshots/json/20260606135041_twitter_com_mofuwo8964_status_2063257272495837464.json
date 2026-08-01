@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063257266657402880"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063257272495837464",
+    "created_at": "2026-06-06T13:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063257272495837464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3kaCxy0hoN",
+          "end": 31,
+          "expanded_url": "https://x.com/mofuwo8964/status/2063257272495837464/photo/1",
+          "media_key": "3_2063257266657402880",
+          "start": 8,
+          "url": "https://t.co/3kaCxy0hoN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063257272495837464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女孩子们面基中 https://t.co/3kaCxy0hoN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2063257266657402880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIpjWtboAApj7u.jpg",
+        "width": 1707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063257266657402880"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063257272495837464",
+        "created_at": "2026-06-06T13:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063257272495837464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3kaCxy0hoN",
+              "end": 31,
+              "expanded_url": "https://x.com/mofuwo8964/status/2063257272495837464/photo/1",
+              "media_key": "3_2063257266657402880",
+              "start": 8,
+              "url": "https://t.co/3kaCxy0hoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063257272495837464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女孩子们面基中 https://t.co/3kaCxy0hoN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜ひとりごと|愚痴",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2921,
+          "following_count": 903,
+          "like_count": 3669,
+          "listed_count": 7,
+          "media_count": 199,
+          "tweet_count": 2829
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

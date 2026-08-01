@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2053647308705939805",
+    "created_at": "2026-05-11T05:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T06:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053703781519593564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031363005557211136",
+          "start": 0,
+          "username": "Maruitikyuutan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053703781519593564",
+    "in_reply_to_user_id": "2031363005557211136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053647308705939805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maruitikyuutan 啊是我想的那家吗，那家有分店来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2053647308705939805",
+        "created_at": "2026-05-11T05:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053703781519593564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031363005557211136",
+              "start": 0,
+              "username": "Maruitikyuutan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053703781519593564",
+        "in_reply_to_user_id": "2031363005557211136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053647308705939805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maruitikyuutan 啊是我想的那家吗，那家有分店来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031363005557211136",
+        "conversation_id": "2053647308705939805",
+        "created_at": "2026-05-11T01:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053647308705939805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/codyhunk/statu…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/codyhunk/status/2053536258308350093",
+              "start": 43,
+              "url": "https://t.co/Ak89FPd49e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053647308705939805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 707,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053536258308350093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就像我和我最爱的池袋新疆炒米粉。冷落它一段时间后和它和好了连吃了几天突然发现它倒闭了 https://t.co/Ak89FPd49e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 882,
+          "like_count": 3532,
+          "listed_count": 6,
+          "media_count": 184,
+          "tweet_count": 2665
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T13:36:00.000Z",
+        "description": "中国語日本語⭕️｜人間女| maimaiオンゲキ プロセカ Apex Overwatch cosplay イラスト｜20歳↓|関東|夏色花梨推しです。ぜひ！仲良くなってください🎵日本語垢@Tikyumaru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Tikyumaru"
+              }
+            ]
+          }
+        },
+        "id": "2031363005557211136",
+        "name": "地球丸（草莓牛奶版）",
+        "pinned_tweet_id": "2033105074042630224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033983240986669057/ij9VUtk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 65,
+          "like_count": 837,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 382
+        },
+        "username": "Maruitikyuutan",
+        "verified": false
+      }
+    ]
+  }
+}

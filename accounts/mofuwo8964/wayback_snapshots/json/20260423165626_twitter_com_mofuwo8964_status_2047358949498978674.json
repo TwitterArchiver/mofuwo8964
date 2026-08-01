@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047358936043618304",
+        "3_2047358936064671744",
+        "3_2047358936068874240"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2047358949498978674",
+    "created_at": "2026-04-23T16:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047358949498978674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VcAzh6kIXb",
+          "end": 167,
+          "expanded_url": "https://x.com/mofuwo8964/status/2047358949498978674/photo/1",
+          "media_key": "3_2047358936043618304",
+          "start": 144,
+          "url": "https://t.co/VcAzh6kIXb"
+        },
+        {
+          "display_url": "pic.x.com/VcAzh6kIXb",
+          "end": 167,
+          "expanded_url": "https://x.com/mofuwo8964/status/2047358949498978674/photo/1",
+          "media_key": "3_2047358936064671744",
+          "start": 144,
+          "url": "https://t.co/VcAzh6kIXb"
+        },
+        {
+          "display_url": "pic.x.com/VcAzh6kIXb",
+          "end": 167,
+          "expanded_url": "https://x.com/mofuwo8964/status/2047358949498978674/photo/1",
+          "media_key": "3_2047358936068874240",
+          "start": 144,
+          "url": "https://t.co/VcAzh6kIXb"
+        },
+        {
+          "display_url": "x.com/pinesanww/stat…",
+          "end": 191,
+          "expanded_url": "https://twitter.com/pinesanww/status/2046988398481874998",
+          "start": 168,
+          "url": "https://t.co/ha08zKy8rz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047358949498978674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "虽然我知道原po在反感什么😔\n但女儿服一开始在国内是作为亚文化小众穿搭风格的一部，只是那些可爱充满童趣的衣服而已。。后来是被某群体入侵了😱但那能咋办呀毕竟⭕️⭕️也得穿衣服不是吗，每个人都有不一样的xp，因为要规避戳到他人xp导致自己被性化干脆就不穿自己喜欢的衣服是不是有点太委屈自己了\n以及我所理解的女儿服是这一种⬇️不过我也能理解原po，因为我看到那种“女儿服”图片也会感到深深的膈应orz"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046988398481874998",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然我知道原po在反感什么😔\n但女儿服一开始在国内是作为亚文化小众穿搭风格的一部，只是那些可爱充满童趣的衣服而已。。后来是被某群体入侵了😱但那能咋办呀毕竟⭕️⭕️也得穿衣服不是吗，每个人都有不一样的xp，因为要规避戳到他人xp导致自己被性化干脆就不穿自己喜欢的衣服是不是有点太委屈自己了 https://t.co/VcAzh6kIXb https://t.co/ha08zKy8rz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 982,
+        "media_key": "3_2047358936043618304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmuGt6aAAAQkeh.jpg",
+        "width": 736
+      },
+      {
+        "height": 609,
+        "media_key": "3_2047358936064671744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmuGt_bQAAJvQM.jpg",
+        "width": 504
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2047358936068874240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmuGuAbYAABcG0.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047358936043618304",
+            "3_2047358936064671744",
+            "3_2047358936068874240"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2047358949498978674",
+        "created_at": "2026-04-23T16:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047358949498978674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VcAzh6kIXb",
+              "end": 167,
+              "expanded_url": "https://x.com/mofuwo8964/status/2047358949498978674/photo/1",
+              "media_key": "3_2047358936043618304",
+              "start": 144,
+              "url": "https://t.co/VcAzh6kIXb"
+            },
+            {
+              "display_url": "pic.x.com/VcAzh6kIXb",
+              "end": 167,
+              "expanded_url": "https://x.com/mofuwo8964/status/2047358949498978674/photo/1",
+              "media_key": "3_2047358936064671744",
+              "start": 144,
+              "url": "https://t.co/VcAzh6kIXb"
+            },
+            {
+              "display_url": "pic.x.com/VcAzh6kIXb",
+              "end": 167,
+              "expanded_url": "https://x.com/mofuwo8964/status/2047358949498978674/photo/1",
+              "media_key": "3_2047358936068874240",
+              "start": 144,
+              "url": "https://t.co/VcAzh6kIXb"
+            },
+            {
+              "display_url": "x.com/pinesanww/stat…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/pinesanww/status/2046988398481874998",
+              "start": 168,
+              "url": "https://t.co/ha08zKy8rz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047358949498978674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "虽然我知道原po在反感什么😔\n但女儿服一开始在国内是作为亚文化小众穿搭风格的一部，只是那些可爱充满童趣的衣服而已。。后来是被某群体入侵了😱但那能咋办呀毕竟⭕️⭕️也得穿衣服不是吗，每个人都有不一样的xp，因为要规避戳到他人xp导致自己被性化干脆就不穿自己喜欢的衣服是不是有点太委屈自己了\n以及我所理解的女儿服是这一种⬇️不过我也能理解原po，因为我看到那种“女儿服”图片也会感到深深的膈应orz"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046988398481874998",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我知道原po在反感什么😔\n但女儿服一开始在国内是作为亚文化小众穿搭风格的一部，只是那些可爱充满童趣的衣服而已。。后来是被某群体入侵了😱但那能咋办呀毕竟⭕️⭕️也得穿衣服不是吗，每个人都有不一样的xp，因为要规避戳到他人xp导致自己被性化干脆就不穿自己喜欢的衣服是不是有点太委屈自己了 https://t.co/VcAzh6kIXb https://t.co/ha08zKy8rz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875161840650686464",
+        "conversation_id": "2046988398481874998",
+        "created_at": "2026-04-22T16:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046988398481874998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046988398481874998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 25233,
+          "like_count": 557,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "不是小女孩的人穿女儿服就是很恶心啊。。。恋童癖和巨婴的双向奔赴，恶劣程度在大街穿德三军装之上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 865,
+          "like_count": 3157,
+          "listed_count": 6,
+          "media_count": 171,
+          "tweet_count": 2432
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-03T12:46:52.000Z",
+        "description": "男的，发负能\n                      像是秋天的木，快要衰竭的风，已至末尾的雨……只要轻轻一碰就会瓦解冰消，又似冬日里仍流淌的泉水，夹缝而生的燕尾花，悬崖绝壁之间的草药，灭不了也逃不掉",
+        "id": "1875161840650686464",
+        "location": "American University Park, Wash",
+        "name": "pineさん",
+        "pinned_tweet_id": "2041792173566521346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031060142855434242/O9ZtFShw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2472,
+          "following_count": 366,
+          "like_count": 6539,
+          "listed_count": 8,
+          "media_count": 796,
+          "tweet_count": 4407
+        },
+        "username": "pinesanww",
+        "verified": false
+      }
+    ]
+  }
+}

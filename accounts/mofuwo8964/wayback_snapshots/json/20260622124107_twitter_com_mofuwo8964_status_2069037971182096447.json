@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2069036933062549515",
+    "created_at": "2026-06-22T12:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069037971182096447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2032827208021200896",
+          "start": 0,
+          "username": "JongKimzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069037971182096447",
+    "in_reply_to_user_id": "2032827208021200896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069036933062549515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JongKimzi 你是海外华人吗？感觉你中文理解能力好像不是很好，这条推文旨在让别人去吐槽推送机制本身（也就是需要自己调节的内容）而并不是攻击其他的推主，因为没人有义务生产内容。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2069036933062549515",
+        "created_at": "2026-06-22T12:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069037971182096447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2032827208021200896",
+              "start": 0,
+              "username": "JongKimzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069037971182096447",
+        "in_reply_to_user_id": "2032827208021200896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069036933062549515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JongKimzi 你是海外华人吗？感觉你中文理解能力好像不是很好，这条推文旨在让别人去吐槽推送机制本身（也就是需要自己调节的内容）而并不是攻击其他的推主，因为没人有义务生产内容。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032827208021200896",
+        "conversation_id": "2069036933062549515",
+        "created_at": "2026-06-22T12:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069036933062549515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2068923865833902376",
+              "start": 119,
+              "url": "https://t.co/46hQAEbAjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069036933062549515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068923865833902376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国内的app的推送机制一样被吐槽，用户吐槽app没有任何问题，x和马斯克也绝不会阻止吐槽推送机制的用户，只有你在狂吠，当一个app 接收不到反馈，只会走下坡路，如果是英文推文我支持大家对x宽容一点，如果是华人华裔我希望大家啐一口然后无视 https://t.co/46hQAEbAjO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3148,
+          "following_count": 992,
+          "like_count": 4129,
+          "listed_count": 6,
+          "media_count": 235,
+          "tweet_count": 3300
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T14:33:56.000Z",
+        "description": "",
+        "id": "2032827208021200896",
+        "name": "Jong Kim",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "JongKimzi",
+        "verified": false
+      }
+    ]
+  }
+}

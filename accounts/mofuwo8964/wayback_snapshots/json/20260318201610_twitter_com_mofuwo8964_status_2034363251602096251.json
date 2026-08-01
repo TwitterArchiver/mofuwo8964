@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2034363251602096251",
+    "created_at": "2026-03-18T20:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T21:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034363251602096251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2034319362480586855",
+          "start": 17,
+          "url": "https://t.co/qsC44Bs4MB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034363251602096251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034319362480586855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是说互关能不能和我互关一下（目移 https://t.co/qsC44Bs4MB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2034363251602096251",
+        "created_at": "2026-03-18T20:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T21:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034363251602096251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2034319362480586855",
+              "start": 17,
+              "url": "https://t.co/qsC44Bs4MB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034363251602096251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034319362480586855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是说互关能不能和我互关一下（目移 https://t.co/qsC44Bs4MB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2034319362480586855",
+        "created_at": "2026-03-18T17:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T18:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034319362480586855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034319362480586855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我注册了一个小号会用于发表暴论和现生相关的东西（照片穿搭之类）详情请看我的简介(｡･ω･｡)ﾉ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者  ｜@heimaozhi8964 这是我的小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "heimaozhi8964"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033525613815078912/hjH8ZhYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2578,
+          "following_count": 828,
+          "like_count": 2661,
+          "listed_count": 4,
+          "media_count": 147,
+          "tweet_count": 1838
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

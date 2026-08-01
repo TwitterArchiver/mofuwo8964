@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2068537248916943019",
+    "created_at": "2026-06-21T05:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068566259789344816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897913540432068608",
+          "start": 0,
+          "username": "1lc5si9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068566259789344816",
+    "in_reply_to_user_id": "1897913540432068608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068537248916943019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@1lc5si9 アフリカゾウ🙏我他妈听出来是啥了选项没听懂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068537241228726272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTrqUwa0AAKjWy.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068537248916943019",
+        "created_at": "2026-06-21T05:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068566259789344816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897913540432068608",
+              "start": 0,
+              "username": "1lc5si9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068566259789344816",
+        "in_reply_to_user_id": "1897913540432068608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068537248916943019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@1lc5si9 アフリカゾウ🙏我他妈听出来是啥了选项没听懂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068537241228726272"
+          ]
+        },
+        "author_id": "1897913540432068608",
+        "conversation_id": "2068537248916943019",
+        "created_at": "2026-06-21T03:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068537248916943019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TxaMDP6Wip",
+              "end": 32,
+              "expanded_url": "https://x.com/1lc5si9/status/2068537248916943019/photo/1",
+              "media_key": "3_2068537241228726272",
+              "start": 9,
+              "url": "https://t.co/TxaMDP6Wip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068537248916943019",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "那是大象？？？？ https://t.co/TxaMDP6Wip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3133,
+          "following_count": 988,
+          "like_count": 4091,
+          "listed_count": 6,
+          "media_count": 231,
+          "tweet_count": 3280
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-07T07:33:53.000Z",
+        "description": "",
+        "id": "1897913540432068608",
+        "location": "東京",
+        "name": "，",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952060927265873920/m2Roxxtb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 219,
+          "like_count": 8529,
+          "listed_count": 0,
+          "media_count": 1126,
+          "tweet_count": 5891
+        },
+        "url": "",
+        "username": "1lc5si9",
+        "verified": true
+      }
+    ]
+  }
+}

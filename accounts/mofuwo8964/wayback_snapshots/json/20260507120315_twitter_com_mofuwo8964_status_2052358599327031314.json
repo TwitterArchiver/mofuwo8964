@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2052095305303421342",
+    "created_at": "2026-05-07T12:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052358599327031314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1540455959986081792",
+          "start": 0,
+          "username": "lulanglinhai3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052358599327031314",
+    "in_reply_to_user_id": "1540455959986081792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052095305303421342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lulanglinhai3 哦不。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2052095305303421342",
+        "created_at": "2026-05-07T12:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052358599327031314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1540455959986081792",
+              "start": 0,
+              "username": "lulanglinhai3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052358599327031314",
+        "in_reply_to_user_id": "1540455959986081792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052095305303421342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lulanglinhai3 哦不。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540455959986081792",
+        "conversation_id": "2052095305303421342",
+        "created_at": "2026-05-06T18:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T19:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052095305303421342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052095305303421342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4943,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我被人拍了人生第一张裸照😅因为我点外卖让骑手放门口，结果因为我出去的太快，开门的一瞬间骑手的闪光灯亮了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 880,
+          "like_count": 3456,
+          "listed_count": 6,
+          "media_count": 178,
+          "tweet_count": 2613
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-24T22:05:06.000Z",
+        "description": "1234",
+        "id": "1540455959986081792",
+        "location": "坟里",
+        "name": "🐸🐸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620375906517946369/8OSPd1Ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 265,
+          "like_count": 47636,
+          "listed_count": 4,
+          "media_count": 1190,
+          "tweet_count": 32773
+        },
+        "username": "lulanglinhai3",
+        "verified": false
+      }
+    ]
+  }
+}

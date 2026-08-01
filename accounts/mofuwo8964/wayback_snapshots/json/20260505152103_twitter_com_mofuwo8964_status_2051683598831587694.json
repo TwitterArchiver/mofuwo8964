@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2051683598831587694",
+    "created_at": "2026-05-05T15:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T16:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051683598831587694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2051582671890063771",
+          "start": 13,
+          "url": "https://t.co/Iwox5cjyIJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051683598831587694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051582671890063771",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这比我高中还人性化谁敢信 https://t.co/Iwox5cjyIJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2361,
+        "media_key": "3_2051454241579962368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHg6w35XkAA5qJV.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2053,
+        "media_key": "3_2051454251319111680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHg6xcLXMAA-dOG.jpg",
+        "width": 1037
+      },
+      {
+        "height": 1512,
+        "media_key": "3_2051454256620716032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHg6xv7XQAAsRZs.jpg",
+        "width": 1290
+      },
+      {
+        "height": 814,
+        "media_key": "3_2051454264061349888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHg6yLpWUAABhhJ.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2051683598831587694",
+        "created_at": "2026-05-05T15:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051683598831587694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2051582671890063771",
+              "start": 13,
+              "url": "https://t.co/Iwox5cjyIJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051683598831587694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051582671890063771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这比我高中还人性化谁敢信 https://t.co/Iwox5cjyIJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051454241579962368",
+            "3_2051454251319111680",
+            "3_2051454256620716032",
+            "3_2051454264061349888"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2051582671890063771",
+        "created_at": "2026-05-05T08:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051582671890063771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IcVObWbjzT",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2051582671890063771/photo/1",
+              "media_key": "3_2051454241579962368",
+              "start": 109,
+              "url": "https://t.co/IcVObWbjzT"
+            },
+            {
+              "display_url": "pic.x.com/IcVObWbjzT",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2051582671890063771/photo/1",
+              "media_key": "3_2051454251319111680",
+              "start": 109,
+              "url": "https://t.co/IcVObWbjzT"
+            },
+            {
+              "display_url": "pic.x.com/IcVObWbjzT",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2051582671890063771/photo/1",
+              "media_key": "3_2051454256620716032",
+              "start": 109,
+              "url": "https://t.co/IcVObWbjzT"
+            },
+            {
+              "display_url": "pic.x.com/IcVObWbjzT",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2051582671890063771/photo/1",
+              "media_key": "3_2051454264061349888",
+              "start": 109,
+              "url": "https://t.co/IcVObWbjzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051582671890063771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 48466,
+          "like_count": 313,
+          "quote_count": 6,
+          "reply_count": 139,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "“该校的高中生过的可能比犯人还累”\n5月4日，湖南常德，临澧县一中学生，晒出了学校的作息时间表，早上6:10分起床，晚上22:30分放学，一天在校时间长达16个小时。\n\n而看守所早上6:30起床，晚上20:00就寝。 https://t.co/IcVObWbjzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 876,
+          "like_count": 3418,
+          "listed_count": 6,
+          "media_count": 178,
+          "tweet_count": 2584
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215565,
+          "following_count": 1041,
+          "like_count": 9469,
+          "listed_count": 8713,
+          "media_count": 46267,
+          "tweet_count": 53360
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

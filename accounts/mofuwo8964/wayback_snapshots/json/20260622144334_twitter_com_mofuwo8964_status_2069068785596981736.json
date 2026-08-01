@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069068774221938688",
+        "3_2069068774150750209"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2069068785596981736",
+    "created_at": "2026-06-22T14:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069068785596981736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WVgXdBmp5P",
+          "end": 27,
+          "expanded_url": "https://x.com/mofuwo8964/status/2069068785596981736/photo/1",
+          "media_key": "3_2069068774221938688",
+          "start": 4,
+          "url": "https://t.co/WVgXdBmp5P"
+        },
+        {
+          "display_url": "pic.x.com/WVgXdBmp5P",
+          "end": 27,
+          "expanded_url": "https://x.com/mofuwo8964/status/2069068785596981736/photo/1",
+          "media_key": "3_2069068774150750209",
+          "start": 4,
+          "url": "https://t.co/WVgXdBmp5P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069068785596981736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "健全吗 https://t.co/WVgXdBmp5P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2069068774221938688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbPFndaAAAOdak.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2069068774150750209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbPFnMbwAEd2bu.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069068774221938688",
+            "3_2069068774150750209"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2069068785596981736",
+        "created_at": "2026-06-22T14:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069068785596981736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVgXdBmp5P",
+              "end": 27,
+              "expanded_url": "https://x.com/mofuwo8964/status/2069068785596981736/photo/1",
+              "media_key": "3_2069068774221938688",
+              "start": 4,
+              "url": "https://t.co/WVgXdBmp5P"
+            },
+            {
+              "display_url": "pic.x.com/WVgXdBmp5P",
+              "end": 27,
+              "expanded_url": "https://x.com/mofuwo8964/status/2069068785596981736/photo/1",
+              "media_key": "3_2069068774150750209",
+              "start": 4,
+              "url": "https://t.co/WVgXdBmp5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069068785596981736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "健全吗 https://t.co/WVgXdBmp5P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 993,
+          "like_count": 4137,
+          "listed_count": 6,
+          "media_count": 234,
+          "tweet_count": 3310
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

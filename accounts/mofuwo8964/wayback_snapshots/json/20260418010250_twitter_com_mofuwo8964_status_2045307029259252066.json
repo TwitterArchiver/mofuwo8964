@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2045307029259252066",
+    "created_at": "2026-04-18T01:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T02:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045307029259252066"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045307029259252066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在看到那些把很微妙的感情过度解读的人会很疲倦 我不否认确实有道理但是我感觉这个东东是千人千面的…因为我感觉很难用语言来形容一种暧昧的感情 其实不管怎么恶意解读都有些以己度人的感觉 所以我总是倾向把人往好处想…也有可能是我接受不了被伤害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2045307029259252066",
+        "created_at": "2026-04-18T01:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045307029259252066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045307029259252066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在看到那些把很微妙的感情过度解读的人会很疲倦 我不否认确实有道理但是我感觉这个东东是千人千面的…因为我感觉很难用语言来形容一种暧昧的感情 其实不管怎么恶意解读都有些以己度人的感觉 所以我总是倾向把人往好处想…也有可能是我接受不了被伤害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2645,
+          "following_count": 857,
+          "like_count": 3079,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 2355
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

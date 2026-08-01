@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2070955145496809768",
+    "created_at": "2026-06-28T06:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071112122273288202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768755544154845184",
+          "start": 0,
+          "username": "koitoyuuuuuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071112122273288202",
+    "in_reply_to_user_id": "1768755544154845184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070955145496809768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koitoyuuuuuuuuu 这个也很好看很亚卧槽真的很好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_2070955129822752768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL2Ct9rbsAAC983.jpg",
+        "width": 1194
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070955145496809768",
+        "created_at": "2026-06-28T06:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071112122273288202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768755544154845184",
+              "start": 0,
+              "username": "koitoyuuuuuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071112122273288202",
+        "in_reply_to_user_id": "1768755544154845184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070955145496809768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koitoyuuuuuuuuu 这个也很好看很亚卧槽真的很好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070955129822752768"
+          ]
+        },
+        "author_id": "1768755544154845184",
+        "conversation_id": "2070955145496809768",
+        "created_at": "2026-06-27T19:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T20:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070955145496809768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FxHch6d1lv",
+              "end": 41,
+              "expanded_url": "https://x.com/koitoyuuuuuuuuu/status/2070955145496809768/photo/1",
+              "media_key": "3_2070955129822752768",
+              "start": 18,
+              "url": "https://t.co/FxHch6d1lv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070955145496809768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剪刘海剪砸成了眉上刘海我一直在哭吧 https://t.co/FxHch6d1lv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071042734262288384/8yC7wNfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3166,
+          "following_count": 1009,
+          "like_count": 4283,
+          "listed_count": 6,
+          "media_count": 227,
+          "tweet_count": 3384
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-15T21:46:16.000Z",
+        "description": "低浮上\n皮下是章鱼哥，求精神病互fo，没回fo可以私信我",
+        "id": "1768755544154845184",
+        "location": "成都",
+        "name": "こいとゆう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070045263918755840/lhyYYe9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 42,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "koitoyuuuuuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

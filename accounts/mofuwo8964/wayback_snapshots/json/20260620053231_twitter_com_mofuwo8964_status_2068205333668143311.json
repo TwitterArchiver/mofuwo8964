@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2068205333668143311",
+    "created_at": "2026-06-20T05:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068205333668143311"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068205333668143311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我现在不修边幅的很大一个原因我太懒了而且收拾外表给我带来的正反馈太低了，也没啥价值感。还有一个原因就是我初中的时候被妈逼着服美役我太累了，我很疲倦。我喜欢好看的东西仅限于自己的身外之物，我没空收拾自己了，还有就是因为生病胖了也没精力了。其实我挺赞同不管化不化妆舆论场上都要支持不化妆的自由这个观点的，因为不化妆才是一种自然状态= =每次化妆花的时间太多了我觉得很麻烦而且化妆品在脸上黏糊糊的很烦，说真的这种人类社会进化的副产品我到底有什么理由什么义务去承担这些啊，简直是庸人自扰"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在不修边幅的很大一个原因我太懒了而且收拾外表给我带来的正反馈太低了，也没啥价值感。还有一个原因就是我初中的时候被妈逼着服美役我太累了，我很疲倦。我喜欢好看的东西仅限于自己的身外之物，我没空收拾自己了，还有就是因为生病胖了也没精力了。其实我挺赞同不管化不化妆舆论场上都要支持不化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068205333668143311",
+        "created_at": "2026-06-20T05:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068205333668143311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068205333668143311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我现在不修边幅的很大一个原因我太懒了而且收拾外表给我带来的正反馈太低了，也没啥价值感。还有一个原因就是我初中的时候被妈逼着服美役我太累了，我很疲倦。我喜欢好看的东西仅限于自己的身外之物，我没空收拾自己了，还有就是因为生病胖了也没精力了。其实我挺赞同不管化不化妆舆论场上都要支持不化妆的自由这个观点的，因为不化妆才是一种自然状态= =每次化妆花的时间太多了我觉得很麻烦而且化妆品在脸上黏糊糊的很烦，说真的这种人类社会进化的副产品我到底有什么理由什么义务去承担这些啊，简直是庸人自扰"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在不修边幅的很大一个原因我太懒了而且收拾外表给我带来的正反馈太低了，也没啥价值感。还有一个原因就是我初中的时候被妈逼着服美役我太累了，我很疲倦。我喜欢好看的东西仅限于自己的身外之物，我没空收拾自己了，还有就是因为生病胖了也没精力了。其实我挺赞同不管化不化妆舆论场上都要支持不化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3117,
+          "following_count": 985,
+          "like_count": 4066,
+          "listed_count": 6,
+          "media_count": 231,
+          "tweet_count": 3255
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2063809534108569896",
+    "created_at": "2026-06-08T02:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063809965559783468"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063809965559783468",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063809534108569896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "年轻人还算好的了我说真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2063809534108569896",
+        "created_at": "2026-06-08T02:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063809965559783468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063809965559783468",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063809534108569896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "年轻人还算好的了我说真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          }
+        ],
+        "conversation_id": "2063809534108569896",
+        "created_at": "2026-06-08T02:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063809534108569896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/makino676767/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/makino676767/status/2063623842371903703",
+              "start": 141,
+              "url": "https://t.co/iZvvKB1guT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063809534108569896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063623842371903703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这都能说是雌竞吗？评论区真神了 但凡跟樱花妹（此处不包括所有樱花妹啊，而且也包括寿司郎）相处交流，就会发现他们规矩多容易不安然后人前一套人后一套，正常人很难见到（大学里正常人多点）圈子就。。就算上网买个东西不给卖家丁寧な挨拶人家就啪一个差评过来了啊，也有可能是我认知偏差了呵呵呵呵 https://t.co/iZvvKB1guT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2950,
+          "following_count": 914,
+          "like_count": 3731,
+          "listed_count": 7,
+          "media_count": 191,
+          "tweet_count": 2865
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

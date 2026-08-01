@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044105127783739893",
+    "created_at": "2026-04-14T17:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T18:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044105127783739893"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044105127783739893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还是去医院看了\n医生让我拍ct但是我妈拒绝了理由是对身体不好…呃呃 但我也没办法 毕竟钱不是我出…不过我去年就查出来胸膜炎不开ct真的没事吗orz \n医生说好像是哮喘？之类的病 总之给我开了吸入剂 让我一直使用三个月 等回国再复诊🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044105127783739893",
+        "created_at": "2026-04-14T17:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044105127783739893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044105127783739893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是去医院看了\n医生让我拍ct但是我妈拒绝了理由是对身体不好…呃呃 但我也没办法 毕竟钱不是我出…不过我去年就查出来胸膜炎不开ct真的没事吗orz \n医生说好像是哮喘？之类的病 总之给我开了吸入剂 让我一直使用三个月 等回国再复诊🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "咪物",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2633,
+          "following_count": 847,
+          "like_count": 2870,
+          "listed_count": 5,
+          "media_count": 163,
+          "tweet_count": 2245
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

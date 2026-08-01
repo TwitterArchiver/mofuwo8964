@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050869579543654400",
+        "3_2050869579539464192",
+        "3_2050869579547836416"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050869590104953340",
+    "created_at": "2026-05-03T09:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T10:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050869590104953340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n0UOYk3lHo",
+          "end": 46,
+          "expanded_url": "https://x.com/mofuwo8964/status/2050869590104953340/photo/1",
+          "media_key": "3_2050869579543654400",
+          "start": 23,
+          "url": "https://t.co/n0UOYk3lHo"
+        },
+        {
+          "display_url": "pic.x.com/n0UOYk3lHo",
+          "end": 46,
+          "expanded_url": "https://x.com/mofuwo8964/status/2050869590104953340/photo/1",
+          "media_key": "3_2050869579539464192",
+          "start": 23,
+          "url": "https://t.co/n0UOYk3lHo"
+        },
+        {
+          "display_url": "pic.x.com/n0UOYk3lHo",
+          "end": 46,
+          "expanded_url": "https://x.com/mofuwo8964/status/2050869590104953340/photo/1",
+          "media_key": "3_2050869579547836416",
+          "start": 23,
+          "url": "https://t.co/n0UOYk3lHo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050869590104953340",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "tori捏的本迷雾啊，迷雾狂喜中。阿里嘎多🫳 https://t.co/n0UOYk3lHo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050869579543654400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYnBEFasAAEDIb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1638,
+        "media_key": "3_2050869579539464192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYnBEEawAAEIPA.jpg",
+        "width": 1638
+      },
+      {
+        "height": 1638,
+        "media_key": "3_2050869579547836416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYnBEGagAA3pUl.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050869579543654400",
+            "3_2050869579539464192",
+            "3_2050869579547836416"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050869590104953340",
+        "created_at": "2026-05-03T09:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050869590104953340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n0UOYk3lHo",
+              "end": 46,
+              "expanded_url": "https://x.com/mofuwo8964/status/2050869590104953340/photo/1",
+              "media_key": "3_2050869579543654400",
+              "start": 23,
+              "url": "https://t.co/n0UOYk3lHo"
+            },
+            {
+              "display_url": "pic.x.com/n0UOYk3lHo",
+              "end": 46,
+              "expanded_url": "https://x.com/mofuwo8964/status/2050869590104953340/photo/1",
+              "media_key": "3_2050869579539464192",
+              "start": 23,
+              "url": "https://t.co/n0UOYk3lHo"
+            },
+            {
+              "display_url": "pic.x.com/n0UOYk3lHo",
+              "end": 46,
+              "expanded_url": "https://x.com/mofuwo8964/status/2050869590104953340/photo/1",
+              "media_key": "3_2050869579547836416",
+              "start": 23,
+              "url": "https://t.co/n0UOYk3lHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050869590104953340",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "tori捏的本迷雾啊，迷雾狂喜中。阿里嘎多🫳 https://t.co/n0UOYk3lHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。\n追加：粉红健全逼社达激女男权蛆死远点看了好想吐",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2765,
+          "following_count": 873,
+          "like_count": 3365,
+          "listed_count": 6,
+          "media_count": 185,
+          "tweet_count": 2567
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045299938884755456"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2045299950394003601",
+    "created_at": "2026-04-18T00:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T01:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045299950394003601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LwTmLrepmr",
+          "end": 30,
+          "expanded_url": "https://x.com/mofuwo8964/status/2045299950394003601/photo/1",
+          "media_key": "3_2045299938884755456",
+          "start": 7,
+          "url": "https://t.co/LwTmLrepmr"
+        },
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2045194984333480340",
+          "start": 31,
+          "url": "https://t.co/Mcwts1HLGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045299950394003601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045194984333480340",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "参考文献如图 https://t.co/LwTmLrepmr https://t.co/Mcwts1HLGM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045299938884755456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJddTxaoAACDPT.jpg",
+        "width": 1177
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045299938884755456"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2045299950394003601",
+        "created_at": "2026-04-18T00:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045299950394003601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LwTmLrepmr",
+              "end": 30,
+              "expanded_url": "https://x.com/mofuwo8964/status/2045299950394003601/photo/1",
+              "media_key": "3_2045299938884755456",
+              "start": 7,
+              "url": "https://t.co/LwTmLrepmr"
+            },
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2045194984333480340",
+              "start": 31,
+              "url": "https://t.co/Mcwts1HLGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045299950394003601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045194984333480340",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "参考文献如图 https://t.co/LwTmLrepmr https://t.co/Mcwts1HLGM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2045194984333480340",
+        "created_at": "2026-04-17T17:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045194984333480340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045194984333480340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "任性偏激脑袋轴的阿尔及利亚前男友见跟我复合无望，诅咒我让我下地狱。\n\n天性阴沉，对恋爱毫无经验，过分干涉我私人生活，让我深感压抑。提分手后的巴西处男说以后再也不找中国女人。\n\n高大帅气，开朗健谈，进退有度的美国帅哥跟我说对我一见钟情，亚洲女人真美。\n\n在迪拜跟成熟稳重、体贴细腻、身材结实气质优越的三哥修完车后幽幽地跟我说，喜欢中国女人，但是父母绝对不同意把他娶给东大女人。\n\n这个问题让我越想越烦，真是莫名其妙。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 780,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "任性偏激脑袋轴的阿尔及利亚前男友见跟我复合无望，诅咒我让我下地狱。\n\n天性阴沉，对恋爱毫无经验，过分干涉我私人生活，让我深感压抑。提分手后的巴西处男说以后再也不找中国女人。\n\n高大帅气，开朗健谈，进退有度的美国帅哥跟我说对我一见钟情，亚洲女人真美。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2646,
+          "following_count": 857,
+          "like_count": 3076,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 2353
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

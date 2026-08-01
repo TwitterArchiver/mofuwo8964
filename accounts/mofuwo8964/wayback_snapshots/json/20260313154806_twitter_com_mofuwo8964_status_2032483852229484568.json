@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2032457122886377622",
+    "created_at": "2026-03-13T15:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T16:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032483852229484568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751232930507063299",
+          "start": 0,
+          "username": "XuHar31002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032483852229484568",
+    "in_reply_to_user_id": "1751232930507063299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032468709848297528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuHar31002 得意中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2032457122886377622",
+        "created_at": "2026-03-13T15:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032483852229484568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751232930507063299",
+              "start": 0,
+              "username": "XuHar31002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032483852229484568",
+        "in_reply_to_user_id": "1751232930507063299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032468709848297528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuHar31002 得意中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751232930507063299",
+        "conversation_id": "2032457122886377622",
+        "created_at": "2026-03-13T14:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032468709848297528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032468709848297528",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032457122886377622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 完全是买衣服的神来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030870356953866240/H3S67KDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2548,
+          "following_count": 816,
+          "like_count": 2571,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 1774
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:17:32.000Z",
+        "description": "紫蘑菇/社恐全开⚠️/リア充はみんな爆発だ💥‼️/互fo私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%B4%AB%E3%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%B4%AB%E3%81%97%E3%82%81%E3%81%98",
+                "start": 0,
+                "url": "https://t.co/AioVlyeODT"
+              }
+            ]
+          }
+        },
+        "id": "1751232930507063299",
+        "name": "紫蘑菇文字💜",
+        "pinned_tweet_id": "1986079645306179611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985015918632833024/POQOtNVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 103,
+          "like_count": 3130,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/AioVlyeODT",
+        "username": "XuHar31002",
+        "verified": false
+      }
+    ]
+  }
+}

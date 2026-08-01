@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2036410496891687002",
+    "created_at": "2026-03-24T11:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T12:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036410496891687002"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036410496891687002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我不知道做题的意义到底是什么…但是我只擅长做题，我其实什么都不会但是就很会做题。。我真的好想好想去读专门打扮别人，当我把朋友打扮得漂亮的时候，我真的感觉自己很幸福自己很有价值自己的人生是被肯定的、有价值的，我需要这种即时反馈。。别人看到自己的样子会对着镜子一直开心，会因为我做出来的东西而珍贵的保存，会因为自己变好看了而觉得雀跃，对我来说比做题带来的成就感和价值感要高千百倍…"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不知道做题的意义到底是什么…但是我只擅长做题，我其实什么都不会但是就很会做题。。我真的好想好想去读专门打扮别人，当我把朋友打扮得漂亮的时候，我真的感觉自己很幸福自己很有价值自己的人生是被肯定的、有价值的，我需要这种即时反馈。。别人看到自己的样子会对着镜子一直开心，会因为我做出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036410496891687002",
+        "created_at": "2026-03-24T11:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036410496891687002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036410496891687002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我不知道做题的意义到底是什么…但是我只擅长做题，我其实什么都不会但是就很会做题。。我真的好想好想去读专门打扮别人，当我把朋友打扮得漂亮的时候，我真的感觉自己很幸福自己很有价值自己的人生是被肯定的、有价值的，我需要这种即时反馈。。别人看到自己的样子会对着镜子一直开心，会因为我做出来的东西而珍贵的保存，会因为自己变好看了而觉得雀跃，对我来说比做题带来的成就感和价值感要高千百倍…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道做题的意义到底是什么…但是我只擅长做题，我其实什么都不会但是就很会做题。。我真的好想好想去读专门打扮别人，当我把朋友打扮得漂亮的时候，我真的感觉自己很幸福自己很有价值自己的人生是被肯定的、有价值的，我需要这种即时反馈。。别人看到自己的样子会对着镜子一直开心，会因为我做出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 830,
+          "like_count": 2737,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 2003
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

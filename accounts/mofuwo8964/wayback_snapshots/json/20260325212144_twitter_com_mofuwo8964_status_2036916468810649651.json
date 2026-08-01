@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2036916468810649651",
+    "created_at": "2026-03-25T21:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T22:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036916468810649651"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036916468810649651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "虽然我之前也经常因为体重焦虑，但现在的我就是不想为了别人每天让自己痛苦，仅仅是换来别人看着舒坦这件事情。我bmi也很正常，但是我前男友就是觉得不像樱花妹一样瘦就是肥，一直在pua我，明明知道我要服用药物无法控制还这样对待我。\n他自己长得很丑，我真的不知道为什么世界上有些人这么没有自知之明，明明自己的人生和自己的形象一团乱麻还每天总想着强迫自己身边的人变得“好”而给自己提供便利，我真的不懂，因为被这些人喜欢其实很丢脸……他们的外貌、思想和观念足以说明他们的自我认知处在一个极低的水平，在他们的价值观里很难相信他们的审美水平和情感是正常的，被这种人喜欢的第一反应就是“我到底是哪里出了问题？”就像看苍蝇飞到自己身上会觉得身上很臭一样，被这种人喜欢是一种耻辱、一种让人感到窘迫的心情。\n\n不过还好我没有这种经历因为我一般扮演的也是这个苍蝇的角色，嘻嘻"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然我之前也经常因为体重焦虑，但现在的我就是不想为了别人每天让自己痛苦，仅仅是换来别人看着舒坦这件事情。我bmi也很正常，但是我前男友就是觉得不像樱花妹一样瘦就是肥，一直在pua我，明明知道我要服用药物无法控制还这样对待我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036916468810649651",
+        "created_at": "2026-03-25T21:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T22:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036916468810649651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036916468810649651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "虽然我之前也经常因为体重焦虑，但现在的我就是不想为了别人每天让自己痛苦，仅仅是换来别人看着舒坦这件事情。我bmi也很正常，但是我前男友就是觉得不像樱花妹一样瘦就是肥，一直在pua我，明明知道我要服用药物无法控制还这样对待我。\n他自己长得很丑，我真的不知道为什么世界上有些人这么没有自知之明，明明自己的人生和自己的形象一团乱麻还每天总想着强迫自己身边的人变得“好”而给自己提供便利，我真的不懂，因为被这些人喜欢其实很丢脸……他们的外貌、思想和观念足以说明他们的自我认知处在一个极低的水平，在他们的价值观里很难相信他们的审美水平和情感是正常的，被这种人喜欢的第一反应就是“我到底是哪里出了问题？”就像看苍蝇飞到自己身上会觉得身上很臭一样，被这种人喜欢是一种耻辱、一种让人感到窘迫的心情。\n\n不过还好我没有这种经历因为我一般扮演的也是这个苍蝇的角色，嘻嘻"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我之前也经常因为体重焦虑，但现在的我就是不想为了别人每天让自己痛苦，仅仅是换来别人看着舒坦这件事情。我bmi也很正常，但是我前男友就是觉得不像樱花妹一样瘦就是肥，一直在pua我，明明知道我要服用药物无法控制还这样对待我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2626,
+          "following_count": 836,
+          "like_count": 2782,
+          "listed_count": 4,
+          "media_count": 154,
+          "tweet_count": 2057
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2043181858255495218",
+    "created_at": "2026-04-22T09:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T10:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046890147950776352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039720325152206848",
+          "start": 0,
+          "username": "tataqwq"
+        },
+        {
+          "end": 19,
+          "id": "992961520446377984",
+          "start": 9,
+          "username": "tataqwqdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046890147950776352",
+    "in_reply_to_user_id": "2039720325152206848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043181858255495218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tataqwq @tataqwqdd 抱抱🫂我突然发现你不见了到处寻找😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2043181843944558592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrXD9PX0AAYip3.jpg",
+        "width": 3780
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2043181844091572224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrXD9ybEAA5rha.jpg",
+        "width": 3780
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2043181843894194176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrXD9DXUAAGPl1.jpg",
+        "width": 3780
+      },
+      {
+        "height": 2047,
+        "media_key": "3_2043181843944529920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrXD9PXYAAhOOu.jpg",
+        "width": 1001
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2043181858255495218",
+        "created_at": "2026-04-22T09:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046890147950776352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039720325152206848",
+              "start": 0,
+              "username": "tataqwq"
+            },
+            {
+              "end": 19,
+              "id": "992961520446377984",
+              "start": 9,
+              "username": "tataqwqdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046890147950776352",
+        "in_reply_to_user_id": "2039720325152206848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043181858255495218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tataqwq @tataqwqdd 抱抱🫂我突然发现你不见了到处寻找😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043181843944558592",
+            "3_2043181844091572224",
+            "3_2043181843894194176",
+            "3_2043181843944529920"
+          ]
+        },
+        "author_id": "2039720325152206848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2043181858255495218",
+        "created_at": "2026-04-12T04:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043181858255495218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "992961520446377984",
+              "start": 32,
+              "username": "tataqwqdd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/faWVoAoesO",
+              "end": 178,
+              "expanded_url": "https://x.com/tataqwq/status/2043181858255495218/photo/1",
+              "media_key": "3_2043181843944558592",
+              "start": 155,
+              "url": "https://t.co/faWVoAoesO"
+            },
+            {
+              "display_url": "pic.x.com/faWVoAoesO",
+              "end": 178,
+              "expanded_url": "https://x.com/tataqwq/status/2043181858255495218/photo/1",
+              "media_key": "3_2043181844091572224",
+              "start": 155,
+              "url": "https://t.co/faWVoAoesO"
+            },
+            {
+              "display_url": "pic.x.com/faWVoAoesO",
+              "end": 178,
+              "expanded_url": "https://x.com/tataqwq/status/2043181858255495218/photo/1",
+              "media_key": "3_2043181843894194176",
+              "start": 155,
+              "url": "https://t.co/faWVoAoesO"
+            },
+            {
+              "display_url": "pic.x.com/faWVoAoesO",
+              "end": 178,
+              "expanded_url": "https://x.com/tataqwq/status/2043181858255495218/photo/1",
+              "media_key": "3_2043181843944529920",
+              "start": 155,
+              "url": "https://t.co/faWVoAoesO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043181858255495218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 20076,
+          "like_count": 111,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "🙏想扩大事态避免之前关注过我的人收到私信被诈骗\n我的两万粉原账号@tataqwqdd 因为电脑下了一个伪装成别的的信息窃取程序，导致全部存在chrom里的账号全都被盗。（已知包括x，ig，微软，苹果id，dc）有些追回来了有些二次验证做得好，没有被盗。\n影响最大的就是我的x和ig，八年里发了一万二条动态啊。 https://t.co/faWVoAoesO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2696,
+          "following_count": 865,
+          "like_count": 3142,
+          "listed_count": 6,
+          "media_count": 169,
+          "tweet_count": 2427
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-02T15:03:16.000Z",
+        "description": "",
+        "id": "2039720325152206848",
+        "name": "塔塔鹿（大号被盗了）",
+        "pinned_tweet_id": "2043181858255495218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039723640543965184/PwDHQPoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 150,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 166
+        },
+        "username": "tataqwq",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-06T02:57:29.000Z",
+        "description": "Airdrop hunter 💰 | Web3 explorer Ambassador at \n@layeroneX\n\nSharing alpha, guides & real opportunities\nInternet explorer🧏 Crypto trader 📉 Forex trader 📉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "layeroneX"
+              }
+            ]
+          }
+        },
+        "id": "992961520446377984",
+        "name": "crowl",
+        "pinned_tweet_id": "1948561509887668523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039715704967225345/m5EOhtoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18971,
+          "following_count": 716,
+          "like_count": 5405,
+          "listed_count": 63,
+          "media_count": 2270,
+          "tweet_count": 13152
+        },
+        "username": "tataqwqdd",
+        "verified": true
+      }
+    ]
+  }
+}

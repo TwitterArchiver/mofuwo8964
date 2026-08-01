@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035939959753023488"
+      ],
+      "media_source_tweet_id": [
+        "2035939962739429505"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2036101458987500010",
+    "created_at": "2026-03-23T15:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T16:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036101458987500010"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "山田",
+          "probability": 0.7641,
+          "start": 23,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1694569403030155264",
+          "start": 3,
+          "username": "CEO_dad_k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YSobmZB5Cn",
+          "end": 71,
+          "expanded_url": "https://x.com/CEO_dad_k/status/2035939962739429505/photo/1",
+          "media_key": "3_2035939959753023488",
+          "start": 48,
+          "url": "https://t.co/YSobmZB5Cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036101458987500010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1838
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035939962739429505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CEO_dad_k: 最新話のラストで山田の自認が解けた実際のみいちゃんはもっとヤバい https://t.co/YSobmZB5Cn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2035939959753023488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEcm0UaIAAnA8V.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035939959753023488"
+          ],
+          "media_source_tweet_id": [
+            "2035939962739429505"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036101458987500010",
+        "created_at": "2026-03-23T15:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036101458987500010"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "山田",
+              "probability": 0.7641,
+              "start": 23,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1694569403030155264",
+              "start": 3,
+              "username": "CEO_dad_k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSobmZB5Cn",
+              "end": 71,
+              "expanded_url": "https://x.com/CEO_dad_k/status/2035939962739429505/photo/1",
+              "media_key": "3_2035939959753023488",
+              "start": 48,
+              "url": "https://t.co/YSobmZB5Cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036101458987500010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1838
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035939962739429505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CEO_dad_k: 最新話のラストで山田の自認が解けた実際のみいちゃんはもっとヤバい https://t.co/YSobmZB5Cn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035939959753023488"
+          ]
+        },
+        "author_id": "1694569403030155264",
+        "conversation_id": "2035939962739429505",
+        "created_at": "2026-03-23T04:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T05:06:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035931206739689807",
+          "2035939962739429505"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "山田",
+              "probability": 0.7436,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSobmZB5Cn",
+              "end": 56,
+              "expanded_url": "https://x.com/CEO_dad_k/status/2035939962739429505/photo/1",
+              "media_key": "3_2035939959753023488",
+              "start": 33,
+              "url": "https://t.co/YSobmZB5Cn"
+            },
+            {
+              "display_url": "x.com/DJakai2/status…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/DJakai2/status/2035929101157216514",
+              "start": 57,
+              "url": "https://t.co/DOEhkqgtEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035939962739429505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11001,
+          "impression_count": 20778938,
+          "like_count": 58238,
+          "quote_count": 901,
+          "reply_count": 755,
+          "retweet_count": 1838
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035929101157216514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最新話のラストで山田の自認が解けた実際のみいちゃんはもっとヤバい https://t.co/YSobmZB5Cn https://t.co/DOEhkqgtEb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2609,
+          "following_count": 830,
+          "like_count": 2722,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1963
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-24T04:36:52.000Z",
+        "description": "30代前半経営者｜副業JTC管理職（年収1,000万円台中盤）｜東大卒｜二児父｜筋トレBIG3 525kg｜美女経験三桁｜キャリア/育児/生存戦略を発信｜未経験から月収3桁万円までの副業を網羅した完全攻略Tipsは固定投稿から⬇",
+        "id": "1694569403030155264",
+        "name": "社長パパK",
+        "pinned_tweet_id": "2035626458094395514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024453401048981504/fpzHogVb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859,
+          "following_count": 872,
+          "like_count": 39196,
+          "listed_count": 5,
+          "media_count": 1333,
+          "tweet_count": 7807
+        },
+        "username": "CEO_dad_k",
+        "verified": true
+      }
+    ]
+  }
+}

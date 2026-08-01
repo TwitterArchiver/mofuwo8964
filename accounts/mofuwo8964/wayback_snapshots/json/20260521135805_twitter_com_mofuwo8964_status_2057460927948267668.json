@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2057460927948267668",
+    "created_at": "2026-05-21T13:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057460927948267668"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057460927948267668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我从前真的以为长大了就好了，现在我还有五天就21岁了，算是长大了吗？但我还是行将就木的活着呀，但我还是每天都在挣扎呀，但我还是控制不了这样的痛苦呀！那些说着“长大了就好了”的人，是不是根本就没活到长大，还是那些说着“长大了就好了”的人，小时候也不像我的人生一样烂啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2057460927948267668",
+        "created_at": "2026-05-21T13:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057460927948267668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057460927948267668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从前真的以为长大了就好了，现在我还有五天就21岁了，算是长大了吗？但我还是行将就木的活着呀，但我还是每天都在挣扎呀，但我还是控制不了这样的痛苦呀！那些说着“长大了就好了”的人，是不是根本就没活到长大，还是那些说着“长大了就好了”的人，小时候也不像我的人生一样烂啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2838,
+          "following_count": 900,
+          "like_count": 3571,
+          "listed_count": 6,
+          "media_count": 189,
+          "tweet_count": 2725
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

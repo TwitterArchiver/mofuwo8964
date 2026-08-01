@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2068993760160309607",
+    "created_at": "2026-06-22T09:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068993760160309607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "149103254",
+          "start": 3,
+          "username": "kadokawasneaker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068993760160309607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 506
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068982326910918759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kadokawasneaker: ◆新規立ち絵公開◆\n\n囚人番号663：佐伯ミリア\n\n白ギャル風の少女。\nギラついた見た目に反して大人しく、おどおどしている。要領は悪いが心優しい。\n発言の端々に、年齢不相応の哀愁を漂わせている。\n\n小説『魔法少女ノ魔女裁判』7/31発売…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2065349144160735233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmYGprbkAET9gQ.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2068993760160309607",
+        "created_at": "2026-06-22T09:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068993760160309607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "149103254",
+              "start": 3,
+              "username": "kadokawasneaker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068993760160309607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 506
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068982326910918759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kadokawasneaker: ◆新規立ち絵公開◆\n\n囚人番号663：佐伯ミリア\n\n白ギャル風の少女。\nギラついた見た目に反して大人しく、おどおどしている。要領は悪いが心優しい。\n発言の端々に、年齢不相応の哀愁を漂わせている。\n\n小説『魔法少女ノ魔女裁判』7/31発売…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065349144160735233"
+          ]
+        },
+        "author_id": "149103254",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2068982326910918759",
+        "created_at": "2026-06-22T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068982326910918759"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "まのさば"
+            },
+            {
+              "end": 133,
+              "start": 126,
+              "tag": "まのさば小説"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3yxK42pWna",
+              "end": 157,
+              "expanded_url": "https://x.com/kadokawasneaker/status/2068982326910918759/photo/1",
+              "media_key": "3_2065349144160735233",
+              "start": 134,
+              "url": "https://t.co/3yxK42pWna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068982326910918759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 18320,
+          "like_count": 1300,
+          "quote_count": 46,
+          "reply_count": 0,
+          "retweet_count": 506
+        },
+        "reply_settings": "everyone",
+        "text": "◆新規立ち絵公開◆\n\n囚人番号663：佐伯ミリア\n\n白ギャル風の少女。\nギラついた見た目に反して大人しく、おどおどしている。要領は悪いが心優しい。\n発言の端々に、年齢不相応の哀愁を漂わせている。\n\n小説『魔法少女ノ魔女裁判』7/31発売。\n#まのさば #まのさば小説 https://t.co/3yxK42pWna"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3143,
+          "following_count": 991,
+          "like_count": 4119,
+          "listed_count": 7,
+          "media_count": 235,
+          "tweet_count": 3292
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-28T12:27:11.000Z",
+        "description": "角川スニーカー文庫編集部の公式アカウントです。 新刊情報を中心にニュースをお届け！ ★LINE@はじめました《毎月の人気作品壁紙など、ここだけのスペシャルコンテンツを配信中!!》https://t.co/Rpd03zkYdB…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "line.me/R/ti/p/%40kxm1",
+                "end": 112,
+                "expanded_url": "http://line.me/R/ti/p/%40kxm1",
+                "start": 89,
+                "url": "https://t.co/Rpd03zkYdB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sneakerbunko.jp",
+                "end": 23,
+                "expanded_url": "https://sneakerbunko.jp/",
+                "start": 0,
+                "url": "https://t.co/zoaDCSG9BC"
+              }
+            ]
+          }
+        },
+        "id": "149103254",
+        "location": "ザ・スニーカーＷＥＢ",
+        "name": "スニーカー文庫＠毎月1日発売!!",
+        "pinned_tweet_id": "2060195034704830623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622827882803494912/6JN_Qu0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164578,
+          "following_count": 2320,
+          "like_count": 9534,
+          "listed_count": 1551,
+          "media_count": 14136,
+          "tweet_count": 41206
+        },
+        "url": "https://t.co/zoaDCSG9BC",
+        "username": "kadokawasneaker",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2061579965943177311",
+    "created_at": "2026-06-01T22:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T23:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061579965943177311"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061579965943177311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我昨晚吃了5mg地西泮0.25mg三唑仑1mg氟硝西泮但我还是这个点醒了，这不对吧？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2061579965943177311",
+        "created_at": "2026-06-01T22:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T23:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061579965943177311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061579965943177311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我昨晚吃了5mg地西泮0.25mg三唑仑1mg氟硝西泮但我还是这个点醒了，这不对吧？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2907,
+          "following_count": 900,
+          "like_count": 3653,
+          "listed_count": 7,
+          "media_count": 197,
+          "tweet_count": 2791
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

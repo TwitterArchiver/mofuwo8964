@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2065325930818789816",
+    "created_at": "2026-06-12T06:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065325930818789816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2064907898330005731",
+          "start": 58,
+          "url": "https://t.co/O6wLxywATJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065325930818789816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064907898330005731",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "玄学来咯哈哈哈哈我已疯魔我根本考不到320我感觉300都够呛了，天天错傻子题。考完最后出分一看嗨呀这不是个250吗 https://t.co/O6wLxywATJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2065325930818789816",
+        "created_at": "2026-06-12T06:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065325930818789816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2064907898330005731",
+              "start": 58,
+              "url": "https://t.co/O6wLxywATJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065325930818789816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064907898330005731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玄学来咯哈哈哈哈我已疯魔我根本考不到320我感觉300都够呛了，天天错傻子题。考完最后出分一看嗨呀这不是个250吗 https://t.co/O6wLxywATJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064907898330005731",
+        "created_at": "2026-06-11T03:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064907898330005731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064907898330005731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1600,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "取一下现在的中位数日语能考320左右，很好，可以的，很好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと 愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "バツバツつちゃん",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3010,
+          "following_count": 941,
+          "like_count": 3842,
+          "listed_count": 7,
+          "media_count": 207,
+          "tweet_count": 2989
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

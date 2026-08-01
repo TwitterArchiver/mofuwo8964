@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2048052778938032156",
+    "created_at": "2026-04-25T14:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048052778938032156"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048052778938032156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不想挤电车啊我要哭瞎了………我一想到一个密闭环境有一大群蠕动的人类就像蛆一样倾泻而出就感觉冒冷汗犯恶心，还有走进一个商场之后发现全是人这到底跟看到食物里全是虫卵有啥区别啊好讨厌人多的地方这个世界不能放过我一个精神病吗…好想在欧美乡下天天和动物待在一起…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2048052778938032156",
+        "created_at": "2026-04-25T14:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048052778938032156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048052778938032156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想挤电车啊我要哭瞎了………我一想到一个密闭环境有一大群蠕动的人类就像蛆一样倾泻而出就感觉冒冷汗犯恶心，还有走进一个商场之后发现全是人这到底跟看到食物里全是虫卵有啥区别啊好讨厌人多的地方这个世界不能放过我一个精神病吗…好想在欧美乡下天天和动物待在一起…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。\n追加：粉红健全逼社达激女男权蛆死远点看了好想吐",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2719,
+          "following_count": 864,
+          "like_count": 3191,
+          "listed_count": 6,
+          "media_count": 174,
+          "tweet_count": 2466
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

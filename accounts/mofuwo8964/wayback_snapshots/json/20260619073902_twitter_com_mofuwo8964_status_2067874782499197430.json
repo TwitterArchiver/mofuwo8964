@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067874782499197430",
+    "created_at": "2026-06-19T07:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067874782499197430"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067874782499197430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前任对猫的痴迷程度让我感到匪夷所思，直到之后某一天我加上了他妈妈，他妈妈头像背景和朋友圈全都是猫咪，用我看不懂的语言在展示家里的猫咪，从2022到2026，全都是猫咪，几乎没有任何别的内容，全部都是猫咪，全部都是猫咪。猫咪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067874782499197430",
+        "created_at": "2026-06-19T07:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067874782499197430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067874782499197430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前任对猫的痴迷程度让我感到匪夷所思，直到之后某一天我加上了他妈妈，他妈妈头像背景和朋友圈全都是猫咪，用我看不懂的语言在展示家里的猫咪，从2022到2026，全都是猫咪，几乎没有任何别的内容，全部都是猫咪，全部都是猫咪。猫咪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3112,
+          "following_count": 984,
+          "like_count": 4024,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 3196
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2073287878357258526",
+    "created_at": "2026-07-04T07:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T08:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073309500606705949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1727107763447410688",
+          "start": 0,
+          "username": "a1ter_ego_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073309500606705949",
+    "in_reply_to_user_id": "1727107763447410688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073287878357258526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1ter_ego_01 请不要代表我们全体男性谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073287870295822336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXMVVIb0AA6wsW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2073287878357258526",
+        "created_at": "2026-07-04T07:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073309500606705949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1727107763447410688",
+              "start": 0,
+              "username": "a1ter_ego_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073309500606705949",
+        "in_reply_to_user_id": "1727107763447410688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073287878357258526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1ter_ego_01 请不要代表我们全体男性谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073287870295822336"
+          ]
+        },
+        "author_id": "1727107763447410688",
+        "conversation_id": "2073287878357258526",
+        "created_at": "2026-07-04T06:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073287878357258526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ob5dS762pS",
+              "end": 45,
+              "expanded_url": "https://x.com/a1ter_ego_01/status/2073287878357258526/photo/1",
+              "media_key": "3_2073287870295822336",
+              "start": 22,
+              "url": "https://t.co/ob5dS762pS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073287878357258526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男的真的能住在这种地方一辈子也没有任何问题 https://t.co/ob5dS762pS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3166,
+          "following_count": 1014,
+          "like_count": 4351,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 3427
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-21T23:33:17.000Z",
+        "description": "以下是你可能关心的刻板印象：｜网络巨人｜精神状态不稳定｜社交能力低下｜概率学博士｜直男｜高功能抑郁症｜神✝️｜电波系｜精神系｜精神外科医生｜",
+        "id": "1727107763447410688",
+        "location": "日本",
+        "name": "えさん",
+        "pinned_tweet_id": "2073051328507785492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071293806344048640/KMr1GGPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 29,
+          "like_count": 558,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 630
+        },
+        "url": "",
+        "username": "a1ter_ego_01",
+        "verified": false
+      }
+    ]
+  }
+}

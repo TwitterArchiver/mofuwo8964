@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2068207208299733088",
+    "created_at": "2026-06-20T05:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068207208299733088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2068206570610266429",
+          "start": 77,
+          "url": "https://t.co/FcSFrbdlMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068207208299733088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068206570610266429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就是想穿着粉色的裙子染着粉色的头发戴着粉色的蝴蝶结拿着粉色的鞭子给对方带上粉色的项圈然后穿着粉色的小皮鞋拿着粉色的低温蜡烛戴着粉色的唧唧狠狠的欺负人啊 https://t.co/FcSFrbdlMO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1226,
+        "media_key": "3_2068206566491496448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLO-6hXbIAAn0SP.jpg",
+        "width": 1203
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068207208299733088",
+        "created_at": "2026-06-20T05:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068207208299733088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2068206570610266429",
+              "start": 77,
+              "url": "https://t.co/FcSFrbdlMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068207208299733088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068206570610266429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就是想穿着粉色的裙子染着粉色的头发戴着粉色的蝴蝶结拿着粉色的鞭子给对方带上粉色的项圈然后穿着粉色的小皮鞋拿着粉色的低温蜡烛戴着粉色的唧唧狠狠的欺负人啊 https://t.co/FcSFrbdlMO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068206566491496448"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068206570610266429",
+        "created_at": "2026-06-20T05:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068206570610266429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I4F2WahVVS",
+              "end": 138,
+              "expanded_url": "https://x.com/mofuwo8964/status/2068206570610266429/photo/1",
+              "media_key": "3_2068206566491496448",
+              "start": 115,
+              "url": "https://t.co/I4F2WahVVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068206570610266429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然之前发过但是再发一次，当然之后也会删。这是去年的迷雾人间体形态，我就是很喜欢粉色的东西可爱的东西萌的东西，虽然这话这件事发生在我一个每天都在自说自话瞎骂瞎喷厌世的人身上挺割裂的但我真的不懂把审美的喜好跟人格强关联的意义是什么 https://t.co/I4F2WahVVS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3117,
+          "following_count": 985,
+          "like_count": 4066,
+          "listed_count": 6,
+          "media_count": 232,
+          "tweet_count": 3258
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2074011339283140616",
+    "created_at": "2026-07-06T09:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074068200401392093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767905395299983360",
+          "start": 0,
+          "username": "Kaerigumo1585"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074068200401392093",
+    "in_reply_to_user_id": "1767905395299983360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074053238610096227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaerigumo1585 在煤炉买的！但我在实体店也看到过这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2074011339283140616",
+        "created_at": "2026-07-06T09:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074068200401392093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767905395299983360",
+              "start": 0,
+              "username": "Kaerigumo1585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074068200401392093",
+        "in_reply_to_user_id": "1767905395299983360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074053238610096227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaerigumo1585 在煤炉买的！但我在实体店也看到过这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767905395299983360",
+        "conversation_id": "2074011339283140616",
+        "created_at": "2026-07-06T08:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074053238610096227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074053238610096227",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074011339283140616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 这个罩衫好看诶是实体店买的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3161,
+          "following_count": 1013,
+          "like_count": 4385,
+          "listed_count": 6,
+          "media_count": 238,
+          "tweet_count": 3459
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-13T13:28:08.000Z",
+        "description": "ようこそ ときめく世界へ",
+        "id": "1767905395299983360",
+        "location": "漫长的季节",
+        "name": "内岛氏理🐧",
+        "pinned_tweet_id": "1922927406198948211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922326890892951552/nrq8LDJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4584,
+          "following_count": 3178,
+          "like_count": 76750,
+          "listed_count": 9,
+          "media_count": 828,
+          "tweet_count": 13100
+        },
+        "url": "",
+        "username": "Kaerigumo1585",
+        "verified": true
+      }
+    ]
+  }
+}

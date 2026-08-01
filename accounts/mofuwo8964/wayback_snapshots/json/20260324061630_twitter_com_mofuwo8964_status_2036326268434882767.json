@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2036324599491862988",
+    "created_at": "2026-03-24T06:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T07:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036326268434882767"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036326268434882767",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036324599491862988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "文法到底怎么学啊 ？词汇和阅读是个中国人连蒙带猜都能做对吧，听力看看视频也能学，文法到底怎么学啊，我真的不知道怎么办好了，我n2文法就很差很差n1更差了，我每次看到文法错一堆我就掉小珍珠，再做再错一堆，继续掉小珍珠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036324599491862988",
+        "created_at": "2026-03-24T06:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T07:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036326268434882767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036326268434882767",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036324599491862988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "文法到底怎么学啊 ？词汇和阅读是个中国人连蒙带猜都能做对吧，听力看看视频也能学，文法到底怎么学啊，我真的不知道怎么办好了，我n2文法就很差很差n1更差了，我每次看到文法错一堆我就掉小珍珠，再做再错一堆，继续掉小珍珠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036324599491862988",
+        "created_at": "2026-03-24T06:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T07:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036324599491862988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036324599491862988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感到好焦虑，看到很多人n3到n1只用了一年还拿了高分，我n3到n2就用了半年分还只有120（这半年我还待在日本）朋友圈全都是一百四往上…到现在考完n3都一年多了n1也只是能擦线，虽然没在学但我好歹也在日本待了一年啊…而且我的文法正确率低到只有二三十，怎么做也做不对，怎么背也记不住，好难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2613,
+          "following_count": 830,
+          "like_count": 2732,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1982
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

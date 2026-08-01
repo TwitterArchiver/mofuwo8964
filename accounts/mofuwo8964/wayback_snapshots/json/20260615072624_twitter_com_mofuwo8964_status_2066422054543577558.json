@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066422048671608832"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2066422054543577558",
+    "created_at": "2026-06-15T07:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066422054543577558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vIUekfMIj6",
+          "end": 31,
+          "expanded_url": "https://x.com/mofuwo8964/status/2066422054543577558/photo/1",
+          "media_key": "3_2066422048671608832",
+          "start": 8,
+          "url": "https://t.co/vIUekfMIj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066422054543577558",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给元カレ化了妆 https://t.co/vIUekfMIj6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066422048671608832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1n56cbMAA5VNm.jpg",
+        "width": 1834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066422048671608832"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066422054543577558",
+        "created_at": "2026-06-15T07:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066422054543577558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIUekfMIj6",
+              "end": 31,
+              "expanded_url": "https://x.com/mofuwo8964/status/2066422054543577558/photo/1",
+              "media_key": "3_2066422048671608832",
+              "start": 8,
+              "url": "https://t.co/vIUekfMIj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066422054543577558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给元カレ化了妆 https://t.co/vIUekfMIj6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3055,
+          "following_count": 968,
+          "like_count": 3897,
+          "listed_count": 6,
+          "media_count": 221,
+          "tweet_count": 3065
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

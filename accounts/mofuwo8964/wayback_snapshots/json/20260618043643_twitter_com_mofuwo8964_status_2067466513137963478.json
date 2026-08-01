@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067466513137963478",
+    "created_at": "2026-06-18T04:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067466513137963478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2067449590186664180",
+          "start": 38,
+          "url": "https://t.co/J0NFfFAx5T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067466513137963478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067449590186664180",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一共错了九个题，六个都是这个傻逼问题我哪知道怎么说啊你逼一个张海哲是否有点 https://t.co/J0NFfFAx5T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067466513137963478",
+        "created_at": "2026-06-18T04:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067466513137963478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2067449590186664180",
+              "start": 38,
+              "url": "https://t.co/J0NFfFAx5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067466513137963478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067449590186664180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一共错了九个题，六个都是这个傻逼问题我哪知道怎么说啊你逼一个张海哲是否有点 https://t.co/J0NFfFAx5T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067449590186664180",
+        "created_at": "2026-06-18T03:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067449590186664180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067449590186664180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我崩溃了呀即时问答这个傻逼问题到底如何做呢 我从n3的时候就错一半 现在依旧错一半 非得逼我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3112,
+          "following_count": 984,
+          "like_count": 3980,
+          "listed_count": 6,
+          "media_count": 229,
+          "tweet_count": 3164
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

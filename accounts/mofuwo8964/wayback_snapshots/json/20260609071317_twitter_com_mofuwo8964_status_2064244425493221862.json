@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2064101237868384256"
+      ],
+      "media_source_tweet_id": [
+        "2064101244671496319"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2064244425493221862",
+    "created_at": "2026-06-09T07:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064244425493221862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1891581911153131520",
+          "start": 3,
+          "username": "p1nkempress_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BoUmSWpb2E",
+          "end": 41,
+          "expanded_url": "https://x.com/p1nkempress_/status/2064101244671496319/photo/1",
+          "media_key": "16_2064101237868384256",
+          "start": 18,
+          "url": "https://t.co/BoUmSWpb2E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064244425493221862",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 276
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064101244671496319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @p1nkempress_: https://t.co/BoUmSWpb2E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "16_2064101237868384256",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKUpI8eW0AAvbrc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKUpI8eW0AAvbrc.mp4"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2064101237868384256"
+          ],
+          "media_source_tweet_id": [
+            "2064101244671496319"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064244425493221862",
+        "created_at": "2026-06-09T07:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064244425493221862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1891581911153131520",
+              "start": 3,
+              "username": "p1nkempress_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BoUmSWpb2E",
+              "end": 41,
+              "expanded_url": "https://x.com/p1nkempress_/status/2064101244671496319/photo/1",
+              "media_key": "16_2064101237868384256",
+              "start": 18,
+              "url": "https://t.co/BoUmSWpb2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064244425493221862",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 276
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064101244671496319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @p1nkempress_: https://t.co/BoUmSWpb2E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2064101237868384256"
+          ]
+        },
+        "author_id": "1891581911153131520",
+        "conversation_id": "2064101244671496319",
+        "created_at": "2026-06-08T21:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T22:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064101244671496319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BoUmSWpb2E",
+              "end": 23,
+              "expanded_url": "https://x.com/p1nkempress_/status/2064101244671496319/photo/1",
+              "media_key": "16_2064101237868384256",
+              "start": 0,
+              "url": "https://t.co/BoUmSWpb2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064101244671496319",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 373,
+          "impression_count": 53072,
+          "like_count": 3476,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BoUmSWpb2E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜精神残疾｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 920,
+          "like_count": 3772,
+          "listed_count": 7,
+          "media_count": 196,
+          "tweet_count": 2897
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T20:14:27.000Z",
+        "description": "girl (she/kit/kitty) 19. purr and roll around.\nhi im paprika #darkwoke\nCEO of #isopodtwt\nb: @celestiqsuu\np: @haileyxstudios\n@p1nkempriv_gd\n#PallasCatUprising",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 61,
+                "tag": "darkwoke"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "tag": "isopodtwt"
+              },
+              {
+                "end": 157,
+                "start": 139,
+                "tag": "PallasCatUprising"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "celestiqsuu"
+              },
+              {
+                "end": 123,
+                "start": 108,
+                "username": "haileyxstudios"
+              },
+              {
+                "end": 138,
+                "start": 124,
+                "username": "p1nkempriv_gd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "guns.lol/pinkempress",
+                "end": 23,
+                "expanded_url": "https://guns.lol/pinkempress",
+                "start": 0,
+                "url": "https://t.co/EWb3CfjW6j"
+              }
+            ]
+          }
+        },
+        "id": "1891581911153131520",
+        "location": "°❀⋆.ೃ࿔*:･",
+        "name": "🌸 paprika 🗡️",
+        "pinned_tweet_id": "2047172624992583953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012366294914371584/lE6v2Te7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3015,
+          "following_count": 3526,
+          "like_count": 59041,
+          "listed_count": 16,
+          "media_count": 1443,
+          "tweet_count": 24818
+        },
+        "url": "https://t.co/EWb3CfjW6j",
+        "username": "p1nkempress_",
+        "verified": false
+      }
+    ]
+  }
+}

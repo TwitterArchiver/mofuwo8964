@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2050919858372837529",
+    "created_at": "2026-05-04T03:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051147269161038015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1949144556961927168",
+          "start": 0,
+          "username": "siyoucheng001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051147269161038015",
+    "in_reply_to_user_id": "1949144556961927168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051063317079433394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siyoucheng001 你别显摆自己的无知了，她啥都没干😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2050919858372837529",
+        "created_at": "2026-05-04T03:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051147269161038015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1949144556961927168",
+              "start": 0,
+              "username": "siyoucheng001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051147269161038015",
+        "in_reply_to_user_id": "1949144556961927168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051063317079433394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siyoucheng001 你别显摆自己的无知了，她啥都没干😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949144556961927168",
+        "conversation_id": "2050919858372837529",
+        "created_at": "2026-05-03T22:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T23:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051063317079433394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051063317079433394",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4543,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050919858372837529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 进去就进去了嘛，说那么好听。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 875,
+          "like_count": 3412,
+          "listed_count": 6,
+          "media_count": 178,
+          "tweet_count": 2580
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-26T16:27:54.000Z",
+        "description": "零六，大专辍学生，因为对轮机工程专业一眼看到头没有希望，",
+        "id": "1949144556961927168",
+        "name": "程思有",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050038267312287744/cjnuO_2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 48
+        },
+        "username": "siyoucheng001",
+        "verified": false
+      }
+    ]
+  }
+}

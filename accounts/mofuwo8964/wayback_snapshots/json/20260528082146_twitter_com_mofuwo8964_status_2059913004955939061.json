@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2059913004955939061",
+    "created_at": "2026-05-28T08:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:20:40.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059912727951524292",
+      "2059913004955939061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iris1208dzqiri…",
+          "end": 148,
+          "expanded_url": "https://twitter.com/iris1208dzqiris/status/2059775063159923060",
+          "start": 125,
+          "url": "https://t.co/igUC5QDix4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059913004955939061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059775063159923060",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“敌方坐骑”这么污名化的异性恋的词还能再被污名化？？激女对婚女的攻击还不够下三路？啥时候激女能够内部统一一下口径，哦对了而且媎妹你头像是二次元没有脱宅文化，主页有穿内衣的照片，裸露就是失权；而且不是寸头不符合自然女标准，麻烦你不要代替我们发声谢谢你 https://t.co/igUC5QDix4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2059912727951524292",
+        "created_at": "2026-05-28T08:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:20:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059912727951524292",
+          "2059913004955939061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iris1208dzqiri…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/iris1208dzqiris/status/2059775063159923060",
+              "start": 124,
+              "url": "https://t.co/igUC5QDix4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059912727951524292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059775063159923060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“敌方坐骑”这么污名化的异性恋的词还能再被污名化？？激女对婚女的攻击还不够下三路？啥时候激女能够内部统一一下口径，哦对了而且媎妹你头像是二次元没有脱宅文化，主页有穿内衣的照片，裸露就是失权；而且是寸头不符合自然女标准，麻烦你不要代替我们发声谢谢你 https://t.co/igUC5QDix4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2059913004955939061",
+        "created_at": "2026-05-28T08:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:20:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059912727951524292",
+          "2059913004955939061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iris1208dzqiri…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/iris1208dzqiris/status/2059775063159923060",
+              "start": 125,
+              "url": "https://t.co/igUC5QDix4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059913004955939061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059775063159923060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“敌方坐骑”这么污名化的异性恋的词还能再被污名化？？激女对婚女的攻击还不够下三路？啥时候激女能够内部统一一下口径，哦对了而且媎妹你头像是二次元没有脱宅文化，主页有穿内衣的照片，裸露就是失权；而且不是寸头不符合自然女标准，麻烦你不要代替我们发声谢谢你 https://t.co/igUC5QDix4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969076990952275968",
+        "conversation_id": "2059643205638070712",
+        "created_at": "2026-05-27T23:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059775063159923060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1591623303742955520",
+              "start": 0,
+              "username": "_yangmao_"
+            },
+            {
+              "end": 26,
+              "id": "1803849149248360448",
+              "start": 11,
+              "username": "itsmesakiisept"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059775063159923060",
+        "in_reply_to_user_id": "1591623303742955520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3533,
+          "like_count": 17,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059706822601413023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yangmao_ @itsmesakiisept 也就只有你这种人才回跟着父权一起污名化坐骑二字了，激女造词无性化本意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2907,
+          "following_count": 901,
+          "like_count": 3593,
+          "listed_count": 7,
+          "media_count": 195,
+          "tweet_count": 2762
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-19T16:32:07.000Z",
+        "description": "08｜水仙：@Sovereign_Iriss\n匿名提问↘️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "Sovereign_Iriss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iris88892",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iris88892",
+                "start": 0,
+                "url": "https://t.co/75O3RONQKl"
+              }
+            ]
+          }
+        },
+        "id": "1969076990952275968",
+        "location": "地狱",
+        "name": "Iris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050962867671949314/-sAwRpkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4788,
+          "following_count": 23,
+          "like_count": 1448,
+          "listed_count": 4,
+          "media_count": 106,
+          "tweet_count": 1117
+        },
+        "url": "https://t.co/75O3RONQKl",
+        "username": "Iris1208dzqIris",
+        "verified": false
+      }
+    ]
+  }
+}

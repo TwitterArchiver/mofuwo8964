@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044907190276989218",
+    "created_at": "2026-04-17T17:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045189268562493853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045189268562493853",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045188206245605479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang 对的，我知道这个东东但是我的智力水平有限（遗憾离场）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2045188198393937921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGH31KAXgAEK-TW.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2045188198876299264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGH31LzXwAAolFe.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2045188197005586432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGH31E1W8AA6DvF.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2045188198234566656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGH31JaXsAAaZuC.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044907190276989218",
+        "created_at": "2026-04-17T17:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045189268562493853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045189268562493853",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045188206245605479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang 对的，我知道这个东东但是我的智力水平有限（遗憾离场）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045188198393937921",
+            "3_2045188198876299264",
+            "3_2045188197005586432",
+            "3_2045188198234566656"
+          ]
+        },
+        "author_id": "1677732423667445760",
+        "conversation_id": "2044907190276989218",
+        "created_at": "2026-04-17T17:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045188206245605479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NkkKXmQwIw",
+              "end": 47,
+              "expanded_url": "https://x.com/wuerbangbang/status/2045188206245605479/photo/1",
+              "media_key": "3_2045188198393937921",
+              "start": 24,
+              "url": "https://t.co/NkkKXmQwIw"
+            },
+            {
+              "display_url": "pic.x.com/NkkKXmQwIw",
+              "end": 47,
+              "expanded_url": "https://x.com/wuerbangbang/status/2045188206245605479/photo/1",
+              "media_key": "3_2045188198876299264",
+              "start": 24,
+              "url": "https://t.co/NkkKXmQwIw"
+            },
+            {
+              "display_url": "pic.x.com/NkkKXmQwIw",
+              "end": 47,
+              "expanded_url": "https://x.com/wuerbangbang/status/2045188206245605479/photo/1",
+              "media_key": "3_2045188197005586432",
+              "start": 24,
+              "url": "https://t.co/NkkKXmQwIw"
+            },
+            {
+              "display_url": "pic.x.com/NkkKXmQwIw",
+              "end": 47,
+              "expanded_url": "https://x.com/wuerbangbang/status/2045188206245605479/photo/1",
+              "media_key": "3_2045188198234566656",
+              "start": 24,
+              "url": "https://t.co/NkkKXmQwIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045188206245605479",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044907190276989218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 感觉你会对这个感兴趣（ https://t.co/NkkKXmQwIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 857,
+          "like_count": 3073,
+          "listed_count": 5,
+          "media_count": 164,
+          "tweet_count": 2342
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国家博物馆前馆员。文史艺术、书画篆刻、三俗烂梗、猫咪爱好者。对世界有旺盛的探索欲，喜欢有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & kitty🪭🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2017141174021345689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9356,
+          "following_count": 948,
+          "like_count": 15773,
+          "listed_count": 39,
+          "media_count": 2405,
+          "tweet_count": 7686
+        },
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

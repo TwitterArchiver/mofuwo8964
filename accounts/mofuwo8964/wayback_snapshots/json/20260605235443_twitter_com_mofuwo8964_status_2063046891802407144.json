@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2063046891802407144",
+    "created_at": "2026-06-05T23:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T00:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063046891802407144"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063046891802407144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好羡慕🐧姐，虽然我们没说过几句话。但我觉得她很厉害，我也想成为她那样有执行力又强大的人，唉。我也很羡慕教我文综的1对1老师，我觉得他懂的很多，成绩也很好，也有自己的想法和思考。我从前以为我的二十多岁也是这样，可是我现在做成年人已经三年了，还是这么软弱这么怯懦😞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2063046891802407144",
+        "created_at": "2026-06-05T23:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063046891802407144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063046891802407144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好羡慕🐧姐，虽然我们没说过几句话。但我觉得她很厉害，我也想成为她那样有执行力又强大的人，唉。我也很羡慕教我文综的1对1老师，我觉得他懂的很多，成绩也很好，也有自己的想法和思考。我从前以为我的二十多岁也是这样，可是我现在做成年人已经三年了，还是这么软弱这么怯懦😞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜ひとりごと|愚痴",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2912,
+          "following_count": 901,
+          "like_count": 3661,
+          "listed_count": 7,
+          "media_count": 196,
+          "tweet_count": 2815
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

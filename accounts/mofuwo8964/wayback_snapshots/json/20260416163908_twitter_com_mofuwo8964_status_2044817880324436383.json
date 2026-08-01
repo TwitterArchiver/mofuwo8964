@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044817880324436383",
+    "created_at": "2026-04-16T16:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T17:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044817880324436383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/carieshepp5177…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/carieshepp51778/status/2044686691693391881",
+          "start": 59,
+          "url": "https://t.co/lsCUuzZWiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044817880324436383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "然后不予回应之后健全逼又要说安慰精神病他们也不知好歹，到底是安慰精神病还是借着安慰精神病的名义满足一己私欲自己清楚🙏\n我真的很感谢向我表达关心的健全人，因为关心和傲慢地施舍以及索取情绪价值完全不一样。。难道要一个本来就很难受的人去继续照顾你的情绪说“哇你家的小猫咪好可爱呀谢谢你我不想死了我因为可爱的猫咪和根本吃不到吃不起的食物图片所以觉得世界好美好呀，生活好幸福呀！我的童年创伤和心理阴影以及被虐待的经历全都随着这些映在手机上的像素点烟消云散了！”\n要我这么说吗？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044686691693391881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后不予回应之后健全逼又要说安慰精神病他们也不知好歹，到底是安慰精神病还是借着安慰精神病的名义满足一己私欲自己清楚🙏 https://t.co/lsCUuzZWiH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044817880324436383",
+        "created_at": "2026-04-16T16:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044817880324436383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/carieshepp5177…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/carieshepp51778/status/2044686691693391881",
+              "start": 59,
+              "url": "https://t.co/lsCUuzZWiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044817880324436383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "然后不予回应之后健全逼又要说安慰精神病他们也不知好歹，到底是安慰精神病还是借着安慰精神病的名义满足一己私欲自己清楚🙏\n我真的很感谢向我表达关心的健全人，因为关心和傲慢地施舍以及索取情绪价值完全不一样。。难道要一个本来就很难受的人去继续照顾你的情绪说“哇你家的小猫咪好可爱呀谢谢你我不想死了我因为可爱的猫咪和根本吃不到吃不起的食物图片所以觉得世界好美好呀，生活好幸福呀！我的童年创伤和心理阴影以及被虐待的经历全都随着这些映在手机上的像素点烟消云散了！”\n要我这么说吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044686691693391881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后不予回应之后健全逼又要说安慰精神病他们也不知好歹，到底是安慰精神病还是借着安慰精神病的名义满足一己私欲自己清楚🙏 https://t.co/lsCUuzZWiH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948869135833989122",
+        "conversation_id": "2044686691693391881",
+        "created_at": "2026-04-16T07:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044686691693391881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044686691693391881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到一个人说对什么事情都提不起兴趣做以前觉得很开心的事现在也没感觉了，底下评论依旧健全土逼男大女大发自己拍的云小猫食物，健全蛆不是最爱指责精神病索取他们情绪价值吗？发这些难道不是等着人家回复一句“哇谢谢你你拍的好漂亮我被治愈了”索取人家的情绪价值吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2636,
+          "following_count": 855,
+          "like_count": 3005,
+          "listed_count": 5,
+          "media_count": 164,
+          "tweet_count": 2298
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-25T22:13:06.000Z",
+        "description": "仙家对话",
+        "id": "1948869135833989122",
+        "location": "距离你11.4514㎞",
+        "name": "大蜘蛛哼唱",
+        "pinned_tweet_id": "1985965205353046193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010636142656319488/_Jwa0A24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 375,
+          "like_count": 13527,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 732
+        },
+        "username": "CarieShepp51778",
+        "verified": false
+      }
+    ]
+  }
+}

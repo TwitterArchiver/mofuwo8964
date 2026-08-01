@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044514758146380016",
+    "created_at": "2026-04-15T20:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T21:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044514758146380016"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044514758146380016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己过得很不幸的人或者从痛苦里走出来的人再对那些没能摆脱的人恶语相加…？我本来以为这样的大家能更加相互理解…却还要因为要比谁更“惨”，用对方物质条件之类去审判别人的痛苦，这样永远不会结束的。痛苦不是有门槛的事情，这样没办法否认任何人遭受的虐待，只能说明被虐待是一件很普遍的事情。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044514758146380016",
+        "created_at": "2026-04-15T20:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T21:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044514758146380016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044514758146380016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己过得很不幸的人或者从痛苦里走出来的人再对那些没能摆脱的人恶语相加…？我本来以为这样的大家能更加相互理解…却还要因为要比谁更“惨”，用对方物质条件之类去审判别人的痛苦，这样永远不会结束的。痛苦不是有门槛的事情，这样没办法否认任何人遭受的虐待，只能说明被虐待是一件很普遍的事情。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2633,
+          "following_count": 852,
+          "like_count": 2958,
+          "listed_count": 5,
+          "media_count": 159,
+          "tweet_count": 2273
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

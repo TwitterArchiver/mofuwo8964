@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2031001357155701223",
+    "created_at": "2026-03-11T05:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T06:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031601019185148352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773041626581221376",
+          "start": 0,
+          "username": "Nikikiki8964"
+        },
+        {
+          "end": 24,
+          "id": "1875017787208617984",
+          "start": 14,
+          "username": "_ahinu18_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031601019185148352",
+    "in_reply_to_user_id": "1773041626581221376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031464729433223556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nikikiki8964 @_ahinu18_ 点开一看发现早已拉黑此瞎骂蛆"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2031464729433223556].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2031464729433223556",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2031464729433223556"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2031001357155701223",
+        "created_at": "2026-03-11T05:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T06:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031601019185148352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773041626581221376",
+              "start": 0,
+              "username": "Nikikiki8964"
+            },
+            {
+              "end": 24,
+              "id": "1875017787208617984",
+              "start": 14,
+              "username": "_ahinu18_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031601019185148352",
+        "in_reply_to_user_id": "1773041626581221376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031464729433223556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nikikiki8964 @_ahinu18_ 点开一看发现早已拉黑此瞎骂蛆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030870356953866240/H3S67KDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2558,
+          "following_count": 817,
+          "like_count": 2573,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 1768
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T17:37:30.000Z",
+        "description": "个人想法储存站｜同人女｜虚拟性恋尊厌｜回关交友随缘｜有事提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%A5%BF%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%A5%BF%E7%93%9C%E6%8A%95%E6%89%8B",
+                "start": 0,
+                "url": "https://t.co/ujX5HCo8rR"
+              }
+            ]
+          }
+        },
+        "id": "1773041626581221376",
+        "location": "匿名提问箱→",
+        "name": "Cackatoo",
+        "pinned_tweet_id": "1983110926908961278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018744150007730176/OEgu-nth_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 100,
+          "like_count": 90448,
+          "listed_count": 8,
+          "media_count": 54,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/ujX5HCo8rR",
+        "username": "Nikikiki8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T03:14:18.000Z",
+        "description": "",
+        "id": "1875017787208617984",
+        "name": "宇宙级的穿山甲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948401838254125056/28xK5yES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 0,
+          "like_count": 402,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 405
+        },
+        "username": "_ahinu18_",
+        "verified": false
+      }
+    ]
+  }
+}

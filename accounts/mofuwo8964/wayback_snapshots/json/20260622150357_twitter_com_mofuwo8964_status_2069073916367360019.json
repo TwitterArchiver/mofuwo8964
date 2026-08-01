@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2069072522851815705",
+    "created_at": "2026-06-22T15:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069073916367360019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "802105757760045057",
+          "start": 0,
+          "username": "andox60"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069073916367360019",
+    "in_reply_to_user_id": "802105757760045057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069073307023155662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@andox60 我只写了大纲剩下的是gpt老师帮我的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2069072522851815705",
+        "created_at": "2026-06-22T15:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069073916367360019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "802105757760045057",
+              "start": 0,
+              "username": "andox60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069073916367360019",
+        "in_reply_to_user_id": "802105757760045057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069073307023155662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andox60 我只写了大纲剩下的是gpt老师帮我的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "802105757760045057",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "2069072522851815705",
+        "created_at": "2026-06-22T15:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069073307023155662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069073307023155662",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069072522851815705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 你八股文寫的不錯。比我這個記者寫的好。我真是自愧不如。收下我的這個徒弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3153,
+          "following_count": 993,
+          "like_count": 4139,
+          "listed_count": 6,
+          "media_count": 234,
+          "tweet_count": 3315
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-25T11:04:49.000Z",
+        "description": "カメラ？マン？",
+        "id": "802105757760045057",
+        "location": "奈良県",
+        "name": "シンイチ",
+        "pinned_tweet_id": "2066822561540047003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056636703901995008/CR9iclP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 1000,
+          "like_count": 62389,
+          "listed_count": 12,
+          "media_count": 2355,
+          "tweet_count": 34697
+        },
+        "url": "",
+        "username": "andox60",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2053337295387066876",
+    "created_at": "2026-05-10T04:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053337295387066876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2028463116577861632",
+          "start": 3,
+          "username": "KVTgCBOxfF34207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053337295387066876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053085636396228726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KVTgCBOxfF34207: 声優のアイドル化、本当にやめませんか"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2053337295387066876",
+        "created_at": "2026-05-10T04:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053337295387066876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2028463116577861632",
+              "start": 3,
+              "username": "KVTgCBOxfF34207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053337295387066876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053085636396228726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KVTgCBOxfF34207: 声優のアイドル化、本当にやめませんか"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028463116577861632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2053085636396228726",
+        "created_at": "2026-05-09T12:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053085636396228726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oishi_kokona/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/oishi_kokona/status/2053061073033658372",
+              "start": 19,
+              "url": "https://t.co/Erz3aKoebV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053085636396228726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 242134,
+          "like_count": 3901,
+          "quote_count": 103,
+          "reply_count": 57,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053061073033658372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "声優のアイドル化、本当にやめませんか https://t.co/Erz3aKoebV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2805,
+          "following_count": 881,
+          "like_count": 3506,
+          "listed_count": 6,
+          "media_count": 181,
+          "tweet_count": 2644
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-02T13:31:14.000Z",
+        "description": "人の笑顔を、守りたい",
+        "id": "2028463116577861632",
+        "location": "ツイ廃",
+        "name": "アフﾘｶ募金📛",
+        "pinned_tweet_id": "2040714784220594553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049678691668836352/IlD_TlNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2439,
+          "following_count": 430,
+          "like_count": 4233,
+          "listed_count": 8,
+          "media_count": 299,
+          "tweet_count": 2013
+        },
+        "username": "KVTgCBOxfF34207",
+        "verified": false
+      }
+    ]
+  }
+}

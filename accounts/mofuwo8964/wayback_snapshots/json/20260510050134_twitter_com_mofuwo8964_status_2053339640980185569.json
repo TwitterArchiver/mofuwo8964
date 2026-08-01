@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053116324344377344"
+      ],
+      "media_source_tweet_id": [
+        "2053116331827016183"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053339640980185569",
+    "created_at": "2026-05-10T05:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053339640980185569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1860560291601481728",
+          "start": 3,
+          "username": "chayucha_o0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FA8ozdLob9",
+          "end": 49,
+          "expanded_url": "https://x.com/chayucha_o0/status/2053116331827016183/photo/1",
+          "media_key": "3_2053116324344377344",
+          "start": 26,
+          "url": "https://t.co/FA8ozdLob9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053339640980185569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053116331827016183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chayucha_o0: ちょっとまずいか https://t.co/FA8ozdLob9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053116324344377344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4ia0saMAA93ZO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053116324344377344"
+          ],
+          "media_source_tweet_id": [
+            "2053116331827016183"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053339640980185569",
+        "created_at": "2026-05-10T05:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053339640980185569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1860560291601481728",
+              "start": 3,
+              "username": "chayucha_o0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FA8ozdLob9",
+              "end": 49,
+              "expanded_url": "https://x.com/chayucha_o0/status/2053116331827016183/photo/1",
+              "media_key": "3_2053116324344377344",
+              "start": 26,
+              "url": "https://t.co/FA8ozdLob9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053339640980185569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053116331827016183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chayucha_o0: ちょっとまずいか https://t.co/FA8ozdLob9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053116324344377344"
+          ]
+        },
+        "author_id": "1860560291601481728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053116331827016183",
+        "created_at": "2026-05-09T14:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053116331827016183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FA8ozdLob9",
+              "end": 32,
+              "expanded_url": "https://x.com/chayucha_o0/status/2053116331827016183/photo/1",
+              "media_key": "3_2053116324344377344",
+              "start": 9,
+              "url": "https://t.co/FA8ozdLob9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053116331827016183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 67261,
+          "like_count": 2308,
+          "quote_count": 28,
+          "reply_count": 2,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "ちょっとまずいか https://t.co/FA8ozdLob9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2805,
+          "following_count": 881,
+          "like_count": 3507,
+          "listed_count": 6,
+          "media_count": 181,
+          "tweet_count": 2646
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-24T05:45:26.000Z",
+        "description": "ダン口ン中心┊ネタバレ配慮ないです❕┊誰でもどうぞな鍵⇒ @yusa3n_┊ かわいいヘッダーははるちゃんから💘⇒@mutyatya__0801",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "yusa3n_"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "mutyatya__0801"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/6eMLxetFfFMA…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/6eMLxetFfFMAkr0CqhIitAe9ksB2",
+                "start": 0,
+                "url": "https://t.co/wVebr1tfQS"
+              }
+            ]
+          }
+        },
+        "id": "1860560291601481728",
+        "name": "ゆさ",
+        "pinned_tweet_id": "1891178245250249190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004623780027727872/Y8NM5nzX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 134,
+          "like_count": 16098,
+          "listed_count": 8,
+          "media_count": 167,
+          "tweet_count": 4172
+        },
+        "url": "https://t.co/wVebr1tfQS",
+        "username": "chayucha_o0",
+        "verified": false
+      }
+    ]
+  }
+}

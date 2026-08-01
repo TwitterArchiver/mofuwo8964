@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2033888976197849557",
+    "created_at": "2026-03-17T12:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T13:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033888976197849557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zh099848385331…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/zh0998483853317/status/2033884659344675014",
+          "start": 93,
+          "url": "https://t.co/uLbGVvXo8n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033888976197849557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033884659344675014",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是你先在我的碎碎念下面骂人，我才把你发出来的吗？你也没少无故喷人吧🤔\n不过其实我觉得这种生活态度还挺值得学习的，我确实不能做到完全不在乎别人的看法，如果我能这么自信这么有勇气该多好！ https://t.co/uLbGVvXo8n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2033884524690739206",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnPMwBbEAYlaZN.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2033888976197849557",
+        "created_at": "2026-03-17T12:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T13:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033888976197849557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zh099848385331…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/zh0998483853317/status/2033884659344675014",
+              "start": 93,
+              "url": "https://t.co/uLbGVvXo8n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033888976197849557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033884659344675014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是你先在我的碎碎念下面骂人，我才把你发出来的吗？你也没少无故喷人吧🤔\n不过其实我觉得这种生活态度还挺值得学习的，我确实不能做到完全不在乎别人的看法，如果我能这么自信这么有勇气该多好！ https://t.co/uLbGVvXo8n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033884524690739206"
+          ]
+        },
+        "author_id": "1877402179499339780",
+        "conversation_id": "2033880635417481675",
+        "created_at": "2026-03-17T12:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T13:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033884659344675014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bV9FpywF4E",
+              "end": 172,
+              "expanded_url": "https://x.com/zh0998483853317/status/2033884659344675014/photo/1",
+              "media_key": "3_2033884524690739206",
+              "start": 149,
+              "url": "https://t.co/bV9FpywF4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033884659344675014",
+        "in_reply_to_user_id": "1877402179499339780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033880635417481675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964  这是我青春期时期的自拍，满脸青春痘皮肤蜡黄，但仍然能看得出来是个大帅哥\n\n所以我根本不用自己的脸去成为什么所谓的帅哥，我不屑，我也不需要见色起意的感情和福利\n\n我不明白为什么国女这么懦弱，勇敢一点很难？直面你自己的一切和这个世界，而不是将希望和痛恨转载，我不是你们的意淫 https://t.co/bV9FpywF4E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033525613815078912/hjH8ZhYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2570,
+          "following_count": 816,
+          "like_count": 2624,
+          "listed_count": 4,
+          "media_count": 144,
+          "tweet_count": 1807
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T17:09:35.000Z",
+        "description": "无言以对，惟有泪千行",
+        "id": "1877402179499339780",
+        "name": "辙(王者荣耀高手版)",
+        "pinned_tweet_id": "1881390663373385773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987798704670072832/Oxxg-3s8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 1466
+        },
+        "username": "zh0998483853317",
+        "verified": false
+      }
+    ]
+  }
+}

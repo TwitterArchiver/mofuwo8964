@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2052361183282504112",
+    "created_at": "2026-05-07T12:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052361183282504112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "wkJisbkkk0827"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/pmtwtfun/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/pmtwtfun/status/2052143429937672335",
+          "start": 15,
+          "url": "https://t.co/9PsuumBhQi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052361183282504112",
+    "in_reply_to_user_id": "1859117911119720448",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052143429937672335",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wkJisbkkk0827 https://t.co/9PsuumBhQi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 818,
+        "media_key": "3_2052143305824100354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHqtdsPXYAIL6zH.png",
+        "width": 668
+      },
+      {
+        "height": 777,
+        "media_key": "3_2052143373704654850",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHqthpHWcAIvlOh.png",
+        "width": 692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2052361183282504112",
+        "created_at": "2026-05-07T12:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052361183282504112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "wkJisbkkk0827"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/pmtwtfun/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/pmtwtfun/status/2052143429937672335",
+              "start": 15,
+              "url": "https://t.co/9PsuumBhQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052361183282504112",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052143429937672335",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wkJisbkkk0827 https://t.co/9PsuumBhQi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052143305824100354",
+            "3_2052143373704654850"
+          ]
+        },
+        "author_id": "1847433136289828864",
+        "conversation_id": "2052143429937672335",
+        "created_at": "2026-05-06T21:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T22:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052143429937672335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nbOsEbtGC4",
+              "end": 63,
+              "expanded_url": "https://x.com/pmtwtfun/status/2052143429937672335/photo/1",
+              "media_key": "3_2052143305824100354",
+              "start": 40,
+              "url": "https://t.co/nbOsEbtGC4"
+            },
+            {
+              "display_url": "pic.x.com/nbOsEbtGC4",
+              "end": 63,
+              "expanded_url": "https://x.com/pmtwtfun/status/2052143429937672335/photo/1",
+              "media_key": "3_2052143373704654850",
+              "start": 40,
+              "url": "https://t.co/nbOsEbtGC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052143429937672335",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2679,
+          "impression_count": 302529,
+          "like_count": 36663,
+          "quote_count": 94,
+          "reply_count": 19,
+          "retweet_count": 2213
+        },
+        "reply_settings": "everyone",
+        "text": "Business in the front\nParty in the back https://t.co/nbOsEbtGC4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 880,
+          "like_count": 3459,
+          "listed_count": 6,
+          "media_count": 178,
+          "tweet_count": 2617
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "",
+        "id": "1859117911119720448",
+        "location": "日本 東京",
+        "name": "bp",
+        "pinned_tweet_id": "1860271173894045968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015743113537765376/MIqvsoh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 83,
+          "like_count": 3943,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 2776
+        },
+        "username": "wkJisbkkk0827",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T00:22:48.000Z",
+        "description": "The life and times of 13 sinners (and friends)\n(will be updated periodically)\nLive streams at https://t.co/aZxr1crZOr\nDiscord: https://t.co/uJlfyO0L8S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chimp_star",
+                "end": 117,
+                "expanded_url": "http://youtube.com/@chimp_star",
+                "start": 94,
+                "url": "https://t.co/aZxr1crZOr"
+              },
+              {
+                "display_url": "discord.gg/pmtwtfun",
+                "end": 150,
+                "expanded_url": "http://discord.gg/pmtwtfun",
+                "start": 127,
+                "url": "https://t.co/uJlfyO0L8S"
+              }
+            ]
+          }
+        },
+        "id": "1847433136289828864",
+        "location": "Limbustopia",
+        "name": "Tomodachi Limbus (SEASON 2)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036810606129651712/vye_tVFH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8879,
+          "following_count": 1,
+          "like_count": 931,
+          "listed_count": 4,
+          "media_count": 1851,
+          "tweet_count": 2719
+        },
+        "username": "pmtwtfun",
+        "verified": false
+      }
+    ]
+  }
+}

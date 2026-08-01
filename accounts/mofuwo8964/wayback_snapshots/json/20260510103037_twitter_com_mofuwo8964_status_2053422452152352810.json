@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2053402271472669040",
+    "created_at": "2026-05-10T10:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053422452152352810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1454760613280841736",
+          "start": 0,
+          "username": "kwwmirukuti"
+        },
+        {
+          "end": 27,
+          "id": "1767905395299983360",
+          "start": 13,
+          "username": "Kaerigumo1585"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053422452152352810",
+    "in_reply_to_user_id": "1454760613280841736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053403131363655812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kwwmirukuti @Kaerigumo1585 。。。？我？粉蛆。？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2053402271472669040",
+        "created_at": "2026-05-10T10:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053422452152352810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1454760613280841736",
+              "start": 0,
+              "username": "kwwmirukuti"
+            },
+            {
+              "end": 27,
+              "id": "1767905395299983360",
+              "start": 13,
+              "username": "Kaerigumo1585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053422452152352810",
+        "in_reply_to_user_id": "1454760613280841736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053403131363655812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kwwmirukuti @Kaerigumo1585 。。。？我？粉蛆。？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454760613280841736",
+        "conversation_id": "2053402271472669040",
+        "created_at": "2026-05-10T09:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053403131363655812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767905395299983360",
+              "start": 0,
+              "username": "Kaerigumo1585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053403131363655812",
+        "in_reply_to_user_id": "1767905395299983360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053402271472669040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaerigumo1585 原推故意用曰這個字，我只看見小紅書粉蛆這麼寫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2810,
+          "following_count": 882,
+          "like_count": 3510,
+          "listed_count": 6,
+          "media_count": 182,
+          "tweet_count": 2655
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-31T10:42:28.000Z",
+        "description": "川和奶茶的話，水平最高，威信最高，威力最大，句句是真理，一句頂一萬句。你們相信奶茶要相信到迷信的程度，服從奶茶要服從到盲從的程度。凡是奶茶作出的決策，你們都要堅決維護；凡是奶茶的指示，你們都要始終不渝地遵循 | 漢字研究愛好者 | 的地得警察在再警察錯別字警察",
+        "id": "1454760613280841736",
+        "name": "川和奶茶🥤",
+        "pinned_tweet_id": "1704746543226749345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615718843959357440/8vgFfuqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4616,
+          "following_count": 846,
+          "like_count": 55367,
+          "listed_count": 21,
+          "media_count": 625,
+          "tweet_count": 6927
+        },
+        "username": "kwwmirukuti",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T13:28:08.000Z",
+        "description": "ようこそ ときめく世界へ",
+        "id": "1767905395299983360",
+        "location": "漫长的季节",
+        "name": "内岛氏理🐧",
+        "pinned_tweet_id": "1922927406198948211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922326890892951552/nrq8LDJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3996,
+          "following_count": 2920,
+          "like_count": 66664,
+          "listed_count": 8,
+          "media_count": 649,
+          "tweet_count": 11090
+        },
+        "username": "Kaerigumo1585",
+        "verified": false
+      }
+    ]
+  }
+}

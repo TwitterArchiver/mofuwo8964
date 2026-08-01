@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2055698788766105773",
+    "created_at": "2026-05-16T17:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055698788766105773"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055698788766105773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还是相信这个世界上有神或者是神之类的东西，或者是相信什么他者什么脑控云云。\n\n我需要发疯，我需要精神失常，否则我就不得不面对一个事实：嘿！我就是运气不好，我遭受了别人没遭受的虐待，我被欺侮了，我就是有缺陷，然后我呢要继续忍耐几年十几年，甚至几十年被歧视的目光和恶语，且只有我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2055698788766105773",
+        "created_at": "2026-05-16T17:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055698788766105773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055698788766105773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是相信这个世界上有神或者是神之类的东西，或者是相信什么他者什么脑控云云。\n\n我需要发疯，我需要精神失常，否则我就不得不面对一个事实：嘿！我就是运气不好，我遭受了别人没遭受的虐待，我被欺侮了，我就是有缺陷，然后我呢要继续忍耐几年十几年，甚至几十年被歧视的目光和恶语，且只有我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2837,
+          "following_count": 896,
+          "like_count": 3568,
+          "listed_count": 6,
+          "media_count": 186,
+          "tweet_count": 2705
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

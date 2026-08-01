@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068921139775311872"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2068921144854651006",
+    "created_at": "2026-06-22T04:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068921144854651006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kgslwae4oV",
+          "end": 62,
+          "expanded_url": "https://x.com/mofuwo8964/status/2068921144854651006/photo/1",
+          "media_key": "3_2068921139775311872",
+          "start": 39,
+          "url": "https://t.co/Kgslwae4oV"
+        },
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2068919739750166667",
+          "start": 63,
+          "url": "https://t.co/v0XiO18I5U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068921144854651006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068919739750166667",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就是类似这种帖子的仇恨辱骂行为，看到了我会立即拉黑，关注这种的也会被我连坐🙏 https://t.co/Kgslwae4oV https://t.co/v0XiO18I5U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1918,
+        "media_key": "3_2068921139775311872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZI0KSakAArn5B.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068921139775311872"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068921144854651006",
+        "created_at": "2026-06-22T04:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068921144854651006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kgslwae4oV",
+              "end": 62,
+              "expanded_url": "https://x.com/mofuwo8964/status/2068921144854651006/photo/1",
+              "media_key": "3_2068921139775311872",
+              "start": 39,
+              "url": "https://t.co/Kgslwae4oV"
+            },
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2068919739750166667",
+              "start": 63,
+              "url": "https://t.co/v0XiO18I5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068921144854651006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068919739750166667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是类似这种帖子的仇恨辱骂行为，看到了我会立即拉黑，关注这种的也会被我连坐🙏 https://t.co/Kgslwae4oV https://t.co/v0XiO18I5U"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068919739750166667",
+        "created_at": "2026-06-22T04:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068919739750166667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068919739750166667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉麻烦发自内心恶毒的歧视别人的身材/疾病/生活方式等等之类的人把我双取了吧，，然后支持/互关这些账号的也把我双取了吧。。\n我说实话平时黑黑也就算了但是如果针对一个什么都没做的个体施加过量的恶意这件事情我接受不了，我真的不想和恶毒的人玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3136,
+          "following_count": 990,
+          "like_count": 4096,
+          "listed_count": 6,
+          "media_count": 234,
+          "tweet_count": 3284
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

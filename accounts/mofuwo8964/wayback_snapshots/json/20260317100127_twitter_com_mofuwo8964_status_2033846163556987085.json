@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2033846163556987085",
+    "created_at": "2026-03-17T10:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T11:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033846163556987085"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033846163556987085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉其实我父母作为父母从前真的不大合格，但是作为人来说又是实打实的好人orz我爸妈真的都是好人，如果他们不是我父母的话我会很尊敬他们的但是因为是我父母所以有一种微妙的不自在，唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2033846163556987085",
+        "created_at": "2026-03-17T10:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T11:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033846163556987085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033846163556987085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉其实我父母作为父母从前真的不大合格，但是作为人来说又是实打实的好人orz我爸妈真的都是好人，如果他们不是我父母的话我会很尊敬他们的但是因为是我父母所以有一种微妙的不自在，唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033525613815078912/hjH8ZhYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2570,
+          "following_count": 816,
+          "like_count": 2621,
+          "listed_count": 4,
+          "media_count": 144,
+          "tweet_count": 1806
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

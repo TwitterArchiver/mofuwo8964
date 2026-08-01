@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036894628478423040"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2036894636204318831",
+    "created_at": "2026-03-25T19:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T20:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036894636204318831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gYIcYZHMRB",
+          "end": 167,
+          "expanded_url": "https://x.com/mofuwo8964/status/2036894636204318831/photo/1",
+          "media_key": "3_2036894628478423040",
+          "start": 144,
+          "url": "https://t.co/gYIcYZHMRB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036894636204318831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "但是不管分手之后我再怎么恨我老公也不会发自内心的让他去死，死全家被虐杀被凌迟，但我对我某位前男友就是这种心情！因为这位前男友明明自己也是丑男一枚却很爱嘲讽我，具体事例如去我第一次兴高采烈逛lizlisa的时候跟我说，我是里面最肥发质最差的那个，虽然他事后复盘解释了说他只是嫉妒有人喜欢我但是无人在意他，不过我现在也觉得他很活该无人在意哈哈哈，虽然知道你是精神病但我还是看到你惨就发自内心的感到生命的璀璨和辉煌\n（下图的聊天记录是我们分手之后还没完全决裂的时候，哦以及决裂的过程"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "但是不管分手之后我再怎么恨我老公也不会发自内心的让他去死，死全家被虐杀被凌迟，但我对我某位前男友就是这种心情！因为这位前男友明明自己也是丑男一枚却很爱嘲讽我，具体事例如去我第一次兴高采烈逛lizlisa的时候跟我说，我是里面最肥发质最差的那个，虽然他事后复盘解释了说他只是嫉妒有人喜欢我 https://t.co/gYIcYZHMRB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036894628478423040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HESA32dbkAAsfNC.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036894628478423040"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036894636204318831",
+        "created_at": "2026-03-25T19:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T20:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036894636204318831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYIcYZHMRB",
+              "end": 167,
+              "expanded_url": "https://x.com/mofuwo8964/status/2036894636204318831/photo/1",
+              "media_key": "3_2036894628478423040",
+              "start": 144,
+              "url": "https://t.co/gYIcYZHMRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036894636204318831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "但是不管分手之后我再怎么恨我老公也不会发自内心的让他去死，死全家被虐杀被凌迟，但我对我某位前男友就是这种心情！因为这位前男友明明自己也是丑男一枚却很爱嘲讽我，具体事例如去我第一次兴高采烈逛lizlisa的时候跟我说，我是里面最肥发质最差的那个，虽然他事后复盘解释了说他只是嫉妒有人喜欢我但是无人在意他，不过我现在也觉得他很活该无人在意哈哈哈，虽然知道你是精神病但我还是看到你惨就发自内心的感到生命的璀璨和辉煌\n（下图的聊天记录是我们分手之后还没完全决裂的时候，哦以及决裂的过程"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但是不管分手之后我再怎么恨我老公也不会发自内心的让他去死，死全家被虐杀被凌迟，但我对我某位前男友就是这种心情！因为这位前男友明明自己也是丑男一枚却很爱嘲讽我，具体事例如去我第一次兴高采烈逛lizlisa的时候跟我说，我是里面最肥发质最差的那个，虽然他事后复盘解释了说他只是嫉妒有人喜欢我 https://t.co/gYIcYZHMRB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2626,
+          "following_count": 835,
+          "like_count": 2780,
+          "listed_count": 4,
+          "media_count": 154,
+          "tweet_count": 2049
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

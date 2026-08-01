@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037422460468121999",
+    "created_at": "2026-03-27T06:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T07:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037422460468121999"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037422460468121999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得我太丑了，但有的时候我又觉得我不丑，因为网上的人只要一跟我撕逼就会骂我丑，但是小时候现实里经常被夸好看，不过上初中的时候有一个朋友一直在不停不停说我丑搞得我很自卑，虽然其实我觉得她比我更丑，但是我还是特别难过…（ ;  ; ）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037422460468121999",
+        "created_at": "2026-03-27T06:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037422460468121999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037422460468121999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我太丑了，但有的时候我又觉得我不丑，因为网上的人只要一跟我撕逼就会骂我丑，但是小时候现实里经常被夸好看，不过上初中的时候有一个朋友一直在不停不停说我丑搞得我很自卑，虽然其实我觉得她比我更丑，但是我还是特别难过…（ ;  ; ）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜社会不适应中",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2707,
+          "following_count": 853,
+          "like_count": 2818,
+          "listed_count": 6,
+          "media_count": 156,
+          "tweet_count": 2143
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

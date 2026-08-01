@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2026992546745085987",
+    "created_at": "2026-02-26T16:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T17:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027057726011179027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1754144377872793600",
+          "start": 0,
+          "username": "ccccw_iB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027057726011179027",
+    "in_reply_to_user_id": "1754144377872793600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027047578379100385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccccw_iB 所以我说我可能是个自称直女的双啊😑\n我只是在用他们的言论来对号入座，我后面的部分是在说性吸引而不是浪漫吸引orz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2026992546745085987",
+        "created_at": "2026-02-26T16:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027057726011179027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1754144377872793600",
+              "start": 0,
+              "username": "ccccw_iB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027057726011179027",
+        "in_reply_to_user_id": "1754144377872793600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027047578379100385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccccw_iB 所以我说我可能是个自称直女的双啊😑\n我只是在用他们的言论来对号入座，我后面的部分是在说性吸引而不是浪漫吸引orz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754144377872793600",
+        "conversation_id": "2026992546745085987",
+        "created_at": "2026-02-26T15:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027047578379100385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027047578379100385",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026992546745085987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 唉我真不行了吧睡都睡了怎么还可以说是直女！而且我很雷网上说我不喜欢男人因为我和你们一样也爱吃b什么的，那异性恋还有柏拉图呢，净在这立规矩贴标签"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜三个孩子的母亲",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "肩膀胳膊连接处下面那个部位",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024639644768628736/sthKf3FC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 814,
+          "like_count": 2483,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1709
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T14:06:35.000Z",
+        "description": "03/intp/泛 🍎初心是没有任何阻力地表达全部真心话，所有文字均为字面意思，非常口无遮拦。（如果想的话我也会允许自己撒点谎",
+        "id": "1754144377872793600",
+        "name": "sheia c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003838810392805376/MGuilYbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 220,
+          "like_count": 521,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 4631
+        },
+        "username": "ccccw_iB",
+        "verified": false
+      }
+    ]
+  }
+}

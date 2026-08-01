@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067611063454244983",
+    "created_at": "2026-06-19T06:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067863525012500561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042615716059451399",
+          "start": 0,
+          "username": "lyxtd3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067863525012500561",
+    "in_reply_to_user_id": "2042615716059451399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067611063454244983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyxtd3s 我觉得好像是你先比较越界…这和性别没关系…你也说了是套近乎，人家可以拒绝你的套近乎呀。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067611054021255168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGhTIiboAA4Nic.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067611063454244983",
+        "created_at": "2026-06-19T06:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067863525012500561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042615716059451399",
+              "start": 0,
+              "username": "lyxtd3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067863525012500561",
+        "in_reply_to_user_id": "2042615716059451399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067611063454244983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyxtd3s 我觉得好像是你先比较越界…这和性别没关系…你也说了是套近乎，人家可以拒绝你的套近乎呀。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067611054021255168"
+          ]
+        },
+        "author_id": "2042615716059451399",
+        "conversation_id": "2067611063454244983",
+        "created_at": "2026-06-18T14:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067611063454244983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KigPXCHid9",
+              "end": 142,
+              "expanded_url": "https://x.com/lyxtd3s/status/2067611063454244983/photo/1",
+              "media_key": "3_2067611054021255168",
+              "start": 119,
+              "url": "https://t.co/KigPXCHid9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067611063454244983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1847,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "班上男的，我跟你套近乎还不吃这一套还寄吧的装 你装你妈呢傻逼 我只是想跟班上同学交流一下增近感情不要对我太冷漠我也不是一个高冷的人就这么对我吧，我跟你说可以开免打扰你还真几把的开了什么意思啊 这个客套话听不懂吗 情商堪比一只香蕉我操你妈 https://t.co/KigPXCHid9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3115,
+          "following_count": 985,
+          "like_count": 4016,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 3192
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-10T14:48:57.000Z",
+        "description": "年龄未知｜查成分回fo｜双相转精分｜爱发日常一大堆长得丑不要喜欢我｜喜欢od的小女孩 死于pr戒断\n恋人:@dodioibs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "dodioibs"
+              }
+            ]
+          }
+        },
+        "id": "2042615716059451399",
+        "name": "冰块🧊",
+        "pinned_tweet_id": "2055978351001829782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067521862742257664/H3ntM0Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 305,
+          "like_count": 3903,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 801
+        },
+        "url": "",
+        "username": "lyxtd3s",
+        "verified": false
+      }
+    ]
+  }
+}

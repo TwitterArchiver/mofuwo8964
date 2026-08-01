@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2053013600114254136",
+    "created_at": "2026-05-09T12:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053088056803283158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767905395299983360",
+          "start": 0,
+          "username": "Kaerigumo1585"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053088056803283158",
+    "in_reply_to_user_id": "1767905395299983360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053076051081998742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaerigumo1585 每日一期待精神病县中（1/1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2053013600114254136",
+        "created_at": "2026-05-09T12:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053088056803283158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767905395299983360",
+              "start": 0,
+              "username": "Kaerigumo1585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053088056803283158",
+        "in_reply_to_user_id": "1767905395299983360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053076051081998742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaerigumo1585 每日一期待精神病县中（1/1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767905395299983360",
+        "conversation_id": "2053013600114254136",
+        "created_at": "2026-05-09T11:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053076051081998742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053076051081998742",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053013600114254136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 盐碱地这种社达风行的非国家政治实体对于所谓的正常人都是当耗材看，指望这个物种对身心障碍者友好还不如相信小学博士不会读错字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2805,
+          "following_count": 880,
+          "like_count": 3479,
+          "listed_count": 6,
+          "media_count": 179,
+          "tweet_count": 2632
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-13T13:28:08.000Z",
+        "description": "ようこそ ときめく世界へ",
+        "id": "1767905395299983360",
+        "location": "漫长的季节",
+        "name": "内岛氏理🐧",
+        "pinned_tweet_id": "1922927406198948211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922326890892951552/nrq8LDJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3986,
+          "following_count": 2917,
+          "like_count": 66396,
+          "listed_count": 7,
+          "media_count": 646,
+          "tweet_count": 11055
+        },
+        "username": "Kaerigumo1585",
+        "verified": false
+      }
+    ]
+  }
+}

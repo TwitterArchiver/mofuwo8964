@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064633043755933697"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2064633049607025060",
+    "created_at": "2026-06-10T08:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064633049607025060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x3oINNmKLN",
+          "end": 60,
+          "expanded_url": "https://x.com/mofuwo8964/status/2064633049607025060/photo/1",
+          "media_key": "3_2064633043755933697",
+          "start": 37,
+          "url": "https://t.co/x3oINNmKLN"
+        },
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2064623211682377804",
+          "start": 61,
+          "url": "https://t.co/e1ANuySZzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064633049607025060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064623211682377804",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我当时应该是拍了ootd的但我只找到这张总之就是很萌很可爱啊哦呵呵呵呵呵 https://t.co/x3oINNmKLN https://t.co/e1ANuySZzy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064633043755933697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcM0HybIAEshrB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064623206640893952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcD3hrbwAAl2hk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064633043755933697"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064633049607025060",
+        "created_at": "2026-06-10T08:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064633049607025060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x3oINNmKLN",
+              "end": 60,
+              "expanded_url": "https://x.com/mofuwo8964/status/2064633049607025060/photo/1",
+              "media_key": "3_2064633043755933697",
+              "start": 37,
+              "url": "https://t.co/x3oINNmKLN"
+            },
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2064623211682377804",
+              "start": 61,
+              "url": "https://t.co/e1ANuySZzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064633049607025060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064623211682377804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我当时应该是拍了ootd的但我只找到这张总之就是很萌很可爱啊哦呵呵呵呵呵 https://t.co/x3oINNmKLN https://t.co/e1ANuySZzy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064623206640893952"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064623211682377804",
+        "created_at": "2026-06-10T08:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064623211682377804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cebvw1EubV",
+              "end": 52,
+              "expanded_url": "https://x.com/mofuwo8964/status/2064623211682377804/photo/1",
+              "media_key": "3_2064623206640893952",
+              "start": 29,
+              "url": "https://t.co/cebvw1EubV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064623211682377804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我目前手里有的几条最爱的裙子啊嗯但是我全都没穿出门过 https://t.co/cebvw1EubV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜精神残疾｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 927,
+          "like_count": 3817,
+          "listed_count": 7,
+          "media_count": 204,
+          "tweet_count": 2939
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2070907712146477526",
+    "created_at": "2026-06-28T01:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T02:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071036112710349185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1892431376525545472",
+          "start": 0,
+          "username": "00ryuugu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071036112710349185",
+    "in_reply_to_user_id": "1892431376525545472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070907712146477526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@00ryuugu 太萌了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12190,
+        "height": 960,
+        "media_key": "13_2070907604642189312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070907604642189312/img/6flRWcmWtWJ3N5x8.jpg",
+        "public_metrics": {
+          "view_count": 2423
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070907604642189312/vid/avc1/320x564/0YFDrdthvShvMmVp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070907604642189312/vid/avc1/480x846/thIHWg3g_abwrJLN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070907604642189312/vid/avc1/544x960/OBkrivvJ5KqY3g1T.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070907604642189312/pl/08Hv1AqMdeEjaF9I.m3u8?v=cfc"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070907712146477526",
+        "created_at": "2026-06-28T01:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071036112710349185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1892431376525545472",
+              "start": 0,
+              "username": "00ryuugu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071036112710349185",
+        "in_reply_to_user_id": "1892431376525545472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070907712146477526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@00ryuugu 太萌了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070907604642189312"
+          ]
+        },
+        "author_id": "1892431376525545472",
+        "conversation_id": "2070907712146477526",
+        "created_at": "2026-06-27T16:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070907712146477526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYL5eK8Ap1",
+              "end": 39,
+              "expanded_url": "https://x.com/00ryuugu/status/2070907712146477526/video/1",
+              "media_key": "13_2070907604642189312",
+              "start": 16,
+              "url": "https://t.co/DYL5eK8Ap1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070907712146477526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7283,
+          "like_count": 173,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈呀我高一好清纯呀好可爱啊 https://t.co/DYL5eK8Ap1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070735539935039488/KAKCmd7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3168,
+          "following_count": 1007,
+          "like_count": 4277,
+          "listed_count": 6,
+          "media_count": 226,
+          "tweet_count": 3380
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-20T04:29:48.000Z",
+        "description": "推广自辨",
+        "id": "1892431376525545472",
+        "location": "骂我的全家暴毙死无葬身之地",
+        "name": "0000",
+        "pinned_tweet_id": "2071000636855128275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904814053786345474/c9zEUJy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7640,
+          "following_count": 123,
+          "like_count": 4244,
+          "listed_count": 12,
+          "media_count": 166,
+          "tweet_count": 1393
+        },
+        "url": "",
+        "username": "00ryuugu",
+        "verified": false
+      }
+    ]
+  }
+}

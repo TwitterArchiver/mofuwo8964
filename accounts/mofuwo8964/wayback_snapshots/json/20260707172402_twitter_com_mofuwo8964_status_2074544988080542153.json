@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2074544988080542153",
+    "created_at": "2026-07-07T17:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074544988080542153"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074544988080542153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "可悲的一件事实就是我的竞争对手们是一群身体健康、父母疼爱、条件优渥且没有什么拖后腿的疾病的人。他们根本不是什么玩物丧志的人，相反因为家境富裕能够接触到更多更好更广的世界，用着比我先进的方法接受着比我优质的教育，也能挺起胸面对不知道未来的明天。因为有爱因为有钱所以什么都不会害怕的样子太刺眼了…哪怕我这么努力了，哪怕我这么努力的活下去努力的治病，也只是能和他们拥有了一起竞争的机会，然后接受我憧憬的学校是他们的保底的，这个事实。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可悲的一件事实就是我的竞争对手们是一群身体健康、父母疼爱、条件优渥且没有什么拖后腿的疾病的人。他们根本不是什么玩物丧志的人，相反因为家境富裕能够接触到更多更好更广的世界，用着比我先进的方法接受着比我优质的教育，也能挺起胸面对不知道未来的明天。因为有爱因为有钱所以什么都不会害怕的样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2074544988080542153",
+        "created_at": "2026-07-07T17:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074544988080542153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074544988080542153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "可悲的一件事实就是我的竞争对手们是一群身体健康、父母疼爱、条件优渥且没有什么拖后腿的疾病的人。他们根本不是什么玩物丧志的人，相反因为家境富裕能够接触到更多更好更广的世界，用着比我先进的方法接受着比我优质的教育，也能挺起胸面对不知道未来的明天。因为有爱因为有钱所以什么都不会害怕的样子太刺眼了…哪怕我这么努力了，哪怕我这么努力的活下去努力的治病，也只是能和他们拥有了一起竞争的机会，然后接受我憧憬的学校是他们的保底的，这个事实。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可悲的一件事实就是我的竞争对手们是一群身体健康、父母疼爱、条件优渥且没有什么拖后腿的疾病的人。他们根本不是什么玩物丧志的人，相反因为家境富裕能够接触到更多更好更广的世界，用着比我先进的方法接受着比我优质的教育，也能挺起胸面对不知道未来的明天。因为有爱因为有钱所以什么都不会害怕的样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 1013,
+          "like_count": 4396,
+          "listed_count": 6,
+          "media_count": 244,
+          "tweet_count": 3470
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

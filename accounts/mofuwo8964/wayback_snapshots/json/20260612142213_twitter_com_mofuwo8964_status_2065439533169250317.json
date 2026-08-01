@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2065439533169250317",
+    "created_at": "2026-06-12T14:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065439533169250317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1592719222940962817",
+          "start": 3,
+          "username": "mofuwo8964"
+        }
+      ],
+      "urls": [
+        {
+          "description": "バツバツつちゃん’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1qJVm…",
+          "end": 39,
+          "expanded_url": "https://x.com/i/spaces/1qJVmmVjbjWGB",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2065436721144274944/2XBaIeHO?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2065436721144274944/2XBaIeHO?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "Happening now: 试着建立一个日语sps（但房主的日语只有n2）",
+          "unwound_url": "https://twitter.com/i/spaces/1qJVmmVjbjWGB/peek",
+          "url": "https://t.co/p9UUHPg5cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065439533169250317",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065436678752448869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mofuwo8964: https://t.co/p9UUHPg5cn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2065439533169250317",
+        "created_at": "2026-06-12T14:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065439533169250317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1592719222940962817",
+              "start": 3,
+              "username": "mofuwo8964"
+            }
+          ],
+          "urls": [
+            {
+              "description": "バツバツつちゃん’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1qJVm…",
+              "end": 39,
+              "expanded_url": "https://x.com/i/spaces/1qJVmmVjbjWGB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2065436721144274944/2XBaIeHO?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2065436721144274944/2XBaIeHO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Happening now: 试着建立一个日语sps（但房主的日语只有n2）",
+              "unwound_url": "https://twitter.com/i/spaces/1qJVmmVjbjWGB/peek",
+              "url": "https://t.co/p9UUHPg5cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065439533169250317",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065436678752448869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mofuwo8964: https://t.co/p9UUHPg5cn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2065436678752448869",
+        "created_at": "2026-06-12T14:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065436678752448869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "バツバツつちゃん’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1qJVm…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1qJVmmVjbjWGB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2065436721144274944/2XBaIeHO?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2065436721144274944/2XBaIeHO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 试着建立一个日语sps（但房主的日语只有n2）",
+              "unwound_url": "https://twitter.com/i/spaces/1qJVmmVjbjWGB/peek",
+              "url": "https://t.co/p9UUHPg5cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065436678752448869",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/p9UUHPg5cn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと 愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "バツバツつちゃん",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3013,
+          "following_count": 941,
+          "like_count": 3843,
+          "listed_count": 7,
+          "media_count": 208,
+          "tweet_count": 2997
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

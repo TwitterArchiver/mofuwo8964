@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2036469968368443515",
+    "created_at": "2026-03-24T15:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036469968368443515"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036469968368443515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "比起千早爱音来说，丰川祥子我甚至都觉得她还挺有逻辑挺坚强的，虽然我也不是多喜欢她…但至少mygo里面的角色很真实很生动，其实我还是挺喜欢mygo，因为我喜欢睦和soyo的感情线。（额\nmujica出了之后我特别讨厌三角初华这个角色在动画里的塑造，真的让我感到严重不适；她是没有自我吗？我完全感觉不到一点关于她自己的人格…rikki都比初华强。。而且最后那段血缘伦理真的给我看力竭了，柿本广大你成功了，你真的成功了，ave mujica确实成为了现象级作品，类似市中心的广场喷泉通了马桶管道往外连汤带水的喷屎一样的现象级，我不会再关注任何bangdream新团了，草泥马，柿本广大你毁了我的bangdream，草泥马柿本广大，我恨你，你把三角初华杀了，你把若叶睦杀了，你把那个从六年前就喜欢bangdream的向往krkrdkdk的我也杀了，草泥马，我恨你"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "比起千早爱音来说，丰川祥子我甚至都觉得她还挺有逻辑挺坚强的，虽然我也不是多喜欢她…但至少mygo里面的角色很真实很生动，其实我还是挺喜欢mygo，因为我喜欢睦和soyo的感情线。（额"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036469968368443515",
+        "created_at": "2026-03-24T15:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036469968368443515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036469968368443515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "比起千早爱音来说，丰川祥子我甚至都觉得她还挺有逻辑挺坚强的，虽然我也不是多喜欢她…但至少mygo里面的角色很真实很生动，其实我还是挺喜欢mygo，因为我喜欢睦和soyo的感情线。（额\nmujica出了之后我特别讨厌三角初华这个角色在动画里的塑造，真的让我感到严重不适；她是没有自我吗？我完全感觉不到一点关于她自己的人格…rikki都比初华强。。而且最后那段血缘伦理真的给我看力竭了，柿本广大你成功了，你真的成功了，ave mujica确实成为了现象级作品，类似市中心的广场喷泉通了马桶管道往外连汤带水的喷屎一样的现象级，我不会再关注任何bangdream新团了，草泥马，柿本广大你毁了我的bangdream，草泥马柿本广大，我恨你，你把三角初华杀了，你把若叶睦杀了，你把那个从六年前就喜欢bangdream的向往krkrdkdk的我也杀了，草泥马，我恨你"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比起千早爱音来说，丰川祥子我甚至都觉得她还挺有逻辑挺坚强的，虽然我也不是多喜欢她…但至少mygo里面的角色很真实很生动，其实我还是挺喜欢mygo，因为我喜欢睦和soyo的感情线。（额"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 831,
+          "like_count": 2739,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 2009
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

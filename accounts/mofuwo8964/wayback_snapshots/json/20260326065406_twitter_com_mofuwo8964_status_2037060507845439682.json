@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037010248549229056",
+    "created_at": "2026-03-26T06:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T07:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037060507845439682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2936033640",
+          "start": 0,
+          "username": "JagaZou901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037060507845439682",
+    "in_reply_to_user_id": "2936033640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037018290913239226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JagaZou901 障害者……国仁归九…（无慈悲）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037010248549229056",
+        "created_at": "2026-03-26T06:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037060507845439682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2936033640",
+              "start": 0,
+              "username": "JagaZou901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037060507845439682",
+        "in_reply_to_user_id": "2936033640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037018290913239226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JagaZou901 障害者……国仁归九…（无慈悲）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2936033640",
+        "conversation_id": "2037010248549229056",
+        "created_at": "2026-03-26T04:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037018290913239226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037018290913239226",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037010248549229056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 看來我該給自己的自言自語上強度了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2625,
+          "following_count": 846,
+          "like_count": 2802,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 2079
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2014-12-19T13:10:00.000Z",
+        "description": "語言粗鄙，性格混蛋，幼稚無聊，不宜成年。A vulgar, childish, boring jerk unfit for adulthood. 下品で退屈で大人に相応しくない幼稚な屑。",
+        "id": "2936033640",
+        "name": "じゃが蔵🍟",
+        "pinned_tweet_id": "1871150135868289043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007065198365118464/DAEz8_bA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 429,
+          "like_count": 11952,
+          "listed_count": 4,
+          "media_count": 879,
+          "tweet_count": 6869
+        },
+        "username": "JagaZou901",
+        "verified": false
+      }
+    ]
+  }
+}

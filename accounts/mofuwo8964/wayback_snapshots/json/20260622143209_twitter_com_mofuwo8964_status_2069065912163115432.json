@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2069065912163115432",
+    "created_at": "2026-06-22T14:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069065912163115432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2069060943137706221",
+          "start": 52,
+          "url": "https://t.co/QnrcgsGF5d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069065912163115432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069060943137706221",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉其实说这么多本质上就是不想自己洗内裤而已能外包的责任和劳力我都外包给前任们了对不起啊但是我不会反省的 https://t.co/QnrcgsGF5d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2069065912163115432",
+        "created_at": "2026-06-22T14:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069065912163115432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2069060943137706221",
+              "start": 52,
+              "url": "https://t.co/QnrcgsGF5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069065912163115432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069060943137706221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉其实说这么多本质上就是不想自己洗内裤而已能外包的责任和劳力我都外包给前任们了对不起啊但是我不会反省的 https://t.co/QnrcgsGF5d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2069060943137706221",
+        "created_at": "2026-06-22T14:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069060943137706221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069060943137706221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经血和白带属于阴属性物质，因此必须由身具纯阳之气的男友亲自净化。若女子自行清洗，则阴气叠加，轻则气运不顺，重则风水失衡，影响家庭和谐。故内裤应交由男友处理，以维持阴阳调和、天地秩序，家宅平安。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 993,
+          "like_count": 4134,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 3304
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

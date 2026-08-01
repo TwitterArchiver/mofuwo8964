@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2058241932187623644",
+    "created_at": "2026-05-23T17:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T18:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058241932187623644"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058241932187623644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "有时候朋友觉得我太龟了，但同样的对象的朋友也老觉得他龟。\n仔细想想，人确实不是非黑即白非好即坏的，两个人在一起更是这样，爱让人误会，爱又让人和解。谈恋爱当然和谁谈不一样，但过日子还真和谁过都一样。你忍忍我喜欢念叨，我忍忍你老是一声不吭；你晚一步回家排长队给我买了我喜欢的花和甜品，我早一步回家给你做了你喜欢的菜。你知道我只爱你，我知道你只爱我，偶尔说说坏话吵吵架，睁一只眼闭一只眼也就过去了。在一起也懒得算计和计较得失，但总会想，要用什么法子对方能轻松点呢？我吃点亏也无所谓，但我总想你能更舒坦点，不约而同地想着。\n一切的不和谐不合适，言而总之，难道结果就是分开吗？虽然会很难过很不舍，不过你能更幸福的话，就随你去吧"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时候朋友觉得我太龟了，但同样的对象的朋友也老觉得他龟。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2058241932187623644",
+        "created_at": "2026-05-23T17:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058241932187623644"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058241932187623644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有时候朋友觉得我太龟了，但同样的对象的朋友也老觉得他龟。\n仔细想想，人确实不是非黑即白非好即坏的，两个人在一起更是这样，爱让人误会，爱又让人和解。谈恋爱当然和谁谈不一样，但过日子还真和谁过都一样。你忍忍我喜欢念叨，我忍忍你老是一声不吭；你晚一步回家排长队给我买了我喜欢的花和甜品，我早一步回家给你做了你喜欢的菜。你知道我只爱你，我知道你只爱我，偶尔说说坏话吵吵架，睁一只眼闭一只眼也就过去了。在一起也懒得算计和计较得失，但总会想，要用什么法子对方能轻松点呢？我吃点亏也无所谓，但我总想你能更舒坦点，不约而同地想着。\n一切的不和谐不合适，言而总之，难道结果就是分开吗？虽然会很难过很不舍，不过你能更幸福的话，就随你去吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候朋友觉得我太龟了，但同样的对象的朋友也老觉得他龟。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2837,
+          "following_count": 900,
+          "like_count": 3571,
+          "listed_count": 7,
+          "media_count": 191,
+          "tweet_count": 2734
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047509477113618433",
+        "3_2047509477117878272",
+        "3_2047509477134647296",
+        "3_2047509477134602240"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2047509498353582153",
+    "created_at": "2026-04-24T02:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T03:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047509498353582153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6263vG53W5",
+          "end": 100,
+          "expanded_url": "https://x.com/mofuwo8964/status/2047509498353582153/photo/1",
+          "media_key": "3_2047509477113618433",
+          "start": 77,
+          "url": "https://t.co/6263vG53W5"
+        },
+        {
+          "display_url": "pic.x.com/6263vG53W5",
+          "end": 100,
+          "expanded_url": "https://x.com/mofuwo8964/status/2047509498353582153/photo/1",
+          "media_key": "3_2047509477117878272",
+          "start": 77,
+          "url": "https://t.co/6263vG53W5"
+        },
+        {
+          "display_url": "pic.x.com/6263vG53W5",
+          "end": 100,
+          "expanded_url": "https://x.com/mofuwo8964/status/2047509498353582153/photo/1",
+          "media_key": "3_2047509477134647296",
+          "start": 77,
+          "url": "https://t.co/6263vG53W5"
+        },
+        {
+          "display_url": "pic.x.com/6263vG53W5",
+          "end": 100,
+          "expanded_url": "https://x.com/mofuwo8964/status/2047509498353582153/photo/1",
+          "media_key": "3_2047509477134602240",
+          "start": 77,
+          "url": "https://t.co/6263vG53W5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047509498353582153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然这么说 不过其实我平日里也没有特别非主流我感觉都是蛮正常的打扮😑不过估计我还会继续热衷于研究穿搭一阵子（但也不怎么穿就是了平时还是优衣库哎做自己好难 https://t.co/6263vG53W5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1426,
+        "media_key": "3_2047509477113618433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGo3BXGaYAE17om.jpg",
+        "width": 1198
+      },
+      {
+        "height": 962,
+        "media_key": "3_2047509477117878272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGo3BXHbYAAoyWN.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1338,
+        "media_key": "3_2047509477134647296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGo3BXLbQAAhO9A.jpg",
+        "width": 1007
+      },
+      {
+        "height": 1100,
+        "media_key": "3_2047509477134602240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGo3BXLakAAjzSU.jpg",
+        "width": 672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047509477113618433",
+            "3_2047509477117878272",
+            "3_2047509477134647296",
+            "3_2047509477134602240"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2047509498353582153",
+        "created_at": "2026-04-24T02:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047509498353582153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6263vG53W5",
+              "end": 100,
+              "expanded_url": "https://x.com/mofuwo8964/status/2047509498353582153/photo/1",
+              "media_key": "3_2047509477113618433",
+              "start": 77,
+              "url": "https://t.co/6263vG53W5"
+            },
+            {
+              "display_url": "pic.x.com/6263vG53W5",
+              "end": 100,
+              "expanded_url": "https://x.com/mofuwo8964/status/2047509498353582153/photo/1",
+              "media_key": "3_2047509477117878272",
+              "start": 77,
+              "url": "https://t.co/6263vG53W5"
+            },
+            {
+              "display_url": "pic.x.com/6263vG53W5",
+              "end": 100,
+              "expanded_url": "https://x.com/mofuwo8964/status/2047509498353582153/photo/1",
+              "media_key": "3_2047509477134647296",
+              "start": 77,
+              "url": "https://t.co/6263vG53W5"
+            },
+            {
+              "display_url": "pic.x.com/6263vG53W5",
+              "end": 100,
+              "expanded_url": "https://x.com/mofuwo8964/status/2047509498353582153/photo/1",
+              "media_key": "3_2047509477134602240",
+              "start": 77,
+              "url": "https://t.co/6263vG53W5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047509498353582153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然这么说 不过其实我平日里也没有特别非主流我感觉都是蛮正常的打扮😑不过估计我还会继续热衷于研究穿搭一阵子（但也不怎么穿就是了平时还是优衣库哎做自己好难 https://t.co/6263vG53W5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。\n追加：粉红健全逼社达激女男权蛆死远点看了好想吐",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 864,
+          "like_count": 3166,
+          "listed_count": 6,
+          "media_count": 175,
+          "tweet_count": 2455
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

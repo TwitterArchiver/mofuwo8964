@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2066531934776479968",
+    "created_at": "2026-06-15T15:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066543374598111589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "52408030",
+          "start": 0,
+          "username": "Summermid9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066543374598111589",
+    "in_reply_to_user_id": "52408030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066541261843251702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Summermid9 啊啊啊宝宝不是这件事情！谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066531934776479968",
+        "created_at": "2026-06-15T15:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066543374598111589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "52408030",
+              "start": 0,
+              "username": "Summermid9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066543374598111589",
+        "in_reply_to_user_id": "52408030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066541261843251702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Summermid9 啊啊啊宝宝不是这件事情！谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "52408030",
+        "conversation_id": "2066531934776479968",
+        "created_at": "2026-06-15T15:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066541261843251702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066541261843251702",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066531934776479968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 是那鲨臂不对，不配为医，你别往心里去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3066,
+          "following_count": 973,
+          "like_count": 3921,
+          "listed_count": 6,
+          "media_count": 222,
+          "tweet_count": 3076
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-30T14:27:06.000Z",
+        "description": "",
+        "id": "52408030",
+        "location": "亚特兰蒂斯",
+        "name": "仲夏夜之梦",
+        "pinned_tweet_id": "1932166950555394077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054479197993844737/JBOD8QB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 555,
+          "like_count": 10023,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 5036
+        },
+        "username": "Summermid9",
+        "verified": false
+      }
+    ]
+  }
+}

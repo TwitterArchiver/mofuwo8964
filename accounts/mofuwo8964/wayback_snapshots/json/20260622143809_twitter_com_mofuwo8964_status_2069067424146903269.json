@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2069051331055407298",
+    "created_at": "2026-06-22T14:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069067424146903269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "529096439",
+          "start": 0,
+          "username": "daxinhuaile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069067424146903269",
+    "in_reply_to_user_id": "529096439",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069061106426122654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daxinhuaile 拥抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2069051331055407298",
+        "created_at": "2026-06-22T14:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069067424146903269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "529096439",
+              "start": 0,
+              "username": "daxinhuaile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069067424146903269",
+        "in_reply_to_user_id": "529096439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069061106426122654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daxinhuaile 拥抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "529096439",
+        "conversation_id": "2069051331055407298",
+        "created_at": "2026-06-22T14:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069061106426122654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069061106426122654",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069051331055407298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 好看好看。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 993,
+          "like_count": 4136,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 3308
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2012-03-19T04:25:52.000Z",
+        "description": "年纪大，形像差。我是射手座。",
+        "id": "529096439",
+        "location": "地球",
+        "name": "凯文𝓚𝓮𝓿𝓲𝓷",
+        "pinned_tweet_id": "1968124248180003181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512777416292585474/fO2hybBa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 670,
+          "like_count": 10650,
+          "listed_count": 13,
+          "media_count": 1700,
+          "tweet_count": 34910
+        },
+        "url": "",
+        "username": "daxinhuaile",
+        "verified": false
+      }
+    ]
+  }
+}

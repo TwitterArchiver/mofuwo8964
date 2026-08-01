@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2047358949498978674",
+    "created_at": "2026-04-24T13:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047667515703312491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "939338954540703744",
+          "start": 0,
+          "username": "MarshElloyii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047667515703312491",
+    "in_reply_to_user_id": "939338954540703744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047659741841871297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MarshElloyii 大码穿女儿服的大有人在（虽然不是正版）而且这种风格而且甚至都不全是女性在穿啊。。😱😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2047358949498978674",
+        "created_at": "2026-04-24T13:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047667515703312491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "939338954540703744",
+              "start": 0,
+              "username": "MarshElloyii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047667515703312491",
+        "in_reply_to_user_id": "939338954540703744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047659741841871297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MarshElloyii 大码穿女儿服的大有人在（虽然不是正版）而且这种风格而且甚至都不全是女性在穿啊。。😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "939338954540703744",
+        "conversation_id": "2047358949498978674",
+        "created_at": "2026-04-24T12:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047659741841871297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047659741841871297",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047358949498978674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 不太了解这种风格......是不是会比较追求小尺码服装啊？那样的话是不是要比较瘦小纤细的成年女性穿？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。\n追加：粉红健全逼社达激女男权蛆死远点看了好想吐",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2702,
+          "following_count": 863,
+          "like_count": 3174,
+          "listed_count": 6,
+          "media_count": 175,
+          "tweet_count": 2459
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-09T03:40:33.000Z",
+        "description": "中国人🇨🇳/25+/\nEN/日本语苦手/\nKNY（鬼滅之刃）宇左&童右固定, 宇童💎🌈✨杂多//聖闘士星矢，ship in All♍️，Deftmita（デフミタ ）//repost is available",
+        "id": "939338954540703744",
+        "name": "大高加索花园鳗🤧",
+        "pinned_tweet_id": "2014505102372176162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965386097036591105/2Bqvt1Sp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 286,
+          "like_count": 13091,
+          "listed_count": 4,
+          "media_count": 288,
+          "tweet_count": 1778
+        },
+        "username": "MarshElloyii",
+        "verified": true
+      }
+    ]
+  }
+}

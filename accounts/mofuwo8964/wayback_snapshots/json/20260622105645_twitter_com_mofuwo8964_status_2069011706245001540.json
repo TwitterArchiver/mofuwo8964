@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2068699476701974997",
+    "created_at": "2026-06-22T10:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069011706245001540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1714571705694420992",
+          "start": 0,
+          "username": "Ayuki_Believe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069011706245001540",
+    "in_reply_to_user_id": "1714571705694420992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068699476701974997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayuki_Believe 求雨伞链接😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2068699462206382080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV_M0_aYAAQB2b.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068699476701974997",
+        "created_at": "2026-06-22T10:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069011706245001540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1714571705694420992",
+              "start": 0,
+              "username": "Ayuki_Believe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069011706245001540",
+        "in_reply_to_user_id": "1714571705694420992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068699476701974997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayuki_Believe 求雨伞链接😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068699462206382080"
+          ]
+        },
+        "author_id": "1714571705694420992",
+        "conversation_id": "2068699476701974997",
+        "created_at": "2026-06-21T14:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068699476701974997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TFkwXd9WbT",
+              "end": 36,
+              "expanded_url": "https://x.com/Ayuki_Believe/status/2068699476701974997/photo/1",
+              "media_key": "3_2068699462206382080",
+              "start": 13,
+              "url": "https://t.co/TFkwXd9WbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068699476701974997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 440,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成年人出门就要穿的成熟！ https://t.co/TFkwXd9WbT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3145,
+          "following_count": 992,
+          "like_count": 4127,
+          "listed_count": 6,
+          "media_count": 235,
+          "tweet_count": 3297
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-18T09:19:08.000Z",
+        "description": "一个抽象可爱碎碎念高强度冲浪小女孩 喜欢分享自己的一切 （中文繁體English ok） 🫶爱人：@Takitsuki_Shoko| 🥰好妹妹： @Kisen0v0| 碎碎念小号 @Ayuki_Rotsuki 欢迎扩列",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "Takitsuki_Shoko"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "Kisen0v0"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Ayuki_Rotsuki"
+              }
+            ]
+          }
+        },
+        "id": "1714571705694420992",
+        "location": "美乐蒂家",
+        "name": "TekeliLi_iLilekeT",
+        "pinned_tweet_id": "2063149674266235268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054592931852701696/W1JmW_Gf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3809,
+          "following_count": 543,
+          "like_count": 9794,
+          "listed_count": 8,
+          "media_count": 1419,
+          "tweet_count": 4094
+        },
+        "url": "",
+        "username": "Ayuki_Believe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,633 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596144599042",
+          "name": "Snacks - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Calbee (カルビー)",
+          "id": "1038143930913542145",
+          "name": "Calbee"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Calbee Poteto Chips (カルビーポテトチップス)",
+          "id": "1122932139870146561",
+          "name": "Calbee Poteto Chips (カルビーポテトチップス)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Potato Chips",
+          "id": "864560332513042433",
+          "name": "Potato chips"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Potato Chips",
+          "id": "864560332513042433",
+          "name": "Potato chips"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Calbee (カルビー)",
+          "id": "1038143930913542145",
+          "name": "Calbee"
+        }
+      }
+    ],
+    "conversation_id": "2054417643361403285",
+    "created_at": "2026-05-13T04:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T05:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054417643361403285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "17306975",
+          "start": 3,
+          "username": "livedoornews"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ナフサ高騰の中、カルビー「ポテトチップス」などのパッケージが白黒のモノトーンになることが関係者への取材でわかったが、カルビーは先ほど、正式に14商品のパッケージを2色に変更すると発表した。カルビーによる",
+          "display_url": "news.livedoor.com/article/detail…",
+          "end": 90,
+          "expanded_url": "https://news.livedoor.com/article/detail/31245045/",
+          "images": [
+            {
+              "height": 675,
+              "url": "https://pbs.twimg.com/news_img/2054110581318361089/ND-PuBJ8?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2054110581318361089/ND-PuBJ8?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 67,
+          "status": 200,
+          "title": "「かっぱえびせん」も白黒に　カルビー　「ポテトチップス」などパッケージ“2色”変更を正式発表",
+          "unwound_url": "https://news.livedoor.com/article/detail/31245045/",
+          "url": "https://t.co/EpWQf2moOy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054417643361403285",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17362
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054110580689223930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @livedoornews: 【対象一覧】「かっぱえびせん」も白黒に カルビー「ポテトチップス」などパッケージの変更を正式発表\nhttps://t.co/EpWQf2moOy\n\nカルビーは、正式に14商品のパッケージを2色に変更すると発表した。\n\n◆2色対応の対象商品は以…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2054110494890569728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGqnKlasAAEcvc.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Calbee (カルビー)",
+              "id": "1038143930913542145",
+              "name": "Calbee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Calbee Poteto Chips (カルビーポテトチップス)",
+              "id": "1122932139870146561",
+              "name": "Calbee Poteto Chips (カルビーポテトチップス)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Potato Chips",
+              "id": "864560332513042433",
+              "name": "Potato chips"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Potato Chips",
+              "id": "864560332513042433",
+              "name": "Potato chips"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Calbee (カルビー)",
+              "id": "1038143930913542145",
+              "name": "Calbee"
+            }
+          }
+        ],
+        "conversation_id": "2054417643361403285",
+        "created_at": "2026-05-13T04:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T05:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054417643361403285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "17306975",
+              "start": 3,
+              "username": "livedoornews"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ナフサ高騰の中、カルビー「ポテトチップス」などのパッケージが白黒のモノトーンになることが関係者への取材でわかったが、カルビーは先ほど、正式に14商品のパッケージを2色に変更すると発表した。カルビーによる",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 90,
+              "expanded_url": "https://news.livedoor.com/article/detail/31245045/",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/2054110581318361089/ND-PuBJ8?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054110581318361089/ND-PuBJ8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 67,
+              "status": 200,
+              "title": "「かっぱえびせん」も白黒に　カルビー　「ポテトチップス」などパッケージ“2色”変更を正式発表",
+              "unwound_url": "https://news.livedoor.com/article/detail/31245045/",
+              "url": "https://t.co/EpWQf2moOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054417643361403285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17362
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054110580689223930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @livedoornews: 【対象一覧】「かっぱえびせん」も白黒に カルビー「ポテトチップス」などパッケージの変更を正式発表\nhttps://t.co/EpWQf2moOy\n\nカルビーは、正式に14商品のパッケージを2色に変更すると発表した。\n\n◆2色対応の対象商品は以…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054110494890569728"
+          ]
+        },
+        "author_id": "17306975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Calbee (カルビー)",
+              "id": "1038143930913542145",
+              "name": "Calbee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Calbee Poteto Chips (カルビーポテトチップス)",
+              "id": "1122932139870146561",
+              "name": "Calbee Poteto Chips (カルビーポテトチップス)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Potato Chips",
+              "id": "864560332513042433",
+              "name": "Potato chips"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Potato Chips",
+              "id": "864560332513042433",
+              "name": "Potato chips"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Calbee (カルビー)",
+              "id": "1038143930913542145",
+              "name": "Calbee"
+            }
+          }
+        ],
+        "conversation_id": "2054110580689223930",
+        "created_at": "2026-05-12T08:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054110580689223930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ナフサ高騰の中、カルビー「ポテトチップス」などのパッケージが白黒のモノトーンになることが関係者への取材でわかったが、カルビーは先ほど、正式に14商品のパッケージを2色に変更すると発表した。カルビーによる",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 72,
+              "expanded_url": "https://news.livedoor.com/article/detail/31245045/",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/2054110581318361089/ND-PuBJ8?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054110581318361089/ND-PuBJ8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 49,
+              "status": 200,
+              "title": "「かっぱえびせん」も白黒に　カルビー　「ポテトチップス」などパッケージ“2色”変更を正式発表",
+              "unwound_url": "https://news.livedoor.com/article/detail/31245045/",
+              "url": "https://t.co/EpWQf2moOy"
+            },
+            {
+              "display_url": "pic.x.com/Tfi5x6wuzC",
+              "end": 180,
+              "expanded_url": "https://x.com/livedoornews/status/2054110580689223930/photo/1",
+              "media_key": "3_2054110494890569728",
+              "start": 157,
+              "url": "https://t.co/Tfi5x6wuzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054110580689223930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com/article/detail…",
+                "end": 72,
+                "expanded_url": "https://news.livedoor.com/article/detail/31245045/",
+                "start": 49,
+                "url": "https://t.co/7AHn82E8pF"
+              }
+            ]
+          },
+          "text": "【対象一覧】「かっぱえびせん」も白黒に カルビー「ポテトチップス」などパッケージの変更を正式発表\nhttps://t.co/7AHn82E8pF\n\nカルビーは、正式に14商品のパッケージを2色に変更すると発表した。\n\n◆2色対応の対象商品は以下の通り。\nポテトチップス　うすしお味\nポテトチップス　コンソメパンチ\nポテトチップス　コンソメWパンチ\nポテトチップス　のりしお\n堅あげポテト　うすしお味\n堅あげポテト　ブラックペッパー\nかっぱえびせん\nフルグラ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4860,
+          "impression_count": 10805620,
+          "like_count": 63060,
+          "quote_count": 6789,
+          "reply_count": 2148,
+          "retweet_count": 17362
+        },
+        "reply_settings": "everyone",
+        "text": "【対象一覧】「かっぱえびせん」も白黒に カルビー「ポテトチップス」などパッケージの変更を正式発表\nhttps://t.co/EpWQf2moOy\n\nカルビーは、正式に14商品のパッケージを2色に変更すると発表した。\n\n◆2色対応の対象商品は以下の通り。\nポテトチップス　うすしお味\nポテトチップス　コンソメパンチ https://t.co/Tfi5x6wuzC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2828,
+          "following_count": 882,
+          "like_count": 3555,
+          "listed_count": 6,
+          "media_count": 182,
+          "tweet_count": 2672
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "name": "ライブドアニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165579,
+          "following_count": 106,
+          "like_count": 2289,
+          "listed_count": 13950,
+          "media_count": 288532,
+          "tweet_count": 465287
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true
+      }
+    ]
+  }
+}

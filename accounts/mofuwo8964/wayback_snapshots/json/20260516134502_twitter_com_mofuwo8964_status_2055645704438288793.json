@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1511323041464168451",
+          "name": "Graduation 2022"
+        }
+      }
+    ],
+    "conversation_id": "2055645704438288793",
+    "created_at": "2026-05-16T13:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055645704438288793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1327961836050808832",
+          "start": 3,
+          "username": "hinana_chn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055645704438288793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055609903021265095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hinana_chn: 2017 小学校卒業（不登校）\n2020 中学卒業（不登校）\n2021 全日制高校不登校→休学→退学→転校\n2023 通信制高校卒業＆大学全落ち\n2024宅浪→同志社合格\n2026 キラキラ大学𝐥𝐢𝐟𝐞満喫中💫\n\nうつ病自殺未遂ヤク中精神科通いか…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2055645704438288793",
+        "created_at": "2026-05-16T13:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055645704438288793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1327961836050808832",
+              "start": 3,
+              "username": "hinana_chn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055645704438288793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055609903021265095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hinana_chn: 2017 小学校卒業（不登校）\n2020 中学卒業（不登校）\n2021 全日制高校不登校→休学→退学→転校\n2023 通信制高校卒業＆大学全落ち\n2024宅浪→同志社合格\n2026 キラキラ大学𝐥𝐢𝐟𝐞満喫中💫\n\nうつ病自殺未遂ヤク中精神科通いか…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327961836050808832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2055609903021265095",
+        "created_at": "2026-05-16T11:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055609903021265095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hinana_chn/sta…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/hinana_chn/status/1757935780146892853",
+              "start": 146,
+              "url": "https://t.co/I8ayBFHmck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055609903021265095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "2017 小学校卒業（不登校）\n2020 中学卒業（不登校）\n2021 全日制高校不登校→休学→退学→転校\n2023 通信制高校卒業＆大学全落ち\n2024宅浪→同志社合格\n2026 キラキラ大学𝐥𝐢𝐟𝐞満喫中💫\n\nうつ病自殺未遂ヤク中精神科通いから社会復帰人生ჱ̒՞ ̳ᴗ ̫ ᴗ ̳՞꒱🎀\n\n今生きるのがしんどい人、学校へ行けない人、死にたい人へ\n\n普通じゃなくても大丈夫\n遠回りしても、止まってしまっても、また動き出せる日が来ます\n\n過去は消えないけど、未来はいくらでも変えられる\n今は生きてるだけで偉いです。一緒にゆっくり生きようね૮ .  ̫ . ა"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 429,
+          "impression_count": 483329,
+          "like_count": 2032,
+          "quote_count": 65,
+          "reply_count": 5,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1757935780146892853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2017 小学校卒業（不登校）\n2020 中学卒業（不登校）\n2021 全日制高校不登校→休学→退学→転校\n2023 通信制高校卒業＆大学全落ち\n2024宅浪→同志社合格\n2026 キラキラ大学𝐥𝐢𝐟𝐞満喫中💫\n\nうつ病自殺未遂ヤク中精神科通いから社会復帰人生ჱ̒՞ ̳ᴗ ̫ ᴗ ̳՞꒱🎀 https://t.co/I8ayBFHmck"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2833,
+          "following_count": 895,
+          "like_count": 3567,
+          "listed_count": 6,
+          "media_count": 185,
+          "tweet_count": 2696
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-15T13:09:46.000Z",
+        "description": "ひななって言います ゲームではひなつきと名乗ってました 04 N高→t=1→同志社💫YouTube【https://t.co/bGunJ2YuHD】趣味@x__37_xl さぶ@o__x_Il",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "x__37_xl"
+              },
+              {
+                "end": 96,
+                "start": 88,
+                "username": "o__x_Il"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@hinati_x_x_?s…",
+                "end": 73,
+                "expanded_url": "https://youtube.com/@hinati_x_x_?si=2dD9Y_rkd1UzEiSN",
+                "start": 50,
+                "url": "https://t.co/bGunJ2YuHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hinanazzZ",
+                "end": 23,
+                "expanded_url": "http://lit.link/hinanazzZ",
+                "start": 0,
+                "url": "https://t.co/e5nEynXBEH"
+              }
+            ]
+          }
+        },
+        "id": "1327961836050808832",
+        "name": "❤︎",
+        "pinned_tweet_id": "1833015822375399777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739614957778739200/EZm650H6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8611,
+          "following_count": 111,
+          "like_count": 470,
+          "listed_count": 33,
+          "media_count": 250,
+          "tweet_count": 529
+        },
+        "url": "https://t.co/e5nEynXBEH",
+        "username": "hinana_chn",
+        "verified": true
+      }
+    ]
+  }
+}

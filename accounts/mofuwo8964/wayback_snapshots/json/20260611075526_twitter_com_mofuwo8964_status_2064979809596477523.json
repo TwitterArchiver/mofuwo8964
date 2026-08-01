@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2064979809596477523",
+    "created_at": "2026-06-11T07:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064979809596477523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954500072517103617",
+          "start": 3,
+          "username": "dtxx333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064979809596477523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 361
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064422825486942410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @dtxx333: 我生活在一个包庇强奸犯，保护虐狗男，警察当众殴打人民，社媒被控制的国家，我真的很难过很失望。我不知道是什么时候变成这样的，又或者是本来就是这样只不过几年前的我被关在信息茧房。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064979809596477523",
+        "created_at": "2026-06-11T07:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064979809596477523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954500072517103617",
+              "start": 3,
+              "username": "dtxx333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064979809596477523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 361
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064422825486942410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @dtxx333: 我生活在一个包庇强奸犯，保护虐狗男，警察当众殴打人民，社媒被控制的国家，我真的很难过很失望。我不知道是什么时候变成这样的，又或者是本来就是这样只不过几年前的我被关在信息茧房。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954500072517103617",
+        "conversation_id": "2064422825486942410",
+        "created_at": "2026-06-09T19:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064422825486942410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064422825486942410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 146657,
+          "like_count": 7640,
+          "quote_count": 29,
+          "reply_count": 65,
+          "retweet_count": 361
+        },
+        "reply_settings": "following",
+        "text": "我生活在一个包庇强奸犯，保护虐狗男，警察当众殴打人民，社媒被控制的国家，我真的很难过很失望。我不知道是什么时候变成这样的，又或者是本来就是这样只不过几年前的我被关在信息茧房。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "精神残疾｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "バツバツつちゃん",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 935,
+          "like_count": 3833,
+          "listed_count": 7,
+          "media_count": 206,
+          "tweet_count": 2973
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T11:09:01.000Z",
+        "description": "我都是乱说的",
+        "id": "1954500072517103617",
+        "name": "蛋挞熊",
+        "pinned_tweet_id": "1988637598730854771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038095789898317824/PZ_lPtAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4310,
+          "following_count": 315,
+          "like_count": 8426,
+          "listed_count": 8,
+          "media_count": 269,
+          "tweet_count": 2527
+        },
+        "username": "dtxx333",
+        "verified": false
+      }
+    ]
+  }
+}

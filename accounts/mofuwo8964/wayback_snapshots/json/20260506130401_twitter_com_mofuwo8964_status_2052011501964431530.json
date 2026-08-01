@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2051992466543558972",
+    "created_at": "2026-05-06T13:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052011501964431530"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052011501964431530",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051992466543558972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以我有的时候言行怪异可能是公式套错了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2051992466543558972",
+        "created_at": "2026-05-06T13:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052011501964431530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052011501964431530",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051992466543558972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我有的时候言行怪异可能是公式套错了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2051992466543558972",
+        "created_at": "2026-05-06T11:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051992466543558972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051992466543558972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我真的没办法理解人类啊 我对人类的理解很困难 也不是说困难…就是根本不知道潜台词和读空气以及别人的意图 我一直以来都在模仿学习人 但是如果换个表达方法就会没办法套公式 \n我感觉我说话会带来不幸 我很多时候都不知道我哪里做的不妥 因为我根本没有一些概念 我觉得生活很吃力 活着非常吃力 就像是周围的人做着我熟悉的事情说着我熟悉的话但我根本不知道他们在干什么 我觉得我能模仿常人是因为我学得足够刻苦 但我其实根本不明白他们的动机 逻辑我可以理解 但是动机我怎么都想不通"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的没办法理解人类啊 我对人类的理解很困难 也不是说困难…就是根本不知道潜台词和读空气以及别人的意图 我一直以来都在模仿学习人 但是如果换个表达方法就会没办法套公式 \n我感觉我说话会带来不幸 我很多时候都不知道我哪里做的不妥 因为我根本没有一些概念 我觉得生活很吃力 活着非常吃力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 874,
+          "like_count": 3430,
+          "listed_count": 5,
+          "media_count": 178,
+          "tweet_count": 2598
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

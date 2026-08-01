@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2034072595101061157",
+    "created_at": "2026-03-18T01:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T02:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034072595101061157"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034072595101061157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "😑我现在觉得健全小登批判精神病人的生活方式（自残援交等）特别无理取闹…\n在老中普通人就只能选择上学和上班。学校知道你有精神病就会直接让你退学/休学，找稳定工作更是奢望了。。有家人的支援还好，没有就要自己生活，每个月还要支付高额医药费，正常人能走的路都被堵死了，也没有正常的生活环境怎么可能有正常的行为举止…其实谁都知道这样做不好。。\n\n题外话，那种说“xxx也是精神病但他xxxxx”的人会被我贴上没逻辑的蠢货标签，我真想不到一个接受过义务教育的人怎么能说出这么弱智的话"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😑我现在觉得健全小登批判精神病人的生活方式（自残援交等）特别无理取闹…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2034072595101061157",
+        "created_at": "2026-03-18T01:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T02:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034072595101061157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034072595101061157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "😑我现在觉得健全小登批判精神病人的生活方式（自残援交等）特别无理取闹…\n在老中普通人就只能选择上学和上班。学校知道你有精神病就会直接让你退学/休学，找稳定工作更是奢望了。。有家人的支援还好，没有就要自己生活，每个月还要支付高额医药费，正常人能走的路都被堵死了，也没有正常的生活环境怎么可能有正常的行为举止…其实谁都知道这样做不好。。\n\n题外话，那种说“xxx也是精神病但他xxxxx”的人会被我贴上没逻辑的蠢货标签，我真想不到一个接受过义务教育的人怎么能说出这么弱智的话"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😑我现在觉得健全小登批判精神病人的生活方式（自残援交等）特别无理取闹…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033525613815078912/hjH8ZhYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2569,
+          "following_count": 818,
+          "like_count": 2633,
+          "listed_count": 4,
+          "media_count": 145,
+          "tweet_count": 1816
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

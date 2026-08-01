@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2033116223698006346",
+    "created_at": "2026-03-15T09:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T10:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033116223698006346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kallen0720/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/kallen0720/status/2033077417930019107",
+          "start": 21,
+          "url": "https://t.co/FlUT5sFEP4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033116223698006346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033077417930019107",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "套少女乐队动画头像见证的，全部都去吃大便 https://t.co/FlUT5sFEP4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2033116223698006346",
+        "created_at": "2026-03-15T09:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033116223698006346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kallen0720/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/kallen0720/status/2033077417930019107",
+              "start": 21,
+              "url": "https://t.co/FlUT5sFEP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033116223698006346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033077417930019107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "套少女乐队动画头像见证的，全部都去吃大便 https://t.co/FlUT5sFEP4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984971479210229760",
+        "conversation_id": "2033077417930019107",
+        "created_at": "2026-03-15T07:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033077417930019107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033077417930019107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拿二次元角色去鉴证的特别傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030870356953866240/H3S67KDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2546,
+          "following_count": 815,
+          "like_count": 2575,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 1781
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T13:11:14.000Z",
+        "description": "じっぱひとからげの未来.com",
+        "id": "1984971479210229760",
+        "location": "Earth",
+        "name": "ァмē寔初喑鮇麳Оㄩ 哪吒仙饮推特总代理",
+        "pinned_tweet_id": "2032722988286579125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031567392875139072/ER4iba2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 451,
+          "like_count": 32136,
+          "listed_count": 0,
+          "media_count": 380,
+          "tweet_count": 10064
+        },
+        "username": "Kallen0720",
+        "verified": false
+      }
+    ]
+  }
+}

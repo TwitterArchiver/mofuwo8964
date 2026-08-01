@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2059142917860790534",
+    "created_at": "2026-05-26T05:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059143029064450205"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059143029064450205",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059142917860790534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后四十个小时没有睡觉，睡不着。之前会心悸什么的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2059142917860790534",
+        "created_at": "2026-05-26T05:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059143029064450205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059143029064450205",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059142917860790534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后四十个小时没有睡觉，睡不着。之前会心悸什么的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2059142917860790534",
+        "created_at": "2026-05-26T05:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059142917860790534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2059141930584539300",
+              "start": 56,
+              "url": "https://t.co/W7Mt0Sbjt4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059142917860790534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059141930584539300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在的状况感觉特别不好，现在东京的温度是26度我在家不知道多少度但是我没开空调，浑身发冷，盖着被子。没有发烧 https://t.co/W7Mt0Sbjt4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2840,
+          "following_count": 901,
+          "like_count": 3573,
+          "listed_count": 7,
+          "media_count": 191,
+          "tweet_count": 2743
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

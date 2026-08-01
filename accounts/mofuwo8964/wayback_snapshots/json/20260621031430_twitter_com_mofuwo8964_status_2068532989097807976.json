@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2068189001471955313",
+    "created_at": "2026-06-21T03:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T04:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068532989097807976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "996220356208742400",
+          "start": 0,
+          "username": "august0000820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068532989097807976",
+    "in_reply_to_user_id": "996220356208742400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068512793670643815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@august0000820 哇塞你也太厉害了吧你好清醒，我好崇拜你啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068189001471955313",
+        "created_at": "2026-06-21T03:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068532989097807976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "996220356208742400",
+              "start": 0,
+              "username": "august0000820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068532989097807976",
+        "in_reply_to_user_id": "996220356208742400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068512793670643815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@august0000820 哇塞你也太厉害了吧你好清醒，我好崇拜你啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "996220356208742400",
+        "conversation_id": "2068189001471955313",
+        "created_at": "2026-06-21T01:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068512793670643815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068512793670643815",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068189001471955313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 并没有哦，不论内外网都是蠢货居多呢，包括所有语言，你是，竟然还会回复你的我可能也是，所以，或许有脑子的人都不爱上网吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3134,
+          "following_count": 988,
+          "like_count": 4090,
+          "listed_count": 6,
+          "media_count": 231,
+          "tweet_count": 3275
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-15T02:46:56.000Z",
+        "description": "🦁",
+        "id": "996220356208742400",
+        "name": "August0008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549972715347423232/PdvcwA2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "august0000820",
+        "verified": false
+      }
+    ]
+  }
+}

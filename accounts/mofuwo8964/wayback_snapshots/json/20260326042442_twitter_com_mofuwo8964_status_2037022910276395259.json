@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037022910276395259",
+    "created_at": "2026-03-26T04:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T05:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037022910276395259"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037022910276395259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然我经常很烦⭕️⭕️⭕️入侵日牌lolita可能会买到炮裙，但是如果她们送我一条全新只穿过一次打炮的正版黑粉中村十字，就是有精斑在上面我也愿意让我前男友舔干净啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037022910276395259",
+        "created_at": "2026-03-26T04:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037022910276395259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037022910276395259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我经常很烦⭕️⭕️⭕️入侵日牌lolita可能会买到炮裙，但是如果她们送我一条全新只穿过一次打炮的正版黑粉中村十字，就是有精斑在上面我也愿意让我前男友舔干净啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2624,
+          "following_count": 846,
+          "like_count": 2798,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 2076
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

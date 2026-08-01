@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072963843714875392"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2072963849029067088",
+    "created_at": "2026-07-03T08:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072963849029067088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6LZOSdIu5G",
+          "end": 115,
+          "expanded_url": "https://x.com/mofuwo8964/status/2072963849029067088/photo/1",
+          "media_key": "3_2072963843714875392",
+          "start": 92,
+          "url": "https://t.co/6LZOSdIu5G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072963849029067088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧吃到一半才想起来拍照的泔水😇\n\n另：其实这个挺好吃的，口感非常好，而且最重要的是省事，我觉得省事这点真的很有母性，这个鸡腿肉直接腌制一下包菜撕一撕加个生抽鸡精就成了哎真的太好吃了 https://t.co/6LZOSdIu5G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072963843714875392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSlogDagAAD-Bl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072963843714875392"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072963849029067088",
+        "created_at": "2026-07-03T08:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072963849029067088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6LZOSdIu5G",
+              "end": 115,
+              "expanded_url": "https://x.com/mofuwo8964/status/2072963849029067088/photo/1",
+              "media_key": "3_2072963843714875392",
+              "start": 92,
+              "url": "https://t.co/6LZOSdIu5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072963849029067088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧吃到一半才想起来拍照的泔水😇\n\n另：其实这个挺好吃的，口感非常好，而且最重要的是省事，我觉得省事这点真的很有母性，这个鸡腿肉直接腌制一下包菜撕一撕加个生抽鸡精就成了哎真的太好吃了 https://t.co/6LZOSdIu5G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3169,
+          "following_count": 1013,
+          "like_count": 4343,
+          "listed_count": 6,
+          "media_count": 236,
+          "tweet_count": 3426
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

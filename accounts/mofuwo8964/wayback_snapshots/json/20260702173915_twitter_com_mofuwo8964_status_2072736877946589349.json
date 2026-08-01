@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2072736877946589349",
+    "created_at": "2026-07-02T17:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T18:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072736877946589349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "腋窝’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1aKbd…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1aKbddvByjvJX",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2072736879942975488/qfsmAbTN?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2072736879942975488/qfsmAbTN?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 260703bpと",
+          "unwound_url": "https://twitter.com/i/spaces/1aKbddvByjvJX/peek",
+          "url": "https://t.co/namhBZdbSa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072736877946589349",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/namhBZdbSa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2072736877946589349",
+        "created_at": "2026-07-02T17:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072736877946589349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "腋窝’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1aKbd…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1aKbddvByjvJX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2072736879942975488/qfsmAbTN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072736879942975488/qfsmAbTN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 260703bpと",
+              "unwound_url": "https://twitter.com/i/spaces/1aKbddvByjvJX/peek",
+              "url": "https://t.co/namhBZdbSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072736877946589349",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/namhBZdbSa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 1013,
+          "like_count": 4329,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 3417
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

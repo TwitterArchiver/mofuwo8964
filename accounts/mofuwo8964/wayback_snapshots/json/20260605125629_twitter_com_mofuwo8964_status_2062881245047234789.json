@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2062881245047234789",
+    "created_at": "2026-06-05T12:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062881245047234789"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062881245047234789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "额班里关系最好的同学疑似是mtf还是两性畸形？我不知道，总之今天另外一个同学问我ta到底是男的女的，因为手册上写的ta是男生。\n但ta平时穿女装也一般以女性身份生活，俺们聊很多lolita和的东东和帮ta追心选，ta曾经有一天为难地和我说他其实身体不男不女，但我也没细问。直到今天才想起来这事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2062881245047234789",
+        "created_at": "2026-06-05T12:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062881245047234789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062881245047234789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额班里关系最好的同学疑似是mtf还是两性畸形？我不知道，总之今天另外一个同学问我ta到底是男的女的，因为手册上写的ta是男生。\n但ta平时穿女装也一般以女性身份生活，俺们聊很多lolita和的东东和帮ta追心选，ta曾经有一天为难地和我说他其实身体不男不女，但我也没细问。直到今天才想起来这事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2910,
+          "following_count": 897,
+          "like_count": 3659,
+          "listed_count": 7,
+          "media_count": 198,
+          "tweet_count": 2804
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

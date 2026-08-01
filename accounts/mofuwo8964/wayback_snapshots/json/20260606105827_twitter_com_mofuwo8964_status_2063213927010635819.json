@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2063166426375164202",
+    "created_at": "2026-06-06T10:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063213927010635819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "345437084",
+          "start": 0,
+          "username": "iamcheyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063213927010635819",
+    "in_reply_to_user_id": "345437084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063166426375164202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamcheyan 天呐天呐这是新发售的ap紫藤花吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2100,
+        "media_key": "3_2063166416006914048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHW7JqboAApsnD.jpg",
+        "width": 1576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2063166426375164202",
+        "created_at": "2026-06-06T10:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063213927010635819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "345437084",
+              "start": 0,
+              "username": "iamcheyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063213927010635819",
+        "in_reply_to_user_id": "345437084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063166426375164202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamcheyan 天呐天呐这是新发售的ap紫藤花吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063166416006914048"
+          ]
+        },
+        "author_id": "345437084",
+        "conversation_id": "2063166426375164202",
+        "created_at": "2026-06-06T07:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063166426375164202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rnlIsXpBBq",
+              "end": 25,
+              "expanded_url": "https://x.com/iamcheyan/status/2063166426375164202/photo/1",
+              "media_key": "3_2063166416006914048",
+              "start": 2,
+              "url": "https://t.co/rnlIsXpBBq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063166426375164202",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1464,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🦄 https://t.co/rnlIsXpBBq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜ひとりごと|愚痴",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2919,
+          "following_count": 902,
+          "like_count": 3668,
+          "listed_count": 7,
+          "media_count": 197,
+          "tweet_count": 2824
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-30T16:05:20.000Z",
+        "description": "程序员・作家・编剧 / 東京在住 🗼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "iamcheyan.com",
+                "end": 23,
+                "expanded_url": "http://iamcheyan.com",
+                "start": 0,
+                "url": "https://t.co/IoKuPng256"
+              }
+            ]
+          }
+        },
+        "id": "345437084",
+        "location": "東京 墨田区",
+        "name": "徹言",
+        "pinned_tweet_id": "1431803902769332224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752946036358909952/o_vVoTim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44190,
+          "following_count": 7362,
+          "like_count": 125074,
+          "listed_count": 211,
+          "media_count": 3315,
+          "tweet_count": 17698
+        },
+        "url": "https://t.co/IoKuPng256",
+        "username": "iamcheyan",
+        "verified": true
+      }
+    ]
+  }
+}

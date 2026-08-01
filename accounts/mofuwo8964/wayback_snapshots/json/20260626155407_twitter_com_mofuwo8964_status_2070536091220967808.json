@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2070475724935573690",
+    "created_at": "2026-06-26T15:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070536091220967808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1671951520529797120",
+          "start": 0,
+          "username": "sqq1370192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070536091220967808",
+    "in_reply_to_user_id": "1671951520529797120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070534472273887498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sqq1370192 切好的猪肉进行一个腌制，然后炒变色之后加大葱，然后加酱油蚝油然后加白菜帮子，然后加白菜叶子加水然后鸡精黄豆酱什么的321放里头就行了，白菜要是买切好的更方便感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070475724935573690",
+        "created_at": "2026-06-26T15:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070536091220967808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1671951520529797120",
+              "start": 0,
+              "username": "sqq1370192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070536091220967808",
+        "in_reply_to_user_id": "1671951520529797120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070534472273887498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sqq1370192 切好的猪肉进行一个腌制，然后炒变色之后加大葱，然后加酱油蚝油然后加白菜帮子，然后加白菜叶子加水然后鸡精黄豆酱什么的321放里头就行了，白菜要是买切好的更方便感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671951520529797120",
+        "conversation_id": "2070475724935573690",
+        "created_at": "2026-06-26T15:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070534472273887498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070534472273887498",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070475724935573690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 等待一个教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3162,
+          "following_count": 996,
+          "like_count": 4224,
+          "listed_count": 6,
+          "media_count": 238,
+          "tweet_count": 3377
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-22T18:41:40.000Z",
+        "description": "很抽象一个人｜选择性话多 ｜性格悪い｜对非人生物过敏｜限制级的碎碎念｜偶尔分享品尝日男日常",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sqq13701922",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sqq13701922",
+                "start": 0,
+                "url": "https://t.co/Ytv7kilXQj"
+              }
+            ]
+          }
+        },
+        "id": "1671951520529797120",
+        "name": "Zzzzzzzi",
+        "pinned_tweet_id": "1947152531140104461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948808689143742465/866SnRBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 68,
+          "like_count": 1821,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1479
+        },
+        "url": "https://t.co/Ytv7kilXQj",
+        "username": "sqq1370192",
+        "verified": false
+      }
+    ]
+  }
+}

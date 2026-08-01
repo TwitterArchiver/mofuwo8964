@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2070473825511444647",
+    "created_at": "2026-06-26T18:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T19:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070571347223404996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1879073913176752128",
+          "start": 0,
+          "username": "tufei299"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070571347223404996",
+    "in_reply_to_user_id": "1879073913176752128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070544356600410120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tufei299 他们都发我也发了（干嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2070473825511444647",
+        "created_at": "2026-06-26T18:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070571347223404996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1879073913176752128",
+              "start": 0,
+              "username": "tufei299"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070571347223404996",
+        "in_reply_to_user_id": "1879073913176752128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070544356600410120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tufei299 他们都发我也发了（干嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879073913176752128",
+        "conversation_id": "2070473825511444647",
+        "created_at": "2026-06-26T16:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070544356600410120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070544356600410120",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070473825511444647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 腋窩最近都看了什麼啊hhhhhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 996,
+          "like_count": 4227,
+          "listed_count": 6,
+          "media_count": 225,
+          "tweet_count": 3366
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-14T07:51:56.000Z",
+        "description": "昨日看花花灼灼",
+        "id": "1879073913176752128",
+        "location": "紫阳街",
+        "name": "灼灼长安8964",
+        "pinned_tweet_id": "2059116065851089022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044077486825431040/LIeg5Lep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 139,
+          "like_count": 9187,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 3610
+        },
+        "url": "",
+        "username": "tufei299",
+        "verified": false
+      }
+    ]
+  }
+}

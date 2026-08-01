@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2047024039873667330",
+    "created_at": "2026-04-23T15:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047341489714586071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1349753905001816064",
+          "start": 0,
+          "username": "PwWisdbDESwcaxc"
+        },
+        {
+          "end": 27,
+          "id": "1752802007046582272",
+          "start": 17,
+          "username": "CryptoWNM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047341489714586071",
+    "in_reply_to_user_id": "1349753905001816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047315953852293616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PwWisdbDESwcaxc @CryptoWNM 你真的知道绘画是什么吗🤣照葫芦画瓢的复刻其实是最简单基础的，但是创作属于自己的东西和拥有特色是很难很难的一件事，ai如果没有素材库当然无所谓了，真机械飞升了第一个似的就是你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2047024039873667330",
+        "created_at": "2026-04-23T15:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047341489714586071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1349753905001816064",
+              "start": 0,
+              "username": "PwWisdbDESwcaxc"
+            },
+            {
+              "end": 27,
+              "id": "1752802007046582272",
+              "start": 17,
+              "username": "CryptoWNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047341489714586071",
+        "in_reply_to_user_id": "1349753905001816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047315953852293616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PwWisdbDESwcaxc @CryptoWNM 你真的知道绘画是什么吗🤣照葫芦画瓢的复刻其实是最简单基础的，但是创作属于自己的东西和拥有特色是很难很难的一件事，ai如果没有素材库当然无所谓了，真机械飞升了第一个似的就是你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1349753905001816064",
+        "conversation_id": "2047024039873667330",
+        "created_at": "2026-04-23T14:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047315953852293616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1752802007046582272",
+              "start": 0,
+              "username": "CryptoWNM"
+            },
+            {
+              "end": 22,
+              "id": "1592719222940962817",
+              "start": 11,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047315953852293616",
+        "in_reply_to_user_id": "1752802007046582272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047279034271424734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryptoWNM @mofuwo8964 一个人开始学画画确实是先学习其他作品的画风，但是又学不像，所以就构成了自己的画风😅。可惜人的效率就是低，不然哪会有这么多人对ai有敌意。支持机械飞升，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2695,
+          "following_count": 866,
+          "like_count": 3151,
+          "listed_count": 6,
+          "media_count": 170,
+          "tweet_count": 2431
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-14T16:23:10.000Z",
+        "description": "我真的好喜欢男娘啊，我想男娘想疯了",
+        "id": "1349753905001816064",
+        "location": "帕加拉岛希娜区瓦拉教堂街区14单元",
+        "name": "vffhjbh",
+        "pinned_tweet_id": "1637105916939231232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499049490417950721/1463M8hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 553,
+          "like_count": 659,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 6692
+        },
+        "username": "PwWisdbDESwcaxc",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T21:13:09.000Z",
+        "description": "交易者",
+        "id": "1752802007046582272",
+        "name": "王尼玛 X 耐心资本",
+        "pinned_tweet_id": "2017226885613404264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752803629810278400/5WrGTvTw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 51,
+          "like_count": 1245,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1211
+        },
+        "username": "CryptoWNM",
+        "verified": false
+      }
+    ]
+  }
+}

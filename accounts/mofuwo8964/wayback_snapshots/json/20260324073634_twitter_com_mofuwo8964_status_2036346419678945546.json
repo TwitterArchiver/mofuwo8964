@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2036324599491862988",
+    "created_at": "2026-03-24T07:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T08:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036346419678945546"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036346419678945546",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036326268434882767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我从接触日语到现在已经六年了，虽说没有系统学过但是六年连个n1都考不出来真的太丢人了，我觉得我太蠢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036324599491862988",
+        "created_at": "2026-03-24T07:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036346419678945546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036346419678945546",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036326268434882767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我从接触日语到现在已经六年了，虽说没有系统学过但是六年连个n1都考不出来真的太丢人了，我觉得我太蠢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036324599491862988",
+        "created_at": "2026-03-24T06:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T07:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036326268434882767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036326268434882767",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036324599491862988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "文法到底怎么学啊 ？词汇和阅读是个中国人连蒙带猜都能做对吧，听力看看视频也能学，文法到底怎么学啊，我真的不知道怎么办好了，我n2文法就很差很差n1更差了，我每次看到文法错一堆我就掉小珍珠，再做再错一堆，继续掉小珍珠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2616,
+          "following_count": 830,
+          "like_count": 2733,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1994
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

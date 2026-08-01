@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2064566185413526003",
+    "created_at": "2026-06-10T06:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064591405864149471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1813894970744430592",
+          "start": 0,
+          "username": "Verrrrse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064591405864149471",
+    "in_reply_to_user_id": "1813894970744430592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064579661791896012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Verrrrse 唉我真特别受不了他们爱说弱役这点，因为我觉得太社达了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064566185413526003",
+        "created_at": "2026-06-10T06:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064591405864149471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1813894970744430592",
+              "start": 0,
+              "username": "Verrrrse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064591405864149471",
+        "in_reply_to_user_id": "1813894970744430592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064579661791896012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verrrrse 唉我真特别受不了他们爱说弱役这点，因为我觉得太社达了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813894970744430592",
+        "conversation_id": "2064566185413526003",
+        "created_at": "2026-06-10T05:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064579661791896012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064579661791896012",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064566185413526003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 头像太可爱了服弱役了下一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜精神残疾｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2974,
+          "following_count": 926,
+          "like_count": 3810,
+          "listed_count": 7,
+          "media_count": 201,
+          "tweet_count": 2928
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T11:14:34.000Z",
+        "description": "bio | https://t.co/4LevWVMAb8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/verse18981",
+                "end": 29,
+                "expanded_url": "https://ngl.link/verse18981",
+                "start": 6,
+                "url": "https://t.co/4LevWVMAb8"
+              }
+            ]
+          }
+        },
+        "id": "1813894970744430592",
+        "name": "Verse",
+        "pinned_tweet_id": "2064274187271983213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813897387275886592/3WdOEjx-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 323,
+          "like_count": 6587,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 3446
+        },
+        "username": "Verrrrse",
+        "verified": false
+      }
+    ]
+  }
+}

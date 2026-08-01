@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2035883196236316726",
+    "created_at": "2026-03-25T03:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T04:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036647569812754917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1972716519126949888",
+          "start": 0,
+          "username": "shiwuyu20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036647569812754917",
+    "in_reply_to_user_id": "1972716519126949888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035891526295814328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiwuyu20 对（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2035883196236316726",
+        "created_at": "2026-03-25T03:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036647569812754917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1972716519126949888",
+              "start": 0,
+              "username": "shiwuyu20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036647569812754917",
+        "in_reply_to_user_id": "1972716519126949888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035891526295814328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiwuyu20 对（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972716519126949888",
+        "conversation_id": "2035883196236316726",
+        "created_at": "2026-03-23T01:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035891526295814328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035891526295814328",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035883196236316726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 王老师爱的人不还是腋窝老师吗？原来是这个同理是吧😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 833,
+          "like_count": 2767,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 2028
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-29T17:34:35.000Z",
+        "description": "",
+        "id": "1972716519126949888",
+        "name": "郁十五",
+        "pinned_tweet_id": "1988659193252061579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973742474184060928/UMNhvXTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 320,
+          "like_count": 44660,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 3847
+        },
+        "username": "shiwuyu20",
+        "verified": false
+      }
+    ]
+  }
+}

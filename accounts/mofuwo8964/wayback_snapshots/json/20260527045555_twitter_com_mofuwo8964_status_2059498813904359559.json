@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2059334556860514610",
+    "created_at": "2026-05-27T04:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059498813904359559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1364146806",
+          "start": 0,
+          "username": "Mrcat_Mrdog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059498813904359559",
+    "in_reply_to_user_id": "1364146806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059497871045767517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mrcat_Mrdog 推特能置顶评论吗，我真想把你这条置顶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2059334556860514610",
+        "created_at": "2026-05-27T04:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059498813904359559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1364146806",
+              "start": 0,
+              "username": "Mrcat_Mrdog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059498813904359559",
+        "in_reply_to_user_id": "1364146806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059497871045767517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mrcat_Mrdog 推特能置顶评论吗，我真想把你这条置顶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364146806",
+        "conversation_id": "2059334556860514610",
+        "created_at": "2026-05-27T04:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059497871045767517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059497871045767517",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059334556860514610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 评论区啥啊 她讲的一听就知道是国际学校的同学啊  就算是日本人也不可能都被父母铺好路 一听就是有钱人家的孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2879,
+          "following_count": 901,
+          "like_count": 3580,
+          "listed_count": 7,
+          "media_count": 194,
+          "tweet_count": 2754
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2013-04-19T11:12:06.000Z",
+        "description": "",
+        "id": "1364146806",
+        "name": "Jjbmk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810994952060706816/NVcPAXKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 116,
+          "like_count": 16870,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1599
+        },
+        "username": "Mrcat_Mrdog",
+        "verified": false
+      }
+    ]
+  }
+}

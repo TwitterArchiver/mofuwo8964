@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2033523508832276801",
+    "created_at": "2026-03-16T12:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T13:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033523508832276801"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ying040507ying…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/ying040507ying/status/2033473032027873475",
+          "start": 140,
+          "url": "https://t.co/GbWcWL5OSK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033523508832276801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033473032027873475",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我其实能懂原po在说啥😑\n某种程度上来说我也无法完全将审美吸引情感吸引和性吸引分开…因为对于人来说做爱并不是有发情期见到个异性就骑上去的🏳️买衣服还要综合考虑设计版型价格材质，别说炮友了好不\n再说个暴论，我认为如果选择了约炮而不是自慰就肯定是想要得到单纯解决性欲以外的价值感。。 https://t.co/GbWcWL5OSK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2033523508832276801",
+        "created_at": "2026-03-16T12:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033523508832276801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ying040507ying…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/ying040507ying/status/2033473032027873475",
+              "start": 140,
+              "url": "https://t.co/GbWcWL5OSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033523508832276801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033473032027873475",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我其实能懂原po在说啥😑\n某种程度上来说我也无法完全将审美吸引情感吸引和性吸引分开…因为对于人来说做爱并不是有发情期见到个异性就骑上去的🏳️买衣服还要综合考虑设计版型价格材质，别说炮友了好不\n再说个暴论，我认为如果选择了约炮而不是自慰就肯定是想要得到单纯解决性欲以外的价值感。。 https://t.co/GbWcWL5OSK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947816343559979009",
+        "conversation_id": "2033473032027873475",
+        "created_at": "2026-03-16T09:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033473032027873475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ying040507ying…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/ying040507ying/status/2033384810685837561",
+              "start": 83,
+              "url": "https://t.co/NmES2sP2WS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033473032027873475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15667,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033384810685837561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是舍身炸粪坑了吗……为什么有这么多人觉得炮友不需要有什么内涵😵‍💫有没有可能魅力不止源自于外在呢 逮到合眼的就操那不成原始人了吗 看完评论区的一些评论我已阳痿…… https://t.co/NmES2sP2WS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030870356953866240/H3S67KDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 817,
+          "like_count": 2608,
+          "listed_count": 4,
+          "media_count": 144,
+          "tweet_count": 1796
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T00:29:49.000Z",
+        "description": "ISFJ｜2004.05.07｜175cm200斤⼁二次元游戏宅｜FPS糕手⼁某不知名美食家⼁野生巨型肖茂密🐱",
+        "id": "1947816343559979009",
+        "location": "中城",
+        "name": "小笼灌汤包",
+        "pinned_tweet_id": "2029157959058768122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985648871691993089/Z5rJy1O9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 92,
+          "like_count": 430,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 186
+        },
+        "username": "ying040507ying",
+        "verified": false
+      }
+    ]
+  }
+}

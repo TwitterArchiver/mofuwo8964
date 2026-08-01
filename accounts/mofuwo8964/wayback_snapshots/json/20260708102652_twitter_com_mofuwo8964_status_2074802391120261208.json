@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2074802371780399104"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2074802391120261208",
+    "created_at": "2026-07-08T10:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074802391120261208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ffua8vfSF7",
+          "end": 23,
+          "expanded_url": "https://x.com/mofuwo8964/status/2074802391120261208/photo/1",
+          "media_key": "16_2074802371780399104",
+          "start": 0,
+          "url": "https://t.co/Ffua8vfSF7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074802391120261208",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Ffua8vfSF7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "16_2074802371780399104",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMstw60b0AAypTm.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMstw60b0AAypTm.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074802371780399104"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2074802391120261208",
+        "created_at": "2026-07-08T10:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074802391120261208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ffua8vfSF7",
+              "end": 23,
+              "expanded_url": "https://x.com/mofuwo8964/status/2074802391120261208/photo/1",
+              "media_key": "16_2074802371780399104",
+              "start": 0,
+              "url": "https://t.co/Ffua8vfSF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074802391120261208",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ffua8vfSF7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 1013,
+          "like_count": 4402,
+          "listed_count": 6,
+          "media_count": 245,
+          "tweet_count": 3478
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

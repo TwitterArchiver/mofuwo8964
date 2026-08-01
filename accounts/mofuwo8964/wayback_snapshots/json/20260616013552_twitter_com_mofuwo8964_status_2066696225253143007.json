@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2066696225253143007",
+    "created_at": "2026-06-16T01:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T02:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066696225253143007"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066696225253143007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我感觉我活了，我的做题蛆人格可以继续发力了。今日必学。我感觉我n1合是肯定能合了如果这次eju过了那我明年六月就冲n1高分去了。之前做的n1阅读基本分也还行，文法和词汇就随缘多背吧，但是n1听力太水了能看出来个蛋啊。好想拿奖学金啊必须要考高分才行啊！太他妈穷了我要钱我要钱我要钱给angelic pretty上贡我要powder rose啊"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉我活了，我的做题蛆人格可以继续发力了。今日必学。我感觉我n1合是肯定能合了如果这次eju过了那我明年六月就冲n1高分去了。之前做的n1阅读基本分也还行，文法和词汇就随缘多背吧，但是n1听力太水了能看出来个蛋啊。好想拿奖学金啊必须要考高分才行啊！太他妈穷了我要钱我要钱我要钱给angelic"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066696225253143007",
+        "created_at": "2026-06-16T01:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066696225253143007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066696225253143007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我感觉我活了，我的做题蛆人格可以继续发力了。今日必学。我感觉我n1合是肯定能合了如果这次eju过了那我明年六月就冲n1高分去了。之前做的n1阅读基本分也还行，文法和词汇就随缘多背吧，但是n1听力太水了能看出来个蛋啊。好想拿奖学金啊必须要考高分才行啊！太他妈穷了我要钱我要钱我要钱给angelic pretty上贡我要powder rose啊"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我活了，我的做题蛆人格可以继续发力了。今日必学。我感觉我n1合是肯定能合了如果这次eju过了那我明年六月就冲n1高分去了。之前做的n1阅读基本分也还行，文法和词汇就随缘多背吧，但是n1听力太水了能看出来个蛋啊。好想拿奖学金啊必须要考高分才行啊！太他妈穷了我要钱我要钱我要钱给angelic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3071,
+          "following_count": 975,
+          "like_count": 3921,
+          "listed_count": 6,
+          "media_count": 222,
+          "tweet_count": 3088
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

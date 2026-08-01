@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2052326164111471048",
+    "created_at": "2026-05-07T10:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052329350956204186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346974977434771460",
+          "start": 0,
+          "username": "N0rthern_Land"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052329350956204186",
+    "in_reply_to_user_id": "1346974977434771460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052326164111471048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0rthern_Land 脑内已自动生成"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2052326157165690880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtTxCkagAAtJLs.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2052326164111471048",
+        "created_at": "2026-05-07T10:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052329350956204186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346974977434771460",
+              "start": 0,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052329350956204186",
+        "in_reply_to_user_id": "1346974977434771460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052326164111471048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0rthern_Land 脑内已自动生成"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052326157165690880"
+          ]
+        },
+        "author_id": "1346974977434771460",
+        "conversation_id": "2052326164111471048",
+        "created_at": "2026-05-07T09:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:47:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052324329225076954",
+          "2052326164111471048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/81hrkpwt4n",
+              "end": 33,
+              "expanded_url": "https://x.com/N0rthern_Land/status/2052326164111471048/photo/1",
+              "media_key": "3_2052326157165690880",
+              "start": 10,
+              "url": "https://t.co/81hrkpwt4n"
+            },
+            {
+              "display_url": "x.com/birdscolour56/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/birdscolour56/status/2052008312041099738",
+              "start": 34,
+              "url": "https://t.co/P0qmuxasWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052326164111471048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052008312041099738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也p了，这谁和谁 https://t.co/81hrkpwt4n https://t.co/P0qmuxasWb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2802,
+          "following_count": 880,
+          "like_count": 3452,
+          "listed_count": 6,
+          "media_count": 178,
+          "tweet_count": 2611
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "bi/从那不勒斯到今天走了有多远/🏳️‍🌈/看黄男别关注我/女朋友@ayashikinoco/私信和误ban解除请发在里账：@Private_plot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "Private_plot"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "name": "南长尾山雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995463213237125120/wvHDfzkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63537,
+          "following_count": 856,
+          "like_count": 113324,
+          "listed_count": 152,
+          "media_count": 3646,
+          "tweet_count": 36017
+        },
+        "username": "N0rthern_Land",
+        "verified": true
+      }
+    ]
+  }
+}

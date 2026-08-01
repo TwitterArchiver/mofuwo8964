@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037012483668664766",
+    "created_at": "2026-03-26T03:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T04:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037013763023659182"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037013763023659182",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037012483668664766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这样暴露我是个精神病的时候大家只会觉得符合刻板印象而懒得吊我，但看起来普通却是个精神病那可就牙白了，就像男的辱女⭕️⭕️只会觉得“都男的了”，女的辱女⭕️⭕️就开始疯狂问候全家了，符合刻板印象还是能规避很多伤害的🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037012483668664766",
+        "created_at": "2026-03-26T03:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T04:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037013763023659182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037013763023659182",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037012483668664766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样暴露我是个精神病的时候大家只会觉得符合刻板印象而懒得吊我，但看起来普通却是个精神病那可就牙白了，就像男的辱女⭕️⭕️只会觉得“都男的了”，女的辱女⭕️⭕️就开始疯狂问候全家了，符合刻板印象还是能规避很多伤害的🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037012483668664766",
+        "created_at": "2026-03-26T03:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T04:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037012483668664766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037012483668664766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最不后悔的事情就是染了个非主流发色打了个钉子（但我觉得不大够，还得再打俩才可以）但是我最近因为舒适度原因不怎么想穿非主流服装了，不然跟我搭话的人还能再少一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2624,
+          "following_count": 846,
+          "like_count": 2787,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 2070
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

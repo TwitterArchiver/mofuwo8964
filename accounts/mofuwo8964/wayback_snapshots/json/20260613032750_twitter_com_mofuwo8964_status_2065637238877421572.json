@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065637226487394304",
+        "3_2065637226466426880"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2065637238877421572",
+    "created_at": "2026-06-13T03:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065637238877421572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GtnHbNvsMe",
+          "end": 44,
+          "expanded_url": "https://x.com/mofuwo8964/status/2065637238877421572/photo/1",
+          "media_key": "3_2065637226487394304",
+          "start": 21,
+          "url": "https://t.co/GtnHbNvsMe"
+        },
+        {
+          "display_url": "pic.x.com/GtnHbNvsMe",
+          "end": 44,
+          "expanded_url": "https://x.com/mofuwo8964/status/2065637238877421572/photo/1",
+          "media_key": "3_2065637226466426880",
+          "start": 21,
+          "url": "https://t.co/GtnHbNvsMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065637238877421572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我看到别人这么装饰了自己的企所以我学来了 https://t.co/GtnHbNvsMe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065637226487394304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqeHP-asAANOfw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065637226466426880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqeHP5awAA8_nE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065637226487394304",
+            "3_2065637226466426880"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2065637238877421572",
+        "created_at": "2026-06-13T03:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065637238877421572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GtnHbNvsMe",
+              "end": 44,
+              "expanded_url": "https://x.com/mofuwo8964/status/2065637238877421572/photo/1",
+              "media_key": "3_2065637226487394304",
+              "start": 21,
+              "url": "https://t.co/GtnHbNvsMe"
+            },
+            {
+              "display_url": "pic.x.com/GtnHbNvsMe",
+              "end": 44,
+              "expanded_url": "https://x.com/mofuwo8964/status/2065637238877421572/photo/1",
+              "media_key": "3_2065637226466426880",
+              "start": 21,
+              "url": "https://t.co/GtnHbNvsMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065637238877421572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看到别人这么装饰了自己的企所以我学来了 https://t.co/GtnHbNvsMe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと 愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "バツバツつちゃん",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3018,
+          "following_count": 941,
+          "like_count": 3860,
+          "listed_count": 7,
+          "media_count": 210,
+          "tweet_count": 3014
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

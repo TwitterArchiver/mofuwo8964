@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2048814541979697215",
+    "created_at": "2026-04-28T18:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T19:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049197294067892385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1223794078782914560",
+          "start": 0,
+          "username": "LiJiaChaobot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049197294067892385",
+    "in_reply_to_user_id": "1223794078782914560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048904535301857749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiJiaChaobot 楼主优先"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2048814541979697215",
+        "created_at": "2026-04-28T18:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T19:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049197294067892385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1223794078782914560",
+              "start": 0,
+              "username": "LiJiaChaobot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049197294067892385",
+        "in_reply_to_user_id": "1223794078782914560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048904535301857749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiJiaChaobot 楼主优先"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223794078782914560",
+        "conversation_id": "2048814541979697215",
+        "created_at": "2026-04-27T23:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T00:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048904535301857749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048904535301857749",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048814541979697215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 我也要🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。\n追加：粉红健全逼社达激女男权蛆死远点看了好想吐",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2747,
+          "following_count": 865,
+          "like_count": 3239,
+          "listed_count": 6,
+          "media_count": 178,
+          "tweet_count": 2490
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-02T02:23:48.000Z",
+        "description": "一只萌豚/会屏蔽来路不明或锁推的账户/包学家/打心怪/迫真中立壬🤓/やるんだな 今ここで",
+        "id": "1223794078782914560",
+        "location": "萌豚國",
+        "name": "DUCK萌豚",
+        "pinned_tweet_id": "2011979358316142983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004085629227831297/XT0vZist_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2620,
+          "following_count": 2165,
+          "like_count": 717723,
+          "listed_count": 19,
+          "media_count": 8748,
+          "tweet_count": 88239
+        },
+        "username": "LiJiaChaobot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037361385492160598",
+    "created_at": "2026-03-27T02:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T03:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037361385492160598"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037361385492160598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我小时候看到那种杀死自己恋人的加害者觉得好浪漫，时至今日我都觉得很浪漫，如果我的追求者愿意杀了伤害过我的人，我会幸福到哭出来的。因为毕竟是追求者不是我老公，我不会感受离别之苦，还顺便除掉了我讨厌的人，但如果是老公这么做了我就会很绝望，我会帮老公处理尸体然后和老公一起自杀的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037361385492160598",
+        "created_at": "2026-03-27T02:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T03:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037361385492160598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037361385492160598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我小时候看到那种杀死自己恋人的加害者觉得好浪漫，时至今日我都觉得很浪漫，如果我的追求者愿意杀了伤害过我的人，我会幸福到哭出来的。因为毕竟是追求者不是我老公，我不会感受离别之苦，还顺便除掉了我讨厌的人，但如果是老公这么做了我就会很绝望，我会帮老公处理尸体然后和老公一起自杀的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜社会不适应中",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2689,
+          "following_count": 851,
+          "like_count": 2818,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 2129
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

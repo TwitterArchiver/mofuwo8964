@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2068037488380465505",
+    "created_at": "2026-06-19T18:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T19:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068037488380465505"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068037488380465505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你说穿女儿服我还能理解啊毕竟草莓钢琴波点元素很可爱确实有某种core的美学价值，但是带日本只有幼稚园和小学的小黄帽拍色图和做爱vlog的到底是啥意思，这小黄帽这不是一种审美表达啊这是一种代表幼童的符号啊，对着这种符号发情的除了ltp我找不到其他可能，我看片看到都得火速划过去那种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068037488380465505",
+        "created_at": "2026-06-19T18:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068037488380465505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068037488380465505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说穿女儿服我还能理解啊毕竟草莓钢琴波点元素很可爱确实有某种core的美学价值，但是带日本只有幼稚园和小学的小黄帽拍色图和做爱vlog的到底是啥意思，这小黄帽这不是一种审美表达啊这是一种代表幼童的符号啊，对着这种符号发情的除了ltp我找不到其他可能，我看片看到都得火速划过去那种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3112,
+          "following_count": 982,
+          "like_count": 4061,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 3236
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

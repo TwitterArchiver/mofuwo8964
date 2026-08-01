@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068917431540826112"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2068917435735093485",
+    "created_at": "2026-06-22T04:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068917435735093485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oc39TBdFkS",
+          "end": 86,
+          "expanded_url": "https://x.com/mofuwo8964/status/2068917435735093485/photo/1",
+          "media_key": "3_2068917431540826112",
+          "start": 63,
+          "url": "https://t.co/Oc39TBdFkS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068917435735093485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想知道被挂的这个女生到底做什么了要承担这么难听的话，谁能告诉我为什么要用这种话骂她？？有前因后果吗？？我主页刷到这个好懵啊 https://t.co/Oc39TBdFkS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1974,
+        "media_key": "3_2068917431540826112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZFcUCawAAcdhg.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068917431540826112"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068917435735093485",
+        "created_at": "2026-06-22T04:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068917435735093485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oc39TBdFkS",
+              "end": 86,
+              "expanded_url": "https://x.com/mofuwo8964/status/2068917435735093485/photo/1",
+              "media_key": "3_2068917431540826112",
+              "start": 63,
+              "url": "https://t.co/Oc39TBdFkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068917435735093485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想知道被挂的这个女生到底做什么了要承担这么难听的话，谁能告诉我为什么要用这种话骂她？？有前因后果吗？？我主页刷到这个好懵啊 https://t.co/Oc39TBdFkS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3136,
+          "following_count": 990,
+          "like_count": 4096,
+          "listed_count": 6,
+          "media_count": 234,
+          "tweet_count": 3284
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

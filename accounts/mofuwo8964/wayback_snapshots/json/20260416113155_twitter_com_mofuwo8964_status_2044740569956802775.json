@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044740569956802775",
+    "created_at": "2026-04-16T11:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044740569956802775"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044740569956802775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前舍友七宗罪\n\n傲慢：每日在我们面前秀优越\n嫉妒：看到有人比她强就开始诋毁\n愤怒：每天在宿舍里尖叫大吼\n怠惰：日语学了一年➕日本待了一年n3都没考出来\n贪婪：蹭吃蹭喝卖惨哭穷朋友圈全是香奈儿\n暴食：额\n色欲：按头我们看她最爱的的国乙男主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044740569956802775",
+        "created_at": "2026-04-16T11:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044740569956802775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044740569956802775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前舍友七宗罪\n\n傲慢：每日在我们面前秀优越\n嫉妒：看到有人比她强就开始诋毁\n愤怒：每天在宿舍里尖叫大吼\n怠惰：日语学了一年➕日本待了一年n3都没考出来\n贪婪：蹭吃蹭喝卖惨哭穷朋友圈全是香奈儿\n暴食：额\n色欲：按头我们看她最爱的的国乙男主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2635,
+          "following_count": 855,
+          "like_count": 2979,
+          "listed_count": 5,
+          "media_count": 163,
+          "tweet_count": 2288
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

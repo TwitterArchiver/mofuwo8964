@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2064902879505445281",
+    "created_at": "2026-06-11T02:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T03:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064902879505445281"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064902879505445281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天读解又错了六个，我快忍不住眼泪了我最近怎么错这么多啊，从来没错过这么多过，哪怕我第一次eju也没有。最近到底怎么回事，是因为药物还是肠胃炎？？我只想学习了，我一无是处一事无成是个一成不变的废物，这样的分数我接受不了啊，我现在eju日语能错15个，这怎么可能考个好分数啊？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064902879505445281",
+        "created_at": "2026-06-11T02:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064902879505445281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064902879505445281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天读解又错了六个，我快忍不住眼泪了我最近怎么错这么多啊，从来没错过这么多过，哪怕我第一次eju也没有。最近到底怎么回事，是因为药物还是肠胃炎？？我只想学习了，我一无是处一事无成是个一成不变的废物，这样的分数我接受不了啊，我现在eju日语能错15个，这怎么可能考个好分数啊？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "精神残疾｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2983,
+          "following_count": 934,
+          "like_count": 3824,
+          "listed_count": 7,
+          "media_count": 207,
+          "tweet_count": 2960
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

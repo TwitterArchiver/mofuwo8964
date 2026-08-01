@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044590162148208812",
+    "created_at": "2026-04-16T01:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044590162148208812"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044590162148208812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我自认为比绝大多数人喜欢动物 但我不会养动物也不爱去动物园 更不想看动物表演…自己不养首先是感觉自己没有对生命负责的能力 不去动物园是因为感觉很多动物很可怜 不能接受动物表演是因为我一想到一群没办法理解人类的生命在高压下被强制表演供人取乐这件事会让我觉得恐怖 发自内心的那种…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044590162148208812",
+        "created_at": "2026-04-16T01:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044590162148208812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044590162148208812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我自认为比绝大多数人喜欢动物 但我不会养动物也不爱去动物园 更不想看动物表演…自己不养首先是感觉自己没有对生命负责的能力 不去动物园是因为感觉很多动物很可怜 不能接受动物表演是因为我一想到一群没办法理解人类的生命在高压下被强制表演供人取乐这件事会让我觉得恐怖 发自内心的那种…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2635,
+          "following_count": 854,
+          "like_count": 2977,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 2282
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

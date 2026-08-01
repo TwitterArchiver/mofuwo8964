@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2036296714127286296",
+    "created_at": "2026-03-24T04:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036298335234220409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "wkJisbkkk0827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036298335234220409",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036296714127286296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wkJisbkkk0827  \n们喜欢月亮计划的、喜欢绿藻头就这种水平知道了不？我早就说了，哇塞脑叶公司真是太黑深残真是太亚文化太炫酷了，你以后再敢骂我最爱的少女乐团派对我就骂边狱巴士，我就骂鸿璐，我就骂你们月小鬼，草泥马"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036296714127286296",
+        "created_at": "2026-03-24T04:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036298335234220409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "wkJisbkkk0827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036298335234220409",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036296714127286296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wkJisbkkk0827  \n们喜欢月亮计划的、喜欢绿藻头就这种水平知道了不？我早就说了，哇塞脑叶公司真是太黑深残真是太亚文化太炫酷了，你以后再敢骂我最爱的少女乐团派对我就骂边狱巴士，我就骂鸿璐，我就骂你们月小鬼，草泥马"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036296714127286296",
+        "created_at": "2026-03-24T04:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036296714127286296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoyobewild/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/yoyobewild/status/2036242530677956751",
+              "start": 55,
+              "url": "https://t.co/mAKvmdZojv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036296714127286296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036242530677956751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这人头像还是我老公😭批我老公皮发表这种言论的死全家一个不留，傻逼网左能不能别给我老公p这种头像，我已急哭😭😭 https://t.co/mAKvmdZojv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2611,
+          "following_count": 829,
+          "like_count": 2727,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 1974
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "",
+        "id": "1859117911119720448",
+        "location": "日本 東京",
+        "name": "bp",
+        "pinned_tweet_id": "1860271173894045968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015743113537765376/MIqvsoh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 83,
+          "like_count": 3634,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 2648
+        },
+        "username": "wkJisbkkk0827",
+        "verified": false
+      }
+    ]
+  }
+}

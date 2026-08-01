@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2036930637261922329",
+    "created_at": "2026-03-25T22:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T23:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036931122022801839"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036931122022801839",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036930637261922329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个是朋友去年用qq的相机拍的，所以美颜可能有点奇怪，我今天突然翻到了，好感慨啊。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1036,
+        "media_key": "3_2036930622401503233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEShm-RbYAET5Gy.jpg",
+        "width": 1301
+      },
+      {
+        "height": 1655,
+        "media_key": "3_2036930622414086145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEShm-UbYAEiWTa.jpg",
+        "width": 1182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036930637261922329",
+        "created_at": "2026-03-25T22:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T23:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036931122022801839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036931122022801839",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036930637261922329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个是朋友去年用qq的相机拍的，所以美颜可能有点奇怪，我今天突然翻到了，好感慨啊。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036930622401503233",
+            "3_2036930622414086145"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036930637261922329",
+        "created_at": "2026-03-25T22:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T23:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036930637261922329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qSAWyI0tyd",
+              "end": 30,
+              "expanded_url": "https://x.com/mofuwo8964/status/2036930637261922329/photo/1",
+              "media_key": "3_2036930622401503233",
+              "start": 7,
+              "url": "https://t.co/qSAWyI0tyd"
+            },
+            {
+              "display_url": "pic.x.com/qSAWyI0tyd",
+              "end": 30,
+              "expanded_url": "https://x.com/mofuwo8964/status/2036930637261922329/photo/1",
+              "media_key": "3_2036930622414086145",
+              "start": 7,
+              "url": "https://t.co/qSAWyI0tyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036930637261922329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "腋窝粉嫩时候 https://t.co/qSAWyI0tyd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2626,
+          "following_count": 837,
+          "like_count": 2782,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 2059
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

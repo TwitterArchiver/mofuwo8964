@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2047358949498978674",
+    "created_at": "2026-04-23T19:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T20:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047399279535472788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1869190522759438336",
+          "start": 0,
+          "username": "worldneedsme33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047399279535472788",
+    "in_reply_to_user_id": "1869190522759438336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047388385107685405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@worldneedsme33 其实我是想说女儿服符合某些人的xp系统，难道就要因为规避被性凝视而放弃穿女儿服吗？就像有人的xp是内裤，为了防止这点就发明安全裤。如果有人的xp是安全裤难道还要再发明一个东西遮安全裤吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2047358949498978674",
+        "created_at": "2026-04-23T19:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T20:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047399279535472788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1869190522759438336",
+              "start": 0,
+              "username": "worldneedsme33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047399279535472788",
+        "in_reply_to_user_id": "1869190522759438336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047388385107685405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@worldneedsme33 其实我是想说女儿服符合某些人的xp系统，难道就要因为规避被性凝视而放弃穿女儿服吗？就像有人的xp是内裤，为了防止这点就发明安全裤。如果有人的xp是安全裤难道还要再发明一个东西遮安全裤吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869190522759438336",
+        "conversation_id": "2047358949498978674",
+        "created_at": "2026-04-23T18:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047388385107685405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047388385107685405",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047358949498978674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 女儿服不等于恋童癖不等于性凝视。不过有些逆天群体要强制划等号。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 864,
+          "like_count": 3158,
+          "listed_count": 6,
+          "media_count": 171,
+          "tweet_count": 2433
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-18T01:18:56.000Z",
+        "description": "人随春意泰( *｀ω´)/你是我心底的一小片潮湿/@gospel333333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "gospel333333"
+              }
+            ]
+          }
+        },
+        "id": "1869190522759438336",
+        "location": "2.3km",
+        "name": "福音（操你妈学校）",
+        "pinned_tweet_id": "1981437482865742254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886083398332223488/HLuUTrs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 230,
+          "like_count": 4958,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 6164
+        },
+        "username": "worldneedsme33",
+        "verified": false
+      }
+    ]
+  }
+}

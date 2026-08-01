@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2074547378506564055",
+    "created_at": "2026-07-07T17:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074547378506564055"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074547378506564055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "仔细想想我真正幸福的回忆应该是幼儿园吧 因为上了小学我好像就有很严重的cptsd症状了 如果一段记忆是好的，那就是带着阳光的暖融融的；如果记忆是坏的，那就是黯淡的焦黑的呛人的。但是从小学开始我的记忆就是这样焦黑的，不过从前的我给自己开了认知滤网，也像精神失常的ib一样，把那些肮脏的丑陋的踩在泥淖里的回忆美化了一遍，但是现在的我终于长大了，终于能够接受这个事实了；所以这样后知后觉的痛苦就无时不刻剜着我的心脏让我一直发痒抓挠直到皮肤红肿溃烂发脓为止，就是这样，就是这样幸福的回忆，也许是幸福的回忆但我愿意相信这个最幸福的回忆所以不得不是幸福的回忆，如果不是幸福的回忆的话，后果太严重了，所以必须幸福，必须假装幸福，必须装作幸福陶醉于幸福这样才行"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "仔细想想我真正幸福的回忆应该是幼儿园吧 因为上了小学我好像就有很严重的cptsd症状了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2074547378506564055",
+        "created_at": "2026-07-07T17:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074547378506564055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074547378506564055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "仔细想想我真正幸福的回忆应该是幼儿园吧 因为上了小学我好像就有很严重的cptsd症状了 如果一段记忆是好的，那就是带着阳光的暖融融的；如果记忆是坏的，那就是黯淡的焦黑的呛人的。但是从小学开始我的记忆就是这样焦黑的，不过从前的我给自己开了认知滤网，也像精神失常的ib一样，把那些肮脏的丑陋的踩在泥淖里的回忆美化了一遍，但是现在的我终于长大了，终于能够接受这个事实了；所以这样后知后觉的痛苦就无时不刻剜着我的心脏让我一直发痒抓挠直到皮肤红肿溃烂发脓为止，就是这样，就是这样幸福的回忆，也许是幸福的回忆但我愿意相信这个最幸福的回忆所以不得不是幸福的回忆，如果不是幸福的回忆的话，后果太严重了，所以必须幸福，必须假装幸福，必须装作幸福陶醉于幸福这样才行"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仔细想想我真正幸福的回忆应该是幼儿园吧 因为上了小学我好像就有很严重的cptsd症状了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 1013,
+          "like_count": 4396,
+          "listed_count": 6,
+          "media_count": 244,
+          "tweet_count": 3471
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

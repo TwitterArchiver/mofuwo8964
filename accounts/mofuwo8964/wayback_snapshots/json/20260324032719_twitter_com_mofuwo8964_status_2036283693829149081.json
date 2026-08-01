@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2036283693829149081",
+    "created_at": "2026-03-24T03:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T04:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036283693829149081"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036283693829149081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我昨天晚上真的特别特别难受，因为我发现不管我怎么美化父母的行为，怎么给他们的行为找理由，现在的我也没办法否认这些行为是虐待😞\n我之前去看心理医生的时候也自我感觉良好，现在想想应该是解离了…我昨天突然也发现我身上也发现了类似斯德哥尔摩的症状，否则我根本无法活下去。。\n\n当时我只觉得难受和痛苦，觉得不想被这么对待；现在我清醒些了才意识到我经历的事情到底是个什么概念…我觉得其实承认自己被虐待过是一件困难的事情，我之所以会想要亲近父母是因为当时的我没有选择，父母是我当时生活的一切，我现在完全没有办法接受这个事实，所以我要再吃一点氟硝西泮，让我睡着。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我昨天晚上真的特别特别难受，因为我发现不管我怎么美化父母的行为，怎么给他们的行为找理由，现在的我也没办法否认这些行为是虐待😞\n我之前去看心理医生的时候也自我感觉良好，现在想想应该是解离了…我昨天突然也发现我身上也发现了类似斯德哥尔摩的症状，否则我根本无法活下去。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2036283693829149081",
+        "created_at": "2026-03-24T03:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036283693829149081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036283693829149081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我昨天晚上真的特别特别难受，因为我发现不管我怎么美化父母的行为，怎么给他们的行为找理由，现在的我也没办法否认这些行为是虐待😞\n我之前去看心理医生的时候也自我感觉良好，现在想想应该是解离了…我昨天突然也发现我身上也发现了类似斯德哥尔摩的症状，否则我根本无法活下去。。\n\n当时我只觉得难受和痛苦，觉得不想被这么对待；现在我清醒些了才意识到我经历的事情到底是个什么概念…我觉得其实承认自己被虐待过是一件困难的事情，我之所以会想要亲近父母是因为当时的我没有选择，父母是我当时生活的一切，我现在完全没有办法接受这个事实，所以我要再吃一点氟硝西泮，让我睡着。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我昨天晚上真的特别特别难受，因为我发现不管我怎么美化父母的行为，怎么给他们的行为找理由，现在的我也没办法否认这些行为是虐待😞\n我之前去看心理医生的时候也自我感觉良好，现在想想应该是解离了…我昨天突然也发现我身上也发现了类似斯德哥尔摩的症状，否则我根本无法活下去。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2611,
+          "following_count": 829,
+          "like_count": 2726,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 1971
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

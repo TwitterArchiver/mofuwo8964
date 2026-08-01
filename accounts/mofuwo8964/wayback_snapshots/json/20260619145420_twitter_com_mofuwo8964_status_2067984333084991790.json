@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067984328894861312"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067984333084991790",
+    "created_at": "2026-06-19T14:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067984333084991790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9wcynzPyub",
+          "end": 66,
+          "expanded_url": "https://x.com/mofuwo8964/status/2067984333084991790/photo/1",
+          "media_key": "3_2067984328894861312",
+          "start": 43,
+          "url": "https://t.co/9wcynzPyub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067984333084991790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "然后你死了，我死了，爸爸妈妈死了，我们都死了。卷曲着死了笔直的死了，落到海洋里融化了 https://t.co/9wcynzPyub"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1575,
+        "media_key": "3_2067984328894861312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLL0ylzaUAA-X7U.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067984328894861312"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067984333084991790",
+        "created_at": "2026-06-19T14:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067984333084991790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wcynzPyub",
+              "end": 66,
+              "expanded_url": "https://x.com/mofuwo8964/status/2067984333084991790/photo/1",
+              "media_key": "3_2067984328894861312",
+              "start": 43,
+              "url": "https://t.co/9wcynzPyub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067984333084991790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "然后你死了，我死了，爸爸妈妈死了，我们都死了。卷曲着死了笔直的死了，落到海洋里融化了 https://t.co/9wcynzPyub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3113,
+          "following_count": 984,
+          "like_count": 4061,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 3226
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

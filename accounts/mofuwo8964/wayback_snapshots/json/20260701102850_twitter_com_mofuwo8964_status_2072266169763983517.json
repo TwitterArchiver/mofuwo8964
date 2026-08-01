@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072266164340953088"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2072266169763983517",
+    "created_at": "2026-07-01T10:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072266169763983517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/peWaPD9qgx",
+          "end": 63,
+          "expanded_url": "https://x.com/mofuwo8964/status/2072266169763983517/photo/1",
+          "media_key": "3_2072266164340953088",
+          "start": 40,
+          "url": "https://t.co/peWaPD9qgx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072266169763983517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "*快吃完才想起来拍照片\n为什么要在推特上发泔水和剩饭？我并不知道自己是怎么了。 https://t.co/peWaPD9qgx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072266164340953088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIrGN2akAAdkqB.jpg",
+        "width": 1947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072266164340953088"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072266169763983517",
+        "created_at": "2026-07-01T10:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072266169763983517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/peWaPD9qgx",
+              "end": 63,
+              "expanded_url": "https://x.com/mofuwo8964/status/2072266169763983517/photo/1",
+              "media_key": "3_2072266164340953088",
+              "start": 40,
+              "url": "https://t.co/peWaPD9qgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072266169763983517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "*快吃完才想起来拍照片\n为什么要在推特上发泔水和剩饭？我并不知道自己是怎么了。 https://t.co/peWaPD9qgx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 1012,
+          "like_count": 4318,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 3403
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

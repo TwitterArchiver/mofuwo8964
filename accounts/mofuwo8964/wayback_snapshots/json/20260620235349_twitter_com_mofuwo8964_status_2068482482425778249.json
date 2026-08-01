@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2068189001471955313",
+    "created_at": "2026-06-20T23:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T00:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068482482425778249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "794907212824969216",
+          "start": 0,
+          "username": "eeffieLL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068482482425778249",
+    "in_reply_to_user_id": "794907212824969216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068481744106553717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eeffieLL 啊啊啊啊宝宝你是一个全世界平均智商最高的中国人🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2068189001471955313",
+        "created_at": "2026-06-20T23:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T00:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068482482425778249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "794907212824969216",
+              "start": 0,
+              "username": "eeffieLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068482482425778249",
+        "in_reply_to_user_id": "794907212824969216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068481744106553717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eeffieLL 啊啊啊啊宝宝你是一个全世界平均智商最高的中国人🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "794907212824969216",
+        "conversation_id": "2068189001471955313",
+        "created_at": "2026-06-20T23:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T00:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068481744106553717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068481744106553717",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068189001471955313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 你是不是傻逼啊，中国人是全世界平均智商最高的 什么时候需要你盖章蠢不蠢了。你哪位啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3132,
+          "following_count": 988,
+          "like_count": 4083,
+          "listed_count": 6,
+          "media_count": 231,
+          "tweet_count": 3273
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-05T14:20:23.000Z",
+        "description": "",
+        "id": "794907212824969216",
+        "name": "家在农村喜欢奔跑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1238972463611908096/59PDEx0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 139,
+          "like_count": 7322,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 1219
+        },
+        "url": "",
+        "username": "eeffieLL",
+        "verified": false
+      }
+    ]
+  }
+}

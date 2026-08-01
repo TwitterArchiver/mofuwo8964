@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2053319346412552612",
+    "created_at": "2026-05-10T08:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053389378576363905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1906294804075442177",
+          "start": 0,
+          "username": "cbfcwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053389378576363905",
+    "in_reply_to_user_id": "1906294804075442177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053389264466088189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cbfcwt 我给你找找"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2053319346412552612",
+        "created_at": "2026-05-10T08:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053389378576363905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1906294804075442177",
+              "start": 0,
+              "username": "cbfcwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053389378576363905",
+        "in_reply_to_user_id": "1906294804075442177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053389264466088189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cbfcwt 我给你找找"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906294804075442177",
+        "conversation_id": "2053319346412552612",
+        "created_at": "2026-05-10T08:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053389264466088189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053389264466088189",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053319346412552612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 老师 想问问是什么本子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2808,
+          "following_count": 882,
+          "like_count": 3509,
+          "listed_count": 6,
+          "media_count": 181,
+          "tweet_count": 2652
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-30T10:38:07.000Z",
+        "description": "",
+        "id": "1906294804075442177",
+        "name": "幸运鸡肉卷",
+        "pinned_tweet_id": "1910459569832419375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047417897413451776/uGk6BsM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 771,
+          "like_count": 1915,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1283
+        },
+        "username": "cbfcwt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073326412392726528"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2073326416876482688",
+    "created_at": "2026-07-04T08:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T09:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073326416876482688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eRgPbrMrLU",
+          "end": 63,
+          "expanded_url": "https://x.com/mofuwo8964/status/2073326416876482688/photo/1",
+          "media_key": "3_2073326412392726528",
+          "start": 40,
+          "url": "https://t.co/eRgPbrMrLU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073326416876482688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这就是无房无车欠款1000元存款254.09的小日子留学生一天中唯一的奢侈品… https://t.co/eRgPbrMrLU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073326412392726528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXvYxoagAACO-J.jpg",
+        "width": 1942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073326412392726528"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073326416876482688",
+        "created_at": "2026-07-04T08:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073326416876482688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eRgPbrMrLU",
+              "end": 63,
+              "expanded_url": "https://x.com/mofuwo8964/status/2073326416876482688/photo/1",
+              "media_key": "3_2073326412392726528",
+              "start": 40,
+              "url": "https://t.co/eRgPbrMrLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073326416876482688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是无房无车欠款1000元存款254.09的小日子留学生一天中唯一的奢侈品… https://t.co/eRgPbrMrLU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3166,
+          "following_count": 1014,
+          "like_count": 4352,
+          "listed_count": 6,
+          "media_count": 234,
+          "tweet_count": 3429
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

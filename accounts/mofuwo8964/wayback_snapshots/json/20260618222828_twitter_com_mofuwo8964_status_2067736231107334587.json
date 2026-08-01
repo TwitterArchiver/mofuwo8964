@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067437749821649152",
+    "created_at": "2026-06-18T22:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T23:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067736231107334587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1958074539474305024",
+          "start": 0,
+          "username": "miyagiizumi777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067736231107334587",
+    "in_reply_to_user_id": "1958074539474305024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067449447492321741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyagiizumi777 我是一个菜鸡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067437749821649152",
+        "created_at": "2026-06-18T22:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T23:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067736231107334587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1958074539474305024",
+              "start": 0,
+              "username": "miyagiizumi777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067736231107334587",
+        "in_reply_to_user_id": "1958074539474305024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067449447492321741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyagiizumi777 我是一个菜鸡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958074539474305024",
+        "conversation_id": "2067437749821649152",
+        "created_at": "2026-06-18T03:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067449447492321741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067449447492321741",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 398,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067437749821649152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 其实可以的 去年有学生280同志社A奖学金"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3114,
+          "following_count": 984,
+          "like_count": 3986,
+          "listed_count": 6,
+          "media_count": 229,
+          "tweet_count": 3171
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-20T07:52:13.000Z",
+        "description": "🚹 東京 🇨🇳｜🔞音声 直男 裏垢男子 ｜ 第五世｜超级老鼠转世的奇妙河童｜爆裂魔法操作使|滥性滥情 承認欲求の塊| 不要对我有太多占有欲 ｜裏垢@Miyagiinside 52R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Miyagiinside"
+              }
+            ]
+          }
+        },
+        "id": "1958074539474305024",
+        "location": "日本 東京",
+        "name": "宮城いずみ",
+        "pinned_tweet_id": "2064260142217212335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005620306237607936/bbssjMu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4678,
+          "following_count": 85,
+          "like_count": 10183,
+          "listed_count": 7,
+          "media_count": 141,
+          "tweet_count": 1185
+        },
+        "url": "",
+        "username": "miyagiizumi777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037142857627426816",
+        "3_2037142857627426817"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037142871334412455",
+    "created_at": "2026-03-26T12:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037142871334412455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pr74dlzNCj",
+          "end": 28,
+          "expanded_url": "https://x.com/mofuwo8964/status/2037142871334412455/photo/1",
+          "media_key": "3_2037142857627426816",
+          "start": 5,
+          "url": "https://t.co/pr74dlzNCj"
+        },
+        {
+          "display_url": "pic.x.com/pr74dlzNCj",
+          "end": 28,
+          "expanded_url": "https://x.com/mofuwo8964/status/2037142871334412455/photo/1",
+          "media_key": "3_2037142857627426817",
+          "start": 5,
+          "url": "https://t.co/pr74dlzNCj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037142871334412455",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素质夫妻 https://t.co/pr74dlzNCj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2037142857627426816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEViosGbYAARTrx.jpg",
+        "width": 626
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2037142857627426817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEViosGbYAEhIb-.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037142857627426816",
+            "3_2037142857627426817"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037142871334412455",
+        "created_at": "2026-03-26T12:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037142871334412455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pr74dlzNCj",
+              "end": 28,
+              "expanded_url": "https://x.com/mofuwo8964/status/2037142871334412455/photo/1",
+              "media_key": "3_2037142857627426816",
+              "start": 5,
+              "url": "https://t.co/pr74dlzNCj"
+            },
+            {
+              "display_url": "pic.x.com/pr74dlzNCj",
+              "end": 28,
+              "expanded_url": "https://x.com/mofuwo8964/status/2037142871334412455/photo/1",
+              "media_key": "3_2037142857627426817",
+              "start": 5,
+              "url": "https://t.co/pr74dlzNCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037142871334412455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素质夫妻 https://t.co/pr74dlzNCj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 846,
+          "like_count": 2812,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 2095
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

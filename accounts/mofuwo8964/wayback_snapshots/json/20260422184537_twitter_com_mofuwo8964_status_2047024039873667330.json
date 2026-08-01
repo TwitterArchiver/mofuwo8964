@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2047024039873667330",
+    "created_at": "2026-04-22T18:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T19:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047024039873667330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hunsng218715/s…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/hunsng218715/status/2044903982653395410",
+          "start": 132,
+          "url": "https://t.co/9SiUhwxRpN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047024039873667330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044903982653395410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说白了ai绘画到底算什么绘画啊？只是在把别人的心血和创作变成工具吧…用程序和指令把别人的东西剽窃过来自己使用，到底有什么资格说这算是“创作”又有什么资格沾沾自喜，我看到ai绘画只觉得恐怖，这种栩栩如生但细看全部都是尸块拼凑出来的“艺术”我根本就欣赏不来，令人作呕 https://t.co/9SiUhwxRpN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1559,
+        "media_key": "3_2044903963724513280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGD1UhWWgAA6c2A.jpg",
+        "width": 1353
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2047024039873667330",
+        "created_at": "2026-04-22T18:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047024039873667330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hunsng218715/s…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/hunsng218715/status/2044903982653395410",
+              "start": 132,
+              "url": "https://t.co/9SiUhwxRpN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047024039873667330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044903982653395410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说白了ai绘画到底算什么绘画啊？只是在把别人的心血和创作变成工具吧…用程序和指令把别人的东西剽窃过来自己使用，到底有什么资格说这算是“创作”又有什么资格沾沾自喜，我看到ai绘画只觉得恐怖，这种栩栩如生但细看全部都是尸块拼凑出来的“艺术”我根本就欣赏不来，令人作呕 https://t.co/9SiUhwxRpN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044903963724513280"
+          ]
+        },
+        "author_id": "1664707712146616320",
+        "conversation_id": "2044903982653395410",
+        "created_at": "2026-04-16T22:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T23:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044903982653395410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBVDEC2DxL",
+              "end": 23,
+              "expanded_url": "https://x.com/hunsng218715/status/2044903982653395410/photo/1",
+              "media_key": "3_2044903963724513280",
+              "start": 0,
+              "url": "https://t.co/FBVDEC2DxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044903982653395410",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1617,
+          "impression_count": 6860923,
+          "like_count": 20475,
+          "quote_count": 483,
+          "reply_count": 232,
+          "retweet_count": 2156
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FBVDEC2DxL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 865,
+          "like_count": 3143,
+          "listed_count": 6,
+          "media_count": 169,
+          "tweet_count": 2428
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-02T18:57:48.000Z",
+        "description": "使用翻译器\nIdentityV同人创作者\n🇨🇳\n📮🎨/🎨🎨⭕️\n⚰️📮❌\nAI🚫",
+        "id": "1664707712146616320",
+        "name": "梅雨",
+        "pinned_tweet_id": "2027017971722526813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967470023527809024/LDMVJKan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 91,
+          "like_count": 916,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 888
+        },
+        "username": "hunsng218715",
+        "verified": false
+      }
+    ]
+  }
+}

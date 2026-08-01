@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2066696225253143007",
+    "created_at": "2026-06-16T06:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066769053696541089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1520390483998310400",
+          "start": 0,
+          "username": "melonsakana_00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066769053696541089",
+    "in_reply_to_user_id": "1520390483998310400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066759626662769135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@melonsakana_00 玫瑰柄大好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2066696225253143007",
+        "created_at": "2026-06-16T06:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066769053696541089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1520390483998310400",
+              "start": 0,
+              "username": "melonsakana_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066769053696541089",
+        "in_reply_to_user_id": "1520390483998310400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066759626662769135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@melonsakana_00 玫瑰柄大好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520390483998310400",
+        "conversation_id": "2066696225253143007",
+        "created_at": "2026-06-16T05:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066759626662769135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066759626662769135",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066696225253143007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 加油宝宝，我也想买玫瑰柄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3077,
+          "following_count": 975,
+          "like_count": 3935,
+          "listed_count": 6,
+          "media_count": 223,
+          "tweet_count": 3104
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-30T13:12:28.000Z",
+        "description": "無言フォロー失礼します #fetish #illustration #acgn #latex\n明日方舟/玩点胶衣和别的/20代♀ /bdsm元素🈶/021活动/\n画点画\n同好女生扩列大欢迎💗",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 12,
+                "tag": "fetish"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "tag": "illustration"
+              },
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "acgn"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "latex"
+              }
+            ]
+          }
+        },
+        "id": "1520390483998310400",
+        "location": " end  of  the world",
+        "name": "玫珑鱼🍈🍈",
+        "pinned_tweet_id": "2063251310712090669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920761646567301120/w8mT_Gwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2336,
+          "following_count": 2623,
+          "like_count": 14650,
+          "listed_count": 9,
+          "media_count": 35,
+          "tweet_count": 1731
+        },
+        "username": "melonsakana_00",
+        "verified": false
+      }
+    ]
+  }
+}

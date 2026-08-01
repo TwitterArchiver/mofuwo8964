@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2067860351480442889",
+    "created_at": "2026-06-19T09:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067903285282116087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1927719203571920896",
+          "start": 0,
+          "username": "KingOfZhumadian"
+        },
+        {
+          "end": 30,
+          "id": "1722143596764409856",
+          "start": 17,
+          "username": "unagi1878820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067903285282116087",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067902969568432303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KingOfZhumadian @unagi1878820 日本人向けじゃん"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067860351480442889",
+        "created_at": "2026-06-19T09:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067903285282116087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1927719203571920896",
+              "start": 0,
+              "username": "KingOfZhumadian"
+            },
+            {
+              "end": 30,
+              "id": "1722143596764409856",
+              "start": 17,
+              "username": "unagi1878820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067903285282116087",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067902969568432303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KingOfZhumadian @unagi1878820 日本人向けじゃん"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2067860351480442889",
+        "created_at": "2026-06-19T09:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067902969568432303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1927719203571920896",
+              "start": 0,
+              "username": "KingOfZhumadian"
+            },
+            {
+              "end": 30,
+              "id": "1722143596764409856",
+              "start": 17,
+              "username": "unagi1878820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067902969568432303",
+        "in_reply_to_user_id": "1927719203571920896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067885359682515099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KingOfZhumadian @unagi1878820 関係ないけど取引垢でこういう暴言を言ってしまって本当に大丈夫かな別に"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3113,
+          "following_count": 984,
+          "like_count": 4048,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 3211
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-28T13:31:38.000Z",
+        "description": "反貧民社会ダーウィン主義者 反サロ ネオリベ 反支 極端政治ガチ派 JPN/ENG/CHN 好物：百合,NTT,JCB,ソニー,Apple 支持习近平统治🕷️。旧東大(TUSW) BA (Summer Cum Latte) 開智大学",
+        "id": "1927719203571920896",
+        "location": "🔪🕷️店之王",
+        "name": "🔪🕷️店之王",
+        "pinned_tweet_id": "2038245868042920064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927733495167946752/kfpfqEZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 957,
+          "like_count": 36174,
+          "listed_count": 3,
+          "media_count": 309,
+          "tweet_count": 15352
+        },
+        "url": "",
+        "username": "KingOfZhumadian",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-08T06:46:51.000Z",
+        "description": "グッズ取引用 垢 paypay，銀行振り込み可能",
+        "id": "1722143596764409856",
+        "name": "うなぎ．グッズ取引垢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722143701148053504/GE6Nhkdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 22,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "unagi1878820",
+        "verified": false
+      }
+    ]
+  }
+}

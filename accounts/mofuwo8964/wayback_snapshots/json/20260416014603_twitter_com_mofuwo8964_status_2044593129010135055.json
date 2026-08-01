@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044593129010135055",
+    "created_at": "2026-04-16T01:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044593129010135055"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044593129010135055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我感觉我真的无法共情人类 但我可以共情动物 因为我也不知道人类的行为逻辑 我是真的不知道 有时候也是真的听不懂人说话 而且我说话经常会被人误会 不是一次两次那种…我真的完全没办法理解人类的行为 我经常对我是人类的身份以及要作为人类生活这件事感到很痛苦，真的很痛苦，我和人相互之间根本无法理解彼此，我一直在观察在学习人的言行举止 但其实我真的不太明白…我能明白他们的逻辑但是为什么这个逻辑和我想的结果不一样呢"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉我真的无法共情人类 但我可以共情动物 因为我也不知道人类的行为逻辑 我是真的不知道 有时候也是真的听不懂人说话 而且我说话经常会被人误会 不是一次两次那种…我真的完全没办法理解人类的行为"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044593129010135055",
+        "created_at": "2026-04-16T01:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044593129010135055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044593129010135055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我感觉我真的无法共情人类 但我可以共情动物 因为我也不知道人类的行为逻辑 我是真的不知道 有时候也是真的听不懂人说话 而且我说话经常会被人误会 不是一次两次那种…我真的完全没办法理解人类的行为 我经常对我是人类的身份以及要作为人类生活这件事感到很痛苦，真的很痛苦，我和人相互之间根本无法理解彼此，我一直在观察在学习人的言行举止 但其实我真的不太明白…我能明白他们的逻辑但是为什么这个逻辑和我想的结果不一样呢"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我真的无法共情人类 但我可以共情动物 因为我也不知道人类的行为逻辑 我是真的不知道 有时候也是真的听不懂人说话 而且我说话经常会被人误会 不是一次两次那种…我真的完全没办法理解人类的行为"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿自闭症患者发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2635,
+          "following_count": 854,
+          "like_count": 2977,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 2283
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

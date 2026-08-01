@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037065129624580474",
+    "created_at": "2026-03-26T07:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T08:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037065129624580474"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037065129624580474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我觉得雌激素真好，摄入雌激素是一种伟大的行为，额我觉得我能一定程度理解跨女的性别焦虑，因为我之前因为激素出问题了之后下巴开始长稀疏的那种像胡子的硬毛，而且身上的毛变多变长也几个月不来月经（虽然我很讨厌来月经，但是真不来月经我又会急哭）并且皮肤变得很差一直在长痘…声音也变粗了，我就感到很恐慌很不适应，我特别讨厌我身上出现一切男性化特征，我每天照镜子看到之后就特别难受，但自从去开了雌激素之后觉得症状产生了极大程度的缓解，就没那么焦虑了，我觉得我还是对传统意义上的女性的身份有很大的认同感和归属感的，并非是作为一种区分，而是作为一种群体归属感吧，大概，我说不上来。。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得雌激素真好，摄入雌激素是一种伟大的行为，额我觉得我能一定程度理解跨女的性别焦虑，因为我之前因为激素出问题了之后下巴开始长稀疏的那种像胡子的硬毛，而且身上的毛变多变长也几个月不来月经（虽然我很讨厌来月经，但是真不来月经我又会急哭）并且皮肤变得很差一直在长痘…声音也变粗了，我就"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037065129624580474",
+        "created_at": "2026-03-26T07:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037065129624580474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037065129624580474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得雌激素真好，摄入雌激素是一种伟大的行为，额我觉得我能一定程度理解跨女的性别焦虑，因为我之前因为激素出问题了之后下巴开始长稀疏的那种像胡子的硬毛，而且身上的毛变多变长也几个月不来月经（虽然我很讨厌来月经，但是真不来月经我又会急哭）并且皮肤变得很差一直在长痘…声音也变粗了，我就感到很恐慌很不适应，我特别讨厌我身上出现一切男性化特征，我每天照镜子看到之后就特别难受，但自从去开了雌激素之后觉得症状产生了极大程度的缓解，就没那么焦虑了，我觉得我还是对传统意义上的女性的身份有很大的认同感和归属感的，并非是作为一种区分，而是作为一种群体归属感吧，大概，我说不上来。。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得雌激素真好，摄入雌激素是一种伟大的行为，额我觉得我能一定程度理解跨女的性别焦虑，因为我之前因为激素出问题了之后下巴开始长稀疏的那种像胡子的硬毛，而且身上的毛变多变长也几个月不来月经（虽然我很讨厌来月经，但是真不来月经我又会急哭）并且皮肤变得很差一直在长痘…声音也变粗了，我就"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜喜欢自说自话｜精神障害者 ｜需要互fo可以私信有时候不看小铃铛｜",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2625,
+          "following_count": 846,
+          "like_count": 2802,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 2081
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

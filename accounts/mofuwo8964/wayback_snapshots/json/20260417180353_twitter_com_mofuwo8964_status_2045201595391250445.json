@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2044907190276989218",
+    "created_at": "2026-04-17T18:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T19:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045201595391250445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1535196633079631872",
+          "start": 0,
+          "username": "MG42_DoraemonHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045201595391250445",
+    "in_reply_to_user_id": "1535196633079631872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045084022280454513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MG42_DoraemonHD 可以知道写的什么东西但是读起来太费劲了，以后再也不用日语了，气哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2044907190276989218",
+        "created_at": "2026-04-17T18:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045201595391250445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1535196633079631872",
+              "start": 0,
+              "username": "MG42_DoraemonHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045201595391250445",
+        "in_reply_to_user_id": "1535196633079631872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045084022280454513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MG42_DoraemonHD 可以知道写的什么东西但是读起来太费劲了，以后再也不用日语了，气哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535196633079631872",
+        "conversation_id": "2044907190276989218",
+        "created_at": "2026-04-17T10:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045084022280454513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045084022280454513",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044907190276989218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 全都是假名。最后自己也看不懂了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2044128538429968621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2643,
+          "following_count": 857,
+          "like_count": 3073,
+          "listed_count": 5,
+          "media_count": 164,
+          "tweet_count": 2347
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-10T09:46:24.000Z",
+        "description": "すべての新鮮なものが好きだ",
+        "id": "1535196633079631872",
+        "name": "【MG42】DoraemonHD05",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003363458004451328/gmFFfVhX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 86,
+          "like_count": 121,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1466
+        },
+        "username": "MG42_DoraemonHD",
+        "verified": false
+      }
+    ]
+  }
+}

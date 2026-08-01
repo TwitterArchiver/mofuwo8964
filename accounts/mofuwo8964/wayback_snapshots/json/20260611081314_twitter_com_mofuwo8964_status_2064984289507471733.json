@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064984284587589632"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2064984289507471733",
+    "created_at": "2026-06-11T08:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064984289507471733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q4x5ezeFF3",
+          "end": 23,
+          "expanded_url": "https://x.com/mofuwo8964/status/2064984289507471733/photo/1",
+          "media_key": "3_2064984284587589632",
+          "start": 0,
+          "url": "https://t.co/Q4x5ezeFF3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064984289507471733",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Q4x5ezeFF3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2064984284587589632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhMRB2bgAAk8XX.jpg",
+        "width": 1387
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064984284587589632"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2064984289507471733",
+        "created_at": "2026-06-11T08:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064984289507471733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q4x5ezeFF3",
+              "end": 23,
+              "expanded_url": "https://x.com/mofuwo8964/status/2064984289507471733/photo/1",
+              "media_key": "3_2064984284587589632",
+              "start": 0,
+              "url": "https://t.co/Q4x5ezeFF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064984289507471733",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Q4x5ezeFF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "精神残疾｜ひとりごと|愚痴｜我开了一个账号记录我的…生活…？@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "バツバツつちゃん",
+        "pinned_tweet_id": "2063566067394552092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064501368073912320/fNr4qCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 935,
+          "like_count": 3839,
+          "listed_count": 7,
+          "media_count": 207,
+          "tweet_count": 2976
+        },
+        "username": "mofuwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

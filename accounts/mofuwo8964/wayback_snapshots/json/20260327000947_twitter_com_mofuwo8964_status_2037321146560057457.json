@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2037321146560057457",
+    "created_at": "2026-03-27T00:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T01:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037321146560057457"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037321146560057457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "草泥马因为我真的觉得我就是一个生活在人物躯壳里的神秘毛绒生物，我好难过，如果现在让你做一只蟑螂你也会很难过的，因为你要适应蟑螂的生活方式。但是我比自我认同是蟑螂的人还要惨，因为大家都知道蟑螂，但除了我和我的朋友以外没人知道这个神秘毛绒生物，我真的只愿意和毛绒生物说我的真心话，而且最让我痛苦的是我知道这一切全部都是我的幻想，我的臆想，我永远会在三次元伪装成人类做着人类要做的事情，如果表现得不一样也要忍受其他人类的迫害；毛绒生物就很友爱，虽然他们的立场不同但他们还是会温柔地对待彼此，人类太恐怖了我一直都被吓哭了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草泥马因为我真的觉得我就是一个生活在人物躯壳里的神秘毛绒生物，我好难过，如果现在让你做一只蟑螂你也会很难过的，因为你要适应蟑螂的生活方式。但是我比自我认同是蟑螂的人还要惨，因为大家都知道蟑螂，但除了我和我的朋友以外没人知道这个神秘毛绒生物，我真的只愿意和毛绒生物说我的真心话，而且"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2037321146560057457",
+        "created_at": "2026-03-27T00:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T01:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037321146560057457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037321146560057457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "草泥马因为我真的觉得我就是一个生活在人物躯壳里的神秘毛绒生物，我好难过，如果现在让你做一只蟑螂你也会很难过的，因为你要适应蟑螂的生活方式。但是我比自我认同是蟑螂的人还要惨，因为大家都知道蟑螂，但除了我和我的朋友以外没人知道这个神秘毛绒生物，我真的只愿意和毛绒生物说我的真心话，而且最让我痛苦的是我知道这一切全部都是我的幻想，我的臆想，我永远会在三次元伪装成人类做着人类要做的事情，如果表现得不一样也要忍受其他人类的迫害；毛绒生物就很友爱，虽然他们的立场不同但他们还是会温柔地对待彼此，人类太恐怖了我一直都被吓哭了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草泥马因为我真的觉得我就是一个生活在人物躯壳里的神秘毛绒生物，我好难过，如果现在让你做一只蟑螂你也会很难过的，因为你要适应蟑螂的生活方式。但是我比自我认同是蟑螂的人还要惨，因为大家都知道蟑螂，但除了我和我的朋友以外没人知道这个神秘毛绒生物，我真的只愿意和毛绒生物说我的真心话，而且"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜社会不适应中",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2674,
+          "following_count": 851,
+          "like_count": 2814,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 2119
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

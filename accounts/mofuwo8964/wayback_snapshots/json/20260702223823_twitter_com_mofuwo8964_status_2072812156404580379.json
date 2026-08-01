@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2072812156404580379",
+    "created_at": "2026-07-02T22:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T23:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072812156404580379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4677053179",
+          "start": 3,
+          "username": "Nohomework0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072812156404580379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072675919303704923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nohomework0: 我早就说，社会好不容易筛选出来了能吃苦的你，会这样轻易让你享福吗😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2072812156404580379",
+        "created_at": "2026-07-02T22:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T23:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072812156404580379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4677053179",
+              "start": 3,
+              "username": "Nohomework0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072812156404580379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072675919303704923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nohomework0: 我早就说，社会好不容易筛选出来了能吃苦的你，会这样轻易让你享福吗😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4677053179",
+        "conversation_id": "2072675919303704923",
+        "created_at": "2026-07-02T13:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072675919303704923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/struct_zhang/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/struct_zhang/status/2072492922834997456",
+              "start": 34,
+              "url": "https://t.co/kEdTwfwJfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072675919303704923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1708,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072492922834997456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我早就说，社会好不容易筛选出来了能吃苦的你，会这样轻易让你享福吗😁 https://t.co/kEdTwfwJfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3172,
+          "following_count": 1013,
+          "like_count": 4334,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 3419
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-30T07:53:28.000Z",
+        "description": "万年单身但也不要和你在一起/告诉你不为人知的故事/不线下游玩/不加vx/我一点也不可爱/喜欢看樱桃小丸子/只狼，怪猎玩家/独立游戏爱好者/键政人远离，否则block/年糕精灵",
+        "id": "4677053179",
+        "name": "双层牛肉汉堡",
+        "pinned_tweet_id": "1277715332564545536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263655317541236736/CJJovtRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5256,
+          "following_count": 3532,
+          "like_count": 12987,
+          "listed_count": 28,
+          "media_count": 1947,
+          "tweet_count": 27420
+        },
+        "url": "",
+        "username": "Nohomework0",
+        "verified": false
+      }
+    ]
+  }
+}

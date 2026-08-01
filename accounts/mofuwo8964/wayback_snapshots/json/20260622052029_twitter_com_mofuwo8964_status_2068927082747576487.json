@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068927078213525504"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068927082747576487",
+    "created_at": "2026-06-22T05:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T06:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068927082747576487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pOvzeG1tAx",
+          "end": 29,
+          "expanded_url": "https://x.com/mofuwo8964/status/2068927082747576487/photo/1",
+          "media_key": "3_2068927078213525504",
+          "start": 6,
+          "url": "https://t.co/pOvzeG1tAx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068927082747576487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "性变态来了 https://t.co/pOvzeG1tAx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1896,
+        "media_key": "3_2068927078213525504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZON0saoAA45oY.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068927078213525504"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068927082747576487",
+        "created_at": "2026-06-22T05:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068927082747576487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pOvzeG1tAx",
+              "end": 29,
+              "expanded_url": "https://x.com/mofuwo8964/status/2068927082747576487/photo/1",
+              "media_key": "3_2068927078213525504",
+              "start": 6,
+              "url": "https://t.co/pOvzeG1tAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068927082747576487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性变态来了 https://t.co/pOvzeG1tAx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜你好我是残疾人｜神必小号@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067253957026775040/7h3RjKHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3139,
+          "following_count": 990,
+          "like_count": 4101,
+          "listed_count": 6,
+          "media_count": 235,
+          "tweet_count": 3287
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

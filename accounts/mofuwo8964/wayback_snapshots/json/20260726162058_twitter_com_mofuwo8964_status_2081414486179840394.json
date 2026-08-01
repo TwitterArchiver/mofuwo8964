@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081414414792851456"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2081414486179840394",
+    "created_at": "2026-07-26T16:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081414486179840394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c8EgwM2i1o",
+          "end": 29,
+          "expanded_url": "https://x.com/mofuwo8964/status/2081414486179840394/video/1",
+          "media_key": "13_2081414414792851456",
+          "start": 6,
+          "url": "https://t.co/c8EgwM2i1o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081414486179840394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "迷雾，粉色 https://t.co/c8EgwM2i1o"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13068,
+        "height": 1280,
+        "media_key": "13_2081414414792851456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081414414792851456/img/IYgu4UNK1vDgaaOv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081414414792851456/vid/avc1/320x568/JhGHGesovhHk7rWw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081414414792851456/vid/avc1/480x852/lT7nnaSfX_HhERea.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081414414792851456/vid/avc1/720x1280/GAqAuhHuVZUkd_MN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081414414792851456/pl/ZcJx_KIWoP6uyctS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081414414792851456"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2081414486179840394",
+        "created_at": "2026-07-26T16:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081414486179840394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8EgwM2i1o",
+              "end": 29,
+              "expanded_url": "https://x.com/mofuwo8964/status/2081414486179840394/video/1",
+              "media_key": "13_2081414414792851456",
+              "start": 6,
+              "url": "https://t.co/c8EgwM2i1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081414486179840394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迷雾，粉色 https://t.co/c8EgwM2i1o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 1014,
+          "like_count": 4422,
+          "listed_count": 3,
+          "media_count": 250,
+          "tweet_count": 3488
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}
