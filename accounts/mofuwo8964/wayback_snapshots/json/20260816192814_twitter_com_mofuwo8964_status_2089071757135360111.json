@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2089071757135360111",
+    "created_at": "2026-08-16T19:28:14.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T20:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089071757135360111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2089071475072598351",
+          "start": 29,
+          "url": "https://t.co/79FOAGwCoP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089071757135360111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089071475072598351",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在觉得好那个啊因为这个是真的喜欢了十几年的纸片人😔😔😔 https://t.co/79FOAGwCoP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2089071757135360111",
+        "created_at": "2026-08-16T19:28:14.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T20:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089071757135360111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2089071475072598351",
+              "start": 29,
+              "url": "https://t.co/79FOAGwCoP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089071757135360111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089071475072598351",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在觉得好那个啊因为这个是真的喜欢了十几年的纸片人😔😔😔 https://t.co/79FOAGwCoP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2089071475072598351",
+        "created_at": "2026-08-16T19:27:07.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T20:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089071475072598351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089071475072598351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "yys这次和言和联动看得我不得不孝一个648了，你们不觉得这样的女孩很可怜吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2089071757135360111",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3114,
+          "following_count": 993,
+          "like_count": 4452,
+          "listed_count": 3,
+          "media_count": 254,
+          "tweet_count": 3508
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

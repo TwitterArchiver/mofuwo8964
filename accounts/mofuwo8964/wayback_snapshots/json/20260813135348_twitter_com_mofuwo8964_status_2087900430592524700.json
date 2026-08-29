@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2087900430592524700",
+    "created_at": "2026-08-13T13:53:48.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T14:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087900430592524700"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087900430592524700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你们知道我今天遭遇了什么吗🙃\n在成田等skyliner（17:02）的时候突然通知skyliner和京成线都无了，然后我就懵懵的，但还是去退了票，买了巴士的票，很多游客在站台还没有反应过来（也有可能是听不懂日语）\n我去买巴士票的时候已经有点人排队了，当时本着草泥马我要回家的心情就去了自动发售的机器，然后狗运买到了18:20发车的最后一张票。\n在路上的时候雨大的特别吓人，能见度很低而且有点积水，然后所有人的手机一起wer拉wer拉的响山体滑坡泥石流什么的警报，点开谷歌地图发现全都是四级预警，周围电闪雷鸣的还宛若开船，我在车上真的特别害怕。不过到都内就慢慢好了TT\n（当时路上还不是特别堵，回家看了眼红薯发现巴士也无了）\nnerv也发警报了，是啥忘了。\n总之极端天气真的很吓人TT希望千叶没事"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们知道我今天遭遇了什么吗🙃\n在成田等skyliner（17:02）的时候突然通知skyliner和京成线都无了，然后我就懵懵的，但还是去退了票，买了巴士的票，很多游客在站台还没有反应过来（也有可能是听不懂日语）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2087900430592524700",
+        "created_at": "2026-08-13T13:53:48.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087900430592524700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087900430592524700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你们知道我今天遭遇了什么吗🙃\n在成田等skyliner（17:02）的时候突然通知skyliner和京成线都无了，然后我就懵懵的，但还是去退了票，买了巴士的票，很多游客在站台还没有反应过来（也有可能是听不懂日语）\n我去买巴士票的时候已经有点人排队了，当时本着草泥马我要回家的心情就去了自动发售的机器，然后狗运买到了18:20发车的最后一张票。\n在路上的时候雨大的特别吓人，能见度很低而且有点积水，然后所有人的手机一起wer拉wer拉的响山体滑坡泥石流什么的警报，点开谷歌地图发现全都是四级预警，周围电闪雷鸣的还宛若开船，我在车上真的特别害怕。不过到都内就慢慢好了TT\n（当时路上还不是特别堵，回家看了眼红薯发现巴士也无了）\nnerv也发警报了，是啥忘了。\n总之极端天气真的很吓人TT希望千叶没事"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道我今天遭遇了什么吗🙃\n在成田等skyliner（17:02）的时候突然通知skyliner和京成线都无了，然后我就懵懵的，但还是去退了票，买了巴士的票，很多游客在站台还没有反应过来（也有可能是听不懂日语）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2087900430592524700",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3112,
+          "following_count": 995,
+          "like_count": 4398,
+          "listed_count": 3,
+          "media_count": 251,
+          "tweet_count": 3494
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2088129731350987025",
+    "created_at": "2026-08-14T05:27:14.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T06:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088135337709338728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1170514701496668160",
+          "start": 0,
+          "username": "Hungry_Humble11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088135337709338728",
+    "in_reply_to_user_id": "1170514701496668160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088129731350987025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hungry_Humble11 哦哦…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2088129731350987025",
+        "created_at": "2026-08-14T05:27:14.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088135337709338728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1170514701496668160",
+              "start": 0,
+              "username": "Hungry_Humble11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088135337709338728",
+        "in_reply_to_user_id": "1170514701496668160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088129731350987025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hungry_Humble11 哦哦…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1170514701496668160",
+        "conversation_id": "2088129731350987025",
+        "created_at": "2026-08-14T05:04:58.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088129731350987025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088129731350987025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你总把朋友圈权限调来调去，真的有人在意你吗？被人伤了就是3天可见 被人哄好了就是半年可见 开心的时候就是全部可见 好好笑啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2088135337709338728",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3119,
+          "following_count": 999,
+          "like_count": 4415,
+          "listed_count": 3,
+          "media_count": 252,
+          "tweet_count": 3502
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-08T01:50:34.000Z",
+        "description": "平行线不应该有交点。",
+        "id": "1170514701496668160",
+        "is_identity_verified": false,
+        "location": "闇",
+        "most_recent_tweet_id": "2088129731350987025",
+        "name": "圆",
+        "pinned_tweet_id": "1999486720321130796",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1170514701496668160/1747478604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831382546233614336/MraiSf68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 497,
+          "like_count": 5233,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1762
+        },
+        "url": "",
+        "username": "Hungry_Humble11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
