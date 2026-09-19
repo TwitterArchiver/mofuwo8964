@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2094475687684079681",
+    "created_at": "2026-08-31T17:21:32.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T18:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094475687684079681"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094475687684079681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的梦想就是未来有一个喜欢我欣赏我的女人，我上午的工作是给她缝制新衣服给她的bjd化妆，中午做好午饭，下午画画做手工精致小垃圾挂在她的包包上，晚上她下班回来我给她做晚饭。吃完饭和她一起躺在柔软的床上聊我们喜欢的作品，和我们想创作的东西，还要染五颜六色的头发，穿五颜六色的衣服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2094475687684079681",
+        "created_at": "2026-08-31T17:21:32.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094475687684079681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094475687684079681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的梦想就是未来有一个喜欢我欣赏我的女人，我上午的工作是给她缝制新衣服给她的bjd化妆，中午做好午饭，下午画画做手工精致小垃圾挂在她的包包上，晚上她下班回来我给她做晚饭。吃完饭和她一起躺在柔软的床上聊我们喜欢的作品，和我们想创作的东西，还要染五颜六色的头发，穿五颜六色的衣服"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2094475687684079681",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 995,
+          "like_count": 4604,
+          "listed_count": 3,
+          "media_count": 257,
+          "tweet_count": 3669
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

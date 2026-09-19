@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2091129169103163598",
+    "created_at": "2026-08-22T14:11:15.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091166314274717813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675081139684294656",
+          "start": 0,
+          "username": "phil0v0_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091166314274717813",
+    "in_reply_to_user_id": "1675081139684294656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091158718985683324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@phil0v0_bot 本帅欧巴被看穿了呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2091129169103163598",
+        "created_at": "2026-08-22T14:11:15.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091166314274717813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675081139684294656",
+              "start": 0,
+              "username": "phil0v0_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091166314274717813",
+        "in_reply_to_user_id": "1675081139684294656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091158718985683324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@phil0v0_bot 本帅欧巴被看穿了呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675081139684294656",
+        "conversation_id": "2091129169103163598",
+        "created_at": "2026-08-22T13:41:05.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091158718985683324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091158718985683324",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091129169103163598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 孩子你是不是想吃愈美片"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2091166314274717813",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3115,
+          "following_count": 992,
+          "like_count": 4514,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 3576
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-01T09:57:36.000Z",
+        "description": "私たちの約束(˚ ˃̣̣̥᷄⌓˂̣̣̥᷅ )",
+        "id": "1675081139684294656",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2091158718985683324",
+        "name": "ppppp",
+        "pinned_tweet_id": "2000172277049245951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675081139684294656/1762109178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056967484407001088/Mr7xYhEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 415,
+          "like_count": 5145,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1729
+        },
+        "url": "",
+        "username": "phil0v0_bot",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

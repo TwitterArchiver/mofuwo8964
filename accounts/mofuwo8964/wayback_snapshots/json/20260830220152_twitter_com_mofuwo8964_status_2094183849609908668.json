@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2094183849609908668",
+    "created_at": "2026-08-30T22:01:52.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T23:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094183849609908668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaomiaoran/st…",
+          "end": 125,
+          "expanded_url": "https://twitter.com/xiaomiaoran/status/2093398378155585646",
+          "start": 102,
+          "url": "https://t.co/Fc2hCtyF5A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094183849609908668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093398378155585646",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神逻辑，人全家都润了管你老逼中干嘛？不都是想润但是润不了的在骂吗…日子被害成这样还只能挂梯子发表恨国言论这换谁不憋屈，普通人不配过好日子呗\nlike依旧美女才能反对外貌歧视，依旧有钱人才能反对阶级剥削🫰 https://t.co/Fc2hCtyF5A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2094183849609908668",
+        "created_at": "2026-08-30T22:01:52.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094183849609908668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomiaoran/st…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/xiaomiaoran/status/2093398378155585646",
+              "start": 102,
+              "url": "https://t.co/Fc2hCtyF5A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094183849609908668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093398378155585646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神逻辑，人全家都润了管你老逼中干嘛？不都是想润但是润不了的在骂吗…日子被害成这样还只能挂梯子发表恨国言论这换谁不憋屈，普通人不配过好日子呗\nlike依旧美女才能反对外貌歧视，依旧有钱人才能反对阶级剥削🫰 https://t.co/Fc2hCtyF5A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940700440821485568",
+        "conversation_id": "2093398378155585646",
+        "created_at": "2026-08-28T18:00:41.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T19:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093398378155585646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093398378155585646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 125921,
+          "like_count": 2586,
+          "quote_count": 22,
+          "reply_count": 243,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "大家恨党恨国之前最好是已经把国籍退了已经全家移民别的国家了\n别是那种没钱出国 没能力申请加入别的国籍天天就点开vpn然后发表一些恨国言论\n结果户开出来ip地址还在xx省xx市xx镇xx村xx组xx号😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2094183849609908668",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3146,
+          "following_count": 998,
+          "like_count": 4584,
+          "listed_count": 3,
+          "media_count": 256,
+          "tweet_count": 3656
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-03T09:15:49.000Z",
+        "description": "你们都是我的肉便器",
+        "id": "1940700440821485568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094142825852277073",
+        "name": "꒦ິ^꒦ິ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940700440821485568/1775493031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041191739143475200/p-YsMWt__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 3,
+          "like_count": 219,
+          "listed_count": 3,
+          "media_count": 28,
+          "tweet_count": 884
+        },
+        "url": "",
+        "username": "xiaomiaoran",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

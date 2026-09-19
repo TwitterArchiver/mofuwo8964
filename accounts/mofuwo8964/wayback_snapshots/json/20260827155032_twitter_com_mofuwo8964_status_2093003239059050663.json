@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2092991417396453816",
+    "created_at": "2026-08-27T15:50:32.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093003239059050663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727107763447410688",
+          "start": 0,
+          "username": "mehatehuman"
+        },
+        {
+          "end": 24,
+          "id": "1859117911119720448",
+          "start": 13,
+          "username": "bp01110526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093003239059050663",
+    "in_reply_to_user_id": "1727107763447410688",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092991417396453816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mehatehuman @bp01110526"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2092991417396453816",
+        "created_at": "2026-08-27T15:50:32.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093003239059050663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727107763447410688",
+              "start": 0,
+              "username": "mehatehuman"
+            },
+            {
+              "end": 24,
+              "id": "1859117911119720448",
+              "start": 13,
+              "username": "bp01110526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093003239059050663",
+        "in_reply_to_user_id": "1727107763447410688",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092991417396453816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mehatehuman @bp01110526"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727107763447410688",
+        "conversation_id": "2092991417396453816",
+        "created_at": "2026-08-27T15:03:34.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092991417396453816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092991417396453816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这个od了有点舒服啊 有没有人要来我家找我玩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2093003239059050663",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3115,
+          "following_count": 994,
+          "like_count": 4539,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 3611
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-21T23:33:17.000Z",
+        "description": "Nothing is permanent.\n我是男的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "picawang.com",
+                "end": 23,
+                "expanded_url": "https://picawang.com",
+                "start": 0,
+                "url": "https://t.co/al0N7vzK0k"
+              }
+            ]
+          }
+        },
+        "id": "1727107763447410688",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2093001816573452702",
+        "name": "复读机",
+        "pinned_tweet_id": "2082366175737229559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1727107763447410688/1786023002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092509597819195392/-COYzcdA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 45,
+          "like_count": 3380,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/al0N7vzK0k",
+        "username": "mehatehuman",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "🚪\n99 纯绿\n199半绿",
+        "id": "1859117911119720448",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2093003046951543183",
+        "name": "bp",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 118,
+          "like_count": 8820,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 4760
+        },
+        "url": "",
+        "username": "bp01110526",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

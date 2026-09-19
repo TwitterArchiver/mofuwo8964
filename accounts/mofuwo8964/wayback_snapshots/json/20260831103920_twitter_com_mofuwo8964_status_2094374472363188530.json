@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094374468789710848"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2094374472363188530",
+    "created_at": "2026-08-31T10:39:20.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T11:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094374472363188530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N7BJzYg9Aj",
+          "end": 23,
+          "expanded_url": "https://x.com/mofuwo8964/status/2094374472363188530/photo/1",
+          "media_key": "3_2094374468789710848",
+          "start": 0,
+          "url": "https://t.co/N7BJzYg9Aj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094374472363188530",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2094374468789710848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/N7BJzYg9Aj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 311,
+        "media_key": "3_2094374468789710848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC2e57bsAAnQVf.jpg",
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094374468789710848"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2094374472363188530",
+        "created_at": "2026-08-31T10:39:20.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094374472363188530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7BJzYg9Aj",
+              "end": 23,
+              "expanded_url": "https://x.com/mofuwo8964/status/2094374472363188530/photo/1",
+              "media_key": "3_2094374468789710848",
+              "start": 0,
+              "url": "https://t.co/N7BJzYg9Aj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094374472363188530",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094374468789710848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/N7BJzYg9Aj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2094374472363188530",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3155,
+          "following_count": 996,
+          "like_count": 4598,
+          "listed_count": 3,
+          "media_count": 257,
+          "tweet_count": 3661
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2092150238706573758",
+    "created_at": "2026-08-25T14:39:42.000Z",
+    "display_text_range": [
+      27,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T15:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092260637653266910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786771245750755328",
+          "start": 0,
+          "username": "Ayanekawaii2"
+        },
+        {
+          "end": 26,
+          "id": "1727107763447410688",
+          "start": 14,
+          "username": "mehatehuman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092260637653266910",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092212532954140849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanekawaii2 @mehatehuman 妈妈插我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2092150238706573758",
+        "created_at": "2026-08-25T14:39:42.000Z",
+        "display_text_range": [
+          27,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092260637653266910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            },
+            {
+              "end": 26,
+              "id": "1727107763447410688",
+              "start": 14,
+              "username": "mehatehuman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092260637653266910",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092212532954140849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 @mehatehuman 妈妈插我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2092150238706573758",
+        "created_at": "2026-08-25T11:28:33.000Z",
+        "display_text_range": [
+          25,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092212532954140849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727107763447410688",
+              "start": 0,
+              "username": "mehatehuman"
+            },
+            {
+              "end": 24,
+              "id": "1592719222940962817",
+              "start": 13,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092212532954140849",
+        "in_reply_to_user_id": "1727107763447410688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092211372667044133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mehatehuman @mofuwo8964 100w找不到金丝雀只能找铁丝雀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2092260637653266910",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3119,
+          "following_count": 995,
+          "like_count": 4534,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 3604
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 消息随机回丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "is_identity_verified": false,
+        "location": "不死会相逢",
+        "most_recent_tweet_id": "2092259867696431289",
+        "name": "萌小月",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786771245750755328/1780847448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089218334667788288/kDANtfwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 297,
+          "like_count": 1686,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 2981
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-21T23:33:17.000Z",
+        "description": "Nothing is permanent.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "picawang.com",
+                "end": 23,
+                "expanded_url": "https://picawang.com",
+                "start": 0,
+                "url": "https://t.co/al0N7vzK0k"
+              }
+            ]
+          }
+        },
+        "id": "1727107763447410688",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2092222757123858753",
+        "name": "复读机",
+        "pinned_tweet_id": "2082366175737229559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1727107763447410688/1786023002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092225092701102080/h25gnrHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 44,
+          "like_count": 3058,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1049
+        },
+        "url": "https://t.co/al0N7vzK0k",
+        "username": "mehatehuman",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

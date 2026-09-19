@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2094377452969898121",
+    "created_at": "2026-08-31T14:52:51.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094438273313829205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1484582068663521281",
+          "start": 0,
+          "username": "data_syuxchu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094438273313829205",
+    "in_reply_to_user_id": "1484582068663521281",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094399445064708331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@data_syuxchu 👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2094377452969898121",
+        "created_at": "2026-08-31T14:52:51.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094438273313829205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1484582068663521281",
+              "start": 0,
+              "username": "data_syuxchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094438273313829205",
+        "in_reply_to_user_id": "1484582068663521281",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094399445064708331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@data_syuxchu 👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484582068663521281",
+        "conversation_id": "2094377452969898121",
+        "created_at": "2026-08-31T12:18:34.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094399445064708331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094399445064708331",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094377452969898121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 我会努力的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2094438273313829205",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3155,
+          "following_count": 996,
+          "like_count": 4600,
+          "listed_count": 3,
+          "media_count": 257,
+          "tweet_count": 3666
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-21T17:42:21.000Z",
+        "description": "号主名叫Manta Ray。魔鬼鱼的内脏→@illness99999 神必人→@mofuwo8964 \n07 **法￤神人→@anblk984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "illness99999"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "mofuwo8964"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "anblk984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "querie.me/user/data_syux…",
+                "end": 23,
+                "expanded_url": "https://querie.me/user/data_syuxchu",
+                "start": 0,
+                "url": "https://t.co/IQWCDzawoD"
+              }
+            ]
+          }
+        },
+        "id": "1484582068663521281",
+        "is_identity_verified": false,
+        "location": "子宫",
+        "most_recent_tweet_id": "2094410455616000297",
+        "name": "繝槭Φ繧ｿ*荳?譫‼️",
+        "pinned_tweet_id": "2073359788646478310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484582068663521281/1739447718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064655364470231040/YLnZtDOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 450,
+          "like_count": 34461,
+          "listed_count": 7,
+          "media_count": 628,
+          "tweet_count": 5066
+        },
+        "url": "https://t.co/IQWCDzawoD",
+        "username": "data_syuxchu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2094008286232318195",
+    "created_at": "2026-08-30T11:00:42.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T12:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094017461003993473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1635516217200099328",
+          "start": 0,
+          "username": "ywxqz_sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094017461003993473",
+    "in_reply_to_user_id": "1635516217200099328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094008286232318195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ywxqz_sy 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094008266879881216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9pbJgbUAAI2Dz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1592,
+        "media_key": "3_2094008266951147520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9pbJxawAAbVLm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2094008266896621568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9pbJkawAAYah5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094008266900774913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9pbJlaIAEYDic.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2094008286232318195",
+        "created_at": "2026-08-30T11:00:42.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094017461003993473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1635516217200099328",
+              "start": 0,
+              "username": "ywxqz_sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094017461003993473",
+        "in_reply_to_user_id": "1635516217200099328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094008286232318195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ywxqz_sy 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094008266879881216",
+            "3_2094008266951147520",
+            "3_2094008266896621568",
+            "3_2094008266900774913"
+          ]
+        },
+        "author_id": "1635516217200099328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2094008286232318195",
+        "created_at": "2026-08-30T10:24:14.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T11:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094008286232318195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/txua3bPzuP",
+              "end": 41,
+              "expanded_url": "https://x.com/ywxqz_sy/status/2094008286232318195/photo/1",
+              "media_key": "3_2094008266879881216",
+              "start": 18,
+              "url": "https://t.co/txua3bPzuP"
+            },
+            {
+              "display_url": "pic.x.com/txua3bPzuP",
+              "end": 41,
+              "expanded_url": "https://x.com/ywxqz_sy/status/2094008286232318195/photo/1",
+              "media_key": "3_2094008266951147520",
+              "start": 18,
+              "url": "https://t.co/txua3bPzuP"
+            },
+            {
+              "display_url": "pic.x.com/txua3bPzuP",
+              "end": 41,
+              "expanded_url": "https://x.com/ywxqz_sy/status/2094008286232318195/photo/1",
+              "media_key": "3_2094008266896621568",
+              "start": 18,
+              "url": "https://t.co/txua3bPzuP"
+            },
+            {
+              "display_url": "pic.x.com/txua3bPzuP",
+              "end": 41,
+              "expanded_url": "https://x.com/ywxqz_sy/status/2094008286232318195/photo/1",
+              "media_key": "3_2094008266900774913",
+              "start": 18,
+              "url": "https://t.co/txua3bPzuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094008286232318195",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094008266879881216"
+          },
+          {
+            "media_key": "3_2094008266951147520"
+          },
+          {
+            "media_key": "3_2094008266896621568"
+          },
+          {
+            "media_key": "3_2094008266900774913"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我号终于解封了。全体起立欢迎🎉🎉🎉 https://t.co/txua3bPzuP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2094017461003993473",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 997,
+          "like_count": 4562,
+          "listed_count": 3,
+          "media_count": 256,
+          "tweet_count": 3634
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-14T05:40:42.000Z",
+        "description": "一朵普通飘过的云。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuoyun16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuoyun16",
+                "start": 0,
+                "url": "https://t.co/VoZt7mGsY1"
+              }
+            ]
+          }
+        },
+        "id": "1635516217200099328",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2094017232548634803",
+        "name": "朔云",
+        "pinned_tweet_id": "2050390733987971520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1635516217200099328/1765711606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075399307688366080/HunfxYzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 579,
+          "like_count": 31719,
+          "listed_count": 3,
+          "media_count": 349,
+          "tweet_count": 10167
+        },
+        "url": "https://t.co/VoZt7mGsY1",
+        "username": "ywxqz_sy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

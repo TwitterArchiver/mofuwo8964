@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2094746636195094570",
+    "created_at": "2026-09-01T19:56:48.000Z",
+    "display_text_range": [
+      11,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T20:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094877151917154472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1550719965661396992",
+          "start": 0,
+          "username": "chijiuze1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094877151917154472",
+    "in_reply_to_user_id": "1550719965661396992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094808063652024350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chijiuze1 本来就是啊！但是就给人一种我惨我有理的感觉啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2094746636195094570",
+        "created_at": "2026-09-01T19:56:48.000Z",
+        "display_text_range": [
+          11,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T20:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094877151917154472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1550719965661396992",
+              "start": 0,
+              "username": "chijiuze1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094877151917154472",
+        "in_reply_to_user_id": "1550719965661396992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094808063652024350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chijiuze1 本来就是啊！但是就给人一种我惨我有理的感觉啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550719965661396992",
+        "conversation_id": "2094746636195094570",
+        "created_at": "2026-09-01T15:22:16.000Z",
+        "display_text_range": [
+          12,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094808063652024350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094808063652024350",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094746636195094570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 和在别人吐槽生活的视频里晒自己幸福人生的东西本质上是一样的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2094877151917154472",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3157,
+          "following_count": 996,
+          "like_count": 4618,
+          "listed_count": 3,
+          "media_count": 257,
+          "tweet_count": 3687
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-23T05:50:39.000Z",
+        "description": "",
+        "id": "1550719965661396992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094852344785850807",
+        "name": "沒有你的話怎樣都好",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1550719965661396992/1744474789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911092066429304832/uWlWdhMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "chijiuze1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

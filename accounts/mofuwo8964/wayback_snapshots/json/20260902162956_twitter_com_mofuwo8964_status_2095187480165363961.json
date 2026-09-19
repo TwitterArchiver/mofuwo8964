@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095187475471978496"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2095187480165363961",
+    "created_at": "2026-09-02T16:29:56.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095187480165363961"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nPyAg5yrfy",
+          "end": 33,
+          "expanded_url": "https://x.com/mofuwo8964/status/2095187480165363961/photo/1",
+          "media_key": "3_2095187475471978496",
+          "start": 10,
+          "url": "https://t.co/nPyAg5yrfy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095187480165363961",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095187475471978496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉米米和蕾蕾太美了 https://t.co/nPyAg5yrfy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2020,
+        "media_key": "3_2095187475471978496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROZ6H1a0AAdq1M.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095187475471978496"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2095187480165363961",
+        "created_at": "2026-09-02T16:29:56.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095187480165363961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPyAg5yrfy",
+              "end": 33,
+              "expanded_url": "https://x.com/mofuwo8964/status/2095187480165363961/photo/1",
+              "media_key": "3_2095187475471978496",
+              "start": 10,
+              "url": "https://t.co/nPyAg5yrfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095187480165363961",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095187475471978496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉米米和蕾蕾太美了 https://t.co/nPyAg5yrfy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2095187480165363961",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3157,
+          "following_count": 995,
+          "like_count": 4622,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 3696
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

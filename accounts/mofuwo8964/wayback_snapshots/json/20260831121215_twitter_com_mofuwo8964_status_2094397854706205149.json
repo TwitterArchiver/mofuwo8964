@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1316156485664010242",
+          "name": "Seasonal cooking"
+        }
+      }
+    ],
+    "conversation_id": "2094397854706205149",
+    "created_at": "2026-08-31T12:12:15.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094397854706205149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2094093876399313270",
+          "start": 129,
+          "url": "https://t.co/6F0NLjwKu5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094397854706205149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我这么说是有理由的，\n首先明确一下天妇罗是吃的食材本身吗？不是。什么都可以用来天妇罗，也就是说这是一个无门槛的料理；其次我们来看一下金针菇和紫苏叶秋葵这种常见天妇罗原料，就会发现好吃的难吃的都可以天妇罗走你，不难推断出吃天妇罗的本质就是吃外面那层油炸面糊。\n阴毛的潜质是细长纤维状结构，能挂得住面糊，且口感几乎等于无，可以尽情享受面糊和酱汁的味道；而且阴毛环保健康，可以自产，成本为零。新时代进步人类应当响应环保主义号召，此乃科学的跨越；而如果吃掉彼此的阴毛更映射出心与心的交织，更显浪漫和大爱无疆；此乃人文的进步。从身边到集体，从社会到人类，我说的对吗？"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094093876399313270",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我这么说是有理由的，\n首先明确一下天妇罗是吃的食材本身吗？不是。什么都可以用来天妇罗，也就是说这是一个无门槛的料理；其次我们来看一下金针菇和紫苏叶秋葵这种常见天妇罗原料，就会发现好吃的难吃的都可以天妇罗走你，不难推断出吃天妇罗的本质就是吃外面那层油炸面糊。 https://t.co/6F0NLjwKu5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1316156485664010242",
+              "name": "Seasonal cooking"
+            }
+          }
+        ],
+        "conversation_id": "2094397854706205149",
+        "created_at": "2026-08-31T12:12:15.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094397854706205149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2094093876399313270",
+              "start": 129,
+              "url": "https://t.co/6F0NLjwKu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094397854706205149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我这么说是有理由的，\n首先明确一下天妇罗是吃的食材本身吗？不是。什么都可以用来天妇罗，也就是说这是一个无门槛的料理；其次我们来看一下金针菇和紫苏叶秋葵这种常见天妇罗原料，就会发现好吃的难吃的都可以天妇罗走你，不难推断出吃天妇罗的本质就是吃外面那层油炸面糊。\n阴毛的潜质是细长纤维状结构，能挂得住面糊，且口感几乎等于无，可以尽情享受面糊和酱汁的味道；而且阴毛环保健康，可以自产，成本为零。新时代进步人类应当响应环保主义号召，此乃科学的跨越；而如果吃掉彼此的阴毛更映射出心与心的交织，更显浪漫和大爱无疆；此乃人文的进步。从身边到集体，从社会到人类，我说的对吗？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094093876399313270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这么说是有理由的，\n首先明确一下天妇罗是吃的食材本身吗？不是。什么都可以用来天妇罗，也就是说这是一个无门槛的料理；其次我们来看一下金针菇和紫苏叶秋葵这种常见天妇罗原料，就会发现好吃的难吃的都可以天妇罗走你，不难推断出吃天妇罗的本质就是吃外面那层油炸面糊。 https://t.co/6F0NLjwKu5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2094093876399313270",
+        "created_at": "2026-08-30T16:04:21.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T17:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094093876399313270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094093876399313270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11624,
+          "like_count": 113,
+          "quote_count": 1,
+          "reply_count": 141,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得阴毛这个东西很适合用来做天妇罗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2094397854706205149",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3156,
+          "following_count": 996,
+          "like_count": 4599,
+          "listed_count": 3,
+          "media_count": 257,
+          "tweet_count": 3664
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2090636299552342472",
+    "created_at": "2026-08-21T03:05:10.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090636299552342472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rushsharkk/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/rushsharkk/status/2090301445253873828",
+          "start": 14,
+          "url": "https://t.co/y0M9SQfFPi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090636299552342472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090301445253873828",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我第一次看到这么贴切的形容 https://t.co/y0M9SQfFPi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2090636299552342472",
+        "created_at": "2026-08-21T03:05:10.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090636299552342472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rushsharkk/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/rushsharkk/status/2090301445253873828",
+              "start": 14,
+              "url": "https://t.co/y0M9SQfFPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090636299552342472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090301445253873828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我第一次看到这么贴切的形容 https://t.co/y0M9SQfFPi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772308958495260672",
+        "conversation_id": "2090301445253873828",
+        "created_at": "2026-08-20T04:54:35.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090301445253873828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090301445253873828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看竖版书就像狗用慢食碗吃饭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2090636299552342472",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3114,
+          "following_count": 994,
+          "like_count": 4500,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 3564
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-25T17:06:18.000Z",
+        "description": "女Female/我要成为！当地的猫咪帮派头目！",
+        "id": "1772308958495260672",
+        "is_identity_verified": false,
+        "location": "Canada",
+        "most_recent_tweet_id": "2090506381405061482",
+        "name": "Rushshark猛鯊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772308958495260672/1716621043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908586697920577536/P-PC1WEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 1047,
+          "like_count": 62380,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 3182
+        },
+        "url": "",
+        "username": "Rushsharkk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2089633895058907629",
+    "created_at": "2026-08-18T11:27:22.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089675518048362842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639996371879985157",
+          "start": 0,
+          "username": "SupernovaLLan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089675518048362842",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089633895058907629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SupernovaLLan wtf你谁？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089633881997877248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_e8b8aoAA8fxV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2089633895058907629",
+        "created_at": "2026-08-18T11:27:22.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089675518048362842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639996371879985157",
+              "start": 0,
+              "username": "SupernovaLLan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089675518048362842",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089633895058907629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SupernovaLLan wtf你谁？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089633881997877248"
+          ]
+        },
+        "author_id": "1639996371879985157",
+        "conversation_id": "2089633895058907629",
+        "created_at": "2026-08-18T08:41:58.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089633895058907629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JWXgHnuRlo",
+              "end": 83,
+              "expanded_url": "https://x.com/SupernovaLLan/status/2089633895058907629/photo/1",
+              "media_key": "3_2089633881997877248",
+              "start": 60,
+              "url": "https://t.co/JWXgHnuRlo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089633895058907629",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089633881997877248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗完澡用小皮套把刘海往后一扎然后忘了吹头了，自然风干之后解开整个刘海做了个卷发造型我天，这还要啥理发店啊火速拍几张臭美 https://t.co/JWXgHnuRlo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2089675518048362842",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3108,
+          "following_count": 998,
+          "like_count": 4470,
+          "listed_count": 3,
+          "media_count": 254,
+          "tweet_count": 3532
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "自测自介什么的挂去置顶评论区了嗯丨科幻爱好-远视主义-Per Aspera Ad Astra丨已戒o丨最近很迷生化药理学习中",
+        "id": "1639996371879985157",
+        "is_identity_verified": false,
+        "location": "Laniakea Supercluster ",
+        "most_recent_tweet_id": "2089633895058907629",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639996371879985157/1701369457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 617,
+          "like_count": 27387,
+          "listed_count": 2,
+          "media_count": 1227,
+          "tweet_count": 11331
+        },
+        "url": "",
+        "username": "SupernovaLLan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

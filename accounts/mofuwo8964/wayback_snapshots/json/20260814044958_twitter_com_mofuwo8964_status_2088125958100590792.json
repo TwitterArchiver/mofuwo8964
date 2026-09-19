@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2087900430592524700",
+    "created_at": "2026-08-14T04:49:58.000Z",
+    "display_text_range": [
+      17,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088125958100590792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "773969606474162180",
+          "start": 0,
+          "username": "Chicken_Inferno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088125958100590792",
+    "in_reply_to_user_id": "773969606474162180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087918600229446028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chicken_Inferno 😭现场人真的超级多堵死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2087900430592524700",
+        "created_at": "2026-08-14T04:49:58.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088125958100590792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "773969606474162180",
+              "start": 0,
+              "username": "Chicken_Inferno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088125958100590792",
+        "in_reply_to_user_id": "773969606474162180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087918600229446028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chicken_Inferno 😭现场人真的超级多堵死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "773969606474162180",
+        "conversation_id": "2087900430592524700",
+        "created_at": "2026-08-13T15:06:00.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087918600229446028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087918600229446028",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087900430592524700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 哈哈哈我和你同一波退票的wwww"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2088125958100590792",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3117,
+          "following_count": 999,
+          "like_count": 4410,
+          "listed_count": 3,
+          "media_count": 252,
+          "tweet_count": 3501
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-09-08T19:41:48.000Z",
+        "description": "爱人之前先学着爱自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/davdavdav",
+                "end": 23,
+                "expanded_url": "https://ngl.link/davdavdav",
+                "start": 0,
+                "url": "https://t.co/rAfLFdxVrk"
+              }
+            ]
+          }
+        },
+        "id": "773969606474162180",
+        "is_identity_verified": false,
+        "location": "🍃",
+        "most_recent_tweet_id": "2088099899443388613",
+        "name": "社畜王 徳発",
+        "pinned_tweet_id": "2077571111005704251",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/773969606474162180/1762561877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064879877539721216/IvKyJuiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 900,
+          "like_count": 59321,
+          "listed_count": 12,
+          "media_count": 4007,
+          "tweet_count": 20605
+        },
+        "url": "https://t.co/rAfLFdxVrk",
+        "username": "Chicken_Inferno",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

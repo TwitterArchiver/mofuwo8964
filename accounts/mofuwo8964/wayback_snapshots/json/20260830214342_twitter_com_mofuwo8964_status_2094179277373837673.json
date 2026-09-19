@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1334646784828743680",
+          "name": "Eito"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1334646784828743680",
+          "name": "Eito"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334646784828743680",
+          "name": "Eito"
+        }
+      }
+    ],
+    "conversation_id": "2094179277373837673",
+    "created_at": "2026-08-30T21:43:42.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T22:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094179277373837673"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094179277373837673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "米大姐的感情回忆录：\n\n米大姐很喜欢瑛人的香水这首歌。五年前的这个时候当时的恋人因为这个学会弹了，在我身边一边弹吉他一边给我唱。\n\n其实当时米大姐觉得有一种莫名其妙不可言说的感觉。这个前任是米大姐一个学校大一年级的学长，在某一年的联欢会上他和同学三人登台表演青春修炼手册，三年级的米大姐当时觉得好美好呀，好希望未来恋人也能这样。\n\n于是在好几年之后那个唱的最好听的成了我的恋人。哎！当时我们真的只是喜欢这首歌而已，结果后来一语成谶了；分手之后隔了这么久却又见面了。变成了不同的人，也没有再喜欢上你😔\n\n：\n并没有对你有所奢求，却总想起你在身边\n并没有想回到过去，只是想看着你的眼睛"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "米大姐的感情回忆录：\n\n米大姐很喜欢瑛人的香水这首歌。五年前的这个时候当时的恋人因为这个学会弹了，在我身边一边弹吉他一边给我唱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1334646784828743680",
+              "name": "Eito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1334646784828743680",
+              "name": "Eito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334646784828743680",
+              "name": "Eito"
+            }
+          }
+        ],
+        "conversation_id": "2094179277373837673",
+        "created_at": "2026-08-30T21:43:42.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T22:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094179277373837673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094179277373837673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "米大姐的感情回忆录：\n\n米大姐很喜欢瑛人的香水这首歌。五年前的这个时候当时的恋人因为这个学会弹了，在我身边一边弹吉他一边给我唱。\n\n其实当时米大姐觉得有一种莫名其妙不可言说的感觉。这个前任是米大姐一个学校大一年级的学长，在某一年的联欢会上他和同学三人登台表演青春修炼手册，三年级的米大姐当时觉得好美好呀，好希望未来恋人也能这样。\n\n于是在好几年之后那个唱的最好听的成了我的恋人。哎！当时我们真的只是喜欢这首歌而已，结果后来一语成谶了；分手之后隔了这么久却又见面了。变成了不同的人，也没有再喜欢上你😔\n\n：\n并没有对你有所奢求，却总想起你在身边\n并没有想回到过去，只是想看着你的眼睛"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "米大姐的感情回忆录：\n\n米大姐很喜欢瑛人的香水这首歌。五年前的这个时候当时的恋人因为这个学会弹了，在我身边一边弹吉他一边给我唱。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2094179277373837673",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3146,
+          "following_count": 998,
+          "like_count": 4581,
+          "listed_count": 3,
+          "media_count": 256,
+          "tweet_count": 3654
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

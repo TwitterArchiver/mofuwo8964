@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2094833107862278405",
+    "created_at": "2026-09-02T02:36:58.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T03:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094977857785335991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1961425958277373952",
+          "start": 0,
+          "username": "Liu_nan_nan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094977857785335991",
+    "in_reply_to_user_id": "1961425958277373952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094833107862278405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liu_nan_nan 是我舍友我也偷笑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2094833107862278405",
+        "created_at": "2026-09-02T02:36:58.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T03:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094977857785335991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1961425958277373952",
+              "start": 0,
+              "username": "Liu_nan_nan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094977857785335991",
+        "in_reply_to_user_id": "1961425958277373952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094833107862278405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liu_nan_nan 是我舍友我也偷笑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961425958277373952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2094833107862278405",
+        "created_at": "2026-09-01T17:01:47.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T18:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094833107862278405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pipupu497402/s…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/pipupu497402/status/2094767904705200294",
+              "start": 143,
+              "url": "https://t.co/rk7ocuptkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094833107862278405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094767904705200294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原贴是大学室友买华为电脑各种出丑\n\n首先她都买了，你又改变不了，除非你花钱买下来不然说啥都起到一个等同于当面笑的效果，那还不如背后笑呢\n\n其次，买电脑，较真的人能挑半个月，而她最后买了华为，显然脑子和理性至少缺一个。这种人你不笑她难道还挺她？以后有你难受的\n\n哦，原来是慷他人之慨啊😅 https://t.co/rk7ocuptkZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2094977857785335991",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3156,
+          "following_count": 995,
+          "like_count": 4620,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 3692
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-29T13:49:33.000Z",
+        "description": "上赶着不是买卖",
+        "id": "1961425958277373952",
+        "is_identity_verified": false,
+        "location": "埼玉の山奥",
+        "most_recent_tweet_id": "2094965667145683244",
+        "name": "劉喃喃",
+        "pinned_tweet_id": "2009230579519422718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961425958277373952/1771258365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006409337653309443/x4oV5msk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 219,
+          "like_count": 9630,
+          "listed_count": 9,
+          "media_count": 17,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "Liu_nan_nan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

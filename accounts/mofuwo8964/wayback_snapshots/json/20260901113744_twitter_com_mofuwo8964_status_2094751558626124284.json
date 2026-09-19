@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2094748373094183422",
+    "created_at": "2026-09-01T11:37:44.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T12:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094751558626124284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741063508102627328",
+          "start": 0,
+          "username": "kitty068_ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094751558626124284",
+    "in_reply_to_user_id": "1741063508102627328",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094748373094183422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitty068_ly 1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2094748361345974273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIKiUPbwAE7g1q.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094748361278849024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIKiT_bgAAIYuY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094748361266249728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIKiT8bQAAhvwH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2094748373094183422",
+        "created_at": "2026-09-01T11:37:44.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094751558626124284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094751558626124284",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094748373094183422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly 1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094748361345974273",
+            "3_2094748361278849024",
+            "3_2094748361266249728"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "conversation_id": "2094748373094183422",
+        "created_at": "2026-09-01T11:25:05.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094748373094183422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oI47WPGiv0",
+              "end": 35,
+              "expanded_url": "https://x.com/kitty068_ly/status/2094748373094183422/photo/1",
+              "media_key": "3_2094748361345974273",
+              "start": 12,
+              "url": "https://t.co/oI47WPGiv0"
+            },
+            {
+              "display_url": "pic.x.com/oI47WPGiv0",
+              "end": 35,
+              "expanded_url": "https://x.com/kitty068_ly/status/2094748373094183422/photo/1",
+              "media_key": "3_2094748361278849024",
+              "start": 12,
+              "url": "https://t.co/oI47WPGiv0"
+            },
+            {
+              "display_url": "pic.x.com/oI47WPGiv0",
+              "end": 35,
+              "expanded_url": "https://x.com/kitty068_ly/status/2094748373094183422/photo/1",
+              "media_key": "3_2094748361266249728",
+              "start": 12,
+              "url": "https://t.co/oI47WPGiv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094748373094183422",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094748361345974273"
+          },
+          {
+            "media_key": "3_2094748361278849024"
+          },
+          {
+            "media_key": "3_2094748361266249728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这三个哪个看起来最聪明 https://t.co/oI47WPGiv0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2094751558626124284",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 996,
+          "like_count": 4615,
+          "listed_count": 3,
+          "media_count": 257,
+          "tweet_count": 3684
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "你喜欢我我喜欢你你对我好我对你好/帮我爱的一切人事物说话/queer/时不时失踪欢迎私联\n会用@Eric52802090721 说一些可爱可怕的事 喜欢我的不会伤害我的朋友来找我玩吧陌生人不行 和@dngyng169770781 一起生活",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "Eric52802090721"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "username": "dngyng169770781"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "is_identity_verified": false,
+        "location": "South Park",
+        "most_recent_tweet_id": "2094748978730680560",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741063508102627328/1784439989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078720064032051200/ZSQR2vqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 587,
+          "like_count": 13363,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 6933
+        },
+        "url": "",
+        "username": "kitty068_ly",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

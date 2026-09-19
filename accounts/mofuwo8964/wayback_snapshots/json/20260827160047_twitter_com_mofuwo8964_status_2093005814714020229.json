@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2092991417396453816",
+    "created_at": "2026-08-27T16:00:47.000Z",
+    "display_text_range": [
+      25,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T17:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093005814714020229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727107763447410688",
+          "start": 0,
+          "username": "mehatehuman"
+        },
+        {
+          "end": 24,
+          "id": "1859117911119720448",
+          "start": 13,
+          "username": "bp01110526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093005814714020229",
+    "in_reply_to_user_id": "1727107763447410688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093005194187637212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mehatehuman @bp01110526 没啊 你不是想找人玩吗 他也想和人玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2092991417396453816",
+        "created_at": "2026-08-27T16:00:47.000Z",
+        "display_text_range": [
+          25,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093005814714020229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727107763447410688",
+              "start": 0,
+              "username": "mehatehuman"
+            },
+            {
+              "end": 24,
+              "id": "1859117911119720448",
+              "start": 13,
+              "username": "bp01110526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093005814714020229",
+        "in_reply_to_user_id": "1727107763447410688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093005194187637212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mehatehuman @bp01110526 没啊 你不是想找人玩吗 他也想和人玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727107763447410688",
+        "conversation_id": "2092991417396453816",
+        "created_at": "2026-08-27T15:58:19.000Z",
+        "display_text_range": [
+          24,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093005194187637212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            },
+            {
+              "end": 23,
+              "id": "1859117911119720448",
+              "start": 12,
+              "username": "bp01110526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093005194187637212",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093003239059050663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 @bp01110526 他是不是被你驱逐了没地方去了 你叫他来我这睡 你真好 你把他赶出去还给他找地方睡觉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2093005814714020229",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3115,
+          "following_count": 994,
+          "like_count": 4539,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 3612
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-21T23:33:17.000Z",
+        "description": "Nothing is permanent.\n我是男的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "picawang.com",
+                "end": 23,
+                "expanded_url": "https://picawang.com",
+                "start": 0,
+                "url": "https://t.co/al0N7vzK0k"
+              }
+            ]
+          }
+        },
+        "id": "1727107763447410688",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2093005702424117498",
+        "name": "复读机",
+        "pinned_tweet_id": "2082366175737229559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1727107763447410688/1786023002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092509597819195392/-COYzcdA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 45,
+          "like_count": 3381,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/al0N7vzK0k",
+        "username": "mehatehuman",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "🚪\n99 纯绿\n199半绿",
+        "id": "1859117911119720448",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2093003046951543183",
+        "name": "bp",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 118,
+          "like_count": 8820,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 4760
+        },
+        "url": "",
+        "username": "bp01110526",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

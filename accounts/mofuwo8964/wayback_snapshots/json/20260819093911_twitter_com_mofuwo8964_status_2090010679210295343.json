@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2089678614602334357",
+    "created_at": "2026-08-19T09:39:11.000Z",
+    "display_text_range": [
+      10,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090010679210295343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3311488735",
+          "start": 0,
+          "username": "E_F_S_F_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090010679210295343",
+    "in_reply_to_user_id": "3311488735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089977073515528538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@E_F_S_F_ 骗你的其实付费购买意愿高码农也没有奖金（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2089678614602334357",
+        "created_at": "2026-08-19T09:39:11.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090010679210295343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3311488735",
+              "start": 0,
+              "username": "E_F_S_F_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090010679210295343",
+        "in_reply_to_user_id": "3311488735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089977073515528538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@E_F_S_F_ 骗你的其实付费购买意愿高码农也没有奖金（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3311488735",
+        "conversation_id": "2089678614602334357",
+        "created_at": "2026-08-19T07:25:38.000Z",
+        "display_text_range": [
+          12,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089977073515528538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089977073515528538",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 451,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089678614602334357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 辛苦打代碼，結果因為玩家付費購買意願低沒有獎金的碼農：😱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2090010679210295343",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3115,
+          "following_count": 996,
+          "like_count": 4488,
+          "listed_count": 3,
+          "media_count": 254,
+          "tweet_count": 3540
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-08-10T12:38:10.000Z",
+        "description": "Arbeit Macht Frei ;\n\n或許是樂子/色圖轉推機器;\n\n男, 人窮志短, 臉醜怕事, 不約;\n\n感謝中央成立特區保護，粉紅真的沒把我們當人看。\n我就問你，香港人是不是人?\n丁仲禮院士.jpg;\n25年11月28日，一群人為了火災吵架，互相歧視。\n是因為我從台灣移民的嗎？我看都是傻逼。\n\n中央好，粉紅壞。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/i/communities/1723286568683913463",
+                "start": 0,
+                "url": "https://t.co/ECtjqZds8P"
+              }
+            ]
+          }
+        },
+        "id": "3311488735",
+        "is_identity_verified": false,
+        "location": "滾動中",
+        "most_recent_tweet_id": "2089977527020433522",
+        "name": "地球聯邦宇宙軍",
+        "pinned_tweet_id": "1662127866816126976",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3311488735/1658735675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/630720444501356544/c149-9Gp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 3618,
+          "like_count": 312154,
+          "listed_count": 27,
+          "media_count": 1839,
+          "tweet_count": 44242
+        },
+        "url": "https://t.co/ECtjqZds8P",
+        "username": "E_F_S_F_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

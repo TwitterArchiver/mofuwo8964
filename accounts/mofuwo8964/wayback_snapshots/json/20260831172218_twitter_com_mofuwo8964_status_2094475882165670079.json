@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2094162875187339296",
+    "created_at": "2026-08-31T17:22:18.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T18:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094475882165670079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1800825433979797504",
+          "start": 0,
+          "username": "Fenglinnai8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094475882165670079",
+    "in_reply_to_user_id": "1800825433979797504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094263564035047719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fenglinnai8964 根本停不下来"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2094263564035047719].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2094263564035047719",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2094263564035047719"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2094162875187339296",
+        "created_at": "2026-08-31T17:22:18.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094475882165670079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1800825433979797504",
+              "start": 0,
+              "username": "Fenglinnai8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094475882165670079",
+        "in_reply_to_user_id": "1800825433979797504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094263564035047719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fenglinnai8964 根本停不下来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2094475882165670079",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 995,
+          "like_count": 4606,
+          "listed_count": 3,
+          "media_count": 257,
+          "tweet_count": 3671
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-12T09:40:36.000Z",
+        "description": "不是冯琳奈",
+        "id": "1800825433979797504",
+        "is_identity_verified": false,
+        "location": "地球的任意地方但是大约的确是不含新加坡的",
+        "most_recent_tweet_id": "2070507250997993646",
+        "name": "冯艾琳",
+        "pinned_tweet_id": "2092570204593430676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1800825433979797504/1783947343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076651177320882176/zUbvJVS0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 142,
+          "like_count": 39304,
+          "listed_count": 0,
+          "media_count": 1636,
+          "tweet_count": 15128
+        },
+        "url": "",
+        "username": "Fenglinnai8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

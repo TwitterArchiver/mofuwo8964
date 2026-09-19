@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2094018852736979091",
+    "created_at": "2026-08-30T15:55:55.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T16:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094091754350023042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "802105757760045057",
+          "start": 0,
+          "username": "andox60"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094091754350023042",
+    "in_reply_to_user_id": "802105757760045057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094083977749672367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@andox60 鱼香肉丝我也不会做（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2094018852736979091",
+        "created_at": "2026-08-30T15:55:55.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094091754350023042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "802105757760045057",
+              "start": 0,
+              "username": "andox60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094091754350023042",
+        "in_reply_to_user_id": "802105757760045057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094083977749672367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andox60 鱼香肉丝我也不会做（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "802105757760045057",
+        "conversation_id": "2094018852736979091",
+        "created_at": "2026-08-30T15:25:01.000Z",
+        "display_text_range": [
+          12,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094083977749672367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094083977749672367",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094018852736979091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 一番青椒肉絲です。好像日本沒有魚香肉絲這道菜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2094091754350023042",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3134,
+          "following_count": 998,
+          "like_count": 4576,
+          "listed_count": 3,
+          "media_count": 256,
+          "tweet_count": 3640
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-11-25T11:04:49.000Z",
+        "description": "カメラ？マン？",
+        "id": "802105757760045057",
+        "is_identity_verified": false,
+        "location": "奈良県",
+        "most_recent_tweet_id": "2094084601123872843",
+        "name": "シンイチ",
+        "pinned_tweet_id": "2066822561540047003",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/802105757760045057/1726586537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056636703901995008/CR9iclP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 1074,
+          "like_count": 64752,
+          "listed_count": 12,
+          "media_count": 2497,
+          "tweet_count": 36443
+        },
+        "url": "",
+        "username": "andox60",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

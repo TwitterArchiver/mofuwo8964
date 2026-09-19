@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2094184552969457790",
+    "created_at": "2026-08-30T22:04:40.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T23:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094184552969457790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/star15modiii/s…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/star15modiii/status/2093448381226193070",
+          "start": 63,
+          "url": "https://t.co/whRn98jjTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094184552969457790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093448381226193070",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太难崩了兄弟，这种人典型的白眼狼，国家给着它最安全的环境和基本的温饱，它还要出来恨党恨国，翻出来说一堆都不过脑子的话，太典了 https://t.co/whRn98jjTM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2094184552969457790",
+        "created_at": "2026-08-30T22:04:40.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094184552969457790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/star15modiii/s…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/star15modiii/status/2093448381226193070",
+              "start": 63,
+              "url": "https://t.co/whRn98jjTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094184552969457790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093448381226193070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太难崩了兄弟，这种人典型的白眼狼，国家给着它最安全的环境和基本的温饱，它还要出来恨党恨国，翻出来说一堆都不过脑子的话，太典了 https://t.co/whRn98jjTM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014766456865751042",
+        "conversation_id": "2093398378155585646",
+        "created_at": "2026-08-28T21:19:23.000Z",
+        "display_text_range": [
+          13,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T22:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093448381226193070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1940700440821485568",
+              "start": 0,
+              "username": "xiaomiaoran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093448381226193070",
+        "in_reply_to_user_id": "1940700440821485568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8632,
+          "like_count": 230,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093398378155585646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomiaoran 太难崩了兄弟，这种人典型的白眼狼，国家给着它最安全的环境和基本的温饱，它还要出来恨党恨国，翻出来说一堆都不过脑子的话，太典了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2094184552969457790",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3146,
+          "following_count": 998,
+          "like_count": 4587,
+          "listed_count": 3,
+          "media_count": 256,
+          "tweet_count": 3657
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-23T18:25:42.000Z",
+        "description": "",
+        "id": "2014766456865751042",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094014594306228367",
+        "name": "ST-AR15",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014766456865751042/1775233468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040102929391300609/O3IxGvU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 101,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "STAR15MODIII",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-03T09:15:49.000Z",
+        "description": "你们都是我的肉便器",
+        "id": "1940700440821485568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094142825852277073",
+        "name": "꒦ິ^꒦ິ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940700440821485568/1775493031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041191739143475200/p-YsMWt__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 3,
+          "like_count": 219,
+          "listed_count": 3,
+          "media_count": 28,
+          "tweet_count": 884
+        },
+        "url": "",
+        "username": "xiaomiaoran",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

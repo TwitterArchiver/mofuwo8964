@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2090018542930559193",
+    "created_at": "2026-08-19T10:30:00.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090023469505561026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2842549538",
+          "start": 0,
+          "username": "Reflectier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090023469505561026",
+    "in_reply_to_user_id": "2842549538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090018542930559193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reflectier 那什么闹麻者狗叫原则"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2090018542930559193",
+        "created_at": "2026-08-19T10:30:00.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090023469505561026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2842549538",
+              "start": 0,
+              "username": "Reflectier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090023469505561026",
+        "in_reply_to_user_id": "2842549538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090018542930559193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reflectier 那什么闹麻者狗叫原则"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2842549538",
+        "conversation_id": "2090018542930559193",
+        "created_at": "2026-08-19T10:10:25.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090018542930559193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090018542930559193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 47,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国男当年被丁真破防也只是嘴上嘲讽两下，现在被未成年小明星整破防到聚众抗议加打人，这得自卑到什么程度啊，国男退步了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2090023469505561026",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3114,
+          "following_count": 995,
+          "like_count": 4493,
+          "listed_count": 3,
+          "media_count": 254,
+          "tweet_count": 3544
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-06T17:18:11.000Z",
+        "description": "夜撫でるネコたち\n无孩爱猫男。日常向，但混杂键政内容，但在努力不键政中，谨慎关注\n粉红和男拳师会直接拉黑，所以欢迎一击脱离",
+        "id": "2842549538",
+        "is_identity_verified": false,
+        "location": "Victoria, Australia",
+        "most_recent_tweet_id": "2090022275089334737",
+        "name": "森絵",
+        "pinned_tweet_id": "1932021028630471065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2842549538/1726035866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008429721395359750/rSe6FYnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 928,
+          "like_count": 47194,
+          "listed_count": 12,
+          "media_count": 1569,
+          "tweet_count": 26053
+        },
+        "url": "",
+        "username": "Reflectier",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

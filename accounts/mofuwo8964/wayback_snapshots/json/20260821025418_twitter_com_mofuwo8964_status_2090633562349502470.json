@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2090498863383842839",
+    "created_at": "2026-08-21T02:54:18.000Z",
+    "display_text_range": [
+      16,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T03:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090633562349502470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "52408030",
+          "start": 0,
+          "username": "shatter_glass_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090633562349502470",
+    "in_reply_to_user_id": "52408030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090631909571461401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shatter_glass_ 对，我一个人住就想死了再加个人更难受了55"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2090498863383842839",
+        "created_at": "2026-08-21T02:54:18.000Z",
+        "display_text_range": [
+          16,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090633562349502470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "52408030",
+              "start": 0,
+              "username": "shatter_glass_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090633562349502470",
+        "in_reply_to_user_id": "52408030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090631909571461401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shatter_glass_ 对，我一个人住就想死了再加个人更难受了55"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "52408030",
+        "conversation_id": "2090498863383842839",
+        "created_at": "2026-08-21T02:47:43.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090631909571461401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090631909571461401",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090498863383842839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 你俩分居了吗？？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "bp01110526"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2090633562349502470",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071268135341076480/yvM1shrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3114,
+          "following_count": 994,
+          "like_count": 4499,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 3562
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-06-30T14:27:06.000Z",
+        "description": "",
+        "id": "52408030",
+        "is_identity_verified": false,
+        "location": "家",
+        "most_recent_tweet_id": "2090633122820014400",
+        "name": "盏落碎琉璃",
+        "pinned_tweet_id": "1932166950555394077",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52408030/1778660997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075487683699421184/VFt_pygy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 632,
+          "like_count": 10849,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 5382
+        },
+        "url": "",
+        "username": "shatter_glass_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

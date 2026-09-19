@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094191095366451200"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2094190732815085630",
+    "created_at": "2026-08-30T22:30:40.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T23:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094191099296575682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VcDJT8z6Dn",
+          "end": 28,
+          "expanded_url": "https://x.com/mofuwo8964/status/2094191099296575682/photo/1",
+          "media_key": "3_2094191095366451200",
+          "start": 5,
+          "url": "https://t.co/VcDJT8z6Dn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094191099296575682",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094191095366451200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094190732815085630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "破案了🤣 https://t.co/VcDJT8z6Dn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_2094191095366451200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAPtKsagAAOq1G.jpg",
+        "width": 1290
+      },
+      {
+        "height": 666,
+        "media_key": "3_2094190729124098048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAPX2VbsAAA2Fp.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094191095366451200"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2094190732815085630",
+        "created_at": "2026-08-30T22:30:40.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094191099296575682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VcDJT8z6Dn",
+              "end": 28,
+              "expanded_url": "https://x.com/mofuwo8964/status/2094191099296575682/photo/1",
+              "media_key": "3_2094191095366451200",
+              "start": 5,
+              "url": "https://t.co/VcDJT8z6Dn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094191099296575682",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094191095366451200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094190732815085630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "破案了🤣 https://t.co/VcDJT8z6Dn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094190729124098048"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2094190732815085630",
+        "created_at": "2026-08-30T22:29:13.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094190732815085630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WZ6cA8yJjP",
+              "end": 132,
+              "expanded_url": "https://x.com/mofuwo8964/status/2094190732815085630/photo/1",
+              "media_key": "3_2094190729124098048",
+              "start": 109,
+              "url": "https://t.co/WZ6cA8yJjP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094190732815085630",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094190729124098048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我第一次体会到槽多无口是什么感觉。。如此社达如此傲慢，，希望每个人都能明白能力这个东西与生长环境是挂钩的。。其他的懒得喷了。。而且你说的这个“公民的基本福利”最好不是作为人的基本人权🥺🥺🥺\n而且又不是没交税…………… https://t.co/WZ6cA8yJjP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2094191099296575682",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3147,
+          "following_count": 998,
+          "like_count": 4592,
+          "listed_count": 3,
+          "media_count": 258,
+          "tweet_count": 3659
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

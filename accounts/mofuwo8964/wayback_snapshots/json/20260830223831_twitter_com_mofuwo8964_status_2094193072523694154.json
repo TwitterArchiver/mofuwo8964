@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2094193072523694154",
+    "created_at": "2026-08-30T22:38:31.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T23:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094193072523694154"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/llwijti/status…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/llwijti/status/2094110179784876297",
+          "start": 86,
+          "url": "https://t.co/Us2F50pHBw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094193072523694154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094110179784876297",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么叫最基本的人权？人权是基于什么之下？人并非生而就享受权利，人权是来自于国家的，任何国家都是宪法规定公民的权利，恨国恨党是可以剥夺政治权利终身的，无论在哪个国家都是一样 https://t.co/Us2F50pHBw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2094193072523694154",
+        "created_at": "2026-08-30T22:38:31.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094193072523694154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/llwijti/status…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/llwijti/status/2094110179784876297",
+              "start": 86,
+              "url": "https://t.co/Us2F50pHBw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094193072523694154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094110179784876297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么叫最基本的人权？人权是基于什么之下？人并非生而就享受权利，人权是来自于国家的，任何国家都是宪法规定公民的权利，恨国恨党是可以剥夺政治权利终身的，无论在哪个国家都是一样 https://t.co/Us2F50pHBw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091804892583137280",
+        "conversation_id": "2093398378155585646",
+        "created_at": "2026-08-30T17:09:08.000Z",
+        "display_text_range": [
+          26,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094110179784876297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1051011878",
+              "start": 0,
+              "username": "lixiang8900"
+            },
+            {
+              "end": 25,
+              "id": "1940700440821485568",
+              "start": 13,
+              "username": "xiaomiaoran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094110179784876297",
+        "in_reply_to_user_id": "1051011878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093655098220277879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lixiang8900 @xiaomiaoran 什么叫最基本的人权？人权是基于什么之下？人并非生而就享受权利，人权是来自于国家的，任何国家都是宪法规定公民的权利，恨国恨党是可以剥夺政治权利终身的，无论在哪个国家都是一样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "batsu_emotion"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2094193072523694154",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3147,
+          "following_count": 998,
+          "like_count": 4594,
+          "listed_count": 3,
+          "media_count": 258,
+          "tweet_count": 3660
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-24T08:29:31.000Z",
+        "description": "愚蠢的人类啊",
+        "id": "2091804892583137280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094123395344687193",
+        "name": "长相思",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091804892583137280/1787596283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091805253859418112/3AtqwUTg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 34,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "llwijti",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-12-31T19:23:45.000Z",
+        "description": "On-chain finance is no longer a vision — it's where the earliest builders are making moves.\n\nabc 目前在中国浙江定居 希望大家能够喜欢",
+        "id": "1051011878",
+        "is_identity_verified": false,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2094036612149866615",
+        "name": "X",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1051011878/1786038242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085421648170119168/a6qQYHrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 2,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "lixiang8900",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
