@@ -1,7 +1,7 @@
 {
   "name": "腋窝",
   "username": "@mofuwo8964",
-  "bio": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu｜迷雾之〇〇@bp01110526",
+  "bio": "ひとりごと｜愚痴｜名字可以是迷雾｜神必小号@batsu_emotion｜迷雾之〇〇@data_syuxchu",
   "location": "你的腋下",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -18,11 +18,6 @@
         "end": 54,
         "start": 41,
         "username": "data_syuxchu"
-      },
-      {
-        "end": 71,
-        "start": 60,
-        "username": "bp01110526"
       }
     ]
   },
