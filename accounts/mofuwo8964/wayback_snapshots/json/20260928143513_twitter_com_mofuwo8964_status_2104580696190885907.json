@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2104580696190885907",
+    "created_at": "2026-09-28T14:35:13.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T15:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104580696190885907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2104499556734099660",
+          "start": 59,
+          "url": "https://t.co/v2A2oCBhRu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104580696190885907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104499556734099660",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个咪蛋其实是我一个小学到初中很好的朋友叫我的，好怀念呀现在根本没有人这么叫了！反正我现在也都不想给别人我的名字叫了 https://t.co/v2A2oCBhRu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 871,
+        "media_key": "3_2104499552250425344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSvMVHa8AAnVnq.jpg",
+        "width": 1959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2104580696190885907",
+        "created_at": "2026-09-28T14:35:13.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104580696190885907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2104499556734099660",
+              "start": 59,
+              "url": "https://t.co/v2A2oCBhRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104580696190885907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104499556734099660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个咪蛋其实是我一个小学到初中很好的朋友叫我的，好怀念呀现在根本没有人这么叫了！反正我现在也都不想给别人我的名字叫了 https://t.co/v2A2oCBhRu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104499552250425344"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104499556734099660",
+        "created_at": "2026-09-28T09:12:48.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104499556734099660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9Jg1wpOkM",
+              "end": 84,
+              "expanded_url": "https://x.com/mofuwo8964/status/2104499556734099660/photo/1",
+              "media_key": "3_2104499552250425344",
+              "start": 61,
+              "url": "https://t.co/Z9Jg1wpOkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104499556734099660",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104499552250425344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 637,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但其实我也不是一整天都在玩吊五人格 我还在玩痒痒鼠和jbr 主要是最近崽战而且jbr要十周年了还跟三丽鸥联动紧急回坑一下 https://t.co/Z9Jg1wpOkM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2104580696190885907",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3142,
+          "following_count": 987,
+          "like_count": 4636,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 3738
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

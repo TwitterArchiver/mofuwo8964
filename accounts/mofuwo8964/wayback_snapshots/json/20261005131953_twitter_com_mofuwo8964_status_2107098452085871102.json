@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2107019216499159077",
+    "created_at": "2026-10-05T13:19:53.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T14:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107098452085871102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937594393772589058",
+          "start": 0,
+          "username": "Private_plot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107098452085871102",
+    "in_reply_to_user_id": "1937594393772589058",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107019216499159077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Private_plot 我真的不想再笑了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2107019216499159077].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2107019216499159077",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2107019216499159077"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2107019216499159077",
+        "created_at": "2026-10-05T13:19:53.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T14:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107098452085871102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937594393772589058",
+              "start": 0,
+              "username": "Private_plot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107098452085871102",
+        "in_reply_to_user_id": "1937594393772589058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107019216499159077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Private_plot 我真的不想再笑了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜迷雾之〇〇@data_syuxchu｜神秘的裏垢@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2107098452085871102",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1790639257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3131,
+          "following_count": 991,
+          "like_count": 4678,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 3779
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-24T19:32:41.000Z",
+        "description": "一切都是个人的，主观的，不媚女的，不媚男的，不厌男的，不厌女的，不崆峒的，不mtf的，不lgbtq的",
+        "id": "1937594393772589058",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092305135448056078",
+        "name": "用热熔胶冒充低溫蜡烛被M报警",
+        "pinned_tweet_id": "2057715048764801135",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937594393772589058/1750793899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947580324973875200/oEhjJur4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 516,
+          "like_count": 18205,
+          "listed_count": 8,
+          "media_count": 529,
+          "tweet_count": 6798
+        },
+        "url": "",
+        "username": "Private_plot",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

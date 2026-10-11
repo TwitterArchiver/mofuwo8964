@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2104599351175811192",
+    "created_at": "2026-09-28T15:49:21.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T16:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104599351175811192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lov5sion_25/st…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/lov5sion_25/status/2104287694008504590",
+          "start": 53,
+          "url": "https://t.co/jIJQ2z2UKj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104599351175811192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104287694008504590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉我真的懂呀虽然没到那种程度但是我就是一直暴食节食暴食节食这么过的，病态的摄入吃的其实是一件很恐怖的事情 https://t.co/jIJQ2z2UKj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2104599351175811192",
+        "created_at": "2026-09-28T15:49:21.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T16:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104599351175811192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lov5sion_25/st…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/lov5sion_25/status/2104287694008504590",
+              "start": 53,
+              "url": "https://t.co/jIJQ2z2UKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104599351175811192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104287694008504590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉我真的懂呀虽然没到那种程度但是我就是一直暴食节食暴食节食这么过的，病态的摄入吃的其实是一件很恐怖的事情 https://t.co/jIJQ2z2UKj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064384159637020672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2104287694008504590",
+        "created_at": "2026-09-27T19:10:56.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T20:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104287694008504590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104287694008504590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6794,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知不知道抖音有个叫轩轩鸭还是轩轩耶的博主 我真的很少评价一个人的身材因为我感觉胖或瘦不影响健康就行了 但她真的有点恐怖了 才上高中看着已经像三十大几了 而且有个视频她原本在说什么吃不到喜欢的食物她的生活就没意思结果下一秒就开始疯狂扒饭 感觉已经被控制大脑了啊啊啊啊😳😳😳"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2104599351175811192",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3140,
+          "following_count": 988,
+          "like_count": 4637,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 3739
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-09T16:30:01.000Z",
+        "description": "此账号只用于发牢骚^ω^不约不闲聊只回礼貌的私信！！不要再给我发你们的坤巴了没人想看。",
+        "id": "2064384159637020672",
+        "is_identity_verified": false,
+        "location": "木浦",
+        "most_recent_tweet_id": "2104578954623668554",
+        "name": "卷卷大王",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064384159637020672/1784660537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064385275879682048/KpbVxPx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 53,
+          "like_count": 984,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 798
+        },
+        "url": "",
+        "username": "lov5sion_25",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

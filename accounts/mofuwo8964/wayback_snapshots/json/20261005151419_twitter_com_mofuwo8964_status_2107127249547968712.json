@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2107127249547968712",
+    "created_at": "2026-10-05T15:14:19.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T16:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107127249547968712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2107123303685185885",
+          "start": 131,
+          "url": "https://t.co/dTdIDOXekf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107127249547968712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107123303685185885",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的好累啊，你的那些货物至少10kg 还有你的旧行李…我家就20平，没有地方放你的东西。每天你的东西堆在我家的过道上本来就很窄，旧衣服旧包行李杂物也放在我家，房租7w都是我自己交的你一个月就交7k的水电费 外卖也是我付钱 只是买食材你付钱而已 饭不还是我做吗 https://t.co/dTdIDOXekf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2107127249547968712",
+        "created_at": "2026-10-05T15:14:19.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T16:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107127249547968712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2107123303685185885",
+              "start": 131,
+              "url": "https://t.co/dTdIDOXekf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107127249547968712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107123303685185885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的好累啊，你的那些货物至少10kg 还有你的旧行李…我家就20平，没有地方放你的东西。每天你的东西堆在我家的过道上本来就很窄，旧衣服旧包行李杂物也放在我家，房租7w都是我自己交的你一个月就交7k的水电费 外卖也是我付钱 只是买食材你付钱而已 饭不还是我做吗 https://t.co/dTdIDOXekf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2107123303685185885",
+        "created_at": "2026-10-05T14:58:38.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T15:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107123303685185885"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107123303685185885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我又做噩梦了。知道从前父母不给我钱，知道我从前的生活费都是收门槛收的➕地陪/陪玩赚的，其实别人说门槛妹卖逼什么的我都无所谓的，可是你拿了门槛妹“卖逼”赚的钱，你拿了这个钱应急，你住着我的房子用我的东西说我是个卖逼贱货，到底为什么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜迷雾之〇〇@data_syuxchu｜神秘的裏垢@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2107127249547968712",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1790639257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3131,
+          "following_count": 991,
+          "like_count": 4680,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 3783
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

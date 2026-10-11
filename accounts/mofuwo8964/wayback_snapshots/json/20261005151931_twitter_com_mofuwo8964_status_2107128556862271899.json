@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107128552776986626"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2107128556862271899",
+    "created_at": "2026-10-05T15:19:31.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T16:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107128556862271899"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WFujcPIIiT",
+          "end": 157,
+          "expanded_url": "https://x.com/mofuwo8964/status/2107128556862271899/photo/1",
+          "media_key": "3_2107128552776986626",
+          "start": 134,
+          "url": "https://t.co/WFujcPIIiT"
+        },
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 181,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2107127249547968712",
+          "start": 158,
+          "url": "https://t.co/cIlfzaZtic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107128556862271899",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107128552776986626"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107127249547968712",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一边庆幸跑了 我一边ptsd（呃）我做噩梦又想到你教唆我去自杀的场景 让我去死去自杀 然后打我扇我的场景！说我被猥亵是自己勾引对方 自己回国见别的女的，去别人家里看别人换衣服倒打一耙说我出轨，然后开始抓着我的头发把我往墙上撞对吗？\nps下图为此人咬的伤口 手掌大小 https://t.co/WFujcPIIiT https://t.co/cIlfzaZtic"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_2107128552776986626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT4GQTRa8AIsyLk.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107128552776986626"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2107128556862271899",
+        "created_at": "2026-10-05T15:19:31.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T16:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107128556862271899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WFujcPIIiT",
+              "end": 157,
+              "expanded_url": "https://x.com/mofuwo8964/status/2107128556862271899/photo/1",
+              "media_key": "3_2107128552776986626",
+              "start": 134,
+              "url": "https://t.co/WFujcPIIiT"
+            },
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2107127249547968712",
+              "start": 158,
+              "url": "https://t.co/cIlfzaZtic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107128556862271899",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107128552776986626"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107127249547968712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一边庆幸跑了 我一边ptsd（呃）我做噩梦又想到你教唆我去自杀的场景 让我去死去自杀 然后打我扇我的场景！说我被猥亵是自己勾引对方 自己回国见别的女的，去别人家里看别人换衣服倒打一耙说我出轨，然后开始抓着我的头发把我往墙上撞对吗？\nps下图为此人咬的伤口 手掌大小 https://t.co/WFujcPIIiT https://t.co/cIlfzaZtic"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2107127249547968712",
+        "created_at": "2026-10-05T15:14:19.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T16:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107127249547968712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2107123303685185885",
+              "start": 131,
+              "url": "https://t.co/dTdIDOXekf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107127249547968712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107123303685185885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的好累啊，你的那些货物至少10kg 还有你的旧行李…我家就20平，没有地方放你的东西。每天你的东西堆在我家的过道上本来就很窄，旧衣服旧包行李杂物也放在我家，房租7w都是我自己交的你一个月就交7k的水电费 外卖也是我付钱 只是买食材你付钱而已 饭不还是我做吗 https://t.co/dTdIDOXekf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜迷雾之〇〇@data_syuxchu｜神秘的裏垢@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2107128556862271899",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1790639257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3131,
+          "following_count": 991,
+          "like_count": 4680,
+          "listed_count": 3,
+          "media_count": 268,
+          "tweet_count": 3784
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

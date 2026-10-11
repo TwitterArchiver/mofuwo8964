@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2104578380276572333",
+    "created_at": "2026-09-28T14:26:01.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T15:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104578380276572333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/onemultiplied/…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/onemultiplied/status/2104497898570571965",
+          "start": 38,
+          "url": "https://t.co/4nzObM8f7d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104578380276572333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104497898570571965",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人懂那种稀的很多辣椒的，就像番茄炖牛肉，又像番茄肉酱的大便吗？反正我不懂 https://t.co/4nzObM8f7d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2104578380276572333",
+        "created_at": "2026-09-28T14:26:01.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104578380276572333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/onemultiplied/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/onemultiplied/status/2104497898570571965",
+              "start": 38,
+              "url": "https://t.co/4nzObM8f7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104578380276572333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104497898570571965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人懂那种稀的很多辣椒的，就像番茄炖牛肉，又像番茄肉酱的大便吗？反正我不懂 https://t.co/4nzObM8f7d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857572358208491521",
+        "conversation_id": "2104487732491993582",
+        "created_at": "2026-09-28T09:06:13.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104497898570571965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104497898570571965",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104487732491993582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 怕人有食欲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2104578380276572333",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3142,
+          "following_count": 986,
+          "like_count": 4633,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 3734
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-15T23:52:33.000Z",
+        "description": "",
+        "id": "1857572358208491521",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104497898570571965",
+        "name": "IX",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857572358208491521/1737956119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056009016871170049/CreqnFVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 251,
+          "like_count": 3972,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 999
+        },
+        "url": "",
+        "username": "OneMultiplied",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

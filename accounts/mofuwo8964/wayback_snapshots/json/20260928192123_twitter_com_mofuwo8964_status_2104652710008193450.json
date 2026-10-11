@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2104652710008193450",
+    "created_at": "2026-09-28T19:21:23.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T20:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104652710008193450"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104652710008193450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说我是地雷妹的欠图是不？本人没有娇只有躁郁，地雷是啥好词吗？我的伟大和独一无二的人格艺术是这种烂大街的时尚单品词能形容的吗？不要蔑视神的存在！神不解释，不需要标签给自己赋魅，不需要抱团给自己安全感，更不需要认可和肯定；神只需要信徒和追随者；对神尊重一点，这是最后的警告。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2104652710008193450",
+        "created_at": "2026-09-28T19:21:23.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T20:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104652710008193450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104652710008193450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说我是地雷妹的欠图是不？本人没有娇只有躁郁，地雷是啥好词吗？我的伟大和独一无二的人格艺术是这种烂大街的时尚单品词能形容的吗？不要蔑视神的存在！神不解释，不需要标签给自己赋魅，不需要抱团给自己安全感，更不需要认可和肯定；神只需要信徒和追随者；对神尊重一点，这是最后的警告。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜迷雾之〇〇@data_syuxchu｜神秘的裏垢@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2104652710008193450",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3141,
+          "following_count": 991,
+          "like_count": 4637,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 3742
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

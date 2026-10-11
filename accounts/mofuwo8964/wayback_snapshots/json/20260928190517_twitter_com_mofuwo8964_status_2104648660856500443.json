@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2104630391986610176",
+    "created_at": "2026-09-28T19:05:17.000Z",
+    "display_text_range": [
+      14,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T20:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104648660856500443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1619944055429009409",
+          "start": 0,
+          "username": "KarasawaKana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104648660856500443",
+    "in_reply_to_user_id": "1619944055429009409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104630391986610176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarasawaKana 个人觉得1或者2！1比较经典2的话感觉比较适配有氛围（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104630386001326080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUmL20aMAAXuEt.jpg",
+        "width": 946
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2104630385992933376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUmL2yaIAAiLCj.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104630385980452864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUmL2vbsAAmQkJ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2104630391986610176",
+        "created_at": "2026-09-28T19:05:17.000Z",
+        "display_text_range": [
+          14,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T20:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104648660856500443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1619944055429009409",
+              "start": 0,
+              "username": "KarasawaKana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104648660856500443",
+        "in_reply_to_user_id": "1619944055429009409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104630391986610176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarasawaKana 个人觉得1或者2！1比较经典2的话感觉比较适配有氛围（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104630386001326080",
+            "3_2104630385992933376",
+            "3_2104630385980452864"
+          ]
+        },
+        "author_id": "1619944055429009409",
+        "conversation_id": "2104630391986610176",
+        "created_at": "2026-09-28T17:52:42.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T18:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104630391986610176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kFIc0KQ90H",
+              "end": 59,
+              "expanded_url": "https://x.com/KarasawaKana/status/2104630391986610176/photo/1",
+              "media_key": "3_2104630386001326080",
+              "start": 36,
+              "url": "https://t.co/kFIc0KQ90H"
+            },
+            {
+              "display_url": "pic.x.com/kFIc0KQ90H",
+              "end": 59,
+              "expanded_url": "https://x.com/KarasawaKana/status/2104630391986610176/photo/1",
+              "media_key": "3_2104630385992933376",
+              "start": 36,
+              "url": "https://t.co/kFIc0KQ90H"
+            },
+            {
+              "display_url": "pic.x.com/kFIc0KQ90H",
+              "end": 59,
+              "expanded_url": "https://x.com/KarasawaKana/status/2104630391986610176/photo/1",
+              "media_key": "3_2104630385980452864",
+              "start": 36,
+              "url": "https://t.co/kFIc0KQ90H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104630391986610176",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104630386001326080"
+          },
+          {
+            "media_key": "3_2104630385992933376"
+          },
+          {
+            "media_key": "3_2104630385980452864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说大家\n这三条裙子哪条适合去草地牧场拍照呀\n选择综合症犯了纠结不出来 https://t.co/kFIc0KQ90H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜迷雾之〇〇@data_syuxchu｜神秘的裏垢@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2104648660856500443",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3141,
+          "following_count": 991,
+          "like_count": 4637,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 3741
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-30T06:22:32.000Z",
+        "description": "欺负一只水母？",
+        "id": "1619944055429009409",
+        "is_identity_verified": false,
+        "location": "ペットベット",
+        "most_recent_tweet_id": "2104639744487616550",
+        "name": "唐沢カナ",
+        "pinned_tweet_id": "2003354214706360632",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1619944055429009409/1697957858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985920373448458242/kBiAHFnJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 1189,
+          "like_count": 23673,
+          "listed_count": 6,
+          "media_count": 64,
+          "tweet_count": 2686
+        },
+        "url": "",
+        "username": "KarasawaKana",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

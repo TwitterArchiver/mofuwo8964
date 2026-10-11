@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2104487344367976650",
+    "created_at": "2026-09-28T08:24:17.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T09:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104487344367976650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofuwo8964/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/mofuwo8964/status/2104486326720704731",
+          "start": 37,
+          "url": "https://t.co/NSag8t75Z8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104487344367976650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104486326720704731",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "掮客和哨兵一起走就是两坨屎知道不？卧槽玩掮客真的好舒服呀谁又想开双刀了喵 https://t.co/NSag8t75Z8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2104487344367976650",
+        "created_at": "2026-09-28T08:24:17.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104487344367976650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofuwo8964/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/mofuwo8964/status/2104486326720704731",
+              "start": 37,
+              "url": "https://t.co/NSag8t75Z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104487344367976650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104486326720704731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "掮客和哨兵一起走就是两坨屎知道不？卧槽玩掮客真的好舒服呀谁又想开双刀了喵 https://t.co/NSag8t75Z8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2104486326720704731",
+        "created_at": "2026-09-28T08:20:14.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104486326720704731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104486326720704731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的天啊掮客大人…………"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2104487344367976650",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3141,
+          "following_count": 982,
+          "like_count": 4632,
+          "listed_count": 3,
+          "media_count": 263,
+          "tweet_count": 3728
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

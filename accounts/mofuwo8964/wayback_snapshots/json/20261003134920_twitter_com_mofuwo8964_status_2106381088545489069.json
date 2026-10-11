@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106381084078616576",
+        "3_2106381084120473600"
+      ]
+    },
+    "author_id": "1592719222940962817",
+    "conversation_id": "2106381088545489069",
+    "created_at": "2026-10-03T13:49:20.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T14:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106381088545489069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GUd9NISQKZ",
+          "end": 41,
+          "expanded_url": "https://x.com/mofuwo8964/status/2106381088545489069/photo/1",
+          "media_key": "3_2106381084078616576",
+          "start": 18,
+          "url": "https://t.co/GUd9NISQKZ"
+        },
+        {
+          "display_url": "pic.x.com/GUd9NISQKZ",
+          "end": 41,
+          "expanded_url": "https://x.com/mofuwo8964/status/2106381088545489069/photo/1",
+          "media_key": "3_2106381084120473600",
+          "start": 18,
+          "url": "https://t.co/GUd9NISQKZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106381088545489069",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106381084078616576"
+      },
+      {
+        "media_key": "3_2106381084120473600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早就说了穿衣自由怎么你就是不听呢😋 https://t.co/GUd9NISQKZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 797,
+        "media_key": "3_2106381084078616576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTteb5YbsAAoyxj.jpg",
+        "width": 972
+      },
+      {
+        "height": 1374,
+        "media_key": "3_2106381084120473600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTteb5iaYAAlTeM.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106381084078616576",
+            "3_2106381084120473600"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "2106381088545489069",
+        "created_at": "2026-10-03T13:49:20.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106381088545489069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUd9NISQKZ",
+              "end": 41,
+              "expanded_url": "https://x.com/mofuwo8964/status/2106381088545489069/photo/1",
+              "media_key": "3_2106381084078616576",
+              "start": 18,
+              "url": "https://t.co/GUd9NISQKZ"
+            },
+            {
+              "display_url": "pic.x.com/GUd9NISQKZ",
+              "end": 41,
+              "expanded_url": "https://x.com/mofuwo8964/status/2106381088545489069/photo/1",
+              "media_key": "3_2106381084120473600",
+              "start": 18,
+              "url": "https://t.co/GUd9NISQKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106381088545489069",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106381084078616576"
+          },
+          {
+            "media_key": "3_2106381084120473600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早就说了穿衣自由怎么你就是不听呢😋 https://t.co/GUd9NISQKZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜迷雾之〇〇@data_syuxchu｜神秘的裏垢@batsu_emotion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "batsu_emotion"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2106381088545489069",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1790639257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3132,
+          "following_count": 989,
+          "like_count": 4663,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 3773
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

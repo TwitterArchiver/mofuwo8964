@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592719222940962817",
+    "conversation_id": "2103886327146324402",
+    "created_at": "2026-09-27T09:57:42.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T10:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104148466276655448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1685834053939806208",
+          "start": 0,
+          "username": "TsuyuriNagisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104148466276655448",
+    "in_reply_to_user_id": "1685834053939806208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103911549824106665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TsuyuriNagisa 迷雾得意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2103886327146324402",
+        "created_at": "2026-09-27T09:57:42.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104148466276655448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1685834053939806208",
+              "start": 0,
+              "username": "TsuyuriNagisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104148466276655448",
+        "in_reply_to_user_id": "1685834053939806208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103911549824106665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TsuyuriNagisa 迷雾得意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685834053939806208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2103886327146324402",
+        "created_at": "2026-09-26T18:16:16.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T19:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103911549824106665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103911549824106665",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103886327146324402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 絵描けるんだ\n裏山"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "ひとりごと｜愚痴｜名字可以是迷雾｜迷雾之〇〇@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "data_syuxchu"
+              }
+            ]
+          }
+        },
+        "id": "1592719222940962817",
+        "is_identity_verified": false,
+        "location": "你的腋下",
+        "most_recent_tweet_id": "2104148466276655448",
+        "name": "腋窝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592719222940962817/1781706030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090879567661760512/AiZVYjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3141,
+          "following_count": 981,
+          "like_count": 4632,
+          "listed_count": 3,
+          "media_count": 263,
+          "tweet_count": 3723
+        },
+        "url": "",
+        "username": "mofuwo8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-31T02:05:48.000Z",
+        "description": "やられたらやり返す、倍返しだ！ ｜Ｈ２０生まれの中国人大学生｜アイコン設定@zlqdhyz｜GT7・F1興味｜ サブ@NagisaTsuyuri 裏@POTUS11451419｜日本の世界遺産（11/27）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "zlqdhyz"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "NagisaTsuyuri"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "POTUS11451419"
+              }
+            ]
+          }
+        },
+        "id": "1685834053939806208",
+        "is_identity_verified": false,
+        "location": "中国広東省",
+        "most_recent_tweet_id": "2104139640102068327",
+        "name": "ツユナギ【外人です】",
+        "pinned_tweet_id": "2100486783729606940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685834053939806208/1789721013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101950414493200384/1W15-8S0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6194,
+          "following_count": 663,
+          "like_count": 100626,
+          "listed_count": 25,
+          "media_count": 1820,
+          "tweet_count": 18756
+        },
+        "url": "",
+        "username": "TsuyuriNagisa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
